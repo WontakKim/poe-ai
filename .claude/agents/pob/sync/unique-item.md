@@ -110,7 +110,7 @@ echo "without_implicits:$no_impl"
 Read the first complete item block from `sword.lua` (from `[[` to `]],`):
 
 ```bash
-awk '/^\[\[/{found=1} found{print} /^\]\]/{if(found) exit}' {pob_path}/src/Data/Uniques/sword.lua
+awk '/^\[\[/{found=1} /^\]\]/{if(found) exit} found{print}' {pob_path}/src/Data/Uniques/sword.lua
 ```
 
 ### 7. Detect Variant on Base Type Line
@@ -141,7 +141,7 @@ Write `vendor/pob/references/unique-item.md` using the collected data:
 
 **Usable ({usable_count})**: Exclude fishing and graft.
 
-**Special/ folder**: {each file with count, e.g. "Generated.lua (0), New.lua (25), race.lua (11), ..."}
+**Special/ folder**: {each file with count from Step 2, e.g. "Generated.lua (12), New.lua (25), race.lua (11), ..."}
 
 **Item counts**:
 | File | Count | File | Count |
@@ -175,7 +175,7 @@ Write `vendor/pob/references/unique-item.md` using the collected data:
 3. Variant filtering: find "Current" variant index (or last variant if none labeled "Current"), keep only mods matching that index or with no variant prefix.
 4. Strip `{variant:N}`, `{variant:N,M}`, and `{tags:...}` prefixes from kept lines.
 5. Special/New.lua uses `data.uniques.new = {` format (NOT `return {`).
-6. Special/Generated.lua, WatchersEye.lua, BoundByDestiny.lua contain dynamically-generated items (0 parseable entries).
+6. Special/WatchersEye.lua and BoundByDestiny.lua contain dynamically-generated items (0 parseable entries). Generated.lua has static entries that ARE parseable.
 ```
 
 ### 10. Verify Output

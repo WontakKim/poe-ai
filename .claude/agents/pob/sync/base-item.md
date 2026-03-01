@@ -70,25 +70,25 @@ These blocks are sparse — different items have different sub-fields. Scan ALL 
 **weapon** — ALL weapon files:
 ```bash
 for f in sword.lua axe.lua mace.lua dagger.lua claw.lua wand.lua staff.lua bow.lua; do
-  grep -oP 'weapon = \{\K[^}]+' {pob_path}/src/Data/Bases/$f
+  perl -ne 'print "$1\n" if /weapon = \{([^}]+)\}/' {pob_path}/src/Data/Bases/$f
 done | grep -oE '[A-Za-z]+' | sort -u
 ```
 
 **armour** — ALL armour files (Armour/Evasion/ES/Ward bases differ):
 ```bash
 for f in body.lua boots.lua gloves.lua helmet.lua shield.lua; do
-  grep -oP 'armour = \{\K[^}]+' {pob_path}/src/Data/Bases/$f
+  perl -ne 'print "$1\n" if /armour = \{([^}]+)\}/' {pob_path}/src/Data/Bases/$f
 done | grep -oE '[A-Za-z]+' | sort -u
 ```
 
 **flask** — ALL entries (Life/Mana/Utility flasks differ):
 ```bash
-grep -oP 'flask = \{\K[^}]+' {pob_path}/src/Data/Bases/flask.lua | grep -oE '[A-Za-z]+' | sort -u
+perl -ne 'print "$1\n" if /flask = \{([^}]+)\}/' {pob_path}/src/Data/Bases/flask.lua | grep -oE '[A-Za-z]+' | sort -u
 ```
 
 **tincture**:
 ```bash
-grep -oP 'tincture = \{\K[^}]+' {pob_path}/src/Data/Bases/tincture.lua | grep -oE '[A-Za-z]+' | sort -u
+perl -ne 'print "$1\n" if /tincture = \{([^}]+)\}/' {pob_path}/src/Data/Bases/tincture.lua | grep -oE '[A-Za-z]+' | sort -u
 ```
 
 ### 4. Extract Sample Lua Entry

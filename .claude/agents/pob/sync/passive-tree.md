@@ -173,15 +173,17 @@ my $need = 5;
 while (<$fh>) {
   if (/^\s{8}\[\d+\]=/) { $buf=""; $in=1; $has_type=""; $efcount=0; $truncated=0 }
   if ($in) {
-    $has_type = "keystone" if /\["isKeystone"\]= true/;
-    $has_type = "mastery" if /\["isMastery"\]= true/;
-    $has_type = "jewel" if /\["isJewelSocket"\]= true/;
-    $has_type = "proxy" if /\["isProxy"\]= true/;
-    if (index($_, "isNotable") >= 0 && index($buf, "ascendancyName") < 0) { $has_type = "notable" }
-    $has_type = "blighted" if /\["isBlighted"\]= true/;
-    $has_type = "bloodline" if /\["isBloodline"\]= true/;
-    $has_type = "asc_start" if /\["isAscendancyStart"\]= true/;
-    $has_type = "multi" if /\["isMultipleChoice"\]= true/;
+    if ($has_type eq "") {
+      $has_type = "keystone" if /\["isKeystone"\]= true/;
+      $has_type = "mastery" if /\["isMastery"\]= true/;
+      $has_type = "jewel" if /\["isJewelSocket"\]= true/;
+      $has_type = "proxy" if /\["isProxy"\]= true/;
+      if (index($_, "isNotable") >= 0 && index($buf, "ascendancyName") < 0) { $has_type = "notable" }
+      $has_type = "blighted" if /\["isBlighted"\]= true/;
+      $has_type = "bloodline" if /\["isBloodline"\]= true/;
+      $has_type = "asc_start" if /\["isAscendancyStart"\]= true/;
+      $has_type = "multi" if /\["isMultipleChoice"\]= true/;
+    }
     if ($has_type eq "mastery") {
       $efcount++ if /\["effect"\]/;
       if ($efcount <= 2) { $buf .= $_ }
