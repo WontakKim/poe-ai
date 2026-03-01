@@ -29,7 +29,9 @@ Phase 2: Detect Version + Check Sync
     │ up to date → report + STOP
     │ fail → STOP (fatal)
     ▼
-Phase 3: Sync References (4 agents parallel) ─── individual fail → log, continue
+Phase 3: Sync References (4 agents parallel)
+    │ same commit → skip (references up to date)
+    │ individual fail → log, continue
     ▼
 Phase 4: Prepare Directories
     ▼
@@ -119,27 +121,52 @@ Determine the current game version, PoB commit hash, and whether a rebuild is ne
 
 Regenerate `vendor/pob/references/*.md` from PoB source. Runs before ingest so that ingest agents reference accurate data.
 
-```
-Orchestrator ──┬─ Agent (haiku) → references/base-item.md
-               ├─ Agent (haiku) → references/unique-item.md
-               ├─ Agent (haiku) → references/skill-gem.md
-               └─ Agent (haiku) → references/passive-tree.md
-```
+1. Check if references are already up to date:
+   ```bash
+   REF_SOURCE="vendor/pob/references/source.json"
+   if [ -f "$REF_SOURCE" ]; then
+     REF_COMMIT=$(jq -r '.pobCommit' "$REF_SOURCE")
+     if [ "$REF_COMMIT" = "$POB_COMMIT" ]; then
+       # References already match current PoB commit — skip regeneration
+     fi
+   fi
+   ```
+   - Same commit → set all 4 agents to `"skipped"`, proceed to Phase 4
+   - Different commit or no file → regenerate
 
-1. Read all 4 agent prompt files from `.claude/agents/pob/sync/`:
+2. Read all 4 agent prompt files from `.claude/agents/pob/sync/`:
    - `base-item.md`, `unique-item.md`, `skill-gem.md`, `passive-tree.md`
 
-2. Launch 4 agents **in parallel** (single message, 4 Agent tool calls):
+3. Launch 4 agents **in parallel** (single message, 4 Agent tool calls):
+
+   ```
+   Orchestrator ──┬─ Agent (haiku) → references/base-item.md
+                  ├─ Agent (haiku) → references/unique-item.md
+                  ├─ Agent (haiku) → references/skill-gem.md
+                  └─ Agent (haiku) → references/passive-tree.md
+   ```
+
    - `subagent_type`: `"general-purpose"`, `model`: `"haiku"`
    - `prompt`: full content of the agent `.md` file + `\n\nINPUT:\n- pob_path: vendor/pob/origin\n\nExecute the workflow above.`
    - These agents are NOT auto-registered subagent_types — invoke by passing the `.md` content as the prompt
 
-3. Validate results per agent:
+4. Validate results per agent:
    - Agent completed and wrote its reference file → `"success"`
    - Agent failed → `"failed"`, log error
    - Each agent is independent — one failure does NOT block the others
 
-4. Store per-agent results in `reference_sync` object for the final output.
+5. Write reference sync marker (only if at least one agent succeeded):
+   ```json
+   // vendor/pob/references/source.json
+   {
+     "gameVersion": "{VERSION}",
+     "pobCommit": "{POB_COMMIT}",
+     "pobVersion": "{POB_VERSION}",
+     "builtAt": "{ISO 8601 timestamp}"
+   }
+   ```
+
+6. Store per-agent results in `reference_sync` object for the final output.
 
 ### Phase 4: Prepare Output Directories
 
@@ -256,10 +283,11 @@ Verify all generated JSON files are valid, check required fields, and produce th
   "phases": {
     "submodule": "success | failed",
     "reference_sync": {
-      "base_item": "success | failed",
-      "unique_item": "success | failed",
-      "skill_gem": "success | failed",
-      "passive_tree": "success | failed"
+      "status": "success | partial | skipped | failed",
+      "base_item": "success | skipped | failed",
+      "unique_item": "success | skipped | failed",
+      "skill_gem": "success | skipped | failed",
+      "passive_tree": "success | skipped | failed"
     },
     "equipment_ingest": {
       "status": "success | failed",
@@ -283,6 +311,7 @@ Verify all generated JSON files are valid, check required fields, and produce th
 | PoB submodule init/update fails | **Blocking.** Output: `{"status": "failed", "error": "Cannot initialize PoB submodule"}` |
 | GameVersions.lua not found or VERSION empty | **Blocking.** Output: `{"status": "failed", "error": "Cannot detect version from PoB"}` |
 | Already synced (same commit) | Output: `{"status": "up to date", ...}` and stop |
+| References already match current commit | Set `reference_sync.status = "skipped"`, continue to Phase 4 |
 | Any reference sync agent fails | **Non-blocking.** Log error per agent, continue to Phase 4 |
 | equipment-exec sub-agent fails | **Non-blocking.** Set `equipment_ingest.status = "failed"`, continue to Phase 8 |
 | skill-gem-exec not implemented | **Non-blocking.** Set `"not implemented"`, continue |
