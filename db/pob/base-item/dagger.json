@@ -7,6 +7,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 60, "str": null, "dex": 113, "int": 113 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 19, "physMax": 74, "critChance": 8.3, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 44, "str": null, "dex": 63, "int": 90 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 15, "physMax": 59, "critChance": 8.5, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 20, "str": null, "dex": 31, "int": 45 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 8, "physMax": 34, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 38, "str": null, "dex": 55, "int": 79 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 7, "physMax": 62, "critChance": 8.5, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 10, "str": null, "dex": 18, "int": 26 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 3, "physMax": 26, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": "50% increased Global Critical Strike Chance",
     "req": { "level": 24, "str": null, "dex": 28, "int": 60 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 10, "physMax": 41, "critChance": 9, "attackRate": 1.3, "range": 10 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": "40% increased Global Critical Strike Chance",
     "req": { "level": 68, "str": null, "dex": 76, "int": 149 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
     "weapon": { "physMin": 24, "physMax": 97, "critChance": 9, "attackRate": 1.2, "range": 10 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": 9, "int": 6 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 4, "physMax": 8, "critChance": 8, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 62, "str": null, "dex": 95, "int": 131 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
     "weapon": { "physMin": 20, "physMax": 79, "critChance": 8.5, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": "40% increased Global Critical Strike Chance",
     "req": { "level": 53, "str": null, "dex": 58, "int": 123 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 22, "physMax": 87, "critChance": 9, "attackRate": 1.2, "range": 10 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": "Trigger Level 20 Flame Dash when you use a Socketed Skill\n20% increased Cooldown Recovery Rate of Travel Skills",
     "req": { "level": 50, "str": null, "dex": 86, "int": 86 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 18, "physMax": 73, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 30, "str": null, "dex": 64, "int": 44 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 11, "physMax": 45, "critChance": 8, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": "Trigger Level 10 Flame Dash when you use a Socketed Skill",
     "req": { "level": 30, "str": null, "dex": 54, "int": 54 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 12, "physMax": 47, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": null, "str": null, "dex": 9, "int": 6 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 6, "physMax": 10, "critChance": 8, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": "50% increased Global Critical Strike Chance",
     "req": { "level": 47, "str": null, "dex": 51, "int": 110 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 19, "physMax": 75, "critChance": 9, "attackRate": 1.2, "range": 10 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 56, "str": null, "dex": 113, "int": 78 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 19, "physMax": 76, "critChance": 9, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": "All Damage from Hits with This Weapon can Poison",
     "req": { "level": 30, "str": null, "dex": 54, "int": 54 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 12, "physMax": 46, "critChance": 8.8, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": "40% increased Global Critical Strike Chance",
     "req": { "level": 32, "str": null, "dex": 36, "int": 78 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 15, "physMax": 59, "critChance": 9, "attackRate": 1.2, "range": 10 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 66, "str": null, "dex": 95, "int": 131 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
     "weapon": { "physMin": 18, "physMax": 73, "critChance": 8.5, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": "Trigger Level 30 Flame Dash when you use a Socketed Skill\n40% increased Cooldown Recovery Rate of Travel Skills",
     "req": { "level": 70, "str": null, "dex": 121, "int": 121 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 21, "physMax": 85, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": "50% increased Global Critical Strike Chance",
     "req": { "level": 64, "str": null, "dex": 76, "int": 149 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
     "weapon": { "physMin": 24, "physMax": 95, "critChance": 9, "attackRate": 1.2, "range": 10 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": "All Damage from Hits with This Weapon can Poison",
     "req": { "level": 70, "str": null, "dex": 121, "int": 121 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 20, "physMax": 79, "critChance": 8.8, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 41, "str": null, "dex": 72, "int": 72 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 13, "physMax": 52, "critChance": 8.3, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": "All Damage from Hits with This Weapon can Poison",
     "req": { "level": 50, "str": null, "dex": 86, "int": 86 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 18, "physMax": 71, "critChance": 8.8, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": "4% Chance to Block Attack Damage",
     "req": { "level": 36, "str": null, "dex": 55, "int": 77 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 14, "physMax": 54, "critChance": 8.5, "attackRate": 1.35, "range": 10 }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 50, "str": null, "dex": 71, "int": 102 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 16, "physMax": 64, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": "6% Chance to Block Attack Damage",
     "req": { "level": 70, "str": null, "dex": 121, "int": 121 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 22, "physMax": 88, "critChance": 8.5, "attackRate": 1.35, "range": 10 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 28, "str": null, "dex": 42, "int": 60 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 11, "physMax": 43, "critChance": 8.5, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -287,6 +315,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 5, "str": null, "dex": 16, "int": 11 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 4, "physMax": 17, "critChance": 8, "attackRate": 1.45, "range": 10 }
   },
   {
@@ -297,6 +326,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 58, "str": null, "dex": 81, "int": 117 },
     "socketLimit": 3,
+    "tags": ["dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 10, "physMax": 86, "critChance": 8.5, "attackRate": 1.4, "range": 10 }
   },
   {
@@ -307,6 +337,7 @@
     "implicit": "30% increased Global Critical Strike Chance",
     "req": { "level": 15, "str": null, "dex": 30, "int": 30 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 7, "physMax": 27, "critChance": 8.3, "attackRate": 1.5, "range": 10 }
   },
   {
@@ -317,6 +348,7 @@
     "implicit": "4% Chance to Block Attack Damage",
     "req": { "level": 51, "str": null, "dex": 83, "int": 99 },
     "socketLimit": 3,
+    "tags": ["attack_dagger", "dagger", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
     "weapon": { "physMin": 19, "physMax": 74, "critChance": 9, "attackRate": 1.35, "range": 10 }
   }
 ]

@@ -7,6 +7,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6.5, "chargesUsed": 35, "chargesMax": 65, "buff": ["+35% to Chaos Resistance"] }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": "Creates Chilled Ground on Use",
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["60% reduced Effect of Freeze on you"] }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "Taunts nearby Enemies on use",
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Armour"] }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": null,
     "req": { "level": 8, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8.5, "chargesUsed": 15, "chargesMax": 40, "buff": ["+35% to all Elemental Resistances"] }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": null,
     "req": { "level": 40, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask"],
     "flask": { "life": 690, "mana": 200, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": null,
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 1000, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": null,
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 350, "duration": 5, "chargesUsed": 8, "chargesMax": 38 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 7.5, "chargesUsed": 20, "chargesMax": 50, "buff": ["30% increased Stun Threshold", "Cannot be Stunned if you've been Stunned during Effect"] }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 20, "chargesMax": 40, "buff": ["100% increased Global Critical Strike Chance"] }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": null,
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask", "not_for_sale"],
     "flask": { "life": 2400, "duration": 3.5, "chargesUsed": 15, "chargesMax": 45 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": null,
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask", "not_for_sale"],
     "flask": { "mana": 1400, "duration": 5, "chargesUsed": 8, "chargesMax": 42 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": null,
     "req": { "level": 65, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask", "not_for_sale"],
     "flask": { "life": 2080, "duration": 2, "chargesUsed": 15, "chargesMax": 45 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": null,
     "req": { "level": 65, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask", "not_for_sale"],
     "flask": { "mana": 1800, "duration": 7, "chargesUsed": 8, "chargesMax": 42 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": null,
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 830, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": null,
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 250, "duration": 5, "chargesUsed": 8, "chargesMax": 36 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 5, "chargesUsed": 60, "chargesMax": 80, "buff": ["30% increased Rarity of Items found"] }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 640, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 170, "duration": 4.5, "chargesUsed": 7, "chargesMax": 30 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Armour"] }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": null,
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 360, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": null,
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 120, "duration": 4, "chargesUsed": 9, "chargesMax": 36 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": null,
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask", "not_for_sale"],
     "flask": { "life": 1740, "mana": 480, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": null,
     "req": { "level": 42, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 1990, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": null,
     "req": { "level": 42, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 700, "duration": 6, "chargesUsed": 6, "chargesMax": 30 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": "Restores Ward on use",
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "expedition_flask", "flask", "not_for_sale", "utility_flask"],
     "flask": { "duration": 4, "chargesUsed": 40, "chargesMax": 60, "buff": ["+200 to Ward"] }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Evasion Rating"] }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": null,
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask"],
     "flask": { "life": 510, "mana": 140, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": null,
     "req": { "level": 6, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 250, "duration": 3.5, "chargesUsed": 9, "chargesMax": 30 }
   },
   {
@@ -287,6 +315,7 @@
     "implicit": null,
     "req": { "level": 6, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 90, "duration": 4, "chargesUsed": 8, "chargesMax": 35 }
   },
   {
@@ -297,6 +326,7 @@
     "implicit": null,
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask"],
     "flask": { "life": 230, "mana": 100, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -307,6 +337,7 @@
     "implicit": null,
     "req": { "level": 3, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 150, "duration": 3.5, "chargesUsed": 8, "chargesMax": 28 }
   },
   {
@@ -317,6 +348,7 @@
     "implicit": null,
     "req": { "level": 3, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 70, "duration": 3.5, "chargesUsed": 7, "chargesMax": 30 }
   },
   {
@@ -327,6 +359,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+10% chance to Suppress Spell Damage", "Phasing"] }
   },
   {
@@ -337,6 +370,7 @@
     "implicit": null,
     "req": { "level": 4, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["40% increased Movement Speed"] }
   },
   {
@@ -347,6 +381,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Fire Resistance", "+40% to Fire Resistance"] }
   },
   {
@@ -357,6 +392,7 @@
     "implicit": null,
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask"],
     "flask": { "life": 1440, "mana": 400, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -367,6 +403,7 @@
     "implicit": null,
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 1200, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
   },
   {
@@ -377,6 +414,7 @@
     "implicit": null,
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 480, "duration": 5.5, "chargesUsed": 7, "chargesMax": 35 }
   },
   {
@@ -387,6 +425,7 @@
     "implicit": null,
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 1460, "duration": 1.5, "chargesUsed": 15, "chargesMax": 30 }
   },
   {
@@ -397,6 +436,7 @@
     "implicit": null,
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 1100, "duration": 6.5, "chargesUsed": 7, "chargesMax": 35 }
   },
   {
@@ -407,6 +447,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Cold Resistance", "+40% to Cold Resistance"] }
   },
   {
@@ -417,6 +458,7 @@
     "implicit": null,
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 6, "chargesUsed": 40, "chargesMax": 60, "buff": ["Onslaught"] }
   },
   {
@@ -427,6 +469,7 @@
     "implicit": null,
     "req": { "level": 10, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "hybrid_flask"],
     "flask": { "life": 100, "mana": 70, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -437,6 +480,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "life_flask"],
     "flask": { "life": 70, "duration": 3, "chargesUsed": 7, "chargesMax": 21 }
   },
   {
@@ -447,6 +491,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "mana_flask"],
     "flask": { "mana": 50, "duration": 3, "chargesUsed": 6, "chargesMax": 24 }
   },
   {
@@ -457,6 +502,7 @@
     "implicit": "Creates a Smoke Cloud on Use",
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Evasion Rating"] }
   },
   {
@@ -467,6 +513,7 @@
     "implicit": "Creates Consecrated Ground on Use",
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["40% increased Damage"] }
   },
   {
@@ -477,6 +524,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
+    "tags": ["default", "flask", "utility_flask"],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Lightning Resistance", "+40% to Lightning Resistance"] }
   }
 ]

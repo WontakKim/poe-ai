@@ -6,7 +6,8 @@
     "subType": null,
     "implicit": "+(17-23)% to Chaos Resistance",
     "req": { "level": 30, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Bone_Ring",
@@ -15,7 +16,8 @@
     "subType": null,
     "implicit": "Minions have +(10-15)% to all Elemental Resistances",
     "req": { "level": 25, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "ring_can_roll_minion_modifiers"]
   },
   {
     "id": "Breach_Ring",
@@ -24,7 +26,8 @@
     "subType": null,
     "implicit": "Properties are doubled while in a Breach",
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Cerulean_Ring",
@@ -33,7 +36,8 @@
     "subType": null,
     "implicit": "(8-10)% increased maximum Mana",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas4"]
   },
   {
     "id": "Cogwork_Ring",
@@ -42,7 +46,8 @@
     "subType": null,
     "implicit": "-1 Prefix Modifier allowed\n+1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n25% increased Suffix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Composite_Ring",
@@ -51,7 +56,8 @@
     "subType": null,
     "implicit": "+3 Prefix Modifiers allowed\n-3 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Coral_Ring",
@@ -60,7 +66,8 @@
     "subType": null,
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Cryonic_Ring",
@@ -69,7 +76,8 @@
     "subType": null,
     "implicit": "+2% to maximum Cold Resistance\nCannot roll Modifiers of Non-Cold Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Diamond_Ring",
@@ -78,7 +86,8 @@
     "subType": null,
     "implicit": "(20-30)% increased Global Critical Strike Chance",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Dusk_Ring",
@@ -87,7 +96,8 @@
     "subType": null,
     "implicit": "Left ring slot: 15% reduced Skill Effect Duration\nRight ring slot: 15% increased Skill Effect Duration",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Enthalpic_Ring",
@@ -96,7 +106,8 @@
     "subType": null,
     "implicit": "+2% to maximum Fire Resistance\nCannot roll Modifiers of Non-Fire Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Formless_Ring",
@@ -105,7 +116,8 @@
     "subType": null,
     "implicit": "(5-7)% increased Global Defences",
     "req": { "level": 42, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Fugitive_Ring",
@@ -114,7 +126,8 @@
     "subType": null,
     "implicit": "+2% to maximum Chaos Resistance\nCannot roll Modifiers of Non-Chaos Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Geodesic_Ring",
@@ -123,7 +136,8 @@
     "subType": null,
     "implicit": "+1 Prefix Modifier allowed\n-1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n25% increased Prefix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Gloam_Ring",
@@ -132,7 +146,8 @@
     "subType": null,
     "implicit": "Left ring slot: Minions take 15% reduced Damage\nRight ring slot: Minions take 15% increased Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring", "ring_can_roll_minion_modifiers"]
   },
   {
     "id": "Gold_Ring",
@@ -141,7 +156,8 @@
     "subType": null,
     "implicit": "(6-15)% increased Rarity of Items found",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Golden_Hoop",
@@ -150,7 +166,8 @@
     "subType": null,
     "implicit": "+(8-12) to all Attributes",
     "req": { "level": 12, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "demigods", "not_for_sale", "ring"]
   },
   {
     "id": "Helical_Ring",
@@ -159,7 +176,8 @@
     "subType": null,
     "implicit": "-2 Prefix Modifiers allowed\n+1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n50% increased Suffix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Iolite_Ring",
@@ -168,7 +186,8 @@
     "subType": null,
     "implicit": "(17-23)% increased Chaos Damage",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas5"]
   },
   {
     "id": "Iron_Ring",
@@ -177,7 +196,8 @@
     "subType": null,
     "implicit": "Adds 1 to 4 Physical Damage to Attacks",
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Jet_Ring",
@@ -186,7 +206,8 @@
     "subType": null,
     "implicit": "(5-10)% increased Global Defences",
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "demigods", "not_for_sale", "ring"]
   },
   {
     "id": "Manifold_Ring",
@@ -195,7 +216,8 @@
     "subType": null,
     "implicit": "+1 Prefix Modifier allowed\n-2 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed\n50% increased Prefix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Moonstone_Ring",
@@ -204,7 +226,8 @@
     "subType": null,
     "implicit": "+(15-25) to maximum Energy Shield",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Nameless_Ring",
@@ -213,7 +236,8 @@
     "subType": null,
     "implicit": "50% increased Elemental Ailment Duration on you\n50% reduced Effect of Curses on you",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Opal_Ring",
@@ -222,7 +246,8 @@
     "subType": null,
     "implicit": "(15-25)% increased Elemental Damage",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas2"]
   },
   {
     "id": "Organic_Ring",
@@ -231,7 +256,8 @@
     "subType": null,
     "implicit": "3% additional Physical Damage Reduction\nCannot roll Modifiers of Non-Physical Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Paua_Ring",
@@ -240,7 +266,8 @@
     "subType": null,
     "implicit": "+(20-30) to maximum Mana",
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Penumbra_Ring",
@@ -249,7 +276,8 @@
     "subType": null,
     "implicit": "Left ring slot: 30% reduced Effect of Curses on you\nRight ring slot: 30% increased Effect of Curses on you",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Prismatic_Ring",
@@ -258,7 +286,8 @@
     "subType": null,
     "implicit": "+(8-10)% to all Elemental Resistances",
     "req": { "level": 30, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Ratcheting_Ring",
@@ -267,7 +296,8 @@
     "subType": null,
     "implicit": "-3 Prefix Modifiers allowed\n+3 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
   },
   {
     "id": "Ring",
@@ -276,7 +306,8 @@
     "subType": null,
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Ruby_Ring",
@@ -285,7 +316,8 @@
     "subType": null,
     "implicit": "+(20-30)% to Fire Resistance",
     "req": { "level": 16, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Sapphire_Ring",
@@ -294,7 +326,8 @@
     "subType": null,
     "implicit": "+(20-30)% to Cold Resistance",
     "req": { "level": 8, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Shadowed_Ring",
@@ -303,7 +336,8 @@
     "subType": null,
     "implicit": "Left ring slot: 25% of Cold Damage from Hits taken as Fire Damage\nRight ring slot: 25% of Fire Damage from Hits taken as Cold Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Shadowed_Ring",
@@ -312,7 +346,8 @@
     "subType": null,
     "implicit": "Left ring slot: 25% of Fire Damage from Hits taken as Lightning Damage\nRight ring slot: 25% of Lightning Damage from Hits taken as Fire Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Shadowed_Ring",
@@ -321,7 +356,8 @@
     "subType": null,
     "implicit": "Left ring slot: 25% of Lightning Damage from Hits taken as Cold Damage\nRight ring slot: 25% of Cold Damage from Hits taken as Lightning Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Steel_Ring",
@@ -330,7 +366,8 @@
     "subType": null,
     "implicit": "Adds (3-4) to (10-14) Physical Damage to Attacks",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas1"]
   },
   {
     "id": "Synaptic_Ring",
@@ -339,7 +376,8 @@
     "subType": null,
     "implicit": "+2% to maximum Lightning Resistance\nCannot roll Modifiers of Non-Lightning Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Tenebrous_Ring",
@@ -348,7 +386,8 @@
     "subType": null,
     "implicit": "Left ring slot: 30% reduced Duration of Ailments on You\nRight ring slot: 30% increased Duration of Ailments on You",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "not_for_sale", "ring"]
   },
   {
     "id": "Topaz_Ring",
@@ -357,7 +396,8 @@
     "subType": null,
     "implicit": "+(20-30)% to Lightning Resistance",
     "req": { "level": 12, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring"]
   },
   {
     "id": "Two-Stone_Ring",
@@ -366,7 +406,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Fire and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Two-Stone_Ring",
@@ -375,7 +416,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Cold and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Two-Stone_Ring",
@@ -384,7 +426,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Fire and Cold Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Two-Stone_Ring_(Cold/Lightning)",
@@ -393,7 +436,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Cold and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Two-Stone_Ring_(Fire/Cold)",
@@ -402,7 +446,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Fire and Cold Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Two-Stone_Ring_(Fire/Lightning)",
@@ -411,7 +456,8 @@
     "subType": null,
     "implicit": "+(12-16)% to Fire and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "twostonering"]
   },
   {
     "id": "Unset_Ring",
@@ -420,7 +466,8 @@
     "subType": null,
     "implicit": "Has 1 Socket",
     "req": { "level": 5, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "ring", "unset_ring"]
   },
   {
     "id": "Vermillion_Ring",
@@ -429,6 +476,7 @@
     "subType": null,
     "implicit": "(5-7)% increased maximum Life",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas3"]
   }
 ]

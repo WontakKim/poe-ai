@@ -6,6 +6,8 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 138, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 40 to 60 Physical Damage to Attacks",
@@ -22,6 +24,8 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 91 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(15-20) to all Attributes",
@@ -39,6 +43,8 @@
     "type": "Helmet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 58, "int": 58 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+100 Strength Requirement",
@@ -54,6 +60,8 @@
     "type": "Helmet",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Aura Gems",
@@ -71,6 +79,8 @@
     "type": "Helmet",
     "levelReq": 73,
     "league": "Ritual",
+    "req": { "str": 76, "dex": 0, "int": 76 },
+    "sockets": null,
     "implicit": ["Minions deal (15-20)% increased Damage"],
     "mods": [
       "(150-200)% increased Armour and Energy Shield",
@@ -87,6 +97,9 @@
     "type": "Helmet",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 23 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
@@ -105,6 +118,8 @@
     "type": "Helmet",
     "levelReq": 8,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 23 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
@@ -121,6 +136,8 @@
     "type": "Helmet",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 30 Snipe Skill",
@@ -138,6 +155,8 @@
     "type": "Helmet",
     "levelReq": 51,
     "league": null,
+    "req": { "str": 57, "dex": 57, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -155,6 +174,8 @@
     "type": "Helmet",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "24% reduced maximum Life",
@@ -170,6 +191,9 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": "Expedition",
+    "req": { "str": 66, "dex": 66, "int": 66 },
+    "sockets": null,
+    "source": "Drops from unique{Olroth, Origin of the Fall} in normal{Expedition Logbook}",
     "implicit": [],
     "mods": [
       "Never deal Critical Strikes",
@@ -183,6 +207,8 @@
     "type": "Helmet",
     "levelReq": 54,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 112 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -199,6 +225,9 @@
     "type": "Helmet",
     "levelReq": 59,
     "league": "Blight",
+    "req": { "str": 0, "dex": 0, "int": 122 },
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "Can have a second Enchantment Modifier",
@@ -217,6 +246,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Blight",
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "Can have a second Enchantment Modifier",
@@ -235,6 +267,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Blight",
+    "req": { "str": 138, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "Can have a second Enchantment Modifier",
@@ -253,6 +288,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Bestiary",
+    "req": { "str": 64, "dex": 0, "int": 64 },
+    "sockets": null,
+    "source": "Drops from unique{Craiceann, First of the Deep}",
     "implicit": [],
     "mods": [
       "+(4-6)% Chance to Block Spell Damage",
@@ -270,6 +308,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Heist",
+    "req": { "str": 64, "dex": 64, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Has 1 Socket",
@@ -286,6 +327,8 @@
     "type": "Helmet",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 154 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(300-350) to Accuracy Rating",
@@ -303,6 +346,9 @@
     "type": "Helmet",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 85, "dex": 0, "int": 62 },
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds}",
     "implicit": [],
     "mods": [
       "333% increased Armour and Energy Shield",
@@ -319,6 +365,8 @@
     "type": "Helmet",
     "levelReq": 52,
     "league": "Tempest",
+    "req": { "str": 0, "dex": 58, "int": 58 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-200)% increased Evasion and Energy Shield",
@@ -335,6 +383,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Delve",
+    "req": { "str": 64, "dex": 0, "int": 64 },
+    "sockets": null,
+    "source": "Drops from unique{Aul, the Crystal King}",
     "implicit": [],
     "mods": [
       "Has 1 Socket",
@@ -353,6 +404,8 @@
     "type": "Helmet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(150-225) to maximum Energy Shield",
@@ -368,6 +421,8 @@
     "type": "Helmet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+23 to maximum Life",
@@ -384,6 +439,8 @@
     "type": "Helmet",
     "levelReq": 33,
     "league": null,
+    "req": { "str": 38, "dex": 38, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -400,6 +457,9 @@
     "type": "Helmet",
     "levelReq": 33,
     "league": null,
+    "req": { "str": 38, "dex": 38, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -418,6 +478,8 @@
     "type": "Helmet",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 62, "dex": 85, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "10% reduced Physical Damage",
@@ -436,6 +498,8 @@
     "type": "Helmet",
     "levelReq": 39,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 83 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Curse Gems",
@@ -452,6 +516,8 @@
     "type": "Helmet",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 154 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 10 Void Gaze when you use a Skill",
@@ -468,6 +534,10 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": null,
+    "req": { "str": 148, "dex": 0, "int": 0 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper} (Uber)",
     "implicit": [],
     "mods": [
       "Socketed Warcry Skills have +1 Cooldown Use",
@@ -484,6 +554,8 @@
     "type": "Helmet",
     "levelReq": 43,
     "league": "Crucible",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -501,6 +573,8 @@
     "type": "Helmet",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-25)% chance to Suppress Spell Damage",
@@ -516,6 +590,8 @@
     "type": "Helmet",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 51, "int": 51 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(400-500)% increased Evasion and Energy Shield",
@@ -533,6 +609,9 @@
     "type": "Helmet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "20% increased Global Physical Damage",
@@ -549,6 +628,8 @@
     "type": "Helmet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(75-100) to Armour",
@@ -564,6 +645,8 @@
     "type": "Helmet",
     "levelReq": 12,
     "league": null,
+    "req": { "str": 0, "dex": 27, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 15 to 25 Cold Damage to Attacks",
@@ -580,6 +663,8 @@
     "type": "Helmet",
     "levelReq": 25,
     "league": "Expedition",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Intelligence",
@@ -596,6 +681,9 @@
     "type": "Helmet",
     "levelReq": 57,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 64, "int": 64 },
+    "sockets": null,
+    "source": "Drops from unique{Farrul, First of the Plains}",
     "implicit": [],
     "mods": [
       "Grants Level 20 Aspect of the Cat Skill",
@@ -613,6 +701,9 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 0, "int": 112 },
+    "sockets": null,
+    "source": "Drops from unique{Fenumus, First of the Night}",
     "implicit": [],
     "mods": [
       "Adds (16-21) to (31-36) Chaos Damage to Spells",
@@ -630,6 +721,8 @@
     "type": "Helmet",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 122 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -646,6 +739,8 @@
     "type": "Helmet",
     "levelReq": 62,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(140-180)% increased Evasion and Energy Shield",
@@ -662,6 +757,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 46, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Fire Gems",
@@ -679,6 +777,8 @@
     "type": "Helmet",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 122 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -695,6 +795,8 @@
     "type": "Helmet",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(120-150)% increased Armour and Energy Shield",
@@ -712,6 +814,9 @@
     "type": "Helmet",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -731,6 +836,9 @@
     "type": "Helmet",
     "levelReq": 62,
     "league": "Ultimatum",
+    "req": { "str": 0, "dex": 79, "int": 72 },
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": ["Variant: Area of Effect"],
     "mods": [
       "Variant: Blind",
@@ -760,6 +868,8 @@
     "type": "Helmet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-50) to Evasion Rating",
@@ -775,6 +885,8 @@
     "type": "Helmet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 58, "int": 58 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 20 Summon Petrification Statue Skill",
@@ -792,6 +904,9 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": "Delve",
+    "req": { "str": 0, "dex": 0, "int": 138 },
+    "sockets": null,
+    "source": "Drops from unique{Kurgal, the Blackblooded}",
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -810,6 +925,8 @@
     "type": "Helmet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 46, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-100)% increased Evasion Rating",
@@ -827,6 +944,8 @@
     "type": "Helmet",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 0, "dex": 73, "int": 88 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(40-50) to maximum Energy Shield",
@@ -843,6 +962,8 @@
     "type": "Helmet",
     "levelReq": 12,
     "league": "Legion",
+    "req": { "str": 16, "dex": 0, "int": 16 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -859,6 +980,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Mercenaries of Trarthus",
+    "req": { "str": 138, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Mercenary} after winning a duel",
     "implicit": [],
     "mods": [
       "+(30-40) to Strength",
@@ -875,6 +999,8 @@
     "type": "Helmet",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 114, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(30-40)% increased Fire Damage",
@@ -891,6 +1017,10 @@
     "type": "Helmet",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 154 },
+    "sockets": null,
+    "influences": ["shaper", "elder"],
+    "source": "Drops from unique{The Elder} (Uber)",
     "implicit": [],
     "mods": [
       "(150-180)% increased Energy Shield",
@@ -908,6 +1038,8 @@
     "type": "Helmet",
     "levelReq": 48,
     "league": "Settlers of Kalguur",
+    "req": { "str": 101, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(60-80) to maximum Life",
@@ -923,6 +1055,8 @@
     "type": "Helmet",
     "levelReq": 44,
     "league": null,
+    "req": { "str": 50, "dex": 0, "int": 50 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "15% reduced Cast Speed",
@@ -938,6 +1072,8 @@
     "type": "Helmet",
     "levelReq": 28,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -954,6 +1090,9 @@
     "type": "Helmet",
     "levelReq": 53,
     "league": "Abyss",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -971,6 +1110,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 21, "int": 21 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(15-30)% increased Spell Damage",
@@ -989,6 +1131,8 @@
     "type": "Helmet",
     "levelReq": 17,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+20 to Strength",
@@ -1004,6 +1148,9 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on unique{Voll's Vision}",
     "implicit": [],
     "mods": [
       "Adds (13-17) to (29-37) Chaos Damage",
@@ -1021,6 +1168,8 @@
     "type": "Helmet",
     "levelReq": 26,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 58 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-50) to maximum Energy Shield",
@@ -1038,6 +1187,9 @@
     "type": "Helmet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(170-210) to maximum Energy Shield",
@@ -1053,6 +1205,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Opening normal{Pools Coffer} in normal{Sanctum of Immortality}",
     "implicit": [],
     "mods": [
       "(140-220)% increased Armour and Energy Shield",
@@ -1072,6 +1227,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Incursion",
+    "req": { "str": 64, "dex": 0, "int": 64 },
+    "sockets": null,
+    "source": "Upgraded from unique{Mask of the Spirit Drinker} via currency{Vial of Summoning}",
     "implicit": [],
     "mods": [
       "+(40-50) to Intelligence",
@@ -1091,6 +1249,9 @@
     "type": "Helmet",
     "levelReq": 58,
     "league": "Synthesis",
+    "req": { "str": 64, "dex": 0, "int": 64 },
+    "sockets": null,
+    "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
     "implicit": [],
     "mods": [
       "+(25-30) to all Attributes",
@@ -1108,6 +1269,8 @@
     "type": "Helmet",
     "levelReq": 48,
     "league": "Legion",
+    "req": { "str": 0, "dex": 0, "int": 101 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-80)% increased Critical Strike Chance for Spells",
@@ -1124,6 +1287,9 @@
     "type": "Helmet",
     "levelReq": 73,
     "league": "Heist",
+    "req": { "str": 76, "dex": 0, "int": 76 },
+    "sockets": null,
+    "source": "Obtained from divination card normal{Cursed Words}",
     "implicit": ["Minions deal (15-20)% increased Damage"],
     "mods": [
       "Grants Level 20 Death Wish Skill",
@@ -1139,6 +1305,8 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 91 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(130-160) to maximum Energy Shield",
@@ -1156,6 +1324,8 @@
     "type": "Helmet",
     "levelReq": 57,
     "league": null,
+    "req": { "str": 0, "dex": 64, "int": 64 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(230-260)% increased Evasion and Energy Shield",
@@ -1175,6 +1345,8 @@
     "type": "Helmet",
     "levelReq": 37,
     "league": null,
+    "req": { "str": 42, "dex": 0, "int": 42 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(100-120) to maximum Mana",
@@ -1191,6 +1363,8 @@
     "type": "Helmet",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 150, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(800-1000) to Accuracy Rating",
@@ -1206,6 +1380,9 @@
     "type": "Helmet",
     "levelReq": 64,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 0, "int": 73 },
+    "sockets": null,
+    "source": "Drops from unique{Janaar, the Omen} in normal{The Sacred Grove}",
     "implicit": [],
     "mods": [
       "(30-20)% reduced Cast Speed",
@@ -1222,6 +1399,8 @@
     "type": "Helmet",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 0, "dex": 114, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "15% increased Attack Speed",
@@ -1239,6 +1418,9 @@
     "type": "Helmet",
     "levelReq": 44,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Eater of Worlds} (Uber)",
     "implicit": [],
     "mods": [
       "+(30-50) to Strength",
@@ -1254,6 +1436,9 @@
     "type": "Helmet",
     "levelReq": 78,
     "league": null,
+    "req": { "str": 116, "dex": 0, "int": 116 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": [],
     "mods": [
       "(350-650)% increased Armour",
@@ -1270,6 +1455,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Heist",
+    "req": { "str": 138, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(20-25) to all Attributes",
@@ -1288,6 +1476,9 @@
     "type": "Helmet",
     "levelReq": 64,
     "league": "Heist",
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+4 to Level of Socketed Herald Gems",
@@ -1305,6 +1496,9 @@
     "type": "Helmet",
     "levelReq": 20,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(80–100)% increased Evasion Rating",
@@ -1321,6 +1515,9 @@
     "type": "Helmet",
     "levelReq": 28,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -1337,6 +1534,9 @@
     "type": "Helmet",
     "levelReq": 22,
     "league": "Heist",
+    "req": { "str": 27, "dex": 0, "int": 27 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(20-22)% increased Stun and Block Recovery",
@@ -1353,6 +1553,8 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 138 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Concentrated Effect",
@@ -1369,6 +1571,9 @@
     "type": "Helmet",
     "levelReq": 54,
     "league": "Sanctum",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}",
     "implicit": [],
     "mods": [
       "(8-10)% increased Cast Speed",
@@ -1385,6 +1590,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Saqawal, First of the Sky}",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Twister when you gain Avian's Might or Avian's Flight",
@@ -1401,6 +1609,8 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": "Torment",
+    "req": { "str": 0, "dex": 0, "int": 138 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-100)% increased Spell Damage",
@@ -1416,6 +1626,8 @@
     "type": "Helmet",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 42, "dex": 42, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-80)% increased Armour and Evasion",
@@ -1432,6 +1644,8 @@
     "type": "Helmet",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 85, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-40) to Dexterity",
@@ -1448,6 +1662,8 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 138, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% reduced Damage when on Low Life",
@@ -1466,6 +1682,9 @@
     "type": "Helmet",
     "levelReq": 48,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 101 },
+    "sockets": null,
+    "source": "Drops from unique{The Black Star}",
     "implicit": [],
     "mods": [
       "(300-350)% increased Energy Shield",
@@ -1481,6 +1700,8 @@
     "type": "Helmet",
     "levelReq": 26,
     "league": null,
+    "req": { "str": 58, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Minion Gems",
@@ -1497,6 +1718,8 @@
     "type": "Helmet",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 85, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(240-300)% increased Armour and Energy Shield",
@@ -1514,6 +1737,8 @@
     "type": "Helmet",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 62, "dex": 85, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 30 Melee Physical Damage",
@@ -1535,6 +1760,8 @@
     "type": "Helmet",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 85, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by Level 20 Cast on Death",
@@ -1553,6 +1780,9 @@
     "type": "Helmet",
     "levelReq": 80,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 224 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": [],
     "mods": [
       "+(50-100) to maximum Energy Shield",
@@ -1570,6 +1800,9 @@
     "type": "Helmet",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 85, "dex": 62, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Elder} (Uber Uber)",
     "implicit": [],
     "mods": [
       "+(30–50) to Intelligence",
@@ -1587,6 +1820,9 @@
     "type": "Helmet",
     "levelReq": 54,
     "league": "Betrayal",
+    "req": { "str": 0, "dex": 0, "int": 112 },
+    "sockets": null,
+    "source": "Drops from unique{Catarina, Master of Undeath}",
     "implicit": [],
     "mods": [
       "Socketed Gems have 25% increased Reservation Efficiency",
@@ -1604,6 +1840,9 @@
     "type": "Helmet",
     "levelReq": 51,
     "league": "Heist",
+    "req": { "str": 57, "dex": 57, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Nashta, The Usurper} in normal{Contract: Heart of Glory}",
     "implicit": [],
     "mods": [
       "(150-200)% increased Armour and Evasion",
@@ -1620,6 +1859,9 @@
     "type": "Helmet",
     "levelReq": 48,
     "league": "Breach",
+    "req": { "str": 101, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour",
@@ -1635,6 +1877,9 @@
     "type": "Helmet",
     "levelReq": 65,
     "league": "Breach",
+    "req": { "str": 148, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Formless Flame} using currency{Blessing of Xoph}",
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by level 30 Infernal Legion",
@@ -1650,6 +1895,8 @@
     "type": "Helmet",
     "levelReq": 38,
     "league": "Domination",
+    "req": { "str": 0, "dex": 44, "int": 44 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 1 Create Lesser Shrine when you Kill an Enemy",
@@ -1668,6 +1915,9 @@
     "type": "Helmet",
     "levelReq": 73,
     "league": null,
+    "req": { "str": 101, "dex": 0, "int": 101 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": [],
     "mods": [
       "(150-230)% increased Armour",
@@ -1685,6 +1935,9 @@
     "type": "Helmet",
     "levelReq": 23,
     "league": null,
+    "req": { "str": 28, "dex": 28, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+500 to Accuracy Rating",
@@ -1702,6 +1955,9 @@
     "type": "Helmet",
     "levelReq": 45,
     "league": "Harbinger",
+    "req": { "str": 0, "dex": 51, "int": 51 },
+    "sockets": null,
+    "source": "Created from item parts obtained from Boss in The Beachhead",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Ice Bite",
@@ -1720,6 +1976,9 @@
     "type": "Helmet",
     "levelReq": 60,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 51, "int": 51 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Tempest's Binding} via currency{Deregulation Scroll}",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Ice Bite",
@@ -1738,6 +1997,8 @@
     "type": "Helmet",
     "levelReq": 35,
     "league": null,
+    "req": { "str": 0, "dex": 40, "int": 40 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(26-30)% to all Elemental Resistances",
@@ -1753,6 +2014,8 @@
     "type": "Helmet",
     "levelReq": 23,
     "league": "Affliction",
+    "req": { "str": 28, "dex": 28, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-100)% increased Armour and Evasion",
@@ -1769,6 +2032,9 @@
     "type": "Helmet",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 79, "int": 72 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -1786,6 +2052,8 @@
     "type": "Helmet",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Onslaught"
@@ -1798,6 +2066,8 @@
     "type": "Helmet",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 122 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -1814,6 +2084,8 @@
     "type": "Helmet",
     "levelReq": 69,
     "league": "Expedition",
+    "req": { "str": 138, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-80)% increased Armour",
@@ -1831,6 +2103,8 @@
     "type": "Helmet",
     "levelReq": 22,
     "league": null,
+    "req": { "str": 27, "dex": 0, "int": 27 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(20-22)% increased Stun and Block Recovery",
@@ -1847,6 +2121,9 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": "Ritual",
+    "req": { "str": 62, "dex": 0, "int": 91 },
+    "sockets": null,
+    "source": "Drops from unique{The Maven} (Uber)",
     "implicit": [],
     "mods": [
       "+(1-2) to Level of Socketed Gems",
@@ -1864,6 +2141,8 @@
     "type": "Helmet",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(260-300) to Armour",
@@ -1881,6 +2160,8 @@
     "type": "Helmet",
     "levelReq": 35,
     "league": "Heist",
+    "req": { "str": 0, "dex": 40, "int": 40 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(350-400)% increased Evasion and Energy Shield",
@@ -1897,6 +2178,8 @@
     "type": "Helmet",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(300-500) to Accuracy Rating",
@@ -1913,6 +2196,8 @@
     "type": "Helmet",
     "levelReq": 34,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Has 4 Abyssal Sockets",
@@ -1929,6 +2214,8 @@
     "type": "Helmet",
     "levelReq": 8,
     "league": "Legion",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Has no Attribute Requirements",
@@ -1945,6 +2232,8 @@
     "type": "Helmet",
     "levelReq": 69,
     "league": "Tempest",
+    "req": { "str": 0, "dex": 0, "int": 154 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 10 Shock Ground when Hit",

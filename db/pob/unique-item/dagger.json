@@ -6,6 +6,8 @@
     "type": "Dagger",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 0, "dex": 58, "int": 123 },
+    "sockets": null,
     "implicit": ["40% increased Global Critical Strike Chance"],
     "mods": [
       "100% chance to Trigger Level 1 Raise Spiders on Kill",
@@ -22,6 +24,8 @@
     "type": "Dagger",
     "levelReq": 65,
     "league": null,
+    "req": { "str": 0, "dex": 81, "int": 117 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "Adds (140-155) to (210-235) Physical Damage",
@@ -39,6 +43,8 @@
     "type": "Dagger",
     "levelReq": 15,
     "league": null,
+    "req": { "str": 0, "dex": 30, "int": 30 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+20 to Dexterity",
@@ -56,6 +62,8 @@
     "type": "Dagger",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 95, "int": 131 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+3 to Level of all Physical Spell Skill Gems",
@@ -69,6 +77,8 @@
     "type": "Dagger",
     "levelReq": 66,
     "league": "Legion",
+    "req": { "str": 0, "dex": 95, "int": 131 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(150-200)% increased Spell Damage",
@@ -86,6 +96,9 @@
     "type": "Dagger",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 76, "int": 149 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["40% increased Global Critical Strike Chance"],
     "mods": [
       "Trigger a Socketed Spell when you Block, with a 0.25 second Cooldown",
@@ -103,6 +116,8 @@
     "type": "Dagger",
     "levelReq": 60,
     "league": "Ritual",
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(200-250)% increased Physical Damage",
@@ -120,6 +135,8 @@
     "type": "Dagger",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 16, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+(10-15) to Dexterity",
@@ -137,6 +154,8 @@
     "type": "Dagger",
     "levelReq": 50,
     "league": null,
+    "req": { "str": 0, "dex": 71, "int": 102 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(60-70)% increased Spell Damage",
@@ -152,6 +171,8 @@
     "type": "Dagger",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 76, "int": 149 },
+    "sockets": null,
     "implicit": ["50% increased Global Critical Strike Chance"],
     "mods": [
       "+5% Chance to Block Attack Damage while Dual Wielding",
@@ -170,6 +191,8 @@
     "type": "Dagger",
     "levelReq": 35,
     "league": null,
+    "req": { "str": 0, "dex": 73, "int": 51 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(80-100)% increased Physical Damage",
@@ -185,6 +208,9 @@
     "type": "Dagger",
     "levelReq": 15,
     "league": "Heist",
+    "req": { "str": 0, "dex": 30, "int": 30 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+20 to Strength",
@@ -202,6 +228,9 @@
     "type": "Dagger",
     "levelReq": 62,
     "league": "Heist",
+    "req": { "str": 0, "dex": 95, "int": 131 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+3 to Level of all Cold Spell Skill Gems",
@@ -215,6 +244,9 @@
     "type": "Dagger",
     "levelReq": 50,
     "league": "Heist",
+    "req": { "str": 0, "dex": 71, "int": 102 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(60-70)% increased Spell Damage",
@@ -231,6 +263,9 @@
     "type": "Dagger",
     "levelReq": 20,
     "league": "Heist",
+    "req": { "str": 0, "dex": 31, "int": 45 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+18% Chance to Block Attack Damage while Dual Wielding",
@@ -248,6 +283,9 @@
     "type": "Dagger",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(50-70)% increased Physical Damage",
@@ -266,6 +304,8 @@
     "type": "Dagger",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "(180-200)% increased Physical Damage",
@@ -284,6 +324,8 @@
     "type": "Dagger",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 0, "dex": 58, "int": 123 },
+    "sockets": null,
     "implicit": ["40% increased Global Critical Strike Chance"],
     "mods": [
       "+1 to Level of all Fire Spell Skill Gems",
@@ -300,6 +342,9 @@
     "type": "Dagger",
     "levelReq": 60,
     "league": "Heist",
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "Trigger Level 20 Unseen Strike every 0.5 seconds while Phasing",
@@ -315,6 +360,8 @@
     "type": "Dagger",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 31, "int": 45 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "+12% Chance to Block Attack Damage while Dual Wielding",
@@ -332,6 +379,8 @@
     "type": "Dagger",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 76, "int": 149 },
+    "sockets": null,
     "implicit": ["40% increased Global Critical Strike Chance"],
     "mods": [
       "Adds (85-110) to (130-150) Physical Damage",
@@ -352,6 +401,8 @@
     "type": "Dagger",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 0, "dex": 95, "int": 131 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "Adds (160-190) to (280-320) Cold Damage",
@@ -368,6 +419,8 @@
     "type": "Dagger",
     "levelReq": 44,
     "league": null,
+    "req": { "str": 0, "dex": 63, "int": 90 },
+    "sockets": null,
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "Adds (35-40) to (55-60) Physical Damage",

@@ -6,6 +6,8 @@
     "type": "Amulet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+(150-250) to Evasion Rating while on Low Life",
@@ -22,6 +24,9 @@
     "type": "Amulet",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Eater of Worlds} (Uber)",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "(5-10)% increased Experience Gain of Gems",
@@ -36,6 +41,8 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(80-100) to all Attributes",
@@ -49,6 +56,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+100 to maximum Mana",
@@ -64,6 +73,9 @@
     "type": "Amulet",
     "levelReq": 55,
     "league": "Delve",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Aul, the Crystal King}",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Grants Level 15 Envy Skill",
@@ -80,6 +92,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": "Blight",
+    "req": null,
+    "sockets": null,
     "implicit": ["League: Blight"],
     "mods": [
       "+(16-24) to Dexterity and Intelligence",
@@ -97,6 +111,9 @@
     "type": "Amulet",
     "levelReq": 30,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
@@ -110,6 +127,8 @@
     "type": "Amulet",
     "levelReq": 28,
     "league": "Talisman Hardcore",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(15-25)% increased Global Defences"],
     "mods": [
       "+(20-30) to maximum Energy Shield",
@@ -126,6 +145,9 @@
     "type": "Amulet",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on unique{Tear of Purity}",
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "Grants Level 10 Gluttony of Elements Skill",
@@ -141,6 +163,8 @@
     "type": "Amulet",
     "levelReq": 74,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Regenerate (1.2-1.6)% of Life per second"],
     "mods": [
       "Adds 10 to 20 Physical Damage to Attacks",
@@ -157,6 +181,8 @@
     "type": "Amulet",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "(40-50)% increased Global Critical Strike Chance",
@@ -174,6 +200,9 @@
     "type": "Amulet",
     "levelReq": 74,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": ["Regenerate (1.2-1.6)% of Life per second"],
     "mods": [
       "+(10-20) to all Attributes",
@@ -190,6 +219,8 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(20-40) to all Attributes",
@@ -207,6 +238,9 @@
     "type": "Amulet",
     "levelReq": 69,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}",
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "Trigger Level 30 Lightning Bolt when you deal a Critical Strike",
@@ -222,6 +256,9 @@
     "type": "Amulet",
     "levelReq": 61,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch} (Uber)",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Modifiers to Attributes instead Apply to Omniscience",
@@ -237,6 +274,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": "Anarchy",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "50% reduced maximum Energy Shield",
@@ -254,6 +293,8 @@
     "type": "Amulet",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -270,6 +311,8 @@
     "type": "Amulet",
     "levelReq": 24,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(20-25)% to all Elemental Resistances",
@@ -284,6 +327,9 @@
     "type": "Amulet",
     "levelReq": 52,
     "league": "Sanctum",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}",
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(40-70) to maximum Mana",
@@ -300,6 +346,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(30-50) to Strength",
@@ -317,6 +365,8 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "20% reduced maximum Life",
@@ -331,6 +381,8 @@
     "type": "Amulet",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "10% chance to Ignite",
@@ -346,6 +398,8 @@
     "type": "Amulet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(24-36)% to Damage over Time Multiplier",
@@ -359,6 +413,8 @@
     "type": "Amulet",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(15-25)% increased Evasion Rating",
@@ -375,6 +431,8 @@
     "type": "Amulet",
     "levelReq": 77,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(48-56)% increased Mana Regeneration Rate"],
     "mods": [
       "0.5% of Chaos Damage Leeched as Life",
@@ -392,6 +450,9 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "+(6-10)% chance to Suppress Spell Damage",
@@ -409,6 +470,8 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Prevent +(4-6)% of Suppressed Spell Damage",
@@ -424,6 +487,8 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": "Synthesis",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "Grants Level 30 Precision Skill",
@@ -440,6 +505,8 @@
     "type": "Amulet",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "Regenerate (3-5) Mana per second",
@@ -456,6 +523,10 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Adds (17-19) to (23-29) Chaos Damage",
@@ -473,6 +544,9 @@
     "type": "Amulet",
     "levelReq": 24,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(20-30) to Strength",
@@ -490,6 +564,8 @@
     "type": "Amulet",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(20-30) to Strength",
@@ -506,6 +582,9 @@
     "type": "Amulet",
     "levelReq": 68,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Vic Vox} and unique{Vinny Vox} in normal{Contract: The Twins}",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(-3-3)% to maximum Fire Resistance",
@@ -522,6 +601,8 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(4-8)% increased maximum Life",
@@ -538,6 +619,8 @@
     "type": "Amulet",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(80-120) to Accuracy Rating",
@@ -555,6 +638,8 @@
     "type": "Amulet",
     "levelReq": 44,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(25-35)% increased Damage"],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -571,6 +656,9 @@
     "type": "Amulet",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "(50-70)% increased Fire Damage",
@@ -587,6 +675,8 @@
     "type": "Amulet",
     "levelReq": 12,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -602,6 +692,8 @@
     "type": "Amulet",
     "levelReq": 29,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+(40-50) to Dexterity",
@@ -617,6 +709,9 @@
     "type": "Amulet",
     "levelReq": 60,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{Eye of Chayula} using currency{Blessing of Chayula}",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "30% increased Rarity of Items found",
@@ -632,6 +727,8 @@
     "type": "Amulet",
     "levelReq": 48,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(40-80) to maximum Life",
@@ -648,6 +745,9 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Regenerate (1-2)% of Life per second"],
     "mods": [
       "+100 to maximum Life",
@@ -662,6 +762,9 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges",
@@ -678,6 +781,9 @@
     "type": "Amulet",
     "levelReq": 20,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(10–16) to all Attributes",
@@ -694,6 +800,9 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "Grants Level 22 Hatred Skill",
@@ -710,6 +819,9 @@
     "type": "Amulet",
     "levelReq": 5,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(20-30) to Intelligence",
@@ -726,6 +838,9 @@
     "type": "Amulet",
     "levelReq": 42,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -742,6 +857,8 @@
     "type": "Amulet",
     "levelReq": 30,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "(10-20)% chance to Blind Enemies on Hit with Attacks",
@@ -757,6 +874,8 @@
     "type": "Amulet",
     "levelReq": 28,
     "league": "Talisman Standard",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(24-36)% to Global Critical Strike Multiplier"],
     "mods": [
       "+7% to Unarmed Melee Attack Critical Strike Chance",
@@ -772,6 +891,9 @@
     "type": "Amulet",
     "levelReq": 32,
     "league": "Incursion",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "Adds (22-27) to (34-38) Fire Damage",
@@ -789,6 +911,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "(60-100)% increased Mana Regeneration Rate",
@@ -804,6 +928,8 @@
     "type": "Amulet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+25% to Cold Resistance",
@@ -820,6 +946,10 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper}",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "(30-40)% increased Damage",
@@ -836,6 +966,9 @@
     "type": "Amulet",
     "levelReq": 28,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["+(20-30)% to Fire Resistance"],
     "mods": [
       "Grants Level 10 Frostblink Skill",
@@ -853,6 +986,8 @@
     "type": "Amulet",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(12-15)% Chance to Block Spell Damage",
@@ -867,6 +1002,9 @@
     "type": "Amulet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Blight-ravaged Maps",
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Can have 3 additional Enchantment Modifiers"
@@ -879,6 +1017,8 @@
     "type": "Amulet",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+(20-30) to Strength",
@@ -894,6 +1034,8 @@
     "type": "Amulet",
     "levelReq": 54,
     "league": "Legion",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+(30-40) to Intelligence",
@@ -911,6 +1053,8 @@
     "type": "Amulet",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "Grants Level 10 Purity of Elements Skill",
@@ -926,6 +1070,8 @@
     "type": "Amulet",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "(10-15)% Chance to Block Attack Damage",
@@ -945,6 +1091,9 @@
     "type": "Amulet",
     "levelReq": 8,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "(80-100)% increased Rarity of Items found with a Normal Item equipped",
@@ -958,6 +1107,8 @@
     "type": "Amulet",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(30-50) to maximum Life",
@@ -976,6 +1127,9 @@
     "type": "Amulet",
     "levelReq": 57,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+10 to Dexterity",
@@ -994,6 +1148,8 @@
     "type": "Amulet",
     "levelReq": 68,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "(25-40)% increased Mana Regeneration Rate",
@@ -1010,6 +1166,9 @@
     "type": "Amulet",
     "levelReq": 61,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Black Star} or unique{The Infinite Hunger}",
     "implicit": ["9% increased Mana Reservation Efficiency of Skills", "6% increased Movement Speed"],
     "mods": [
       "+(20-50) to Strength",
@@ -1027,6 +1186,9 @@
     "type": "Amulet",
     "levelReq": 61,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Namharim, Born of Night} in normal{The Sacred Grove}",
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "+(30-50) to Intelligence",
@@ -1044,6 +1206,9 @@
     "type": "Amulet",
     "levelReq": 35,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(35-40)% to Cold Resistance",
@@ -1060,6 +1225,8 @@
     "type": "Amulet",
     "levelReq": 8,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "Adds (18-24) to (32-40) Fire Damage to Attacks",
@@ -1077,6 +1244,8 @@
     "type": "Amulet",
     "levelReq": 48,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "+(30-40) to Intelligence",
@@ -1093,6 +1262,9 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Halcyon} using currency{Blessing of Tul}",
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "(20-30)% increased Cold Damage",
@@ -1109,6 +1281,8 @@
     "type": "Amulet",
     "levelReq": 34,
     "league": "Delve",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+3 to maximum number of Golems",
@@ -1127,6 +1301,8 @@
     "type": "Amulet",
     "levelReq": 48,
     "league": "Affliction",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+40 to maximum Life for each Empty Red Socket on any Equipped Item",
@@ -1142,6 +1318,9 @@
     "type": "Amulet",
     "levelReq": 8,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Created from unique{Primordial Fragments} obtained from Uber bosses",
     "implicit": ["(12–20)% increased Rarity of Items found"],
     "mods": [
       "+(0–30)% chance to Suppress Spell Damage",
@@ -1157,6 +1336,8 @@
     "type": "Amulet",
     "levelReq": 23,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(250-350)% increased Global Critical Strike Chance",
@@ -1173,6 +1354,9 @@
     "type": "Amulet",
     "levelReq": 72,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Breachlord} in a normal{Flawless Breachstone}",
     "implicit": ["Has 1 Socket"],
     "mods": [
       "Socketed Support Gems can also Support Skills from your Body Armour",
@@ -1189,6 +1373,9 @@
     "type": "Amulet",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["Implicit Modifiers Cannot Be Changed", "Has Elder, Shaper and all Conqueror Influences"],
     "mods": [
       "The stars are aligned if you have 6 Influence types among other Equipped Items",
@@ -1204,6 +1391,8 @@
     "type": "Amulet",
     "levelReq": 16,
     "league": "Onslaught",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "+(30-40)% to Lightning Resistance",
@@ -1221,6 +1410,9 @@
     "type": "Amulet",
     "levelReq": 69,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Esh Breach or from unique{Esh, Forked Thought}",
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(10-15) to all Attributes",
@@ -1236,6 +1428,8 @@
     "type": "Amulet",
     "levelReq": 32,
     "league": "Anarchy, Onslaught",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(30-40) to maximum Life",
@@ -1253,6 +1447,8 @@
     "type": "Amulet",
     "levelReq": 50,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(10-25)% increased Attack Speed",
@@ -1269,6 +1465,9 @@
     "type": "Amulet",
     "levelReq": 74,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": ["(10-15)% faster start of Energy Shield Recharge"],
     "mods": [
       "(5-10) to (20-25) Added Attack Chaos Damage per 100 Maximum Mana",
@@ -1284,6 +1483,8 @@
     "type": "Amulet",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "10% reduced Strength",
@@ -1302,6 +1503,8 @@
     "type": "Amulet",
     "levelReq": 42,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -1318,6 +1521,9 @@
     "type": "Amulet",
     "levelReq": 64,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{Xoph's Heart} using currency{Blessing of Xoph}",
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "10% increased maximum Life",
@@ -1335,6 +1541,9 @@
     "type": "Amulet",
     "levelReq": 35,
     "league": "Breach",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "+(20-30) to Strength",
@@ -1351,6 +1560,8 @@
     "type": "Amulet",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(10-20)% to Fire Resistance",
@@ -1369,6 +1580,9 @@
     "type": "Amulet",
     "levelReq": 70,
     "league": "Incursion",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{Sacrificial Heart} via currency{Vial of Sacrifice}",
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "Adds (48-53) to (58-60) Chaos Damage",

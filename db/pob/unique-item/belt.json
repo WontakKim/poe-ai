@@ -6,6 +6,9 @@
     "type": "Belt",
     "levelReq": 68,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(600-700) to Armour",
@@ -24,6 +27,8 @@
     "type": "Belt",
     "levelReq": 44,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+300 to Evasion Rating",
@@ -41,6 +46,8 @@
     "type": "Belt",
     "levelReq": 79,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(60-80) to maximum Energy Shield"],
     "mods": [
       "+(60-70) to maximum Energy Shield",
@@ -57,6 +64,8 @@
     "type": "Belt",
     "levelReq": 22,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+(15-25) to Intelligence",
@@ -73,6 +82,9 @@
     "type": "Belt",
     "levelReq": 68,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Ersi, Mother of Thorns} in normal{The Sacred Grove}",
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "Adds (5-7) to (11-12) Physical Damage to Attacks",
@@ -88,6 +100,8 @@
     "type": "Belt",
     "levelReq": 20,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "(15-25)% increased Global Physical Damage",
@@ -104,6 +118,9 @@
     "type": "Belt",
     "levelReq": 78,
     "league": "Mercenaries of Trarthus",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Mercenary} after winning a duel",
     "implicit": ["+(260-320) to Armour and Evasion Rating"],
     "mods": [
       "+(200-400) to Armour",
@@ -119,6 +136,8 @@
     "type": "Belt",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(10-15) to all Attributes",
@@ -134,6 +153,8 @@
     "type": "Belt",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -155,6 +176,8 @@
     "type": "Belt",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-40) to Dexterity",
@@ -170,6 +193,8 @@
     "type": "Belt",
     "levelReq": 14,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(9-20) to maximum Energy Shield",
@@ -186,6 +211,9 @@
     "type": "Belt",
     "levelReq": 61,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Friedrich Tarollo, Slave Merchant} in normal{Contract: The Slaver King}",
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -202,6 +230,9 @@
     "type": "Belt",
     "levelReq": 22,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Opening normal{Experimental Chest} in normal{Hybridisation Chamber}",
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+(15-20) to all Attributes",
@@ -218,6 +249,9 @@
     "type": "Belt",
     "levelReq": 52,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Coward's Chains} via currency{Vial of Consequence}",
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+(15-20) to all Attributes",
@@ -234,6 +268,10 @@
     "type": "Belt",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -251,6 +289,9 @@
     "type": "Belt",
     "levelReq": null,
     "league": "Abyss",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
     "implicit": ["Has 1 Abyssal Socket"],
     "mods": [
       "Has 1 Abyssal Socket",
@@ -264,6 +305,9 @@
     "type": "Belt",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "(20-30)% increased Lightning Damage",
@@ -281,6 +325,8 @@
     "type": "Belt",
     "levelReq": 52,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(70-85) to maximum Life",
@@ -298,6 +344,8 @@
     "type": "Belt",
     "levelReq": 18,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": null,
+    "sockets": null,
     "implicit": ["(12-24)% increased Global Physical Damage"],
     "mods": [
       "+(20-30)% to Cold Resistance",
@@ -314,6 +362,8 @@
     "type": "Belt",
     "levelReq": 11,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": null,
+    "sockets": null,
     "implicit": ["(12-24)% increased Global Physical Damage"],
     "mods": [
       "Adds 5 to 10 Physical Damage to Attacks",
@@ -330,6 +380,8 @@
     "type": "Belt",
     "levelReq": 48,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -347,6 +399,9 @@
     "type": "Belt",
     "levelReq": 68,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(60-70) to Energy Shield",
@@ -365,6 +420,8 @@
     "type": "Belt",
     "levelReq": 40,
     "league": "Nemesis",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(40-55) to Strength",
@@ -381,6 +438,9 @@
     "type": "Belt",
     "levelReq": 60,
     "league": "Betrayal",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Transportation Leaders} in normal{Safehouses}",
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(30-40)% to Cold Resistance",
@@ -398,6 +458,8 @@
     "type": "Belt",
     "levelReq": 50,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(75-100) to maximum Life",
@@ -415,6 +477,8 @@
     "type": "Belt",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(30-40) to Strength",
@@ -430,6 +494,8 @@
     "type": "Belt",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(15-20) to all Attributes",
@@ -445,6 +511,8 @@
     "type": "Belt",
     "levelReq": 44,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(30-50) to Dexterity",
@@ -462,6 +530,8 @@
     "type": "Belt",
     "levelReq": 44,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "Adds 1 to (30-50) Lightning Damage to Attacks",
@@ -478,6 +548,8 @@
     "type": "Belt",
     "levelReq": 8,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+25 to Strength",
@@ -494,6 +566,8 @@
     "type": "Belt",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(50-70) to maximum Life",
@@ -510,6 +584,8 @@
     "type": "Belt",
     "levelReq": 16,
     "league": "Necropolis",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -526,6 +602,9 @@
     "type": "Belt",
     "levelReq": 68,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(600-700) to Evasion Rating",
@@ -544,6 +623,8 @@
     "type": "Belt",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-30) to all Attributes",
@@ -560,6 +641,8 @@
     "type": "Belt",
     "levelReq": 78,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(260-320) to Armour and Evasion Rating"],
     "mods": [
       "(4-8)% increased maximum Life",
@@ -576,6 +659,8 @@
     "type": "Belt",
     "levelReq": 25,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(12-24)% increased Global Physical Damage"],
     "mods": [
       "Adds (14-16) to (30-32) Fire Damage to Attacks",
@@ -592,6 +677,8 @@
     "type": "Belt",
     "levelReq": 43,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(30-40) to Dexterity",
@@ -608,6 +695,9 @@
     "type": "Belt",
     "levelReq": 22,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(9-20) to maximum Energy Shield"],
     "mods": [
       "+(15-25) to Intelligence",
@@ -624,6 +714,9 @@
     "type": "Belt",
     "levelReq": 40,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "+(40-55) to Strength",
@@ -640,6 +733,9 @@
     "type": "Belt",
     "levelReq": 25,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(12-24)% increased Global Physical Damage"],
     "mods": [
       "Adds (14-16) to (30-32) Fire Damage to Spells",
@@ -656,6 +752,9 @@
     "type": "Belt",
     "levelReq": 44,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "(6-10)% increased maximum Energy Shield",
@@ -672,6 +771,9 @@
     "type": "Belt",
     "levelReq": 48,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-40) to Strength",
@@ -686,6 +788,8 @@
     "type": "Belt",
     "levelReq": 20,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Stun Duration on Enemies"],
     "mods": [
       "+(20-40) to Strength",
@@ -703,6 +807,8 @@
     "type": "Belt",
     "levelReq": 44,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "(6-10)% increased maximum Energy Shield",
@@ -719,6 +825,8 @@
     "type": "Belt",
     "levelReq": 48,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-40) to Intelligence",
@@ -733,6 +841,8 @@
     "type": "Belt",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -750,6 +860,9 @@
     "type": "Belt",
     "levelReq": 8,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": [],
     "mods": [
       "+(42-48)% to all Elemental Resistances",
@@ -763,6 +876,8 @@
     "type": "Belt",
     "levelReq": 37,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-30)% to Fire Resistance",
@@ -780,6 +895,9 @@
     "type": "Belt",
     "levelReq": 52,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Purchase from Ritual Reward",
     "implicit": ["+(25-35) to Strength"],
     "mods": [
       "+(800-1200) to Armour",
@@ -796,6 +914,9 @@
     "type": "Belt",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-30) to Dexterity and Intelligence",
@@ -813,6 +934,9 @@
     "type": "Belt",
     "levelReq": 79,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds}",
     "implicit": ["+(60-80) to maximum Energy Shield"],
     "mods": [
       "(30-40)% increased Life Recovery from Flasks",
@@ -829,6 +953,8 @@
     "type": "Belt",
     "levelReq": 48,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "+(20-30) to all Attributes",
@@ -846,6 +972,9 @@
     "type": "Belt",
     "levelReq": 60,
     "league": "Harbinger",
+    "req": null,
+    "sockets": null,
+    "source": "Created from item parts obtained from Boss in The Beachhead",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "Grants Summon Harbinger of Time Skill",
@@ -863,6 +992,8 @@
     "type": "Belt",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Stun Duration on Enemies"],
     "mods": [
       "+(40-50) to Strength",
@@ -879,6 +1010,9 @@
     "type": "Belt",
     "levelReq": 48,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(20-30)% increased Stun Duration on Enemies"],
     "mods": [
       "+(40-50) to Strength",
@@ -896,6 +1030,9 @@
     "type": "Belt",
     "levelReq": 44,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["(12-24)% increased Global Physical Damage"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -914,6 +1051,9 @@
     "type": "Belt",
     "levelReq": 48,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(20-30)% increased Stun Duration on Enemies"],
     "mods": [
       "+(40-50) to Strength",
@@ -931,6 +1071,10 @@
     "type": "Belt",
     "levelReq": 78,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper} (Uber)",
     "implicit": ["+(260-320) to Armour and Evasion Rating"],
     "mods": [
       "100% Increased Life Recovery from Flasks",
@@ -948,6 +1092,9 @@
     "type": "Belt",
     "levelReq": 60,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Flow Untethered} via currency{Time-light Scroll}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "Grants Summon Greater Harbinger of Time Skill",
@@ -965,6 +1112,8 @@
     "type": "Belt",
     "levelReq": 30,
     "league": "Perandus",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to maximum Life"],
     "mods": [
       "(8-12)% increased maximum Life",
@@ -980,6 +1129,8 @@
     "type": "Belt",
     "levelReq": 41,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(25-40) to Maximum Life"],
     "mods": [
       "+(20-30) to Strength",
@@ -998,6 +1149,8 @@
     "type": "Belt",
     "levelReq": 52,
     "league": "Settlers of Kalguur",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-30)% increased Stun Duration on Enemies"],
     "mods": [
       "Regenerate (30-50) Life per second",

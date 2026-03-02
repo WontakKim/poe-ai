@@ -82,6 +82,17 @@ while ($content =~ /itemBases\["([^"]+)"\]\s*=\s*\{(.*?)^\}/gms) {
 
   if ($body =~ /\bsocketLimit\s*=\s*(\d+)/) { $item{socketLimit} = int($1); }
 
+  # tags = { key = true, ... } → sorted string array
+  my @tags;
+  if ($body =~ /\btags\s*=\s*\{([^}]*)\}/) {
+    my $tblock = $1;
+    while ($tblock =~ /(\w+)\s*=\s*true/g) {
+      push @tags, $1;
+    }
+    @tags = sort @tags;
+  }
+  $item{tags} = \@tags;
+
   my %req;
   if ($body =~ /\breq\s*=\s*\{([^}]*)\}/) {
     my $req_str = $1;
@@ -192,10 +203,18 @@ for my $i (0 .. $#items) {
   print "    \"req\": { " . join(", ", @rparts) . " },\n";
 
   if (defined $it->{socketLimit}) {
-    print "    \"socketLimit\": " . json_num($it->{socketLimit});
+    print "    \"socketLimit\": " . json_num($it->{socketLimit}) . ",\n";
   } else {
-    print "    \"socketLimit\": null";
+    print "    \"socketLimit\": null,\n";
   }
+
+  # tags array
+  my @t = @{$it->{tags}};
+  print "    \"tags\": [";
+  if (scalar(@t) > 0) {
+    print join(", ", map { json_str($_) } @t);
+  }
+  print "]";
 
   if (defined $it->{weapon}) {
     print ",\n";

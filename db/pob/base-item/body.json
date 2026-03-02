@@ -7,6 +7,7 @@
     "implicit": null,
     "req": { "level": 73, "str": null, "dex": null, "int": 222 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 196, "energyShieldMax": 225, "movementPenalty": 3 }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": null,
     "req": { "level": 32, "str": 91, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 324, "armourMax": 389, "movementPenalty": 5 }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 68, "str": null, "dex": 183, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 737, "evasionMax": 811 }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": null,
     "req": { "level": 78, "str": null, "dex": 254, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 1037, "evasionMax": 1193, "movementPenalty": 3 }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": "+(8-12)% to all Elemental Resistances",
     "req": { "level": 62, "str": 180, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 711, "armourMax": 782, "movementPenalty": 5 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": null,
     "req": { "level": 54, "str": 79, "dex": 79, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 297, "armourMax": 341, "evasionMin": 297, "evasionMax": 341, "movementPenalty": 3 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": null,
     "req": { "level": 41, "str": 114, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 412, "armourMax": 474, "movementPenalty": 5 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": null,
     "req": { "level": 65, "str": null, "dex": 107, "int": 90 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 436, "evasionMax": 501, "energyShieldMin": 73, "energyShieldMax": 84, "movementPenalty": 3 }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": null,
     "req": { "level": 35, "str": null, "dex": 53, "int": 53 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 194, "evasionMax": 233, "energyShieldMin": 41, "energyShieldMax": 49, "movementPenalty": 3 }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": null,
     "req": { "level": 37, "str": 104, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 373, "armourMax": 429, "movementPenalty": 5 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": null,
     "req": { "level": 17, "str": null, "dex": 53, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 176, "evasionMax": 221, "movementPenalty": 3 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": null,
     "req": { "level": 35, "str": null, "dex": null, "int": 99 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 75, "energyShieldMax": 88, "movementPenalty": 3 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": "+(20-25) to maximum Mana",
     "req": { "level": 71, "str": null, "dex": 88, "int": 122 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 353, "evasionMax": 388, "energyShieldMin": 103, "energyShieldMax": 113, "movementPenalty": 3 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": null,
     "req": { "level": 51, "str": 75, "dex": null, "int": 75 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 281, "armourMax": 314, "energyShieldMin": 58, "energyShieldMax": 65, "movementPenalty": 5 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": null,
     "req": { "level": 21, "str": 34, "dex": null, "int": 34 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 119, "armourMax": 140, "energyShieldMin": 27, "energyShieldMax": 31, "movementPenalty": 5 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": null,
     "req": { "level": 8, "str": 16, "dex": null, "int": 16 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 48, "armourMax": 63, "energyShieldMin": 13, "energyShieldMax": 17, "movementPenalty": 5 }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": null,
     "req": { "level": null, "str": 10, "dex": null, "int": 10 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 27, "armourMax": 38, "energyShieldMin": 9, "energyShieldMax": 13, "movementPenalty": 5 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": null,
     "req": { "level": 6, "str": 25, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 68, "armourMax": 89, "movementPenalty": 5 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": null,
     "req": { "level": 49, "str": 134, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 491, "armourMax": 589, "movementPenalty": 5 }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": null,
     "req": { "level": 50, "str": 73, "dex": 73, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 275, "armourMax": 325, "evasionMin": 275, "evasionMax": 325, "movementPenalty": 3 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": null,
     "req": { "level": 45, "str": null, "dex": null, "int": 124 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 94, "energyShieldMax": 105, "movementPenalty": 3 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": null,
     "req": { "level": 61, "str": 96, "dex": null, "int": 96 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 387, "armourMax": 445, "energyShieldMin": 79, "energyShieldMax": 91, "movementPenalty": 5 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": null,
     "req": { "level": 84, "str": 173, "dex": 173, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 723, "armourMax": 831, "evasionMin": 723, "evasionMax": 831, "movementPenalty": 3 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": null,
     "req": { "level": 17, "str": 53, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 176, "armourMax": 221, "movementPenalty": 5 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": null,
     "req": { "level": 49, "str": null, "dex": 134, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 491, "evasionMax": 579, "movementPenalty": 3 }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": null,
     "req": { "level": 48, "str": null, "dex": 71, "int": 71 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 264, "evasionMax": 304, "energyShieldMin": 55, "energyShieldMax": 63, "movementPenalty": 3 }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": null,
     "req": { "level": 43, "str": 64, "dex": null, "int": 64 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 237, "armourMax": 266, "energyShieldMin": 50, "energyShieldMax": 55, "movementPenalty": 5 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": null,
     "req": { "level": 59, "str": 160, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 601, "armourMax": 691, "movementPenalty": 5 }
   },
   {
@@ -287,6 +315,7 @@
     "implicit": null,
     "req": { "level": 56, "str": null, "dex": 82, "int": 82 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 308, "evasionMax": 369, "energyShieldMin": 63, "energyShieldMax": 76, "movementPenalty": 3 }
   },
   {
@@ -297,6 +326,7 @@
     "implicit": null,
     "req": { "level": 53, "str": null, "dex": 145, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 530, "evasionMax": 594, "movementPenalty": 3 }
   },
   {
@@ -307,6 +337,7 @@
     "implicit": null,
     "req": { "level": 60, "str": 96, "dex": 96, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 376, "armourMax": 451, "evasionMin": 376, "evasionMax": 451, "movementPenalty": 3 }
   },
   {
@@ -317,6 +348,7 @@
     "implicit": null,
     "req": { "level": 59, "str": null, "dex": 160, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 601, "evasionMax": 721, "movementPenalty": 3 }
   },
   {
@@ -327,6 +359,7 @@
     "implicit": null,
     "req": { "level": 53, "str": null, "dex": null, "int": 145 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 109, "energyShieldMax": 129, "movementPenalty": 3 }
   },
   {
@@ -337,6 +370,7 @@
     "implicit": null,
     "req": { "level": 55, "str": 80, "dex": null, "int": 80 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 302, "armourMax": 363, "energyShieldMin": 62, "energyShieldMax": 74, "movementPenalty": 5 }
   },
   {
@@ -347,6 +381,7 @@
     "implicit": null,
     "req": { "level": 57, "str": 83, "dex": 83, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 313, "armourMax": 351, "evasionMin": 313, "evasionMax": 351, "movementPenalty": 3 }
   },
   {
@@ -357,6 +392,7 @@
     "implicit": null,
     "req": { "level": 37, "str": null, "dex": 104, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 373, "evasionMax": 429, "movementPenalty": 3 }
   },
   {
@@ -367,6 +403,7 @@
     "implicit": null,
     "req": { "level": 64, "str": 90, "dex": null, "int": 105 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 377, "armourMax": 433, "energyShieldMin": 92, "energyShieldMax": 105, "movementPenalty": 5 }
   },
   {
@@ -377,6 +414,7 @@
     "implicit": null,
     "req": { "level": 62, "str": null, "dex": 170, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 704, "evasionMax": 810, "movementPenalty": 3 }
   },
   {
@@ -387,6 +425,7 @@
     "implicit": null,
     "req": { "level": 35, "str": 53, "dex": 53, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 194, "armourMax": 223, "evasionMin": 194, "evasionMax": 223, "movementPenalty": 3 }
   },
   {
@@ -397,6 +436,7 @@
     "implicit": null,
     "req": { "level": 41, "str": null, "dex": 114, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 412, "evasionMax": 495, "movementPenalty": 3 }
   },
   {
@@ -407,6 +447,7 @@
     "implicit": null,
     "req": { "level": 32, "str": 48, "dex": null, "int": 48 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 178, "armourMax": 199, "energyShieldMin": 38, "energyShieldMax": 43, "movementPenalty": 5 }
   },
   {
@@ -417,6 +458,7 @@
     "implicit": null,
     "req": { "level": 63, "str": 115, "dex": 94, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 470, "armourMax": 541, "evasionMin": 373, "evasionMax": 429, "movementPenalty": 3 }
   },
   {
@@ -427,6 +469,7 @@
     "implicit": null,
     "req": { "level": 28, "str": null, "dex": 81, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 284, "evasionMax": 327, "movementPenalty": 3 }
   },
   {
@@ -437,6 +480,7 @@
     "implicit": null,
     "req": { "level": 28, "str": 81, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 284, "armourMax": 319, "movementPenalty": 5 }
   },
   {
@@ -447,6 +491,7 @@
     "implicit": null,
     "req": { "level": 28, "str": 43, "dex": null, "int": 43 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 156, "armourMax": 180, "energyShieldMin": 34, "energyShieldMax": 39, "movementPenalty": 5 }
   },
   {
@@ -457,6 +502,7 @@
     "implicit": null,
     "req": { "level": 28, "str": 43, "dex": 43, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 156, "armourMax": 180, "evasionMin": 156, "evasionMax": 180, "movementPenalty": 3 }
   },
   {
@@ -467,6 +513,7 @@
     "implicit": null,
     "req": { "level": 46, "str": 68, "dex": 68, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 254, "armourMax": 292, "evasionMin": 254, "evasionMax": 292, "movementPenalty": 3 }
   },
   {
@@ -477,6 +524,7 @@
     "implicit": null,
     "req": { "level": 73, "str": 133, "dex": 133, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 545, "armourMax": 627, "evasionMin": 545, "evasionMax": 627, "movementPenalty": 3 }
   },
   {
@@ -487,6 +535,7 @@
     "implicit": null,
     "req": { "level": 66, "str": 103, "dex": 103, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 415, "armourMax": 465, "evasionMin": 415, "evasionMax": 465, "movementPenalty": 3 }
   },
   {
@@ -497,6 +546,7 @@
     "implicit": null,
     "req": { "level": 65, "str": 177, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 738, "armourMax": 848, "movementPenalty": 5 }
   },
   {
@@ -507,6 +557,7 @@
     "implicit": null,
     "req": { "level": 45, "str": null, "dex": 124, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 451, "evasionMax": 519, "movementPenalty": 3 }
   },
   {
@@ -517,6 +568,7 @@
     "implicit": null,
     "req": { "level": 68, "str": 191, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 776, "armourMax": 892 }
   },
   {
@@ -527,6 +579,7 @@
     "implicit": "+(15-25)% to all Elemental Resistances",
     "req": { "level": 20, "str": 8, "dex": 8, "int": 8 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "demigods", "not_for_sale", "str_dex_int_armour"],
     "armour": { "armourMin": 75, "armourMax": 86, "evasionMin": 75, "evasionMax": 86, "energyShieldMin": 17, "energyShieldMax": 19 }
   },
   {
@@ -537,6 +590,7 @@
     "implicit": null,
     "req": { "level": 56, "str": 152, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 559, "armourMax": 643, "movementPenalty": 5 }
   },
   {
@@ -547,6 +601,7 @@
     "implicit": null,
     "req": { "level": 73, "str": 133, "dex": null, "int": 133 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 545, "armourMax": 627, "energyShieldMin": 110, "energyShieldMax": 127, "movementPenalty": 5 }
   },
   {
@@ -557,6 +612,7 @@
     "implicit": null,
     "req": { "level": 70, "str": 60, "dex": 60, "int": 60 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_dex_int_armour"],
     "armour": { "armourMin": 217, "armourMax": 250, "evasionMin": 217, "evasionMax": 250, "energyShieldMin": 44, "energyShieldMax": 51, "movementPenalty": 3 }
   },
   {
@@ -567,6 +623,7 @@
     "implicit": null,
     "req": { "level": 35, "str": 53, "dex": null, "int": 53 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 194, "armourMax": 233, "energyShieldMin": 41, "energyShieldMax": 49, "movementPenalty": 5 }
   },
   {
@@ -577,6 +634,7 @@
     "implicit": null,
     "req": { "level": 42, "str": 62, "dex": 62, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 232, "armourMax": 278, "evasionMin": 232, "evasionMax": 278, "movementPenalty": 3 }
   },
   {
@@ -587,6 +645,7 @@
     "implicit": null,
     "req": { "level": 21, "str": 34, "dex": 34, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 119, "armourMax": 142, "evasionMin": 119, "evasionMax": 142, "movementPenalty": 3 }
   },
   {
@@ -597,6 +656,7 @@
     "implicit": null,
     "req": { "level": 52, "str": null, "dex": 76, "int": 76 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 286, "evasionMax": 329, "energyShieldMin": 59, "energyShieldMax": 68, "movementPenalty": 3 }
   },
   {
@@ -607,6 +667,7 @@
     "implicit": null,
     "req": { "level": 39, "str": 59, "dex": null, "int": 59 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 216, "armourMax": 248, "energyShieldMin": 45, "energyShieldMax": 52, "movementPenalty": 5 }
   },
   {
@@ -617,6 +678,7 @@
     "implicit": null,
     "req": { "level": 78, "str": 254, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 1018, "armourMax": 1171, "movementPenalty": 5 }
   },
   {
@@ -627,6 +689,7 @@
     "implicit": null,
     "req": { "level": 8, "str": 16, "dex": 16, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 48, "armourMax": 63, "evasionMin": 48, "evasionMax": 63, "movementPenalty": 3 }
   },
   {
@@ -637,6 +700,7 @@
     "implicit": null,
     "req": { "level": 35, "str": 99, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 353, "armourMax": 417, "movementPenalty": 5 }
   },
   {
@@ -647,6 +711,7 @@
     "implicit": null,
     "req": { "level": 58, "str": 84, "dex": null, "int": 84 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 325, "armourMax": 374, "energyShieldMin": 66, "energyShieldMax": 76, "movementPenalty": 5 }
   },
   {
@@ -657,6 +722,7 @@
     "implicit": null,
     "req": { "level": 28, "str": null, "dex": null, "int": 81 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 62, "energyShieldMax": 69, "movementPenalty": 3 }
   },
   {
@@ -667,6 +733,7 @@
     "implicit": null,
     "req": { "level": 53, "str": 145, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 530, "armourMax": 625, "movementPenalty": 5 }
   },
   {
@@ -677,6 +744,7 @@
     "implicit": null,
     "req": { "level": 78, "str": 151, "dex": 151, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 627, "armourMax": 721, "evasionMin": 627, "evasionMax": 721, "movementPenalty": 3 }
   },
   {
@@ -687,6 +755,7 @@
     "implicit": null,
     "req": { "level": 59, "str": null, "dex": null, "int": 160 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 123, "energyShieldMax": 147, "movementPenalty": 3 }
   },
   {
@@ -697,6 +766,7 @@
     "implicit": null,
     "req": { "level": 84, "str": null, "dex": 173, "int": 173 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 723, "evasionMax": 831, "energyShieldMin": 145, "energyShieldMax": 167, "movementPenalty": 3 }
   },
   {
@@ -707,6 +777,7 @@
     "implicit": null,
     "req": { "level": 78, "str": null, "dex": null, "int": 254 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 227, "energyShieldMax": 260, "movementPenalty": 3 }
   },
   {
@@ -717,6 +788,7 @@
     "implicit": "(3-10)% increased Spell Damage",
     "req": { "level": 62, "str": null, "dex": null, "int": 180 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 137, "energyShieldMax": 151, "movementPenalty": 3 }
   },
   {
@@ -727,6 +799,7 @@
     "implicit": null,
     "req": { "level": 22, "str": null, "dex": 35, "int": 35 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 124, "evasionMax": 146, "energyShieldMin": 28, "energyShieldMax": 33, "movementPenalty": 3 }
   },
   {
@@ -737,6 +810,7 @@
     "implicit": null,
     "req": { "level": 9, "str": null, "dex": 17, "int": 17 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 54, "evasionMax": 70, "energyShieldMin": 14, "energyShieldMax": 18, "movementPenalty": 3 }
   },
   {
@@ -747,6 +821,7 @@
     "implicit": null,
     "req": { "level": 47, "str": 69, "dex": null, "int": 69 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 259, "armourMax": 298, "energyShieldMin": 54, "energyShieldMax": 62, "movementPenalty": 5 }
   },
   {
@@ -757,6 +832,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": 30, "int": 30 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 102, "evasionMax": 128, "energyShieldMin": 24, "energyShieldMax": 29, "movementPenalty": 3 }
   },
   {
@@ -767,6 +843,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": 10, "int": 10 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 27, "evasionMax": 38, "energyShieldMin": 9, "energyShieldMax": 13, "movementPenalty": 3 }
   },
   {
@@ -777,6 +854,7 @@
     "implicit": null,
     "req": { "level": 78, "str": 151, "dex": null, "int": 151 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 627, "armourMax": 721, "energyShieldMin": 126, "energyShieldMax": 145, "movementPenalty": 5 }
   },
   {
@@ -787,6 +865,7 @@
     "implicit": null,
     "req": { "level": null, "str": 12, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 19, "armourMax": 27, "movementPenalty": 3 }
   },
   {
@@ -797,6 +876,7 @@
     "implicit": null,
     "req": { "level": 40, "str": null, "dex": 60, "int": 60 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 221, "evasionMax": 248, "energyShieldMin": 46, "energyShieldMax": 52, "movementPenalty": 3 }
   },
   {
@@ -807,6 +887,7 @@
     "implicit": null,
     "req": { "level": 17, "str": 28, "dex": null, "int": 28 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour"],
     "armour": { "armourMin": 97, "armourMax": 121, "energyShieldMin": 22, "energyShieldMax": 28, "movementPenalty": 5 }
   },
   {
@@ -817,6 +898,7 @@
     "implicit": null,
     "req": { "level": 84, "str": 293, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 1183, "armourMax": 1360, "movementPenalty": 5 }
   },
   {
@@ -827,6 +909,7 @@
     "implicit": null,
     "req": { "level": 84, "str": 173, "dex": null, "int": 173 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 723, "armourMax": 831, "energyShieldMin": 145, "energyShieldMax": 167, "movementPenalty": 5 }
   },
   {
@@ -837,6 +920,7 @@
     "implicit": "+1 to Level of all Vaal Skill Gems",
     "req": { "level": 72, "str": 66, "dex": 66, "int": 66 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_dex_int_armour"],
     "armour": { "armourMin": 329, "armourMax": 378, "evasionMin": 329, "evasionMax": 378, "energyShieldMin": 67, "energyShieldMax": 77, "movementPenalty": 3 }
   },
   {
@@ -847,6 +931,7 @@
     "implicit": null,
     "req": { "level": 68, "str": null, "dex": 103, "int": 109 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 427, "evasionMax": 491, "energyShieldMin": 93, "energyShieldMax": 107, "movementPenalty": 3 }
   },
   {
@@ -857,6 +942,7 @@
     "implicit": null,
     "req": { "level": 37, "str": null, "dex": null, "int": 104 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 79, "energyShieldMax": 90, "movementPenalty": 3 }
   },
   {
@@ -867,6 +953,7 @@
     "implicit": null,
     "req": { "level": 67, "str": 109, "dex": null, "int": 94 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 443, "armourMax": 496, "energyShieldMin": 76, "energyShieldMax": 85, "movementPenalty": 5 }
   },
   {
@@ -877,6 +964,7 @@
     "implicit": null,
     "req": { "level": 70, "str": 99, "dex": null, "int": 115 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_int_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 401, "armourMax": 461, "energyShieldMin": 96, "energyShieldMax": 110, "movementPenalty": 5 }
   },
   {
@@ -887,6 +975,7 @@
     "implicit": null,
     "req": { "level": 73, "str": null, "dex": 133, "int": 133 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 545, "evasionMax": 627, "energyShieldMin": 110, "energyShieldMax": 127, "movementPenalty": 3 }
   },
   {
@@ -897,6 +986,7 @@
     "implicit": null,
     "req": { "level": 56, "str": null, "dex": null, "int": 152 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 115, "energyShieldMax": 132, "movementPenalty": 3 }
   },
   {
@@ -907,6 +997,7 @@
     "implicit": null,
     "req": { "level": 17, "str": 28, "dex": 28, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 97, "armourMax": 121, "evasionMin": 97, "evasionMax": 121, "movementPenalty": 3 }
   },
   {
@@ -917,6 +1008,7 @@
     "implicit": null,
     "req": { "level": null, "str": 10, "dex": 10, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 27, "armourMax": 38, "evasionMin": 27, "evasionMax": 38, "movementPenalty": 3 }
   },
   {
@@ -927,6 +1019,7 @@
     "implicit": null,
     "req": { "level": 28, "str": null, "dex": 43, "int": 43 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 156, "evasionMax": 180, "energyShieldMin": 34, "energyShieldMax": 39, "movementPenalty": 3 }
   },
   {
@@ -937,6 +1030,7 @@
     "implicit": null,
     "req": { "level": 18, "str": null, "dex": null, "int": 55 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 43, "energyShieldMax": 53, "movementPenalty": 3 }
   },
   {
@@ -947,6 +1041,7 @@
     "implicit": null,
     "req": { "level": 59, "str": null, "dex": 86, "int": 86 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 330, "evasionMax": 370, "energyShieldMin": 67, "energyShieldMax": 76, "movementPenalty": 3 }
   },
   {
@@ -957,6 +1052,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": 14, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 29, "evasionMax": 41, "movementPenalty": 3 }
   },
   {
@@ -967,6 +1063,7 @@
     "implicit": null,
     "req": { "level": 56, "str": null, "dex": 152, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 559, "evasionMax": 643, "movementPenalty": 3 }
   },
   {
@@ -977,6 +1074,7 @@
     "implicit": null,
     "req": { "level": 32, "str": null, "dex": null, "int": 91 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 69, "energyShieldMax": 80, "movementPenalty": 3 }
   },
   {
@@ -987,6 +1085,7 @@
     "implicit": null,
     "req": { "level": 25, "str": null, "dex": null, "int": 73 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 56, "energyShieldMax": 64, "movementPenalty": 3 }
   },
   {
@@ -997,6 +1096,7 @@
     "implicit": null,
     "req": { "level": 11, "str": null, "dex": null, "int": 37 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 30, "energyShieldMax": 38, "movementPenalty": 3 }
   },
   {
@@ -1007,6 +1107,7 @@
     "implicit": null,
     "req": { "level": 41, "str": null, "dex": null, "int": 114 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 86, "energyShieldMax": 104, "movementPenalty": 3 }
   },
   {
@@ -1017,6 +1118,7 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": 17 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 14, "energyShieldMax": 20, "movementPenalty": 3 }
   },
   {
@@ -1027,6 +1129,7 @@
     "implicit": null,
     "req": { "level": 44, "str": null, "dex": 65, "int": 65 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 243, "evasionMax": 287, "energyShieldMin": 51, "energyShieldMax": 60, "movementPenalty": 3 }
   },
   {
@@ -1037,6 +1140,7 @@
     "implicit": null,
     "req": { "level": 32, "str": 48, "dex": 48, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 178, "armourMax": 210, "evasionMin": 178, "evasionMax": 210, "movementPenalty": 3 }
   },
   {
@@ -1047,6 +1151,7 @@
     "implicit": null,
     "req": { "level": 49, "str": null, "dex": null, "int": 134 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour"],
     "armour": { "energyShieldMin": 101, "energyShieldMax": 117, "movementPenalty": 3 }
   },
   {
@@ -1057,6 +1162,7 @@
     "implicit": null,
     "req": { "level": 9, "str": null, "dex": 32, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 98, "evasionMax": 127, "movementPenalty": 3 }
   },
   {
@@ -1067,6 +1173,7 @@
     "implicit": null,
     "req": { "level": 32, "str": null, "dex": 91, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 324, "evasionMax": 382, "movementPenalty": 3 }
   },
   {
@@ -1077,6 +1184,7 @@
     "implicit": null,
     "req": { "level": 45, "str": 124, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 451, "armourMax": 506, "movementPenalty": 5 }
   },
   {
@@ -1087,6 +1195,7 @@
     "implicit": null,
     "req": { "level": 73, "str": null, "dex": 222, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 894, "evasionMax": 1028, "movementPenalty": 3 }
   },
   {
@@ -1097,6 +1206,7 @@
     "implicit": null,
     "req": { "level": 84, "str": null, "dex": 293, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 1205, "evasionMax": 1386, "movementPenalty": 3 }
   },
   {
@@ -1107,6 +1217,7 @@
     "implicit": null,
     "req": { "level": 35, "str": null, "dex": 99, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 353, "evasionMax": 396, "movementPenalty": 3 }
   },
   {
@@ -1117,6 +1228,7 @@
     "implicit": null,
     "req": { "level": 73, "str": 222, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "not_for_sale", "str_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 877, "armourMax": 1009, "movementPenalty": 5 }
   },
   {
@@ -1127,6 +1239,7 @@
     "implicit": null,
     "req": { "level": 78, "str": null, "dex": 151, "int": 151 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "evasionMin": 627, "evasionMax": 721, "energyShieldMin": 126, "energyShieldMax": 145, "movementPenalty": 3 }
   },
   {
@@ -1137,6 +1250,7 @@
     "implicit": null,
     "req": { "level": 69, "str": 95, "dex": 116, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour", "top_tier_base_item_type"],
     "armour": { "armourMin": 380, "armourMax": 437, "evasionMin": 477, "evasionMax": 549, "movementPenalty": 3 }
   },
   {
@@ -1147,6 +1261,7 @@
     "implicit": null,
     "req": { "level": 84, "str": null, "dex": null, "int": 293 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "not_for_sale", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 262, "energyShieldMax": 302, "movementPenalty": 3 }
   },
   {
@@ -1157,6 +1272,7 @@
     "implicit": null,
     "req": { "level": 68, "str": null, "dex": null, "int": 194 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 171, "energyShieldMax": 197, "movementPenalty": 3 }
   },
   {
@@ -1167,6 +1283,7 @@
     "implicit": null,
     "req": { "level": 62, "str": null, "dex": 96, "int": 96 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 387, "evasionMax": 434, "energyShieldMin": 79, "energyShieldMax": 89, "movementPenalty": 3 }
   },
   {
@@ -1177,6 +1294,7 @@
     "implicit": null,
     "req": { "level": 21, "str": 63, "dex": null, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_armour"],
     "armour": { "armourMin": 216, "armourMax": 248, "movementPenalty": 5 }
   },
   {
@@ -1187,6 +1305,7 @@
     "implicit": null,
     "req": { "level": 32, "str": null, "dex": 48, "int": 48 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_int_armour"],
     "armour": { "evasionMin": 178, "evasionMax": 205, "energyShieldMin": 38, "energyShieldMax": 44, "movementPenalty": 3 }
   },
   {
@@ -1197,6 +1316,7 @@
     "implicit": null,
     "req": { "level": 65, "str": null, "dex": null, "int": 187 },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "int_armour", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 157, "energyShieldMax": 181, "movementPenalty": 3 }
   },
   {
@@ -1207,6 +1327,7 @@
     "implicit": null,
     "req": { "level": 25, "str": null, "dex": 73, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour"],
     "armour": { "evasionMin": 255, "evasionMax": 306, "movementPenalty": 3 }
   },
   {
@@ -1217,6 +1338,7 @@
     "implicit": null,
     "req": { "level": 38, "str": 57, "dex": 57, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "str_dex_armour"],
     "armour": { "armourMin": 210, "armourMax": 236, "evasionMin": 210, "evasionMax": 236, "movementPenalty": 3 }
   },
   {
@@ -1227,6 +1349,7 @@
     "implicit": null,
     "req": { "level": 65, "str": null, "dex": 197, "int": null },
     "socketLimit": 6,
+    "tags": ["armour", "body_armour", "default", "dex_armour", "top_tier_base_item_type"],
     "armour": { "evasionMin": 854, "evasionMax": 982, "movementPenalty": 3 }
   }
 ]

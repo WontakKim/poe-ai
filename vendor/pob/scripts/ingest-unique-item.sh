@@ -121,12 +121,22 @@ sub parse_item {
   my $requires_level;
   my $implicits_n;
   my $implicits_line_idx;
+  my ($req_str, $req_dex, $req_int) = (0, 0, 0);
+  my $sockets;
+  my $source;
 
   for my $i (0 .. $#lines) {
     if ($lines[$i] =~ /^Variant:\s*(.+)/)    { push @variant_names, $1; }
     if ($lines[$i] =~ /^League:\s*(.+)/)     { $league = $1; }
     if ($lines[$i] =~ /^LevelReq:\s*(\d+)/)  { $level_req_override = int($1); }
-    if ($lines[$i] =~ /^Requires Level\s+(\d+)/) { $requires_level = int($1); }
+    if ($lines[$i] =~ /^Requires Level\s+(\d+)/) {
+      $requires_level = int($1);
+      if ($lines[$i] =~ /(\d+)\s+Str/) { $req_str = int($1); }
+      if ($lines[$i] =~ /(\d+)\s+Dex/) { $req_dex = int($1); }
+      if ($lines[$i] =~ /(\d+)\s+Int/) { $req_int = int($1); }
+    }
+    if ($lines[$i] =~ /^Sockets:\s*(.+)/)   { $sockets = $1; }
+    if ($lines[$i] =~ /^(?:\{variant:[^}]+\})?\s*Source:\s*(.+)/) { $source = $1; }
     if ($lines[$i] =~ /^Implicits:\s*(\d+)/) { $implicits_n = int($1); $implicits_line_idx = $i; }
   }
 
@@ -140,6 +150,23 @@ sub parse_item {
       if ($variant_names[$i] eq "Current") {
         $cidx = $i + 1;
         last;
+      }
+    }
+  }
+
+  # ── Collect influence flags ────────────────────────────────
+  my %influence_map = (
+    "Shaper Item" => "shaper", "Elder Item" => "elder",
+    "Crusader Item" => "crusader", "Redeemer Item" => "redeemer",
+    "Hunter Item" => "hunter", "Warlord Item" => "warlord",
+    "Synthesised" => "synthesised",
+  );
+  my @influences;
+  for my $i (1 .. $#lines) {
+    if ($lines[$i] =~ /$STANDALONE_RE/) {
+      my $kw = $1;
+      if (exists $influence_map{$kw}) {
+        push @influences, $influence_map{$kw};
       }
     }
   }
@@ -243,14 +270,24 @@ sub parse_item {
     }
   }
 
+  # Build req hash only if Requires Level line was present
+  my $req_hash;
+  if (defined $requires_level) {
+    $req_hash = { str => $req_str, dex => $req_dex, int => $req_int };
+  }
+
   return {
-    name      => $name,
-    baseType  => $base_type,
-    type      => $type,
-    levelReq  => $level_req,
-    league    => $league,
-    implicits => \@implicits,
-    mods      => \@mods,
+    name       => $name,
+    baseType   => $base_type,
+    type       => $type,
+    levelReq   => $level_req,
+    league     => $league,
+    implicits  => \@implicits,
+    mods       => \@mods,
+    req        => $req_hash,
+    sockets    => $sockets,
+    influences => \@influences,
+    source     => $source,
   };
 }
 
@@ -319,6 +356,32 @@ for my $i (0 .. $#all_items) {
     print "    \"league\": " . json_str($it->{league}) . ",\n";
   } else {
     print "    \"league\": null,\n";
+  }
+
+  # req (attribute requirements)
+  if (defined $it->{req}) {
+    my $r = $it->{req};
+    print "    \"req\": { \"str\": $r->{str}, \"dex\": $r->{dex}, \"int\": $r->{int} },\n";
+  } else {
+    print "    \"req\": null,\n";
+  }
+
+  # sockets
+  if (defined $it->{sockets}) {
+    print "    \"sockets\": " . json_str($it->{sockets}) . ",\n";
+  } else {
+    print "    \"sockets\": null,\n";
+  }
+
+  # influences
+  my @inf = @{$it->{influences}};
+  if (scalar(@inf) > 0) {
+    print "    \"influences\": [" . join(", ", map { json_str($_) } @inf) . "],\n";
+  }
+
+  # source
+  if (defined $it->{source}) {
+    print "    \"source\": " . json_str($it->{source}) . ",\n";
   }
 
   # implicit array

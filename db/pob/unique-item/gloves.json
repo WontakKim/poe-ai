@@ -6,6 +6,9 @@
     "type": "Gloves",
     "levelReq": 45,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 35, "int": 35 },
+    "sockets": null,
+    "source": "Drops from unique{Oshabi, Avatar of the Grove}",
     "implicit": [],
     "mods": [
       "(100-150)% increased Evasion and Energy Shield",
@@ -23,6 +26,8 @@
     "type": "Gloves",
     "levelReq": 39,
     "league": "Settlers of Kalguur",
+    "req": { "str": 58, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(6-12)% increased Attack Speed",
@@ -38,6 +43,9 @@
     "type": "Gloves",
     "levelReq": 50,
     "league": "Delirium",
+    "req": { "str": 0, "dex": 39, "int": 39 },
+    "sockets": null,
+    "source": "Drops from the Simulacrum Encounter",
     "implicit": [],
     "mods": [
       "+(50-70) to maximum Energy Shield",
@@ -54,6 +62,8 @@
     "type": "Gloves",
     "levelReq": 41,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 25 Blight Skill",
@@ -70,6 +80,9 @@
     "type": "Gloves",
     "levelReq": 45,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Opening normal{Fortified Casket} in normal{Defense Research Lab}",
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -86,6 +99,8 @@
     "type": "Gloves",
     "levelReq": 25,
     "league": "Legion",
+    "req": { "str": 0, "dex": 0, "int": 39 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Intelligence",
@@ -105,6 +120,9 @@
     "type": "Gloves",
     "levelReq": 75,
     "league": null,
+    "req": { "str": 100, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": [],
     "mods": [
       "+(60-80) to Intelligence",
@@ -121,6 +139,8 @@
     "type": "Gloves",
     "levelReq": 31,
     "league": "Legion",
+    "req": { "str": 0, "dex": 25, "int": 25 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -138,6 +158,8 @@
     "type": "Gloves",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 29, "dex": 29, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(40-60)% increased Armour and Evasion",
@@ -153,6 +175,9 @@
     "type": "Gloves",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 95 },
+    "sockets": null,
+    "source": "Drops from unique{The Infinite Hunger}",
     "implicit": ["(12-16)% increased Spell Damage"],
     "mods": [
       "Socketed Projectile Spells deal 150% more Damage with Hits",
@@ -170,6 +195,10 @@
     "type": "Gloves",
     "levelReq": 58,
     "league": null,
+    "req": { "str": 0, "dex": 45, "int": 45 },
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": [],
     "mods": [
       "+(40-50) to Dexterity",
@@ -188,6 +217,9 @@
     "type": "Gloves",
     "levelReq": 59,
     "league": "Blight",
+    "req": { "str": 45, "dex": 45, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour and Evasion",
@@ -205,6 +237,9 @@
     "type": "Gloves",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 95, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Infinite Hunger}",
     "implicit": ["(16-20)% increased Melee Damage"],
     "mods": [
       "Adds (2-3) to (22-26) Physical Damage to Attacks",
@@ -221,6 +256,9 @@
     "type": "Gloves",
     "levelReq": 37,
     "league": "Delve",
+    "req": { "str": 29, "dex": 0, "int": 29 },
+    "sockets": null,
+    "source": "Drops from unique{Kurgal, the Blackblooded}",
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -237,6 +275,9 @@
     "type": "Gloves",
     "levelReq": 69,
     "league": "Bestiary",
+    "req": { "str": 98, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Craiceann, First of the Deep}",
     "implicit": [],
     "mods": [
       "(150-200)% increased Armour",
@@ -254,6 +295,8 @@
     "type": "Gloves",
     "levelReq": 41,
     "league": "Delve",
+    "req": { "str": 0, "dex": 0, "int": 60 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(15-20)% increased Cast Speed",
@@ -269,6 +312,9 @@
     "type": "Gloves",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 21 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(50-60)% increased Spell Damage",
@@ -286,6 +332,8 @@
     "type": "Gloves",
     "levelReq": 12,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 21 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-50) to Intelligence",
@@ -300,6 +348,8 @@
     "type": "Gloves",
     "levelReq": 63,
     "league": null,
+    "req": { "str": 100, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 20 Doryani's Touch Skill",
@@ -318,6 +368,8 @@
     "type": "Gloves",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 76, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(400-600) to Armour",
@@ -332,6 +384,10 @@
     "type": "Gloves",
     "levelReq": 58,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper} (Uber)",
     "implicit": [],
     "mods": [
       "Grants Call of Steel",
@@ -347,6 +403,8 @@
     "type": "Gloves",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 14, "int": 14 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+30% to Global Critical Strike Multiplier",
@@ -362,6 +420,9 @@
     "type": "Gloves",
     "levelReq": 59,
     "league": "Bestiary",
+    "req": { "str": 45, "dex": 45, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Farrul, First of the Plains}",
     "implicit": [],
     "mods": [
       "(100-140)% increased Armour and Evasion",
@@ -379,6 +440,9 @@
     "type": "Gloves",
     "levelReq": 50,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 39, "int": 39 },
+    "sockets": null,
+    "source": "Drops from unique{Fenumus, First of the Night}",
     "implicit": [],
     "mods": [
       "Grants Level 20 Aspect of the Spider Skill",
@@ -396,6 +460,8 @@
     "type": "Gloves",
     "levelReq": 15,
     "league": "Rampage",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(6-9)% increased Attack Speed",
@@ -413,6 +479,8 @@
     "type": "Gloves",
     "levelReq": 23,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Strength",
@@ -430,6 +498,8 @@
     "type": "Gloves",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 45, "dex": 45, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour and Evasion",
@@ -445,6 +515,8 @@
     "type": "Gloves",
     "levelReq": 38,
     "league": null,
+    "req": { "str": 0, "dex": 56, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (8-12) to (15-20) Physical Damage to Attacks",
@@ -460,6 +532,8 @@
     "type": "Gloves",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 95 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+30 to Strength",
@@ -477,6 +551,8 @@
     "type": "Gloves",
     "levelReq": 43,
     "league": null,
+    "req": { "str": 34, "dex": 34, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -495,6 +571,9 @@
     "type": "Gloves",
     "levelReq": 77,
     "league": "Mercenaries of Trarthus",
+    "req": { "str": 70, "dex": 0, "int": 70 },
+    "sockets": null,
+    "source": "Drops from unique{Mercenary} after winning a duel",
     "implicit": [],
     "mods": [
       "(40-80)% increased Armour and Energy Shield",
@@ -510,6 +589,9 @@
     "type": "Gloves",
     "levelReq": 43,
     "league": "Ritual",
+    "req": { "str": 34, "dex": 0, "int": 34 },
+    "sockets": null,
+    "source": "Purchase from Ritual Reward",
     "implicit": [],
     "mods": [
       "(70-130)% increased Armour and Energy Shield",
@@ -525,6 +607,9 @@
     "type": "Gloves",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 195, "int": 195 },
+    "sockets": null,
+    "source": "Drops from unique{It That Was Esh} and unique{It That Was Tul} in normal{Hive Colony}",
     "implicit": [],
     "mods": [
       "You cannot Cast Socketed Hex Curse Skills",
@@ -543,6 +628,9 @@
     "type": "Gloves",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds}",
     "implicit": [],
     "mods": [
       "Can be modified while Corrupted",
@@ -559,6 +647,9 @@
     "type": "Gloves",
     "levelReq": 47,
     "league": "Ultimatum",
+    "req": { "str": 68, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 30 Rage",
@@ -575,6 +666,9 @@
     "type": "Gloves",
     "levelReq": 24,
     "league": null,
+    "req": { "str": 0, "dex": 17, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -593,6 +687,8 @@
     "type": "Gloves",
     "levelReq": 9,
     "league": null,
+    "req": { "str": 0, "dex": 17, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -609,6 +705,8 @@
     "type": "Gloves",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 68 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Faster Casting",
@@ -625,6 +723,8 @@
     "type": "Gloves",
     "levelReq": 69,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(50-70) to Maximum Life",
@@ -642,6 +742,8 @@
     "type": "Gloves",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(10-15)% increased Attack Speed",
@@ -658,6 +760,8 @@
     "type": "Gloves",
     "levelReq": 67,
     "league": "Blight",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(200-250)% increased Evasion and Energy Shield",
@@ -674,6 +778,8 @@
     "type": "Gloves",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 0, "dex": 51, "int": 51 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-100)% increased Evasion and Energy Shield",
@@ -690,6 +796,8 @@
     "type": "Gloves",
     "levelReq": 21,
     "league": "Legion",
+    "req": { "str": 0, "dex": 33, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -706,6 +814,8 @@
     "type": "Gloves",
     "levelReq": 69,
     "league": "Expedition",
+    "req": { "str": 38, "dex": 38, "int": 38 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "800% increased Attribute Requirements",
@@ -722,6 +832,8 @@
     "type": "Gloves",
     "levelReq": 35,
     "league": null,
+    "req": { "str": 52, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Melee Strike Skills deal Splash Damage to surrounding targets",
@@ -738,6 +850,8 @@
     "type": "Gloves",
     "levelReq": 70,
     "league": "Heist",
+    "req": { "str": 0, "dex": 95, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(80-120) to Evasion Rating",
@@ -755,6 +869,8 @@
     "type": "Gloves",
     "levelReq": 48,
     "league": "Expedition",
+    "req": { "str": 31, "dex": 31, "int": 31 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(33-48)% increased Ward",
@@ -770,6 +886,8 @@
     "type": "Gloves",
     "levelReq": 57,
     "league": "Rampage",
+    "req": { "str": 44, "dex": 0, "int": 44 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -788,6 +906,9 @@
     "type": "Gloves",
     "levelReq": 57,
     "league": "Synthesis",
+    "req": { "str": 44, "dex": 0, "int": 44 },
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex}",
     "implicit": [],
     "mods": [
       "+(15-25) to all Attributes",
@@ -805,6 +926,8 @@
     "type": "Gloves",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "30% increased Attack Speed when on Full Life",
@@ -820,6 +943,8 @@
     "type": "Gloves",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 0, "dex": 50, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 10 Assassin's Mark when you Hit a Rare or Unique Enemy",
@@ -837,6 +962,8 @@
     "type": "Gloves",
     "levelReq": 54,
     "league": null,
+    "req": { "str": 0, "dex": 78, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (16-19) to (25-29) Fire Damage",
@@ -854,6 +981,8 @@
     "type": "Gloves",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 306, "dex": 0, "int": 306 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "500% increased Attribute Requirements",
@@ -869,6 +998,9 @@
     "type": "Gloves",
     "levelReq": 41,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Grants Level 25 Wintertide Brand",
@@ -885,6 +1017,9 @@
     "type": "Gloves",
     "levelReq": 63,
     "league": "Heist",
+    "req": { "str": 100, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(60-80) to Intelligence",
@@ -901,6 +1036,9 @@
     "type": "Gloves",
     "levelReq": 60,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 95 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+30 to Strength",
@@ -918,6 +1056,9 @@
     "type": "Gloves",
     "levelReq": 55,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 68 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Unleash",
@@ -934,6 +1075,9 @@
     "type": "Gloves",
     "levelReq": 43,
     "league": "Heist",
+    "req": { "str": 34, "dex": 0, "int": 34 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Adds (17-23) to (29-31) Chaos Damage",
@@ -951,6 +1095,8 @@
     "type": "Gloves",
     "levelReq": 11,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 4 to 8 Fire Damage to Attacks",
@@ -966,6 +1112,9 @@
     "type": "Gloves",
     "levelReq": 51,
     "league": "Bestiary",
+    "req": { "str": 40, "dex": 0, "int": 40 },
+    "sockets": null,
+    "source": "Drops from unique{Saqawal, First of the Sky}",
     "implicit": [],
     "mods": [
       "(140-180)% increased Armour and Energy Shield",
@@ -983,6 +1132,8 @@
     "type": "Gloves",
     "levelReq": 7,
     "league": null,
+    "req": { "str": 0, "dex": 17, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(40-60)% increased Stun and Block Recovery",
@@ -1001,6 +1152,8 @@
     "type": "Gloves",
     "levelReq": 31,
     "league": "Rampage",
+    "req": { "str": 0, "dex": 25, "int": 25 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(20-30)% increased Global Critical Strike Chance",
@@ -1019,6 +1172,10 @@
     "type": "Gloves",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 51, "dex": 0, "int": 51 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper}",
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour and Energy Shield",
@@ -1037,6 +1194,9 @@
     "type": "Gloves",
     "levelReq": 45,
     "league": "Incursion",
+    "req": { "str": 0, "dex": 35, "int": 35 },
+    "sockets": null,
+    "source": "Upgraded from unique{Architect's Hand} via currency{Vial of Dominance}",
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -1055,6 +1215,8 @@
     "type": "Gloves",
     "levelReq": 27,
     "league": null,
+    "req": { "str": 22, "dex": 22, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(40-50) to Dexterity",
@@ -1071,6 +1233,8 @@
     "type": "Gloves",
     "levelReq": 58,
     "league": null,
+    "req": { "str": 0, "dex": 45, "int": 45 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-180)% increased Evasion Rating",
@@ -1089,6 +1253,10 @@
     "type": "Gloves",
     "levelReq": 50,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder} (Uber Uber)",
     "implicit": [],
     "mods": [
       "(120-150)% increased Evasion and Energy Shield",
@@ -1104,6 +1272,8 @@
     "type": "Gloves",
     "levelReq": 51,
     "league": null,
+    "req": { "str": 40, "dex": 0, "int": 40 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (60-72) to (88-100) Cold Damage to Attacks",
@@ -1120,6 +1290,8 @@
     "type": "Gloves",
     "levelReq": 58,
     "league": "Synthesis",
+    "req": { "str": 0, "dex": 45, "int": 45 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(20-30)% increased Damage over Time",
@@ -1136,6 +1308,8 @@
     "type": "Gloves",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(40-60) to maximum Energy Shield",
@@ -1153,6 +1327,8 @@
     "type": "Gloves",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 51, "dex": 51, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(90-110)% increased Armour and Evasion",
@@ -1169,6 +1345,8 @@
     "type": "Gloves",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(8-12)% increased Attack Speed",
@@ -1185,6 +1363,9 @@
     "type": "Gloves",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 58, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Fear} in normal{Moment of Trauma}",
     "implicit": [],
     "mods": [
       "Adds (6-10) to (16-22) Physical Damage to Attacks",
@@ -1202,6 +1383,9 @@
     "type": "Gloves",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch} (Uber)",
     "implicit": [],
     "mods": [
       "(80-120)% Increased Armour",
@@ -1217,6 +1401,8 @@
     "type": "Gloves",
     "levelReq": 50,
     "league": null,
+    "req": { "str": 0, "dex": 39, "int": 39 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Vile Toxins",
@@ -1233,6 +1419,8 @@
     "type": "Gloves",
     "levelReq": 32,
     "league": "Necropolis",
+    "req": { "str": 26, "dex": 0, "int": 26 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50–70)% increased Armour and Energy Shield",
@@ -1249,6 +1437,8 @@
     "type": "Gloves",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 0, "dex": 51, "int": 51 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 30 Added Lightning Damage",
@@ -1264,6 +1454,9 @@
     "type": "Gloves",
     "levelReq": 36,
     "league": "Abyss",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
     "implicit": [],
     "mods": [
       "Has Alt Variant Two: true",
@@ -1282,6 +1475,8 @@
     "type": "Gloves",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 26, "dex": 0, "int": 26 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour and Energy Shield",
@@ -1299,6 +1494,8 @@
     "type": "Gloves",
     "levelReq": 27,
     "league": "Ambush, Invasion",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+5 to Level of Socketed Vaal Gems",
@@ -1316,6 +1513,8 @@
     "type": "Gloves",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 98, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(8-13)% increased Attack Speed",
@@ -1333,6 +1532,8 @@
     "type": "Gloves",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 54 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Socketed Curse Spell when you Cast a Curse Spell, with a 0.25 second Cooldown",
@@ -1349,6 +1550,8 @@
     "type": "Gloves",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 79 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Elemental Gems",
@@ -1365,6 +1568,8 @@
     "type": "Gloves",
     "levelReq": 43,
     "league": null,
+    "req": { "str": 34, "dex": 0, "int": 34 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (1-3) to (42-47) Lightning Damage to Spells and Attacks",
@@ -1382,6 +1587,9 @@
     "type": "Gloves",
     "levelReq": 47,
     "league": null,
+    "req": { "str": 68, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": [],
     "mods": [
       "+(30-60) to maximum Life",
@@ -1398,6 +1606,9 @@
     "type": "Gloves",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 51, "dex": 51, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Arcane Wake after Spending a total of 200 Mana",
@@ -1415,6 +1626,8 @@
     "type": "Gloves",
     "levelReq": 49,
     "league": null,
+    "req": { "str": 38, "dex": 38, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 5 Concentrated Effect",

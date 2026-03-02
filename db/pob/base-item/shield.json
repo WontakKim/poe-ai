@@ -7,6 +7,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 58, "str": null, "dex": 74, "int": 74 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 209, "evasionMax": 240, "energyShieldMin": 43, "energyShieldMax": 49, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 20, "str": null, "dex": 29, "int": 29 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 56, "evasionMax": 70, "energyShieldMin": 13, "energyShieldMax": 16, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 45, "str": null, "dex": null, "int": 110 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 38, "energyShieldMax": 45, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": "+12% to all Elemental Resistances",
     "req": { "level": 55, "str": 71, "dex": null, "int": 71 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 124, "armourMax": 142, "energyShieldMin": 25, "energyShieldMax": 29, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": "+12% to all Elemental Resistances",
     "req": { "level": 68, "str": 85, "dex": null, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 156, "armourMax": 179, "energyShieldMin": 32, "energyShieldMax": 37, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": "120% increased Block Recovery",
     "req": { "level": 54, "str": 70, "dex": 70, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 122, "armourMax": 140, "evasionMin": 122, "evasionMax": 140, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": "9% increased Movement Speed",
     "req": { "level": 50, "str": null, "dex": 121, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 287, "evasionMax": 330, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": "Minions deal (5-10)% increased Damage",
     "req": { "level": 15, "str": null, "dex": null, "int": 42 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "focus_can_roll_minion_modifiers", "int_armour", "shield"],
     "armour": { "energyShieldMin": 15, "energyShieldMax": 19, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": "+4% to all Elemental Resistances",
     "req": { "level": 59, "str": 76, "dex": null, "int": 76 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 186, "armourMax": 208, "energyShieldMin": 38, "energyShieldMax": 43, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": null,
     "req": { "level": 33, "str": null, "dex": null, "int": 83 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 35, "energyShieldMax": 40, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": "+(30-40) to maximum Life",
     "req": { "level": 47, "str": 114, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 290, "armourMax": 324, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 39, "str": 96, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 177, "armourMax": 209, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 27, "str": null, "dex": 37, "int": 37 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 62, "evasionMax": 73, "energyShieldMin": 13, "energyShieldMax": 16, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": null,
     "req": { "level": 66, "str": 85, "dex": 85, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 209, "armourMax": 240, "evasionMin": 209, "evasionMax": 240, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 17, "str": 47, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 94, "armourMax": 113, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": "+12% to all Elemental Resistances",
     "req": { "level": 34, "str": 46, "dex": null, "int": 46 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 77, "armourMax": 89, "energyShieldMin": 16, "energyShieldMax": 19, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": null,
     "req": { "level": 62, "str": 85, "dex": null, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 215, "armourMax": 247, "energyShieldMin": 44, "energyShieldMax": 50, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": "(10-15)% increased Spell Damage",
     "req": { "level": 49, "str": null, "dex": null, "int": 119 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 42, "energyShieldMax": 48, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": "Inflict Brittle on Enemies when you Block their Damage",
     "req": { "level": 70, "str": null, "dex": 159, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "experimental_base", "not_for_sale", "shield"],
     "armour": { "evasionMin": 206, "evasionMax": 237, "blockChance": 28, "movementPenalty": 3 }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 67, "str": 159, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 522, "armourMax": 601, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 45, "str": null, "dex": 59, "int": 59 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 122, "evasionMax": 144, "energyShieldMin": 25, "energyShieldMax": 30, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": "+(30-40) to maximum Life",
     "req": { "level": 24, "str": 62, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 151, "armourMax": 173, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 5, "str": 20, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 36, "armourMax": 47, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 46, "str": null, "dex": 112, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 227, "evasionMax": 272, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 55, "str": 132, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 293, "armourMax": 337, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": null,
     "req": { "level": 49, "str": 64, "dex": 64, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 155, "armourMax": 178, "evasionMin": 155, "evasionMax": 178, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": "9% increased Movement Speed",
     "req": { "level": 66, "str": null, "dex": 159, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 385, "evasionMax": 442, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 12, "str": null, "dex": 19, "int": 19 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 46, "evasionMax": 60, "energyShieldMin": 11, "energyShieldMax": 15, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -287,6 +315,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 61, "str": 159, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 357, "armourMax": 411, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -297,6 +326,7 @@
     "implicit": "120% increased Block Recovery",
     "req": { "level": 70, "str": 85, "dex": 85, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 148, "armourMax": 170, "evasionMin": 148, "evasionMax": 170, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -307,6 +337,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 42, "str": null, "dex": 103, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 311, "evasionMax": 349, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -317,6 +348,7 @@
     "implicit": "Inflict Brittle on Enemies when you Block their Damage",
     "req": { "level": 30, "str": null, "dex": 76, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "experimental_base", "not_for_sale", "shield"],
     "armour": { "evasionMin": 75, "evasionMax": 86, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -327,6 +359,7 @@
     "implicit": "+4% to all Elemental Resistances",
     "req": { "level": 40, "str": 53, "dex": null, "int": 53 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 127, "armourMax": 142, "energyShieldMin": 27, "energyShieldMax": 30, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -337,6 +370,7 @@
     "implicit": "Sap Enemies when you Block their Damage",
     "req": { "level": 30, "str": null, "dex": null, "int": 76 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "focus", "int_armour", "not_for_sale", "shield"],
     "armour": { "energyShieldMin": 16, "energyShieldMax": 19, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -347,6 +381,7 @@
     "implicit": "Scorch Enemies when you Block their Damage",
     "req": { "level": 30, "str": 76, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "not_for_sale", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 87, "armourMax": 100, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -357,6 +392,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 62, "str": null, "dex": 85, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 181, "evasionMax": 209, "energyShieldMin": 37, "energyShieldMax": 43, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -367,6 +403,7 @@
     "implicit": "+(30-40) to maximum Life",
     "req": { "level": 64, "str": 159, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 412, "armourMax": 474, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -377,6 +414,7 @@
     "implicit": "180% increased Block Recovery",
     "req": { "level": 12, "str": 19, "dex": 19, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 29, "armourMax": 37, "evasionMin": 29, "evasionMax": 37, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -387,6 +425,7 @@
     "implicit": "Minions deal (5-10)% increased Damage",
     "req": { "level": 59, "str": null, "dex": null, "int": 141 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "focus_can_roll_minion_modifiers", "int_armour", "shield", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 49, "energyShieldMax": 55, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -397,6 +436,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 34, "str": null, "dex": 85, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 225, "evasionMax": 259, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -407,6 +447,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 51, "str": 123, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 397, "armourMax": 437, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -417,6 +458,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": null, "str": null, "dex": 13, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 14, "evasionMax": 20, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -427,6 +469,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 54, "str": null, "dex": 130, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 354, "evasionMax": 407, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -437,6 +480,7 @@
     "implicit": "+(11-19)% to Chaos Resistance",
     "req": { "level": 15, "str": null, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "demigods", "not_for_sale", "shield"],
     "armour": { "blockChance": 20, "movementPenalty": 3 }
   },
   {
@@ -447,6 +491,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 23, "str": null, "dex": 60, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 116, "evasionMax": 139, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -457,6 +502,7 @@
     "implicit": "(10-15)% increased Spell Damage",
     "req": { "level": 65, "str": null, "dex": null, "int": 159 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 58, "energyShieldMax": 66, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -467,6 +513,7 @@
     "implicit": "Scorch Enemies when you Block their Damage",
     "req": { "level": 70, "str": 159, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "not_for_sale", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 220, "armourMax": 253, "blockChance": 29, "movementPenalty": 3 }
   },
   {
@@ -477,6 +524,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 69, "str": null, "dex": 159, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 440, "evasionMax": 506, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -487,6 +535,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 57, "str": null, "dex": 137, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 327, "evasionMax": 385, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -497,6 +546,7 @@
     "implicit": "Minions deal (5-10)% increased Damage",
     "req": { "level": 41, "str": null, "dex": null, "int": 101 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "focus_can_roll_minion_modifiers", "int_armour", "shield"],
     "armour": { "energyShieldMin": 35, "energyShieldMax": 40, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -507,6 +557,7 @@
     "implicit": "(10-15)% increased Spell Damage",
     "req": { "level": 28, "str": null, "dex": null, "int": 71 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 25, "energyShieldMax": 29, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -517,6 +568,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 56, "str": null, "dex": null, "int": 134 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 47, "energyShieldMax": 55, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -527,6 +579,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 60, "str": null, "dex": 154, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 477, "evasionMax": 549, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -537,6 +590,7 @@
     "implicit": "+8% to all Elemental Resistances",
     "req": { "level": 50, "str": 65, "dex": null, "int": 65 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 113, "armourMax": 133, "energyShieldMin": 23, "energyShieldMax": 27, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -547,6 +601,7 @@
     "implicit": "+8% to all Elemental Resistances",
     "req": { "level": 27, "str": 37, "dex": null, "int": 37 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 62, "armourMax": 73, "energyShieldMin": 13, "energyShieldMax": 16, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -557,6 +612,7 @@
     "implicit": "+4% to all Elemental Resistances",
     "req": { "level": 13, "str": 20, "dex": null, "int": 20 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 43, "armourMax": 56, "energyShieldMin": 11, "energyShieldMax": 14, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -567,6 +623,7 @@
     "implicit": "Scorch Enemies when you Block their Damage",
     "req": { "level": 50, "str": 121, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "not_for_sale", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 144, "armourMax": 165, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -577,6 +634,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 43, "str": 105, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 230, "armourMax": 265, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -587,6 +645,7 @@
     "implicit": "180% increased Block Recovery",
     "req": { "level": 39, "str": 52, "dex": 52, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 88, "armourMax": 99, "evasionMin": 88, "evasionMax": 99, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -597,6 +656,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 66, "str": null, "dex": 85, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 151, "evasionMax": 174, "energyShieldMin": 31, "energyShieldMax": 35, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -607,6 +667,7 @@
     "implicit": "+8% to all Elemental Resistances",
     "req": { "level": 65, "str": 85, "dex": null, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 147, "armourMax": 169, "energyShieldMin": 30, "energyShieldMax": 34, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -617,6 +678,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 38, "str": null, "dex": 94, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 220, "evasionMax": 259, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -627,6 +689,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 33, "str": null, "dex": 44, "int": 44 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 120, "evasionMax": 135, "energyShieldMin": 26, "energyShieldMax": 29, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -637,6 +700,7 @@
     "implicit": "6% increased Movement Speed",
     "req": { "level": 16, "str": null, "dex": 44, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 123, "evasionMax": 154, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -647,6 +711,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 35, "str": 87, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 188, "armourMax": 216, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -657,6 +722,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 8, "str": null, "dex": 26, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 51, "evasionMax": 66, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -667,6 +733,7 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": 70, "str": 159, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 467, "armourMax": 537, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -677,6 +744,7 @@
     "implicit": "+4% to all Elemental Resistances",
     "req": { "level": 7, "str": 13, "dex": null, "int": 13 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 18, "armourMax": 25, "energyShieldMin": 5, "energyShieldMax": 7, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -687,6 +755,7 @@
     "implicit": "Inflict Brittle on Enemies when you Block their Damage",
     "req": { "level": 50, "str": null, "dex": 121, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "experimental_base", "not_for_sale", "shield"],
     "armour": { "evasionMin": 123, "evasionMax": 142, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -697,6 +766,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 49, "str": null, "dex": 64, "int": 64 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 111, "evasionMax": 131, "energyShieldMin": 23, "energyShieldMax": 27, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -707,6 +777,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 11, "str": 33, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 53, "armourMax": 66, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -717,6 +788,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 39, "str": null, "dex": 52, "int": 52 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 142, "evasionMax": 163, "energyShieldMin": 30, "energyShieldMax": 34, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -727,6 +799,7 @@
     "implicit": null,
     "req": { "level": 20, "str": 29, "dex": null, "int": 29 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 65, "armourMax": 81, "energyShieldMin": 15, "energyShieldMax": 18, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -737,6 +810,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 30, "str": 76, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 237, "armourMax": 260, "blockChance": 23, "movementPenalty": 3 }
   },
   {
@@ -747,6 +821,7 @@
     "implicit": "60% increased Block Recovery",
     "req": { "level": 5, "str": 11, "dex": 11, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 13, "armourMax": 18, "evasionMin": 13, "evasionMax": 18, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -757,6 +832,7 @@
     "implicit": null,
     "req": { "level": 27, "str": 37, "dex": 37, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 87, "armourMax": 100, "evasionMin": 87, "evasionMax": 100, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -767,6 +843,7 @@
     "implicit": "+(10-20) to maximum Life",
     "req": { "level": 58, "str": 139, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 261, "armourMax": 308, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -777,6 +854,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 54, "str": null, "dex": 70, "int": 70 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 195, "evasionMax": 218, "energyShieldMin": 40, "energyShieldMax": 45, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -787,6 +865,7 @@
     "implicit": "+3% chance to Suppress Spell Damage",
     "req": { "level": 5, "str": null, "dex": 11, "int": 11 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield"],
     "armour": { "evasionMin": 13, "evasionMax": 18, "energyShieldMin": 4, "energyShieldMax": 6, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -797,6 +876,7 @@
     "implicit": "60% increased Block Recovery",
     "req": { "level": 45, "str": 59, "dex": 59, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 102, "armourMax": 120, "evasionMin": 102, "evasionMax": 120, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -807,6 +887,7 @@
     "implicit": "60% increased Block Recovery",
     "req": { "level": 62, "str": 85, "dex": 85, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield", "top_tier_base_item_type"],
     "armour": { "armourMin": 154, "armourMax": 177, "evasionMin": 154, "evasionMax": 177, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -817,6 +898,7 @@
     "implicit": "120% increased Block Recovery",
     "req": { "level": 33, "str": 44, "dex": 44, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 75, "armourMax": 86, "evasionMin": 75, "evasionMax": 86, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -827,6 +909,7 @@
     "implicit": null,
     "req": { "level": null, "str": 11, "dex": null, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_armour", "str_shield"],
     "armour": { "armourMin": 9, "armourMax": 12, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -837,6 +920,7 @@
     "implicit": null,
     "req": { "level": 46, "str": 60, "dex": null, "int": 60 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_int_armour", "str_int_shield"],
     "armour": { "armourMin": 146, "armourMax": 167, "energyShieldMin": 30, "energyShieldMax": 35, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -847,6 +931,7 @@
     "implicit": "60% increased Block Recovery",
     "req": { "level": 20, "str": 29, "dex": 29, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 46, "armourMax": 58, "evasionMin": 46, "evasionMax": 58, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -857,6 +942,7 @@
     "implicit": "Sap Enemies when you Block their Damage",
     "req": { "level": 50, "str": null, "dex": null, "int": 121 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "focus", "int_armour", "not_for_sale", "shield"],
     "armour": { "energyShieldMin": 25, "energyShieldMax": 29, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -867,6 +953,7 @@
     "implicit": "+5% chance to Suppress Spell Damage",
     "req": { "level": 70, "str": null, "dex": 85, "int": 85 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_int_armour", "dex_int_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 242, "evasionMax": 278, "energyShieldMin": 49, "energyShieldMax": 57, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -877,6 +964,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 23, "str": null, "dex": null, "int": 60 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 21, "energyShieldMax": 25, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -887,6 +975,7 @@
     "implicit": "180% increased Block Recovery",
     "req": { "level": 58, "str": 74, "dex": 74, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "shield", "str_dex_armour", "str_dex_shield"],
     "armour": { "armourMin": 131, "armourMax": 146, "evasionMin": 131, "evasionMax": 146, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -897,6 +986,7 @@
     "implicit": null,
     "req": { "level": 53, "str": null, "dex": null, "int": 128 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 54, "energyShieldMax": 62, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -907,6 +997,7 @@
     "implicit": null,
     "req": { "level": 68, "str": null, "dex": null, "int": 159 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 67, "energyShieldMax": 77, "blockChance": 25, "movementPenalty": 3 }
   },
   {
@@ -917,6 +1008,7 @@
     "implicit": "Sap Enemies when you Block their Damage",
     "req": { "level": 70, "str": null, "dex": null, "int": 159 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "experimental_base", "focus", "int_armour", "not_for_sale", "shield"],
     "armour": { "energyShieldMin": 39, "energyShieldMax": 45, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -927,6 +1019,7 @@
     "implicit": "(10-15)% increased Spell Damage",
     "req": { "level": null, "str": null, "dex": null, "int": 15 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 6, "energyShieldMax": 8, "blockChance": 22, "movementPenalty": 3 }
   },
   {
@@ -937,6 +1030,7 @@
     "implicit": "3% increased Movement Speed",
     "req": { "level": 63, "str": null, "dex": 159, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield", "top_tier_base_item_type"],
     "armour": { "evasionMin": 330, "evasionMax": 379, "blockChance": 27, "movementPenalty": 3 }
   },
   {
@@ -947,6 +1041,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 62, "str": null, "dex": null, "int": 159 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield", "top_tier_base_item_type"],
     "armour": { "energyShieldMin": 56, "energyShieldMax": 64, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -957,6 +1052,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 37, "str": null, "dex": null, "int": 92 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 32, "energyShieldMax": 38, "blockChance": 24, "movementPenalty": 3 }
   },
   {
@@ -967,6 +1063,7 @@
     "implicit": "9% increased Movement Speed",
     "req": { "level": 29, "str": null, "dex": 74, "int": null },
     "socketLimit": 3,
+    "tags": ["armour", "default", "dex_armour", "dex_shield", "shield"],
     "armour": { "evasionMin": 169, "evasionMax": 194, "blockChance": 26, "movementPenalty": 3 }
   },
   {
@@ -977,6 +1074,7 @@
     "implicit": "(5-10)% increased Spell Damage",
     "req": { "level": 9, "str": null, "dex": null, "int": 29 },
     "socketLimit": 3,
+    "tags": ["armour", "default", "focus", "int_armour", "shield"],
     "armour": { "energyShieldMin": 11, "energyShieldMax": 14, "blockChance": 24, "movementPenalty": 3 }
   }
 ]

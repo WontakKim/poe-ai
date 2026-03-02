@@ -6,6 +6,8 @@
     "type": "Body Armour",
     "levelReq": 43,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(180-220)% increased Armour and Energy Shield",
@@ -22,6 +24,8 @@
     "type": "Body Armour",
     "levelReq": 17,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-100)% increased Evasion Rating",
@@ -38,6 +42,9 @@
     "type": "Body Armour",
     "levelReq": 72,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": ["+1 to Level of all Vaal Skill Gems"],
     "mods": [
       "(270-340)% increased Armour, Evasion and Energy Shield",
@@ -53,6 +60,8 @@
     "type": "Body Armour",
     "levelReq": 46,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-200)% increased Armour",
@@ -69,6 +78,8 @@
     "type": "Body Armour",
     "levelReq": 35,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 15 Blood Offering Skill",
@@ -86,6 +97,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(8-12)% to all Elemental Resistances"],
     "mods": [
       "+(500-700) Strength Requirement",
@@ -102,6 +115,8 @@
     "type": "Body Armour",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-60) to maximum Life",
@@ -116,6 +131,8 @@
     "type": "Body Armour",
     "levelReq": 32,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "15% increased Dexterity",
@@ -132,6 +149,8 @@
     "type": "Body Armour",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+5 to Level of Socketed Movement Gems",
@@ -148,6 +167,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(120-150)% increased Evasion and Energy Shield",
@@ -165,6 +186,8 @@
     "type": "Body Armour",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 20 Animate Guardian's Weapon when Animated Guardian Kills an Enemy",
@@ -184,6 +207,8 @@
     "type": "Body Armour",
     "levelReq": 69,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-80)% increased Chaos Damage",
@@ -199,6 +224,8 @@
     "type": "Body Armour",
     "levelReq": 52,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(300-400)% increased Evasion and Energy Shield",
@@ -214,6 +241,8 @@
     "type": "Body Armour",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(50-75)% to Fire Resistance",
@@ -229,6 +258,9 @@
     "type": "Body Armour",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Elreon, Light's Judge} during Betrayal encounters",
     "implicit": [],
     "mods": [
       "Socketed Minion Gems are Supported by Level 16 Life Leech",
@@ -245,6 +277,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["3% increased Movement Speed"],
     "mods": [
       "(150-200)% increased Evasion Rating",
@@ -261,6 +295,9 @@
     "type": "Body Armour",
     "levelReq": 56,
     "league": "Bestiary",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Craiceann, First of the Deep}",
     "implicit": [],
     "mods": [
       "Grants Level 20 Aspect of the Crab Skill",
@@ -278,6 +315,9 @@
     "type": "Body Armour",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(30-40) to Strength",
@@ -297,6 +337,8 @@
     "type": "Body Armour",
     "levelReq": 63,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(180-220)% increased Armour and Evasion",
@@ -315,6 +357,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(8-12)% to all Elemental Resistances"],
     "mods": [
       "Trigger Level 20 Death Aura when Equipped",
@@ -334,6 +378,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 10 Chance to Poison",
@@ -351,6 +397,8 @@
     "type": "Body Armour",
     "levelReq": 37,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Gems can be Socketed in this Item ignoring Socket Colour",
@@ -367,6 +415,8 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Blasphemy",
@@ -385,6 +435,9 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven}",
     "implicit": [],
     "mods": [
       "Grants Level 20 Unhinge Skill",
@@ -401,6 +454,8 @@
     "type": "Body Armour",
     "levelReq": 67,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-200)% increased Armour and Energy Shield",
@@ -418,6 +473,9 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(100-150)% increased Evasion and Energy Shield",
@@ -434,6 +492,9 @@
     "type": "Body Armour",
     "levelReq": 69,
     "league": "Bestiary",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Farrul, First of the Plains}",
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour and Evasion",
@@ -451,6 +512,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Bestiary",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Fenumus, First of the Night}",
     "implicit": [],
     "mods": [
       "+(30-40) to Intelligence",
@@ -468,6 +532,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-150)% increased Energy Shield",
@@ -484,6 +550,9 @@
     "type": "Body Armour",
     "levelReq": 25,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -502,6 +571,8 @@
     "type": "Body Armour",
     "levelReq": 25,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -518,6 +589,9 @@
     "type": "Body Armour",
     "levelReq": 56,
     "league": "Synthesis",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex}",
     "implicit": [],
     "mods": [
       "{fractured}(180-230)% increased Energy Shield",
@@ -537,6 +611,8 @@
     "type": "Body Armour",
     "levelReq": 64,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-75)% increased Armour and Energy Shield",
@@ -554,6 +630,8 @@
     "type": "Body Armour",
     "levelReq": 11,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(100-200) to maximum Energy Shield",
@@ -569,6 +647,8 @@
     "type": "Body Armour",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "100% increased Rarity of Items found",
@@ -586,6 +666,8 @@
     "type": "Body Armour",
     "levelReq": 38,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "100% increased Global Physical Damage",
@@ -604,6 +686,8 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(40-50) to Dexterity",
@@ -620,6 +704,8 @@
     "type": "Body Armour",
     "levelReq": 39,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Strength",
@@ -637,6 +723,8 @@
     "type": "Body Armour",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(220-240)% increased Armour and Energy Shield",
@@ -655,6 +743,8 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+3 to Level of Socketed Fire Gems",
@@ -671,6 +761,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(60-80) to maximum Life",
@@ -688,6 +780,9 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-12)% Chance to Block Attack Damage",
@@ -704,6 +799,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Has no Sockets",
@@ -717,6 +814,8 @@
     "type": "Body Armour",
     "levelReq": 61,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-170)% increased Armour and Energy Shield",
@@ -733,6 +832,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(160-220)% increased Evasion Rating",
@@ -748,6 +849,8 @@
     "type": "Body Armour",
     "levelReq": 47,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(120-140)% increased Armour and Energy Shield",
@@ -764,6 +867,8 @@
     "type": "Body Armour",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 1 to (20-30) Lightning Damage to Attacks",
@@ -780,6 +885,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 15 Pierce",
@@ -797,6 +904,9 @@
     "type": "Body Armour",
     "levelReq": 64,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "Has 6 Sockets",
@@ -818,6 +928,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(25-40)% increased Melee Damage",
@@ -832,6 +944,8 @@
     "type": "Body Armour",
     "levelReq": 49,
     "league": "Affliction",
+    "req": { "str": 134, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+12 to Level of Socketed Skill Gems",
@@ -847,6 +961,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(200-240)% increased Evasion Rating",
@@ -866,6 +982,9 @@
     "type": "Body Armour",
     "levelReq": 43,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(180-220)% increased Armour and Energy Shield",
@@ -883,6 +1002,9 @@
     "type": "Body Armour",
     "levelReq": 49,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 29 Added Cold Damage",
@@ -899,6 +1021,10 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "influences": ["shaper", "elder"],
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Shade Form when Hit",
@@ -916,6 +1042,9 @@
     "type": "Body Armour",
     "levelReq": 69,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour and Evasion",
@@ -933,6 +1062,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+30% chance to Suppress Spell Damage",
@@ -949,6 +1081,9 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Has no Sockets",
@@ -963,6 +1098,9 @@
     "type": "Body Armour",
     "levelReq": 64,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Has 6 Sockets",
@@ -984,6 +1122,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(150-200)% increased Evasion Rating",
@@ -1000,6 +1141,9 @@
     "type": "Body Armour",
     "levelReq": 71,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(20-25) to maximum Mana"],
     "mods": [
       "(220-250)% increased Evasion and Energy Shield",
@@ -1017,6 +1161,9 @@
     "type": "Body Armour",
     "levelReq": 71,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(20-25) to maximum Mana"],
     "mods": [
       "Has 6 Abyssal Sockets"
@@ -1029,6 +1176,8 @@
     "type": "Body Armour",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 103, "dex": 103, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(160-200)% increased Armour and Evasion",
@@ -1046,6 +1195,9 @@
     "type": "Body Armour",
     "levelReq": 58,
     "league": "Blight",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 1 Meat Shield",
@@ -1062,6 +1214,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Bestiary",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Saqawal, First of the Sky}",
     "implicit": [],
     "mods": [
       "+(25-75) to all Attributes",
@@ -1079,6 +1234,9 @@
     "type": "Body Armour",
     "levelReq": 78,
     "league": null,
+    "req": { "str": 0, "dex": 151, "int": 151 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Fear} in normal{Moment of Trauma}",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Summon Void Spawn every 4 seconds",
@@ -1095,6 +1253,9 @@
     "type": "Body Armour",
     "levelReq": 77,
     "league": null,
+    "req": { "str": 0, "dex": 48, "int": 48 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": [],
     "mods": [
       "Trigger a Socketed Spell on Unarmed Melee Critical Strike, with a 0.25 second Cooldown",
@@ -1113,6 +1274,9 @@
     "type": "Body Armour",
     "levelReq": 72,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Double Corrupting Sacrificial Garb",
     "implicit": [],
     "mods": [
       "Has an additional Implicit Mod",
@@ -1132,6 +1296,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(3-10)% increased Spell Damage"],
     "mods": [
       "(100-150)% increased Energy Shield",
@@ -1148,6 +1314,9 @@
     "type": "Body Armour",
     "levelReq": 71,
     "league": "Abyss",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
     "implicit": ["+(20-25) to maximum Mana"],
     "mods": [
       "Has 1 Abyssal Socket",
@@ -1165,6 +1334,9 @@
     "type": "Body Armour",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
     "implicit": [],
     "mods": [
       "Sockets cannot be modified",
@@ -1179,6 +1351,8 @@
     "type": "Body Armour",
     "levelReq": 17,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-20) to Strength",
@@ -1196,6 +1370,8 @@
     "type": "Body Armour",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Spell Totem",
@@ -1212,6 +1388,9 @@
     "type": "Body Armour",
     "levelReq": 67,
     "league": "Blight",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "Trigger Level 10 Contaminate when you Kill an Enemy",
@@ -1230,6 +1409,9 @@
     "type": "Body Armour",
     "levelReq": 71,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Unrelenting Domain of Timeless Conflict",
     "implicit": ["+(20-25) to maximum Mana"],
     "mods": [
       "(140-160)% increased Evasion and Energy Shield",
@@ -1246,6 +1428,8 @@
     "type": "Body Armour",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": "W-W-W-W-W-W",
     "implicit": [],
     "mods": []
   },
@@ -1256,6 +1440,9 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Admiral Darnaw} in normal{Contract: Death to Darnaw}",
     "implicit": [],
     "mods": [
       "+(30-40) to Intelligence",
@@ -1272,6 +1459,9 @@
     "type": "Body Armour",
     "levelReq": 35,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)",
     "implicit": [],
     "mods": [
       "+(30–50) to Strength",
@@ -1286,6 +1476,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "40% increased Spell Damage",
@@ -1302,6 +1494,8 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(350-400)% increased Armour",
@@ -1317,6 +1511,8 @@
     "type": "Body Armour",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Herald Gems",
@@ -1332,6 +1528,8 @@
     "type": "Body Armour",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 29 Added Chaos Damage",
@@ -1348,6 +1546,10 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["shaper", "elder"],
+    "source": "Drops from unique{The Elder} (Uber)",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Glimpse of Eternity when Hit",
@@ -1365,6 +1567,8 @@
     "type": "Body Armour",
     "levelReq": 55,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Physical Damage taken bypasses Energy Shield",
@@ -1381,6 +1585,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1% Chance to Block Attack Damage per 50 Strength",
@@ -1398,6 +1604,8 @@
     "type": "Body Armour",
     "levelReq": 67,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(40-70) to Intelligence",
@@ -1414,6 +1622,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Snowblind Grace} using currency{Blessing of Tul}",
     "implicit": [],
     "mods": [
       "+50% chance to Suppress Spell Damage",
@@ -1430,6 +1641,8 @@
     "type": "Body Armour",
     "levelReq": 56,
     "league": "Torment",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-120)% increased Evasion Rating",
@@ -1445,6 +1658,8 @@
     "type": "Body Armour",
     "levelReq": 71,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-25) to maximum Mana"],
     "mods": [
       "(220-250)% increased Evasion and Energy Shield",
@@ -1461,6 +1676,9 @@
     "type": "Body Armour",
     "levelReq": 65,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
     "implicit": [],
     "mods": [
       "(10-15)% increased Dexterity",
@@ -1477,6 +1695,8 @@
     "type": "Body Armour",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 5 Elemental Proliferation",
@@ -1499,6 +1719,8 @@
     "type": "Body Armour",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(140-170)% increased Evasion and Energy Shield",
@@ -1517,6 +1739,8 @@
     "type": "Body Armour",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 145, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-100)% increased Armour",
@@ -1532,6 +1756,8 @@
     "type": "Body Armour",
     "levelReq": 52,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Aura Gems",
@@ -1549,6 +1775,9 @@
     "type": "Body Armour",
     "levelReq": 28,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(80-100)% increased Armour and Evasion",
@@ -1566,6 +1795,8 @@
     "type": "Body Armour",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(200-220)% increased Energy Shield",
@@ -1582,6 +1813,8 @@
     "type": "Body Armour",
     "levelReq": 35,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour and Energy Shield",
@@ -1597,6 +1830,9 @@
     "type": "Body Armour",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Adds 2 to 4 Physical Damage to Attacks",
@@ -1613,6 +1849,9 @@
     "type": "Body Armour",
     "levelReq": 57,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% increased Attack Speed",
@@ -1631,6 +1870,8 @@
     "type": "Body Armour",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 20 Summon Bestial Ursa Skill",
@@ -1649,6 +1890,8 @@
     "type": "Body Armour",
     "levelReq": 37,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 1 to 40 Lightning Damage to Attacks",

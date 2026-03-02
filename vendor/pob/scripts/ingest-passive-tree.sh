@@ -111,6 +111,31 @@ while (<$fh>) {
         }
       }
 
+      # Graph position
+      my ($group, $orbit, $orbitIndex) = (0, 0, 0);
+      if ($buf =~ /\["group"\]= (\d+)/) { $group = int($1); }
+      if ($buf =~ /\["orbit"\]= (\d+)/) { $orbit = int($1); }
+      if ($buf =~ /\["orbitIndex"\]= (\d+)/) { $orbitIndex = int($1); }
+
+      # Connections
+      my @out_nodes;
+      if ($buf =~ /^ {12}\["out"\]= \{([^}]*)\}/m) {
+        my $block = $1;
+        while ($block =~ /"(\d+)"/g) { push @out_nodes, $1; }
+      }
+      my @in_nodes;
+      if ($buf =~ /^ {12}\["in"\]= \{([^}]*)\}/m) {
+        my $block = $1;
+        while ($block =~ /"(\d+)"/g) { push @in_nodes, $1; }
+      }
+
+      # Granted attributes (omit if 0)
+      my ($gStr, $gDex, $gInt, $gPP) = (0, 0, 0, 0);
+      if ($buf =~ /\["grantedStrength"\]= (\d+)/) { $gStr = int($1); }
+      if ($buf =~ /\["grantedDexterity"\]= (\d+)/) { $gDex = int($1); }
+      if ($buf =~ /\["grantedIntelligence"\]= (\d+)/) { $gInt = int($1); }
+      if ($buf =~ /\["grantedPassivePoints"\]= (\d+)/) { $gPP = int($1); }
+
       # ── Build JSON ──
       my @parts;
       push @parts, "\"id\": " . json_str($node_id);
@@ -122,6 +147,16 @@ while (<$fh>) {
       if (@reminder) {
         push @parts, "\"reminderText\": " . json_str_arr(\@reminder);
       }
+
+      push @parts, "\"group\": $group";
+      push @parts, "\"orbit\": $orbit";
+      push @parts, "\"orbitIndex\": $orbitIndex";
+      push @parts, "\"out\": " . json_str_arr(\@out_nodes);
+      push @parts, "\"in\": " . json_str_arr(\@in_nodes);
+      if ($gStr > 0)  { push @parts, "\"grantedStrength\": $gStr"; }
+      if ($gDex > 0)  { push @parts, "\"grantedDexterity\": $gDex"; }
+      if ($gInt > 0)  { push @parts, "\"grantedIntelligence\": $gInt"; }
+      if ($gPP > 0)   { push @parts, "\"grantedPassivePoints\": $gPP"; }
 
       # ── Type-specific fields ──
       if ($partition eq "keystone") {

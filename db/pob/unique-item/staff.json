@@ -6,6 +6,8 @@
     "type": "Staff",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 158, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "40% increased Strength Requirement",
@@ -23,6 +25,8 @@
     "type": "Staff",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 158, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of all Lightning Spell Skill Gems",
@@ -40,6 +44,8 @@
     "type": "Staff",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 158, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of all Lightning Spell Skill Gems",
@@ -57,6 +63,8 @@
     "type": "Staff",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 158, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of all Lightning Spell Skill Gems",
@@ -74,6 +82,9 @@
     "type": "Staff",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Grants Level 20 Queen's Demand Skill",
@@ -90,6 +101,8 @@
     "type": "Staff",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+(40-55)% to Chaos Damage over Time Multiplier",
@@ -107,6 +120,10 @@
     "type": "Staff",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "influences": ["shaper", "elder"],
+    "source": "Drops from unique{The Elder} (Uber)",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Adds (220-240) to (270-300) Physical Damage",
@@ -127,6 +144,9 @@
     "type": "Staff",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+10% Chance to Block Attack Damage while wielding a Staff",
@@ -144,6 +164,8 @@
     "type": "Staff",
     "levelReq": 13,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "18% increased Cast Speed",
@@ -162,6 +184,8 @@
     "type": "Staff",
     "levelReq": 58,
     "league": null,
+    "req": { "str": 99, "dex": 0, "int": 99 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of Socketed Minion Gems",
@@ -179,6 +203,8 @@
     "type": "Staff",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are Supported by Level 8 Trap",
@@ -194,6 +220,8 @@
     "type": "Staff",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "6% Chance to Block Attack Damage while wielding a Staff",
@@ -211,6 +239,9 @@
     "type": "Staff",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 113, "dex": 113, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{It That Was Esh} and unique{It That Was Tul} in normal{Hive Colony}",
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "(1-7)% increased Intelligence",
@@ -228,6 +259,9 @@
     "type": "Staff",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Grants Level 20 Summon Shaper Memory",
@@ -248,6 +282,8 @@
     "type": "Staff",
     "levelReq": 52,
     "league": null,
+    "req": { "str": 89, "dex": 0, "int": 89 },
+    "sockets": null,
     "implicit": ["+22% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "(12-16)% Chance to Block Attack Damage while wielding a Staff",
@@ -265,6 +301,9 @@
     "type": "Staff",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are Supported by Level 16 Trap",
@@ -282,6 +321,8 @@
     "type": "Staff",
     "levelReq": 13,
     "league": null,
+    "req": { "str": 27, "dex": 0, "int": 27 },
+    "sockets": null,
     "implicit": ["+20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "1% increased Area of Effect of Area Skills per 20 Intelligence",
@@ -296,6 +337,9 @@
     "type": "Staff",
     "levelReq": 68,
     "league": "Legion",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are Supported by Level 30 Greater Spell Echo",
@@ -310,6 +354,9 @@
     "type": "Staff",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 35, "dex": 0, "int": 35 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+1 to Level of Socketed Fire Gems",
@@ -328,6 +375,8 @@
     "type": "Staff",
     "levelReq": 18,
     "league": null,
+    "req": { "str": 35, "dex": 0, "int": 35 },
+    "sockets": null,
     "implicit": ["+20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+1 to Level of Socketed Fire Gems",
@@ -345,6 +394,9 @@
     "type": "Staff",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+12% Chance to Block Attack Damage while wielding a Staff",
@@ -361,6 +413,9 @@
     "type": "Staff",
     "levelReq": 64,
     "league": "Heist",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+10% Chance to Block Attack Damage while wielding a Staff",
@@ -378,6 +433,9 @@
     "type": "Staff",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are Supported by Level 1 Multiple Totems",
@@ -393,6 +451,8 @@
     "type": "Staff",
     "levelReq": 49,
     "league": null,
+    "req": { "str": 85, "dex": 0, "int": 85 },
+    "sockets": null,
     "implicit": ["+22% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems fire 4 additional Projectiles",
@@ -410,6 +470,8 @@
     "type": "Staff",
     "levelReq": 62,
     "league": "Delve",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Trigger Level 25 Summon Phantasm Skill when you Consume a Corpse",
@@ -427,6 +489,8 @@
     "type": "Staff",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of all Cold Spell Skill Gems",
@@ -444,6 +508,9 @@
     "type": "Staff",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 78, "dex": 0, "int": 78 },
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch} (Uber)",
     "implicit": ["+22% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "(60-70)% reduced Elemental Resistances",
@@ -457,6 +524,8 @@
     "type": "Staff",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+12% Chance to Block Attack Damage while wielding a Staff",
@@ -473,6 +542,8 @@
     "type": "Staff",
     "levelReq": 58,
     "league": "Affliction",
+    "req": { "str": 99, "dex": 0, "int": 99 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are Supported by Level 1 Lifetap",
@@ -488,6 +559,9 @@
     "type": "Staff",
     "levelReq": 66,
     "league": "Harbinger",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Created from item parts obtained from Boss in The Beachhead",
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are supported by Level 1 Chance to Bleed",
@@ -505,6 +579,9 @@
     "type": "Staff",
     "levelReq": 60,
     "league": "Heist",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "(140-180)% increased Physical Damage",
@@ -524,6 +601,8 @@
     "type": "Staff",
     "levelReq": 52,
     "league": "Crucible",
+    "req": null,
+    "sockets": null,
     "implicit": ["+22% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Has 1 Socket",
@@ -542,6 +621,8 @@
     "type": "Staff",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["+25% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "Has no Sockets",
@@ -557,6 +638,8 @@
     "type": "Staff",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "+(40-60)% to Fire Damage over Time Multiplier",
@@ -572,6 +655,8 @@
     "type": "Staff",
     "levelReq": 28,
     "league": null,
+    "req": { "str": 51, "dex": 0, "int": 51 },
+    "sockets": null,
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "(80-100)% increased Physical Damage",
@@ -589,6 +674,9 @@
     "type": "Staff",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 51, "dex": 0, "int": 51 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+20% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "15% Chance to Block Attack Damage while wielding a Staff",
@@ -608,6 +696,8 @@
     "type": "Staff",
     "levelReq": 33,
     "league": null,
+    "req": { "str": 59, "dex": 0, "int": 59 },
+    "sockets": null,
     "implicit": ["+20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+1 to Level of Socketed Support Gems",
@@ -624,6 +714,9 @@
     "type": "Staff",
     "levelReq": 55,
     "league": "Sanctum",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}",
     "implicit": ["+22% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "(700-800)% increased Physical Damage",
@@ -641,6 +734,9 @@
     "type": "Staff",
     "levelReq": 66,
     "league": "Harvest",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Enmity Divine} via currency{Haemocombustion Scroll}",
     "implicit": ["+25% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Socketed Gems are supported by Level 1 Chance to Bleed",
@@ -658,6 +754,8 @@
     "type": "Staff",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 78, "dex": 0, "int": 78 },
+    "sockets": null,
     "implicit": ["+22% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+2 to Level of Socketed Spell Gems",
@@ -674,6 +772,9 @@
     "type": "Staff",
     "levelReq": 68,
     "league": "Harvest",
+    "req": { "str": 89, "dex": 0, "int": 89 },
+    "sockets": null,
+    "source": "Drops from unique{Oshabi, Avatar of the Grove}",
     "implicit": ["+22% Chance to Block Spell Damage while wielding a Staff"],
     "mods": [
       "Grants Level 20 Brandsurge Skill",
@@ -687,6 +788,9 @@
     "type": "Staff",
     "levelReq": 28,
     "league": null,
+    "req": { "str": 43, "dex": 0, "int": 43 },
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": ["+20% Chance to Block Attack Damage while wielding a Staff"],
     "mods": [
       "+15% Chance to Block Attack Damage while wielding a Staff",

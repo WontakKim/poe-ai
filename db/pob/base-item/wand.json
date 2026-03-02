@@ -7,6 +7,7 @@
     "implicit": "Gain 2 Endurance, Frenzy or Power Charges every 6 seconds",
     "req": { "level": 70, "str": null, "dex": null, "int": 237 },
     "socketLimit": 3,
+    "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 27, "physMax": 50, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": "Gain an Endurance, Frenzy or Power Charge every 6 seconds",
     "req": { "level": 30, "str": null, "dex": null, "int": 101 },
     "socketLimit": 3,
+    "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 15, "physMax": 28, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "Cannot roll Caster Modifiers",
     "req": { "level": 40, "str": null, "dex": null, "int": 131 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "weapon"],
     "weapon": { "physMin": 21, "physMax": 39, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": "Minions deal (12-16)% increased Damage",
     "req": { "level": 20, "str": null, "dex": null, "int": 81 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon", "weapon_can_roll_minion_modifiers"],
     "weapon": { "physMin": 13, "physMax": 23, "critChance": 8, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": "(11-15)% increased Spell Damage",
     "req": { "level": 12, "str": null, "dex": null, "int": 47 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 9, "physMax": 16, "critChance": 8, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": "Adds (1-2) to (22-24) Lightning Damage to Spells and Attacks",
     "req": { "level": 49, "str": null, "dex": null, "int": 158 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 18, "physMax": 55, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": "Gain an Endurance, Frenzy or Power Charge every 6 seconds",
     "req": { "level": 50, "str": null, "dex": null, "int": 168 },
     "socketLimit": 3,
+    "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 23, "physMax": 43, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": "Minions deal (20-24)% increased Damage",
     "req": { "level": 50, "str": null, "dex": null, "int": 183 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon", "weapon_can_roll_minion_modifiers"],
     "weapon": { "physMin": 25, "physMax": 47, "critChance": 8, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": "Minions deal (26-30)% increased Damage",
     "req": { "level": 72, "str": null, "dex": null, "int": 242 },
     "socketLimit": 3,
+    "tags": ["atlas_base_type", "default", "one_hand_weapon", "onehand", "ranged", "top_tier_base_item_type", "wand", "wand_can_roll_caster_modifiers", "wandatlas1", "weapon", "weapon_can_roll_minion_modifiers"],
     "weapon": { "physMin": 28, "physMax": 52, "critChance": 8, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": "Adds (4-8) to (10-12) Cold Damage to Spells and Attacks",
     "req": { "level": 45, "str": null, "dex": null, "int": 146 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 24, "physMax": 45, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": "Adds (18-36) to (53-59) Fire Damage to Spells and Attacks",
     "req": { "level": 56, "str": null, "dex": null, "int": 179 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 31, "physMax": 57, "critChance": 8, "attackRate": 1.4, "range": 120 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": "(8-12)% increased Spell Damage",
     "req": { "level": null, "str": null, "dex": null, "int": 14 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 5, "physMax": 9, "critChance": 8.3, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": "(22-26)% increased Spell Damage",
     "req": { "level": 40, "str": null, "dex": null, "int": 131 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 19, "physMax": 36, "critChance": 8, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": "Adds (5-10) to (11-13) Fire Damage to Spells and Attacks",
     "req": { "level": 35, "str": null, "dex": null, "int": 116 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 21, "physMax": 38, "critChance": 8, "attackRate": 1.4, "range": 120 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": "Adds (1-2) to (3-4) Fire Damage to Spells and Attacks",
     "req": { "level": 6, "str": null, "dex": null, "int": 29 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 7, "physMax": 13, "critChance": 8, "attackRate": 1.4, "range": 120 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": "10% increased Cast Speed",
     "req": { "level": 55, "str": null, "dex": null, "int": 184 },
     "socketLimit": 3,
+    "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 28, "physMax": 52, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": "(33-37)% increased Spell Damage",
     "req": { "level": 59, "str": null, "dex": null, "int": 188 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 27, "physMax": 50, "critChance": 8, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": "Cannot roll Caster Modifiers",
     "req": { "level": 59, "str": null, "dex": null, "int": 188 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "top_tier_base_item_type", "wand", "weapon"],
     "weapon": { "physMin": 29, "physMax": 54, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": "(27-31)% increased Spell Damage",
     "req": { "level": 53, "str": null, "dex": null, "int": 200 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 24, "physMax": 45, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": "Adds (14-29) to (42-47) Cold Damage to Spells and Attacks",
     "req": { "level": 62, "str": null, "dex": null, "int": 212 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "top_tier_base_item_type", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 30, "physMax": 56, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": "10% increased Cast Speed",
     "req": { "level": 34, "str": null, "dex": null, "int": 118 },
     "socketLimit": 3,
+    "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 20, "physMax": 37, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": "14% increased Cast Speed",
     "req": { "level": 70, "str": null, "dex": null, "int": 237 },
     "socketLimit": 3,
+    "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 30, "physMax": 56, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": "(36-40)% increased Spell Damage",
     "req": { "level": 68, "str": null, "dex": null, "int": 245 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "top_tier_base_item_type", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 26, "physMax": 48, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": "Adds (2-3) to (4-7) Cold Damage to Spells and Attacks",
     "req": { "level": 18, "str": null, "dex": null, "int": 65 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 12, "physMax": 23, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": "(17-21)% increased Spell Damage",
     "req": { "level": 30, "str": null, "dex": null, "int": 119 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 17, "physMax": 32, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": "Cannot roll Caster Modifiers",
     "req": { "level": 12, "str": null, "dex": null, "int": 47 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "weapon"],
     "weapon": { "physMin": 9, "physMax": 18, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": "Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks",
     "req": { "level": 24, "str": null, "dex": null, "int": 83 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 11, "physMax": 32, "critChance": 8, "attackRate": 1.45, "range": 120 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": "Adds (3-5) to (70-82) Lightning Damage to Spells and Attacks",
     "req": { "level": 65, "str": null, "dex": null, "int": 212 },
     "socketLimit": 3,
+    "tags": ["default", "one_hand_weapon", "onehand", "ranged", "top_tier_base_item_type", "wand", "wand_can_roll_caster_modifiers", "weapon"],
     "weapon": { "physMin": 22, "physMax": 65, "critChance": 8, "attackRate": 1.45, "range": 120 }
   }
 ]

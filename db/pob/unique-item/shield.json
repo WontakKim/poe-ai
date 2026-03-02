@@ -6,6 +6,8 @@
     "type": "Shield",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(300-400)% increased Armour and Energy Shield",
@@ -23,6 +25,8 @@
     "type": "Shield",
     "levelReq": 67,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(10-20) to maximum Life"],
     "mods": [
       "(50-100)% increased Armour",
@@ -41,6 +45,9 @@
     "type": "Shield",
     "levelReq": 62,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Opening normal{Grove Vessel} in normal{Toxic Grove}",
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "Adds (50-55) to (72-80) Chaos Damage",
@@ -58,6 +65,9 @@
     "type": "Shield",
     "levelReq": 62,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Apep's Slumber} via currency{Vial of Awakening}",
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "Adds (50-55) to (72-80) Chaos Damage",
@@ -76,6 +86,9 @@
     "type": "Shield",
     "levelReq": 54,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "+(40-60) to Intelligence",
@@ -94,6 +107,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "+(40-60) to Intelligence",
@@ -112,6 +128,9 @@
     "type": "Shield",
     "levelReq": 60,
     "league": "Mercenaries of Trarthus",
+    "req": { "str": 0, "dex": 154, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Mercenary} after winning a duel",
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "+(1-100) to maximum Life",
@@ -128,6 +147,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 85, "dex": 85, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Neglect} in normal{Moment of Loneliness}",
     "implicit": ["60% increased Block Recovery"],
     "mods": [
       "(170-250)% increased Armour and Evasion",
@@ -144,6 +166,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": "Betrayal",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Catarina, Master of Undeath}",
     "implicit": [],
     "mods": [
       "(180-220)% increased Energy Shield",
@@ -161,6 +186,8 @@
     "type": "Shield",
     "levelReq": 23,
     "league": "Warbands",
+    "req": null,
+    "sockets": null,
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "+3 to Level of Socketed Warcry Gems",
@@ -177,6 +204,8 @@
     "type": "Shield",
     "levelReq": 68,
     "league": "Warbands",
+    "req": null,
+    "sockets": null,
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "0.4% of Chaos Damage Leeched as Life",
@@ -193,6 +222,8 @@
     "type": "Shield",
     "levelReq": 29,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+3 to Level of Socketed Curse Gems",
@@ -210,6 +241,8 @@
     "type": "Shield",
     "levelReq": 61,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
@@ -227,6 +260,8 @@
     "type": "Shield",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 159, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(30-40) to maximum Life"],
     "mods": [
       "(120-240)% increased Armour",
@@ -244,6 +279,8 @@
     "type": "Shield",
     "levelReq": 8,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["3% increased Movement Speed"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -260,6 +297,8 @@
     "type": "Shield",
     "levelReq": 54,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["120% increased Block Recovery"],
     "mods": [
       "+30% Chance to Block Spell Damage while on Low Life",
@@ -276,6 +315,9 @@
     "type": "Shield",
     "levelReq": 67,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch}",
     "implicit": ["+(10-20) to maximum Life"],
     "mods": [
       "(150-250)% increased Armour",
@@ -294,6 +336,8 @@
     "type": "Shield",
     "levelReq": 46,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(16-22)% Chance to Block Spell Damage",
@@ -310,6 +354,9 @@
     "type": "Shield",
     "levelReq": 62,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Esh Breach or from unique{Esh, Forked Thought}",
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "+(20-30) to Intelligence",
@@ -326,6 +373,9 @@
     "type": "Shield",
     "levelReq": 62,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Esh's Mirror} using currency{Blessing of Esh}",
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "(240-260)% increased Energy Shield",
@@ -343,6 +393,9 @@
     "type": "Shield",
     "levelReq": 66,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "(400-500)% increased Evasion and Energy Shield",
@@ -359,6 +412,9 @@
     "type": "Shield",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "(120-140)% increased Evasion and Energy Shield",
@@ -376,6 +432,8 @@
     "type": "Shield",
     "levelReq": 46,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["3% increased Movement Speed"],
     "mods": [
       "(8-12)% Chance to Block Spell Damage",
@@ -391,6 +449,8 @@
     "type": "Shield",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -407,6 +467,8 @@
     "type": "Shield",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "Grants Level 25 Bear Trap Skill",
@@ -424,6 +486,8 @@
     "type": "Shield",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "(60-100)% increased Evasion Rating",
@@ -441,6 +505,9 @@
     "type": "Shield",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "(60-100)% increased Evasion Rating",
@@ -459,6 +526,8 @@
     "type": "Shield",
     "levelReq": 57,
     "league": null,
+    "req": { "str": 0, "dex": 137, "int": 0 },
+    "sockets": null,
     "implicit": ["3% increased Movement Speed"],
     "mods": [
       "(100-150)% increased Evasion Rating",
@@ -474,6 +543,8 @@
     "type": "Shield",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "Trigger Level 20 Fog of War when your Trap is triggered",
@@ -491,6 +562,9 @@
     "type": "Shield",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Eradicator}",
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "(500-600)% increased Evasion and Energy Shield",
@@ -507,6 +581,8 @@
     "type": "Shield",
     "levelReq": 28,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(10-15)% increased Spell Damage"],
     "mods": [
       "Adds (35-39) to (54-60) Cold Damage to Spells",
@@ -524,6 +600,8 @@
     "type": "Shield",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "(180-220)% increased Armour",
@@ -541,6 +619,8 @@
     "type": "Shield",
     "levelReq": 11,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(10-20) to maximum Life"],
     "mods": [
       "+(120-160) to Armour",
@@ -557,6 +637,9 @@
     "type": "Shield",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -573,6 +656,9 @@
     "type": "Shield",
     "levelReq": 46,
     "league": "Ultimatum",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": [],
     "mods": [
       "Corrupted Soul",
@@ -590,6 +676,8 @@
     "type": "Shield",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(10-15)% increased Spell Damage"],
     "mods": [
       "(210-250)% increased Energy Shield",
@@ -607,6 +695,8 @@
     "type": "Shield",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+3% chance to Suppress Spell Damage"],
     "mods": [
       "(10-15)% increased Attack Speed",
@@ -623,6 +713,8 @@
     "type": "Shield",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "+(1-100) to maximum Mana",
@@ -640,6 +732,8 @@
     "type": "Shield",
     "levelReq": 23,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "+2 to Level of Socketed Minion Gems",
@@ -657,6 +751,8 @@
     "type": "Shield",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "(120-150)% increased Evasion Rating",
@@ -674,6 +770,8 @@
     "type": "Shield",
     "levelReq": 42,
     "league": "Warbands",
+    "req": null,
+    "sockets": null,
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "(80-100)% Increased Evasion Rating",
@@ -691,6 +789,9 @@
     "type": "Shield",
     "levelReq": 62,
     "league": "Synthesis",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
     "implicit": ["+3% chance to Suppress Spell Damage"],
     "mods": [
       "+(1-3) to Level of Socketed Lightning Gems",
@@ -709,6 +810,8 @@
     "type": "Shield",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "+2 to Level of Socketed Aura Gems",
@@ -725,6 +828,9 @@
     "type": "Shield",
     "levelReq": 54,
     "league": "Ritual",
+    "req": null,
+    "sockets": null,
+    "source": "Purchase from Ritual Reward",
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "(160-220)% increased Evasion and Energy Shield",
@@ -741,6 +847,8 @@
     "type": "Shield",
     "levelReq": 68,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-15)% Chance to Block Spell Damage",
@@ -758,6 +866,8 @@
     "type": "Shield",
     "levelReq": 35,
     "league": "Warbands",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "(80-100)% increased Armour",
@@ -775,6 +885,9 @@
     "type": "Shield",
     "levelReq": 60,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["6% increased Movement Speed"],
     "mods": [
       "(120-150)% increased Evasion Rating",
@@ -792,6 +905,9 @@
     "type": "Shield",
     "levelReq": 61,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "+(80-100) to maximum Life",
@@ -808,6 +924,9 @@
     "type": "Shield",
     "levelReq": 50,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+8% to all Elemental Resistances"],
     "mods": [
       "+(50-70) to maximum Life",
@@ -825,6 +944,8 @@
     "type": "Shield",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+8% to all Elemental Resistances"],
     "mods": [
       "(240-300)% increased Armour and Energy Shield",
@@ -843,6 +964,8 @@
     "type": "Shield",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+4% to all Elemental Resistances"],
     "mods": [
       "(20-30)% Chance to Block Spell Damage",
@@ -859,6 +982,8 @@
     "type": "Shield",
     "levelReq": 33,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "10% Chance to Block Spell Damage",
@@ -876,6 +1001,9 @@
     "type": "Shield",
     "levelReq": 49,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Shield Shatter when you Block",
@@ -891,6 +1019,8 @@
     "type": "Shield",
     "levelReq": 7,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+4% to all Elemental Resistances"],
     "mods": [
       "(80-120)% increased Armour and Energy Shield",
@@ -906,6 +1036,8 @@
     "type": "Shield",
     "levelReq": 51,
     "league": "Settlers of Kalguur",
+    "req": { "str": 123, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["+(10-20) to maximum Life"],
     "mods": [
       "(10-15)% Chance to Block Spell Damage",
@@ -923,6 +1055,9 @@
     "type": "Shield",
     "levelReq": 64,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}",
     "implicit": ["+(30-40) to maximum Life"],
     "mods": [
       "100% increased Armour",
@@ -939,6 +1074,8 @@
     "type": "Shield",
     "levelReq": 20,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["60% increased Block Recovery"],
     "mods": [
       "Adds 4 to 8 Physical Damage to Attacks",
@@ -955,6 +1092,8 @@
     "type": "Shield",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(10-15)% increased Spell Damage"],
     "mods": [
       "Trigger a Socketed Warcry Skill on losing Endurance Charges, with a 0.25 second Cooldown",
@@ -972,6 +1111,8 @@
     "type": "Shield",
     "levelReq": 39,
     "league": "Affliction",
+    "req": { "str": 52, "dex": 52, "int": 0 },
+    "sockets": null,
     "implicit": ["180% increased Block Recovery"],
     "mods": [
       "(100–150)% increased Armour and Evasion",
@@ -987,6 +1128,8 @@
     "type": "Shield",
     "levelReq": 58,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
     "implicit": ["180% increased Block Recovery"],
     "mods": [
       "+2 to Level of Socketed Support Gems",
@@ -1005,6 +1148,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": "Harvest",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Unshattered Will} via currency{Specularity Scroll}",
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "Grants Summon Greater Harbinger of Focus Skill",
@@ -1022,6 +1168,9 @@
     "type": "Shield",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["+4% to all Elemental Resistances"],
     "mods": [
       "(80-120)% increased Armour and Energy Shield",
@@ -1038,6 +1187,8 @@
     "type": "Shield",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["120% increased Block Recovery"],
     "mods": [
       "-10% to amount of Suppressed Spell Damage Prevented",
@@ -1054,6 +1205,8 @@
     "type": "Shield",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(10-15)% increased Spell Damage"],
     "mods": [
       "Has no Energy Shield",
@@ -1070,6 +1223,8 @@
     "type": "Shield",
     "levelReq": 70,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["120% increased Block Recovery"],
     "mods": [
       "Has 3 Sockets",
@@ -1087,6 +1242,9 @@
     "type": "Shield",
     "levelReq": 64,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Anticipation} using currency{Blessing of Uul-Netol}",
     "implicit": ["+(30-40) to maximum Life"],
     "mods": [
       "(165-205)% increased Armour",
@@ -1102,6 +1260,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": "Harbinger",
+    "req": null,
+    "sockets": null,
+    "source": "Created from item parts obtained from Boss in The Beachhead",
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "Grants Summon Harbinger of Focus Skill",
@@ -1119,6 +1280,9 @@
     "type": "Shield",
     "levelReq": 29,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["9% increased Movement Speed"],
     "mods": [
       "+1 to Level of Socketed Curse Gems",
@@ -1138,6 +1302,8 @@
     "type": "Shield",
     "levelReq": 63,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["3% increased Movement Speed"],
     "mods": [
       "(100-120)% increased Evasion Rating",
@@ -1154,6 +1320,8 @@
     "type": "Shield",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(10-20) to maximum Life"],
     "mods": [
       "(60-80)% increased Armour",
@@ -1170,6 +1338,8 @@
     "type": "Shield",
     "levelReq": 17,
     "league": "Tempest",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "(130-150)% increased Armour",
@@ -1186,6 +1356,8 @@
     "type": "Shield",
     "levelReq": 61,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "40% increased Totem Damage",
@@ -1202,6 +1374,9 @@
     "type": "Shield",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "Trigger Commandment of Inferno on Critical Strike",
@@ -1219,6 +1394,8 @@
     "type": "Shield",
     "levelReq": 50,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+8% to all Elemental Resistances"],
     "mods": [
       "+(50-70) to maximum Life",
@@ -1236,6 +1413,8 @@
     "type": "Shield",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -1252,6 +1431,9 @@
     "type": "Shield",
     "levelReq": 63,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(5-10)% increased Spell Damage"],
     "mods": [
       "+3 to Level of Socketed Minion Gems",
@@ -1271,6 +1453,8 @@
     "type": "Shield",
     "levelReq": 5,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["60% increased Block Recovery"],
     "mods": [
       "+(20-40) to Armour",
@@ -1287,6 +1471,8 @@
     "type": "Shield",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["+5% chance to Suppress Spell Damage"],
     "mods": [
       "(40-50)% increased Spell Damage",

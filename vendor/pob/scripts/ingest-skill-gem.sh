@@ -110,6 +110,7 @@ sub json_str {
   my $s = shift;
   $s =~ s/\\/\\\\/g;
   $s =~ s/"/\\"/g;
+  $s =~ s/\t/\\t/g;
   $s =~ s/\n/\\n/g;
   return "\"$s\"";
 }
@@ -162,6 +163,94 @@ for my $skill_file (@ARGV) {
       }
     }
 
+    # ── Structured fields ──────────────────────────────────
+
+    # stats array: stats = { "str1", "str2", ... }
+    my @gem_stats;
+    if ($body =~ /\tstats\s*=\s*\{([^}]*)\}/) {
+      my $block = $1;
+      while ($block =~ /"([^"]+)"/g) { push @gem_stats, $1; }
+    }
+
+    # constantStats: { { "str", num }, ... }
+    my @constant_stats;
+    if ($body =~ /\tconstantStats\s*=\s*\{(.*?)^\t\},/ms) {
+      my $block = $1;
+      while ($block =~ /\{\s*"([^"]+)"\s*,\s*([-\d.]+)\s*\}/g) {
+        push @constant_stats, [$1, $2 + 0];
+      }
+    }
+
+    # qualityStats Default: { { "str", num }, ... }
+    my @quality_stats;
+    if ($body =~ /qualityStats\s*=\s*\{.*?Default\s*=\s*\{(.*?)^\t\t\},/ms) {
+      my $block = $1;
+      while ($block =~ /\{\s*"([^"]+)"\s*,\s*([-\d.]+)\s*\}/g) {
+        push @quality_stats, [$1, $2 + 0];
+      }
+    }
+
+    # parts: { { name = "X" }, { name = "Y", stages = true }, ... }
+    my @lua_parts;
+    if ($body =~ /\tparts\s*=\s*\{(.*?)^\t\},/ms) {
+      my $block = $1;
+      while ($block =~ /\{[^}]*?name\s*=\s*"([^"]+)"([^}]*)\}/g) {
+        my ($pname, $rest) = ($1, $2);
+        my $stages = ($rest =~ /stages\s*=\s*true/) ? 1 : 0;
+        push @lua_parts, { name => $pname, stages => $stages };
+      }
+    }
+
+    # baseFlags: { word = true, ... }
+    my @base_flags;
+    if ($body =~ /\tbaseFlags\s*=\s*\{([^}]*)\}/) {
+      my $block = $1;
+      while ($block =~ /(\w+)\s*=\s*true/g) { push @base_flags, $1; }
+    }
+
+    # weaponTypes: { ["Name"] = true, ... }
+    my @weapon_types;
+    if ($body =~ /\tweaponTypes\s*=\s*\{(.*?)^\t\},/ms) {
+      my $block = $1;
+      while ($block =~ /\["([^"]+)"\]\s*=\s*true/g) { push @weapon_types, $1; }
+    }
+
+    # ── Raw Lua fields ────────────────────────────────────
+
+    # statMap: ["key"] = { lua_content }, → key: flattened_lua
+    my %stat_map;
+    if ($body =~ /\tstatMap\s*=\s*\{(.*?)^\t\},/ms) {
+      my $sm_block = $1;
+      while ($sm_block =~ /\["([^"]+)"\]\s*=\s*\{(.*?)^\t\t\},/gms) {
+        my ($key, $val) = ($1, $2);
+        $val =~ s/^\s+//mg;
+        $val =~ s/\s+$//mg;
+        $val = join(" ", grep { $_ ne "" && $_ !~ /^--/ } split(/\n/, $val));
+        $stat_map{$key} = $val;
+      }
+    }
+
+    # baseMods: each line as a string
+    my @base_mods;
+    if ($body =~ /\tbaseMods\s*=\s*\{(.*?)^\t\},/ms) {
+      my $block = $1;
+      for my $line (split /\n/, $block) {
+        $line =~ s/^\s+//;
+        $line =~ s/\s+$//;
+        $line =~ s/,\s*$//;
+        next if $line eq "" || $line =~ /^--/;
+        push @base_mods, $line;
+      }
+    }
+
+    # preDamageFunc: function body or reference
+    my $pre_damage_func;
+    if ($body =~ /\tpreDamageFunc\s*=\s*(skills\.\w+\.preDamageFunc)/) {
+      $pre_damage_func = $1;
+    } elsif ($body =~ /\tpreDamageFunc\s*=\s*(function\(.*?\n\tend),/ms) {
+      $pre_damage_func = $1;
+    }
+
     # Support-specific fields
     my $is_support = $gem->{is_support};
     my (@requireSkillTypes, @addSkillTypes, @excludeSkillTypes);
@@ -208,6 +297,59 @@ for my $skill_file (@ARGV) {
       }
     }
 
+    # ── Full levels extraction ──────────────────────────────
+    my %levels;
+    my @stat_interpolation;
+    while ($body =~ /\[(\d+)\]\s*=\s*\{(.+)\},?\s*$/gm) {
+      my ($lvl, $lv_raw) = ($1, $2);
+
+      # Extract nested tables: cost = {...}, statInterpolation = {...}
+      my %nested;
+      while ($lv_raw =~ /(\w+)\s*=\s*\{([^}]*)\}/g) {
+        $nested{$1} = $2;
+      }
+
+      # statInterpolation from level 1 → promote to skill top-level
+      if ($lvl == 1 && exists $nested{statInterpolation}) {
+        while ($nested{statInterpolation} =~ /(\d+)/g) {
+          push @stat_interpolation, int($1);
+        }
+      }
+
+      # Remove nested tables from the raw string for positional/named parsing
+      (my $clean = $lv_raw) =~ s/\w+\s*=\s*\{[^}]*\},?//g;
+
+      # Split into tokens by comma
+      my @values;
+      my %named;
+      for my $tok (split /,/, $clean) {
+        $tok =~ s/^\s+//;
+        $tok =~ s/\s+$//;
+        next if $tok eq "";
+        if ($tok =~ /^(\w+)\s*=\s*(.+)/) {
+          $named{$1} = $2 + 0;
+        } else {
+          push @values, $tok + 0;
+        }
+      }
+
+      # Build level object
+      my %lv_obj;
+      $lv_obj{values} = \@values if @values;
+      for my $k (sort keys %named) {
+        next if $k eq "PvPDamageMultiplier";
+        $lv_obj{$k} = $named{$k};
+      }
+      if (exists $nested{cost}) {
+        my %cost;
+        while ($nested{cost} =~ /(\w+)\s*=\s*([\d.]+)/g) {
+          $cost{$1} = $2 + 0;
+        }
+        $lv_obj{cost} = \%cost if %cost;
+      }
+      $levels{$lvl} = \%lv_obj;
+    }
+
     # ── Determine partition ────────────────────────────────
     # Type: support if is_support, else active
     my $type_prefix = $is_support ? "sup" : "act";
@@ -226,84 +368,181 @@ for my $skill_file (@ARGV) {
     $id =~ s/ /_/g;
 
     # ── Output JSONL (one line per gem, partition prefix) ──
-    my @parts;
-    push @parts, "\"id\": " . json_str($id);
-    push @parts, "\"name\": " . json_str($gem->{name});
+    my @json_fields;
+    push @json_fields, "\"id\": " . json_str($id);
+    push @json_fields, "\"name\": " . json_str($gem->{name});
 
     # Tags array
     my @tag_list = split /,/, $gem->{tags_csv};
     my $tags_json = "[" . join(", ", map { json_str($_) } @tag_list) . "]";
-    push @parts, "\"tags\": $tags_json";
+    push @json_fields, "\"tags\": $tags_json";
 
     # Req
-    push @parts, "\"req\": { \"str\": $rs, \"dex\": $rd, \"int\": $ri }";
+    push @json_fields, "\"req\": { \"str\": $rs, \"dex\": $rd, \"int\": $ri }";
 
-    push @parts, "\"naturalMaxLevel\": " . json_num($gem->{naturalMaxLevel});
-    push @parts, "\"vaalGem\": " . ($gem->{vaalGem} ? "true" : "false");
-    push @parts, "\"description\": " . json_str($description);
+    push @json_fields, "\"naturalMaxLevel\": " . json_num($gem->{naturalMaxLevel});
+    push @json_fields, "\"vaalGem\": " . ($gem->{vaalGem} ? "true" : "false");
+    push @json_fields, "\"description\": " . json_str($description);
 
     # castTime: null for supports
     if ($castTime eq "null") {
-      push @parts, "\"castTime\": null";
+      push @json_fields, "\"castTime\": null";
     } else {
-      push @parts, "\"castTime\": " . json_num($castTime);
+      push @json_fields, "\"castTime\": " . json_num($castTime);
     }
 
     if ($baseEffectiveness eq "null") {
-      push @parts, "\"baseEffectiveness\": null";
+      push @json_fields, "\"baseEffectiveness\": null";
     } else {
-      push @parts, "\"baseEffectiveness\": " . json_num($baseEffectiveness);
+      push @json_fields, "\"baseEffectiveness\": " . json_num($baseEffectiveness);
     }
 
     if ($incrementalEffectiveness eq "null") {
-      push @parts, "\"incrementalEffectiveness\": null";
+      push @json_fields, "\"incrementalEffectiveness\": null";
     } else {
-      push @parts, "\"incrementalEffectiveness\": " . json_num($incrementalEffectiveness);
+      push @json_fields, "\"incrementalEffectiveness\": " . json_num($incrementalEffectiveness);
     }
 
-    # Level 1 data
+    # Level 1 data (backward compat)
     if ($levelRequirement eq "null") {
-      push @parts, "\"levelRequirement\": null";
+      push @json_fields, "\"levelRequirement\": null";
     } else {
-      push @parts, "\"levelRequirement\": " . json_num($levelRequirement);
+      push @json_fields, "\"levelRequirement\": " . json_num($levelRequirement);
     }
 
     my $cost_json = "[" . join(", ", map { json_str($_) } @costTypes) . "]";
-    push @parts, "\"costTypes\": $cost_json";
+    push @json_fields, "\"costTypes\": $cost_json";
 
     if ($critChance eq "null") {
-      push @parts, "\"critChance\": null";
+      push @json_fields, "\"critChance\": null";
     } else {
-      push @parts, "\"critChance\": " . json_num($critChance);
+      push @json_fields, "\"critChance\": " . json_num($critChance);
     }
 
     if ($damageEffectiveness eq "null") {
-      push @parts, "\"damageEffectiveness\": null";
+      push @json_fields, "\"damageEffectiveness\": null";
     } else {
-      push @parts, "\"damageEffectiveness\": " . json_num($damageEffectiveness);
+      push @json_fields, "\"damageEffectiveness\": " . json_num($damageEffectiveness);
     }
 
     # Support-specific fields
     if ($is_support) {
       if ($manaMultiplier eq "null") {
-        push @parts, "\"manaMultiplier\": null";
+        push @json_fields, "\"manaMultiplier\": null";
       } else {
-        push @parts, "\"manaMultiplier\": " . json_num($manaMultiplier);
+        push @json_fields, "\"manaMultiplier\": " . json_num($manaMultiplier);
       }
 
       my $req_st = "[" . join(", ", map { json_str($_) } @requireSkillTypes) . "]";
       my $add_st = "[" . join(", ", map { json_str($_) } @addSkillTypes) . "]";
       my $exc_st = "[" . join(", ", map { json_str($_) } @excludeSkillTypes) . "]";
-      push @parts, "\"requireSkillTypes\": $req_st";
-      push @parts, "\"addSkillTypes\": $add_st";
-      push @parts, "\"excludeSkillTypes\": $exc_st";
+      push @json_fields, "\"requireSkillTypes\": $req_st";
+      push @json_fields, "\"addSkillTypes\": $add_st";
+      push @json_fields, "\"excludeSkillTypes\": $exc_st";
     }
 
     my $st_json = "[" . join(", ", map { json_str($_) } @skillTypes) . "]";
-    push @parts, "\"skillTypes\": $st_json";
+    push @json_fields, "\"skillTypes\": $st_json";
+
+    # ── New simulation fields ─────────────────────────────
+
+    # stats (stat IDs for level values)
+    if (@gem_stats) {
+      push @json_fields, "\"stats\": [" . join(", ", map { json_str($_) } @gem_stats) . "]";
+    }
+
+    # statInterpolation (promoted from level 1)
+    if (@stat_interpolation) {
+      push @json_fields, "\"statInterpolation\": [" . join(", ", @stat_interpolation) . "]";
+    }
+
+    # constantStats
+    if (@constant_stats) {
+      my @cs_json;
+      for my $pair (@constant_stats) {
+        push @cs_json, "[" . json_str($pair->[0]) . ", " . json_num($pair->[1]) . "]";
+      }
+      push @json_fields, "\"constantStats\": [" . join(", ", @cs_json) . "]";
+    }
+
+    # qualityStats (Default only)
+    if (@quality_stats) {
+      my @qs_json;
+      for my $pair (@quality_stats) {
+        push @qs_json, "[" . json_str($pair->[0]) . ", " . json_num($pair->[1]) . "]";
+      }
+      push @json_fields, "\"qualityStats\": [" . join(", ", @qs_json) . "]";
+    }
+
+    # parts
+    if (@lua_parts) {
+      my @p_json;
+      for my $p (@lua_parts) {
+        if ($p->{stages}) {
+          push @p_json, "{\"name\": " . json_str($p->{name}) . ", \"stages\": true}";
+        } else {
+          push @p_json, "{\"name\": " . json_str($p->{name}) . "}";
+        }
+      }
+      push @json_fields, "\"parts\": [" . join(", ", @p_json) . "]";
+    }
+
+    # baseFlags
+    if (@base_flags) {
+      push @json_fields, "\"baseFlags\": [" . join(", ", map { json_str($_) } @base_flags) . "]";
+    }
+
+    # weaponTypes
+    if (@weapon_types) {
+      push @json_fields, "\"weaponTypes\": [" . join(", ", map { json_str($_) } @weapon_types) . "]";
+    }
+
+    # levels (full map)
+    if (%levels) {
+      my @lv_json;
+      for my $lvl (sort { $a <=> $b } keys %levels) {
+        my $lv = $levels{$lvl};
+        my @lv_parts;
+        if (exists $lv->{values}) {
+          push @lv_parts, "\"values\": [" . join(", ", map { json_num($_) } @{$lv->{values}}) . "]";
+        }
+        for my $k (sort keys %$lv) {
+          next if $k eq "values" || $k eq "cost";
+          push @lv_parts, "\"$k\": " . json_num($lv->{$k});
+        }
+        if (exists $lv->{cost}) {
+          my @cost_parts;
+          for my $ck (sort keys %{$lv->{cost}}) {
+            push @cost_parts, "\"$ck\": " . json_num($lv->{cost}{$ck});
+          }
+          push @lv_parts, "\"cost\": {" . join(", ", @cost_parts) . "}";
+        }
+        push @lv_json, "\"$lvl\": {" . join(", ", @lv_parts) . "}";
+      }
+      push @json_fields, "\"levels\": {" . join(", ", @lv_json) . "}";
+    }
+
+    # statMap (raw Lua)
+    if (%stat_map) {
+      my @sm_json;
+      for my $k (sort keys %stat_map) {
+        push @sm_json, json_str($k) . ": " . json_str($stat_map{$k});
+      }
+      push @json_fields, "\"statMap\": {" . join(", ", @sm_json) . "}";
+    }
+
+    # baseMods (raw Lua)
+    if (@base_mods) {
+      push @json_fields, "\"baseMods\": [" . join(", ", map { json_str($_) } @base_mods) . "]";
+    }
+
+    # preDamageFunc (raw Lua or null)
+    if (defined $pre_damage_func) {
+      push @json_fields, "\"preDamageFunc\": " . json_str($pre_damage_func);
+    }
 
     # Output: partition \t json_object
-    print "$partition\t{" . join(", ", @parts) . "}\n";
+    print "$partition\t{" . join(", ", @json_fields) . "}\n";
   }
 }
 ' "$gems_tsv" "${SKILL_FILES[@]}" > "$all_json"

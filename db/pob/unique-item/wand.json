@@ -6,6 +6,8 @@
     "type": "Wand",
     "levelReq": 6,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
     "mods": [
       "(20-30)% increased Fire Damage",
@@ -22,6 +24,9 @@
     "type": "Wand",
     "levelReq": 36,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(15-19)% increased Spell Damage"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -38,6 +43,8 @@
     "type": "Wand",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(27-31)% increased Spell Damage"],
     "mods": [
       "Adds (90-130) to (140-190) Chaos Damage to Spells",
@@ -54,6 +61,8 @@
     "type": "Wand",
     "levelReq": 6,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
     "mods": [
       "25% chance to Trigger Level 10 Summon Raging Spirit on Kill",
@@ -69,6 +78,9 @@
     "type": "Wand",
     "levelReq": 63,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(29-33)% increased Spell Damage"],
     "mods": [
       "Triggers Level 20 Blinding Aura when Equipped",
@@ -88,6 +100,8 @@
     "type": "Wand",
     "levelReq": 35,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (5-10) to (11-13) Fire Damage to Spells and Attacks"],
     "mods": [
       "(20-26)% increased Attack Speed",
@@ -105,6 +119,9 @@
     "type": "Wand",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven} (Uber)",
     "implicit": ["(36-40)% increased Spell Damage"],
     "mods": [
       "(300-350)% Increased Physical Damage",
@@ -122,6 +139,8 @@
     "type": "Wand",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(8-12)% increased Spell Damage"],
     "mods": [
       "+1 to Level of Socketed Spell Gems",
@@ -139,6 +158,8 @@
     "type": "Wand",
     "levelReq": 20,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Minions deal (12-16)% increased Damage"],
     "mods": [
       "Cannot be used with Chaos Inoculation",
@@ -158,6 +179,8 @@
     "type": "Wand",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Cannot roll Caster Modifiers"],
     "mods": [
       "Socketed Gems are supported by Level 20 Blind",
@@ -176,6 +199,8 @@
     "type": "Wand",
     "levelReq": 34,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 118 },
+    "sockets": null,
     "implicit": ["10% increased Cast Speed"],
     "mods": [
       "Skills fire (2-3) additional Projectiles",
@@ -191,6 +216,8 @@
     "type": "Wand",
     "levelReq": 53,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(27-31)% increased Spell Damage"],
     "mods": [
       "Gain (30-40)% of Physical Damage as Extra Chaos Damage",
@@ -204,6 +231,8 @@
     "type": "Wand",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(33-37)% increased Spell Damage"],
     "mods": [
       "No Physical Damage",
@@ -221,6 +250,9 @@
     "type": "Wand",
     "levelReq": 30,
     "league": "Ultimatum",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": ["(17-21)% increased Spell Damage"],
     "mods": [
       "Grants Level 1 Blood Sacrament Skill",
@@ -234,6 +266,9 @@
     "type": "Wand",
     "levelReq": 20,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Minions deal (12-16)% increased Damage"],
     "mods": [
       "Cannot be used with Chaos Inoculation",
@@ -252,6 +287,9 @@
     "type": "Wand",
     "levelReq": 62,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "(15-25)% increased Cast Speed",
@@ -269,6 +307,9 @@
     "type": "Wand",
     "levelReq": 40,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Cannot roll Caster Modifiers"],
     "mods": [
       "(110-170)% increased Physical Damage",
@@ -284,6 +325,8 @@
     "type": "Wand",
     "levelReq": 24,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -300,6 +343,8 @@
     "type": "Wand",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(17-21)% increased Spell Damage"],
     "mods": [
       "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
@@ -314,6 +359,10 @@
     "type": "Wand",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": ["Adds (3-5) to (70-82) Lightning Damage to Spells and Attacks"],
     "mods": [
       "(30-40)% increased Spell Damage",
@@ -332,6 +381,8 @@
     "type": "Wand",
     "levelReq": 24,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
     "mods": [
       "(40-60)% increased Physical Damage",
@@ -348,6 +399,8 @@
     "type": "Wand",
     "levelReq": 12,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(11-15)% increased Spell Damage"],
     "mods": [
       "Cannot roll Caster Modifiers",
@@ -364,6 +417,9 @@
     "type": "Wand",
     "levelReq": 62,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "Adds (120-140) to (150-170) Cold Damage to Spells",
@@ -379,6 +435,9 @@
     "type": "Wand",
     "levelReq": 62,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Tulborn} using currency{Blessing of Tul}",
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "(10-20)% increased Cast Speed",
@@ -395,6 +454,8 @@
     "type": "Wand",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Cannot roll Caster Modifiers",
@@ -413,6 +474,8 @@
     "type": "Wand",
     "levelReq": 30,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 119 },
+    "sockets": null,
     "implicit": ["(17-21)% increased Spell Damage"],
     "mods": [
       "(31-43)% increased Chaos Damage",
@@ -429,6 +492,8 @@
     "type": "Wand",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(36-40)% increased Spell Damage"],
     "mods": [
       "80% reduced Spell Damage",

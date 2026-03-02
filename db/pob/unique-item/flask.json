@@ -6,6 +6,9 @@
     "type": "Flask",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
     "implicit": [],
     "mods": [
       "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
@@ -20,6 +23,8 @@
     "type": "Flask",
     "levelReq": 50,
     "league": "Domination, Nemesis",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% increased Life Recovered",
@@ -34,6 +39,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Synthesis",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex}",
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "(30-15)% reduced Duration",
@@ -49,6 +57,9 @@
     "type": "Flask",
     "levelReq": 48,
     "league": "Betrayal",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Catarina, Master of Undeath}",
     "implicit": [],
     "mods": [
       "+(10-20) to maximum Charges",
@@ -64,6 +75,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Take (200-300) Chaos Damage per Second during Effect",
@@ -79,6 +92,8 @@
     "type": "Flask",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "25% increased Duration",
@@ -94,6 +109,8 @@
     "type": "Flask",
     "levelReq": 30,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(30-50)% increased Rarity of Items found during Effect",
@@ -108,6 +125,8 @@
     "type": "Flask",
     "levelReq": 12,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(300-250)% increased Charges per use",
@@ -125,6 +144,9 @@
     "type": "Flask",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Shaper}",
     "implicit": [],
     "mods": [
       "(150-125)% increased Charges per use",
@@ -140,6 +162,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Expedition",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Medved, Feller of Heroes} in normal{Expedition Logbook}",
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(50-80)% increased Duration",
@@ -155,6 +180,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Recover (75-100)% of Life on use",
@@ -168,6 +195,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Immunity to Freeze, Chill, Curses and Stuns during Effect",
@@ -181,6 +210,8 @@
     "type": "Flask",
     "levelReq": 50,
     "league": "Domination, Nemesis",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(30-50)% increased Amount Recovered",
@@ -195,6 +226,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Knocks Back Enemies in an Area when you use a Flask",
@@ -210,6 +243,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Expedition",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Olroth, Origin of the Fall} in normal{Expedition Logbook}",
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(50-40)% increased Charges per use",
@@ -224,6 +260,9 @@
     "type": "Flask",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds} (Uber)",
     "implicit": [],
     "mods": [
       "(20-40)% increased Charge Recovery",
@@ -237,6 +276,9 @@
     "type": "Flask",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Maven} (Uber)",
     "implicit": [],
     "mods": [
       "(10-20)% reduced Charges per use",
@@ -251,6 +293,9 @@
     "type": "Flask",
     "levelReq": 50,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(30-50)% increased Amount Recovered",
@@ -267,6 +312,9 @@
     "type": "Flask",
     "levelReq": 68,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "90% reduced Duration",
@@ -283,6 +331,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "Life Recovery from Flasks also applies to Energy Shield during Effect",
@@ -297,6 +348,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Creates a Smoke Cloud on Use",
@@ -311,6 +365,8 @@
     "type": "Flask",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% chance to gain a Flask Charge when you deal a Critical Strike",
@@ -326,6 +382,8 @@
     "type": "Flask",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(8-12)% Chance to Block Attack Damage during Effect",
@@ -339,6 +397,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Creates a Smoke Cloud on Use"],
     "mods": [
       "Grants Immunity to Ignite for 4 seconds if used while Ignited",
@@ -353,6 +413,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": [],
     "mods": [
       "Cannot gain Mana during effect",
@@ -368,6 +431,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Soul Catcher} via currency{Vial of the Ghost}",
     "implicit": [],
     "mods": [
       "+(-40-90) maximum Charges",
@@ -383,6 +449,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Expedition",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Uhtred, Covetous Traitor} in normal{Expedition Logbook}",
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(20-30)% increased Charge Recovery",
@@ -397,6 +466,8 @@
     "type": "Flask",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(20-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
@@ -412,6 +483,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "(40-60)% increased Charge Recovery",
@@ -426,6 +499,8 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "Life Recovery from Flasks also applies to Energy Shield during Effect",
@@ -440,6 +515,8 @@
     "type": "Flask",
     "levelReq": 8,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "During Effect, 6% reduced Damage taken of each Element for which your Uncapped Elemental Resistance is lowest",
@@ -453,6 +530,8 @@
     "type": "Flask",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(-10--20)% increased Charges per use",
@@ -469,6 +548,9 @@
     "type": "Flask",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Avatar of Thunder} in unique{The Vinktar Square}",
     "implicit": [],
     "mods": [
       "(150-125)% increased Charges per use",
@@ -485,6 +567,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": "Expedition",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Vorana, Last to Fall} in normal{Expedition Logbook}",
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(10--10)% increased Charges per use",
@@ -500,6 +585,9 @@
     "type": "Flask",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": [],
     "mods": [
       "(200-300)% increased Charges per use",
@@ -517,6 +605,9 @@
     "type": "Flask",
     "levelReq": 27,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "implicit": [],
     "mods": [
       "+60 to Maximum Charges",
@@ -531,6 +622,8 @@
     "type": "Flask",
     "levelReq": 48,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Creates a Smoke Cloud on Use"],
     "mods": [
       "(10--10)% increased Charges per use",
@@ -544,6 +637,8 @@
     "type": "Flask",
     "levelReq": 18,
     "league": "Perandus",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% increased Charges per use",

@@ -6,6 +6,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(5-10) to all Attributes",
@@ -19,6 +21,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(6-8)% increased maximum Life",
@@ -32,6 +37,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(5-10) to Dexterity",
@@ -45,6 +52,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "60% reduced Cost of Aura Skills that summon Totems"
@@ -57,6 +67,9 @@
     "type": "Jewel",
     "levelReq": 20,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Unbreakable} in normal{Contract: Breaking the Unbreakable}",
     "implicit": [],
     "mods": [
       "(20-25)% increased Spell Damage",
@@ -71,6 +84,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Minions have (5-10)% increased Movement Speed",
@@ -84,6 +100,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% increased Mana Regeneration Rate",
@@ -98,6 +117,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "(15-20)% increased Vaal Skill Effect Duration",
@@ -111,6 +133,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Lose 1% of Life on Kill",
@@ -125,6 +150,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(40-60)% of Damage Taken from Stunning Hits is Recovered as Life"
@@ -137,6 +164,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(4-6)% increased Dexterity",
@@ -151,6 +181,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "20% faster start of Energy Shield Recharge",
@@ -164,6 +197,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from Maraketh Legion",
     "implicit": [],
     "mods": [
       "Denoted service of (500-8000) dekhara in the akhara of Balbala",
@@ -178,6 +214,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Intelligence",
@@ -192,6 +231,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Lone Messenger"
@@ -204,6 +246,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Dexterity",
@@ -218,6 +263,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% reduced Trap Duration",
@@ -231,6 +279,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "50% chance to gain an additional Vaal Soul per Enemy Shattered"
@@ -243,6 +294,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(20-30)% increased Mana Regeneration Rate",
@@ -256,6 +310,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Traps and Mines have a 25% chance to Poison on Hit",
@@ -269,6 +326,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage",
@@ -282,6 +342,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -299,6 +362,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -313,6 +379,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -327,6 +396,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -341,6 +413,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% reduced Quantity of Items found",
@@ -354,6 +429,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "3% reduced Mana Cost of Skills",
@@ -368,6 +446,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% chance to Avoid Elemental Ailments",
@@ -382,6 +463,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "4% increased Effect of your Curses",
@@ -396,6 +480,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield and 50% of Physical Damage bypasses Energy Shield"
@@ -408,6 +495,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Skeletons gain Added Chaos Damage equal to (20-30)% of Maximum Energy Shield on your Equipped Shield"
@@ -420,6 +509,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch}",
     "implicit": [],
     "mods": [
       "Removes all Energy Shield",
@@ -435,6 +527,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "With at least 40 Strength in Radius, Combust is Disabled",
@@ -448,6 +543,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Strength",
@@ -462,6 +560,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius"
@@ -474,6 +575,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from Eternal Legion",
     "implicit": [],
     "mods": [
       "Commissioned (2000-160000) coins to commemorate Caspiro",
@@ -488,6 +592,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Eternal Labyrinth",
     "implicit": [],
     "mods": [
       "20% increased Global Accuracy Rating",
@@ -502,6 +609,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Eternal Labyrinth",
     "implicit": [],
     "mods": [
       "4% increased maximum Life",
@@ -517,6 +627,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Eternal Labyrinth",
     "implicit": [],
     "mods": [
       "10% increased Damage",
@@ -531,6 +644,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Eternal Labyrinth",
     "implicit": [],
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -545,6 +661,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased Elemental Damage",
@@ -560,6 +679,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "(15-20)% increased Armour",
@@ -574,6 +696,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "(3-6)% increased maximum Energy Shield",
@@ -588,6 +713,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Intelligence",
@@ -602,6 +730,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "+(5-10) to Intelligence",
@@ -615,6 +746,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -630,6 +764,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage"
@@ -642,6 +779,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-15)% to Fire Resistance",
@@ -655,6 +794,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -670,6 +812,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Dexterity",
@@ -684,6 +829,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Minions have (5-15)% increased maximum Life",
@@ -697,6 +845,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "Minions deal (35-45)% increased Damage",
@@ -713,6 +864,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Maximum 10 Fragile Regrowth",
@@ -728,6 +882,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "-1 to Maximum Endurance Charges"
@@ -740,6 +897,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Summon 4 additional Skeleton Warriors with Summon Skeleton",
@@ -753,6 +913,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -768,6 +931,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from Vaal Legion",
     "implicit": [],
     "mods": [
       "Bathed in the blood of (100-8000) sacrificed in the name of Ahuana",
@@ -782,6 +948,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": [],
     "mods": [
       "+1 to Minimum Power Charges per Grand Spectrum"
@@ -794,6 +963,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": [],
     "mods": [
       "+1 to Minimum Endurance Charges per Grand Spectrum"
@@ -806,6 +978,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops in The Lord's Labyrinth",
     "implicit": [],
     "mods": [
       "+1 to Minimum Frenzy Charges per Grand Spectrum"
@@ -818,6 +993,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-12)% increased Damage over Time",
@@ -832,6 +1010,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(15-25)% increased Trap Damage",
@@ -845,6 +1026,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Lightning Damage",
@@ -858,6 +1042,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "(15-20)% increased maximum Mana",
@@ -872,6 +1059,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "(20-25)% increased Damage for each Magic Item Equipped",
@@ -885,6 +1075,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-20)% increased Movement Speed while Ignited",
@@ -899,6 +1092,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead"
@@ -911,6 +1107,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(500-1000)% increased Stun and Block Recovery"
@@ -923,6 +1121,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "+(16-24) to Strength",
@@ -937,6 +1138,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -953,6 +1157,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "With 4 Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its Modifiers for 20 seconds"
@@ -965,6 +1171,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Passive Skills in Radius can be Allocated without being connected to your tree"
@@ -977,6 +1185,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(18-25)% increased Fire Damage",
@@ -992,6 +1203,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Disciple of Kitava"
@@ -1004,6 +1218,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-20) to Intelligence",
@@ -1017,6 +1233,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from Karui Legion",
     "implicit": [],
     "mods": [
       "Commanded leadership over (10000-18000) warriors under Akoya",
@@ -1031,6 +1250,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers"
@@ -1043,6 +1264,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "5% increased Impale Effect",
@@ -1057,6 +1281,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "5% chance to Gain Unholy Might for 4 seconds on Melee Kill"
@@ -1069,6 +1296,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
@@ -1082,6 +1312,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(0.3-0.4) metres to Melee Strike Range while Unarmed",
@@ -1095,6 +1328,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Eater of Worlds}",
     "implicit": [],
     "mods": [
       "-(80-70)% to All Elemental Resistances",
@@ -1109,6 +1345,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "to deal Double Damage with the Main-Hand Weapon",
@@ -1126,6 +1365,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus"
@@ -1138,6 +1380,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% increased Effect of non-Keystone Passive Skills in Radius",
@@ -1151,6 +1395,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from Templar Legion",
     "implicit": [],
     "mods": [
       "3% increased Defences from Equipped Shield per 10 Devotion",
@@ -1165,6 +1412,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% increased Experience Gain of Corrupted Gems"
@@ -1177,6 +1427,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Unbreakable} in normal{Contract: Breaking the Unbreakable}",
     "implicit": [],
     "mods": [
       "Item Level: 82",
@@ -1192,6 +1445,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Nature's Patience"
@@ -1204,6 +1460,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(15-20)% increased Damage with Hits against Chilled Enemies",
@@ -1218,6 +1477,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Hollow Palm Technique"
@@ -1230,6 +1492,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -1244,6 +1509,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "-1 to Maximum Frenzy Charges"
@@ -1256,6 +1524,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1270,6 +1541,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Projectiles Pierce an additional Target",
@@ -1283,6 +1557,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "-1 to Maximum Power Charges"
@@ -1295,6 +1572,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Golems have (16-20)% increased Attack and Cast Speed",
@@ -1310,6 +1589,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Golem Skills have (20-30)% increased Cooldown Recovery Rate",
@@ -1326,6 +1607,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
@@ -1342,6 +1625,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "1% increased Evasion Rating per 3 Dexterity Allocated in Radius",
@@ -1356,6 +1642,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "While your Passive Skill Tree connects to a class' starting location, you gain:",
@@ -1375,6 +1663,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "Minions have (12-16)% increased Attack Speed",
@@ -1391,6 +1682,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
     "implicit": [],
     "mods": [
       "(30-50)% reduced Totem Damage",
@@ -1405,6 +1699,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-12)% increased Global Physical Damage",
@@ -1419,6 +1716,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)",
     "implicit": [],
     "mods": [
       "You have Consecrated Ground around you while",
@@ -1436,6 +1736,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "+(2-6)% Chance to Block Spell Damage",
@@ -1450,6 +1753,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Recover 1% of Life on Kill",
@@ -1464,6 +1770,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(100-120)% increased Critical Strike Chance with Traps",
@@ -1477,6 +1786,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "4% increased Skill Effect Duration",
@@ -1491,6 +1803,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Maximum 5 Fragile Regrowth",
@@ -1506,6 +1821,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Lose an Endurance Charge each second"
@@ -1518,6 +1836,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-20)% increased Attack Speed while Chilled",
@@ -1532,6 +1853,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Lose a Frenzy Charge each second"
@@ -1544,6 +1868,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Lose a Power Charge each second"
@@ -1556,6 +1883,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "-1 to maximum number of Golems",
@@ -1573,6 +1903,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "While your Passive Skill Tree connects to a class' starting location, you gain:",
@@ -1592,6 +1925,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(2-6)% Chance to Block Spell Damage",
@@ -1606,6 +1941,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Recover (20-30) Life when your Trap is triggered by an Enemy"
@@ -1618,6 +1956,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -1631,6 +1972,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1645,6 +1989,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(20-30)% chance to gain an additional Vaal Soul on Kill"
@@ -1657,6 +2004,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "(10-15)% increased Attack Damage while holding a Shield",
@@ -1672,6 +2022,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "(10-20)% increased Damage per Curse on you",
@@ -1685,6 +2038,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -1698,6 +2054,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+2 to maximum number of Spectres",
@@ -1715,6 +2074,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "3% increased Totem Life per 10 Strength Allocated in Radius",
@@ -1728,6 +2090,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Minions deal (8-12)% increased Damage",
@@ -1741,6 +2106,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased maximum Mana",
@@ -1754,6 +2122,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from the Simulacrum Encounter",
     "implicit": [],
     "mods": [
       "This Jewel's Socket has 25% increased effect per Allocated Passive Skill between",
@@ -1768,6 +2139,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-13)% increased Chaos Damage",
@@ -1782,6 +2156,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius",
@@ -1795,6 +2172,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -1808,6 +2188,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-15)% to Lightning Resistance",
@@ -1821,6 +2203,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1834,6 +2219,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "20% reduced Flask Charges gained",
@@ -1848,6 +2236,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Flasks applied to you have 20% reduced Effect",
@@ -1862,6 +2253,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Flasks gain 2 Charges when you hit a Non-Unique Enemy, no more than once per second",
@@ -1876,6 +2270,8 @@
     "type": "Jewel",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-20) to Strength",
@@ -1890,6 +2286,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": [],
     "mods": [
       "-1 Strength per 1 Strength on Allocated Passives in Radius",
@@ -1903,6 +2302,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": [],
     "mods": [
       "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
@@ -1916,6 +2318,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Vaal Omnitect}",
     "implicit": [],
     "mods": [
       "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
@@ -1929,6 +2334,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Affliction",
+    "req": null,
+    "sockets": null,
+    "source": "Vaal Aspect Combination",
     "implicit": [],
     "mods": [
       "(0–100)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels"
@@ -1941,6 +2349,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped"
@@ -1953,6 +2364,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
@@ -1967,6 +2381,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Blue Dream} using currency{Blessing of Chayula}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
@@ -1981,6 +2398,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Veteran's Awareness"
@@ -1993,6 +2413,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
     "implicit": [],
     "mods": [
       "(30-40)% increased Armour while Bleeding",
@@ -2009,6 +2432,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
@@ -2023,6 +2449,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Green Dream} using currency{Blessing of Chayula}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
@@ -2037,6 +2466,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Secrets of Suffering"
@@ -2049,6 +2481,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "King of The Mists",
     "implicit": [],
     "mods": [
       "Selected Variant: 1",
@@ -2062,6 +2497,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2077,6 +2515,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Necropolis",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Selected Variant: 1",
@@ -2090,6 +2531,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
@@ -2104,6 +2548,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{The Red Dream} using currency{Blessing of Chayula}",
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
@@ -2118,6 +2565,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique Delirium bosses in maps",
     "implicit": [],
     "mods": [
       "Adds Kineticism"
@@ -2130,6 +2580,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-15)% increased Armour",
@@ -2143,6 +2596,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds}",
     "implicit": [],
     "mods": [
       "Only affects Passives in Massive Ring",
@@ -2157,6 +2613,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
     "implicit": [],
     "mods": [
       "(10-20)% reduced Skeleton Duration",
@@ -2174,6 +2633,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Tempered Flesh} via currency{Vial of Transcendence}",
     "implicit": [],
     "mods": [
       "-1 Strength per 1 Strength on Allocated Passives in Radius",
@@ -2189,6 +2651,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Tempered Mind} via currency{Vial of Transcendence}",
     "implicit": [],
     "mods": [
       "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
@@ -2204,6 +2669,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Tempered Spirit} via currency{Vial of Transcendence}",
     "implicit": [],
     "mods": [
       "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
@@ -2219,6 +2687,8 @@
     "type": "Jewel",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-20) to Dexterity",
@@ -2232,6 +2702,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Minions have (6-8)% increased Area of Effect of Area Skills",
@@ -2245,6 +2717,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Allocated Small Passive Skills in Radius grant nothing",
@@ -2258,6 +2732,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-12)% Chance for Traps to Trigger an additional time"
@@ -2270,6 +2747,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(80-120)% increased Vaal Skill Critical Strike Chance"
@@ -2282,6 +2762,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Minions deal (10-15)% increased Damage",
@@ -2298,6 +2781,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from the Simulacrum Encounter",
     "implicit": [],
     "mods": [
       "Adds 3 Jewel Socket Passive Skills",
@@ -2311,6 +2797,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -2324,6 +2813,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% increased Attack Damage",
@@ -2337,6 +2829,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": "Ancestor",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "100% increased effect of Tattoos in Radius"
@@ -2349,6 +2844,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(15-20)% increased Chaos Damage",
@@ -2362,6 +2860,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(8-12)% increased Global Physical Damage",
@@ -2375,6 +2876,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -2390,6 +2894,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2406,6 +2913,9 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2420,6 +2930,8 @@
     "type": "Jewel",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(5-15) to Intelligence",

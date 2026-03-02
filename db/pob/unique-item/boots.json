@@ -6,6 +6,8 @@
     "type": "Boots",
     "levelReq": 12,
     "league": null,
+    "req": { "str": 0, "dex": 26, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Triggers Level 7 Abberath's Fury when Equipped",
@@ -24,6 +26,8 @@
     "type": "Boots",
     "levelReq": 49,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(15-18)% increased Strength",
@@ -42,6 +46,9 @@
     "type": "Boots",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch} (Uber)",
     "implicit": [],
     "mods": [
       "Grants Level 20 Approaching Flames Skill",
@@ -61,6 +68,9 @@
     "type": "Boots",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 120, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
     "implicit": [],
     "mods": [
       "180% increased Evasion Rating",
@@ -76,6 +86,8 @@
     "type": "Boots",
     "levelReq": 70,
     "league": "Delirium",
+    "req": null,
+    "sockets": null,
     "implicit": ["+(8-12)% to Cold and Lightning Resistances"],
     "mods": [
       "Grants Level 1 Embrace Madness Skill",
@@ -92,6 +104,8 @@
     "type": "Boots",
     "levelReq": 22,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 42 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+20 to maximum Life",
@@ -109,6 +123,8 @@
     "type": "Boots",
     "levelReq": 41,
     "league": "Warbands",
+    "req": { "str": 0, "dex": 40, "int": 40 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(80-100) to maximum Energy Shield",
@@ -126,6 +142,9 @@
     "type": "Boots",
     "levelReq": 69,
     "league": "Abyss",
+    "req": { "str": 0, "dex": 82, "int": 42 },
+    "sockets": null,
+    "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -142,6 +161,8 @@
     "type": "Boots",
     "levelReq": 55,
     "league": "Heist",
+    "req": { "str": 0, "dex": 52, "int": 52 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Triggers Level 20 Corpse Walk when Equipped",
@@ -158,6 +179,9 @@
     "type": "Boots",
     "levelReq": 54,
     "league": "Bestiary",
+    "req": { "str": 95, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Craiceann, First of the Deep}",
     "implicit": [],
     "mods": [
       "(150-180)% increased Armour",
@@ -175,6 +199,9 @@
     "type": "Boots",
     "levelReq": 55,
     "league": "Incursion",
+    "req": null,
+    "sockets": null,
+    "source": "Opening normal{Thunder Coffer} in normal{Conduit of Lightning}",
     "implicit": [],
     "mods": [
       "+(50-60) to maximum Mana",
@@ -191,6 +218,8 @@
     "type": "Boots",
     "levelReq": 65,
     "league": null,
+    "req": { "str": 62, "dex": 62, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(40-70)% increased Armour and Evasion",
@@ -209,6 +238,9 @@
     "type": "Boots",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{The Searing Exarch}",
     "implicit": [],
     "mods": [
       "+(80-100) to maximum Life",
@@ -225,6 +257,9 @@
     "type": "Boots",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 62 },
+    "sockets": null,
+    "source": "Drops in The Eternal Labyrinth",
     "implicit": [],
     "mods": [
       "+(20-40) to Strength",
@@ -243,6 +278,8 @@
     "type": "Boots",
     "levelReq": 22,
     "league": null,
+    "req": { "str": 0, "dex": 42, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 15 Trap",
@@ -259,6 +296,9 @@
     "type": "Boots",
     "levelReq": 68,
     "league": "Delve",
+    "req": { "str": 120, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}",
     "implicit": [],
     "mods": [
       "Grants Level 25 Purity of Lightning Skill",
@@ -275,6 +315,9 @@
     "type": "Boots",
     "levelReq": 69,
     "league": "Delve",
+    "req": { "str": 0, "dex": 120, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}",
     "implicit": [],
     "mods": [
       "Grants Level 25 Purity of Lightning Skill",
@@ -291,6 +334,9 @@
     "type": "Boots",
     "levelReq": 67,
     "league": "Delve",
+    "req": { "str": 0, "dex": 0, "int": 120 },
+    "sockets": null,
+    "source": "Drops from unique{The Apex Assembly} in unique{Doryani's Machinarium}",
     "implicit": [],
     "mods": [
       "Grants Level 25 Purity of Lightning Skill",
@@ -307,6 +353,9 @@
     "type": "Boots",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 19, "dex": 19, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Trigger Level 1 Stalking Pustule on Kill",
@@ -326,6 +375,8 @@
     "type": "Boots",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-100)% increased Armour and Evasion",
@@ -342,6 +393,9 @@
     "type": "Boots",
     "levelReq": 69,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 120, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Farrul, First of the Plains}",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Intimidating Cry when you lose Cat's Stealth",
@@ -359,6 +413,9 @@
     "type": "Boots",
     "levelReq": 63,
     "league": "Bestiary",
+    "req": { "str": 0, "dex": 62, "int": 62 },
+    "sockets": null,
+    "source": "Drops from unique{Fenumus, First of the Night}",
     "implicit": [],
     "mods": [
       "(160-200)% increased Evasion and Energy Shield",
@@ -377,6 +434,8 @@
     "type": "Boots",
     "levelReq": 59,
     "league": "Affliction",
+    "req": { "str": 56, "dex": 56, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -392,6 +451,8 @@
     "type": "Boots",
     "levelReq": 58,
     "league": null,
+    "req": { "str": 54, "dex": 0, "int": 54 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(160-180)% increased Armour and Energy Shield",
@@ -408,6 +469,8 @@
     "type": "Boots",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 117, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -425,6 +488,8 @@
     "type": "Boots",
     "levelReq": 34,
     "league": null,
+    "req": { "str": 0, "dex": 62, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "60% increased Mana Regeneration Rate",
@@ -440,6 +505,9 @@
     "type": "Boots",
     "levelReq": 52,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+(5-10) to Strength",
@@ -457,6 +525,9 @@
     "type": "Boots",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 56, "int": 76 },
+    "sockets": null,
+    "source": "Drops from unique{The Eater of Worlds}",
     "implicit": ["+(13-17)% to Chaos Resistance"],
     "mods": [
       "+(80-100) to maximum Life",
@@ -474,6 +545,8 @@
     "type": "Boots",
     "levelReq": 61,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 119 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(50-70) to maximum Life",
@@ -491,6 +564,8 @@
     "type": "Boots",
     "levelReq": 46,
     "league": null,
+    "req": { "str": 82, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-150)% increased Armour",
@@ -506,6 +581,8 @@
     "type": "Boots",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 120, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Has no Sockets",
@@ -522,6 +599,9 @@
     "type": "Boots",
     "levelReq": 69,
     "league": "Ritual",
+    "req": { "str": 48, "dex": 48, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Maven}",
     "implicit": [],
     "mods": [
       "(200-300)% increased Armour and Evasion",
@@ -538,6 +618,8 @@
     "type": "Boots",
     "levelReq": 30,
     "league": "Legion",
+    "req": { "str": 30, "dex": 30, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 5 Rain of Arrows when you Attack with a Bow",
@@ -555,6 +637,8 @@
     "type": "Boots",
     "levelReq": 58,
     "league": "Synthesis",
+    "req": { "str": 54, "dex": 0, "int": 54 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(3-5) to Level of Socketed Aura Gems",
@@ -571,6 +655,8 @@
     "type": "Boots",
     "levelReq": 42,
     "league": "Warbands",
+    "req": { "str": 40, "dex": 40, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (25-30) to (40-50) Cold Damage to Spells",
@@ -588,6 +674,8 @@
     "type": "Boots",
     "levelReq": 16,
     "league": null,
+    "req": { "str": 0, "dex": 18, "int": 18 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -606,6 +694,8 @@
     "type": "Boots",
     "levelReq": 48,
     "league": "Expedition",
+    "req": { "str": 37, "dex": 37, "int": 37 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-80)% increased Ward",
@@ -621,6 +711,9 @@
     "type": "Boots",
     "levelReq": 55,
     "league": "Incursion",
+    "req": { "str": 0, "dex": 52, "int": 52 },
+    "sockets": null,
+    "source": "Upgraded from unique{Dance of the Offered} via currency{Vial of the Ritual}",
     "implicit": [],
     "mods": [
       "(15-20)% increased maximum Mana",
@@ -638,6 +731,8 @@
     "type": "Boots",
     "levelReq": 39,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-150)% increased Evasion Rating",
@@ -653,6 +748,8 @@
     "type": "Boots",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 94 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(15-20)% Chance to Block Spell Damage",
@@ -668,6 +765,8 @@
     "type": "Boots",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 35, "dex": 0, "int": 35 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(15-25)% to Cold Resistance",
@@ -684,6 +783,8 @@
     "type": "Boots",
     "levelReq": 46,
     "league": "Warbands",
+    "req": { "str": 82, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(50-70) to maximum Life",
@@ -702,6 +803,9 @@
     "type": "Boots",
     "levelReq": 49,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(15-18)% increased Strength",
@@ -719,6 +823,9 @@
     "type": "Boots",
     "levelReq": 22,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 42 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(40-60)% increased Energy Shield",
@@ -736,6 +843,9 @@
     "type": "Boots",
     "levelReq": 61,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 119 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(5-8)% increased Intelligence",
@@ -752,6 +862,9 @@
     "type": "Boots",
     "levelReq": 30,
     "league": "Heist",
+    "req": { "str": 30, "dex": 30, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Trigger Level 5 Toxic Rain when you Attack with a Bow",
@@ -769,6 +882,9 @@
     "type": "Boots",
     "levelReq": 68,
     "league": "Heist",
+    "req": { "str": 120, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(60-100)% increased Armour",
@@ -788,6 +904,9 @@
     "type": "Boots",
     "levelReq": 63,
     "league": "Heist",
+    "req": { "str": 0, "dex": 62, "int": 62 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(100-150)% increased Evasion and Energy Shield",
@@ -805,6 +924,9 @@
     "type": "Boots",
     "levelReq": 55,
     "league": "Heist",
+    "req": { "str": 0, "dex": 97, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(25-35) to Dexterity",
@@ -822,6 +944,10 @@
     "type": "Boots",
     "levelReq": 69,
     "league": "Heist",
+    "req": { "str": 0, "dex": 82, "int": 42 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "+(30-50) to Dexterity",
@@ -840,6 +966,9 @@
     "type": "Boots",
     "levelReq": 59,
     "league": "Bestiary",
+    "req": { "str": 56, "dex": 56, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Saqawal, First of the Sky}",
     "implicit": [],
     "mods": [
       "Grants Level 20 Aspect of the Avian Skill",
@@ -857,6 +986,9 @@
     "type": "Boots",
     "levelReq": 54,
     "league": "Mercenaries of Trarthus",
+    "req": { "str": 0, "dex": 0, "int": 69 },
+    "sockets": null,
+    "source": "Drops from unique{Mercenary} after winning a duel",
     "implicit": [],
     "mods": [
       "+(5-15) to Intelligence",
@@ -873,6 +1005,8 @@
     "type": "Boots",
     "levelReq": null,
     "league": "Perandus",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "50% increased Movement Speed"
@@ -885,6 +1019,9 @@
     "type": "Boots",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 54 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+10 to Dexterity",
@@ -903,6 +1040,8 @@
     "type": "Boots",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 54 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Intelligence",
@@ -919,6 +1058,8 @@
     "type": "Boots",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 117, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -936,6 +1077,8 @@
     "type": "Boots",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 123 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Energy Shield: 64",
@@ -954,6 +1097,8 @@
     "type": "Boots",
     "levelReq": 67,
     "league": "Warbands",
+    "req": { "str": 0, "dex": 0, "int": 123 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-80)% increased Energy Shield",
@@ -972,6 +1117,8 @@
     "type": "Boots",
     "levelReq": 23,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(1-50)% to Lightning Resistance",
@@ -988,6 +1135,8 @@
     "type": "Boots",
     "levelReq": 27,
     "league": null,
+    "req": { "str": 0, "dex": 27, "int": 27 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "10% increased Attack Speed",
@@ -1004,6 +1153,9 @@
     "type": "Boots",
     "levelReq": 59,
     "league": null,
+    "req": { "str": 0, "dex": 27, "int": 27 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "10% increased Attack Speed",
@@ -1023,6 +1175,9 @@
     "type": "Boots",
     "levelReq": 55,
     "league": "Ultimatum",
+    "req": { "str": 0, "dex": 97, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": [],
     "mods": [
       "(170-250)% increased Evasion Rating",
@@ -1039,6 +1194,8 @@
     "type": "Boots",
     "levelReq": 44,
     "league": null,
+    "req": { "str": 0, "dex": 79, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(30-40) to Dexterity",
@@ -1058,6 +1215,9 @@
     "type": "Boots",
     "levelReq": 54,
     "league": "Breach",
+    "req": { "str": 95, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}",
     "implicit": [],
     "mods": [
       "20% increased Movement Speed",
@@ -1076,6 +1236,9 @@
     "type": "Boots",
     "levelReq": 68,
     "league": "Breach",
+    "req": { "str": 120, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Infinite Pursuit} using currency{Blessing of Uul-Netol}",
     "implicit": [],
     "mods": [
       "(60-100)% increased Armour",
@@ -1094,6 +1257,9 @@
     "type": "Boots",
     "levelReq": 63,
     "league": "Blight",
+    "req": { "str": 0, "dex": 62, "int": 62 },
+    "sockets": null,
+    "source": "Drops in Blighted Maps",
     "implicit": [],
     "mods": [
       "(100-150)% increased Evasion and Energy Shield",
@@ -1111,6 +1277,9 @@
     "type": "Boots",
     "levelReq": 54,
     "league": null,
+    "req": { "str": 95, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Sirus, Awakener of Worlds} (Uber)",
     "implicit": [],
     "mods": [
       "(80–120)% increased Armour",
@@ -1127,6 +1296,8 @@
     "type": "Boots",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 0, "dex": 97, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(25-35) to Dexterity",
@@ -1144,6 +1315,8 @@
     "type": "Boots",
     "levelReq": 37,
     "league": null,
+    "req": { "str": 67, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour",
@@ -1160,6 +1333,8 @@
     "type": "Boots",
     "levelReq": 34,
     "league": "Necropolis",
+    "req": { "str": 0, "dex": 34, "int": 34 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 20 Ravenous Skill",
@@ -1176,6 +1351,8 @@
     "type": "Boots",
     "levelReq": 12,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+15 to Dexterity",
@@ -1193,6 +1370,10 @@
     "type": "Boots",
     "levelReq": 69,
     "league": null,
+    "req": { "str": 0, "dex": 82, "int": 42 },
+    "sockets": null,
+    "influences": ["shaper"],
+    "source": "Drops from unique{The Shaper}",
     "implicit": [],
     "mods": [
       "+(30-50) to Dexterity",
@@ -1211,6 +1392,8 @@
     "type": "Boots",
     "levelReq": 28,
     "league": null,
+    "req": { "str": 28, "dex": 0, "int": 28 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 1 to 120 Lightning Damage to Attacks",
@@ -1227,6 +1410,8 @@
     "type": "Boots",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+5 to Dexterity",
@@ -1243,6 +1428,8 @@
     "type": "Boots",
     "levelReq": 33,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(50-80)% increased Armour",
@@ -1259,6 +1446,9 @@
     "type": "Boots",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(200-250)% increased Armour",
@@ -1276,6 +1466,8 @@
     "type": "Boots",
     "levelReq": 9,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(5-30) to Strength",

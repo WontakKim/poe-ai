@@ -6,6 +6,8 @@
     "type": "Quiver",
     "levelReq": 56,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Gain (6-8) Life per Enemy Hit with Attacks"],
     "mods": [
       "Adds (30-40) to (60-70) Cold Damage to Attacks",
@@ -21,6 +23,8 @@
     "type": "Quiver",
     "levelReq": 20,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Projectile Speed"],
     "mods": [
       "Grants Level 5 Frostbite Skill",
@@ -39,6 +43,8 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Adds (12-15) to (24-27) Fire Damage to Attacks"],
     "mods": [
       "10% increased Attack Speed",
@@ -55,6 +61,9 @@
     "type": "Quiver",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["1 to 4 Added Physical Damage with Bow Attacks"],
     "mods": [
       "(20-25)% reduced Enemy Stun Threshold",
@@ -71,6 +80,8 @@
     "type": "Quiver",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["1 to 4 Added Physical Damage with Bow Attacks"],
     "mods": [
       "(20-25)% reduced Enemy Stun Threshold",
@@ -86,6 +97,8 @@
     "type": "Quiver",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Arrows Pierce an additional Target"],
     "mods": [
       "(8-12)% increased Attack Speed",
@@ -102,6 +115,9 @@
     "type": "Quiver",
     "levelReq": 14,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["Gain (6-8) Life per Enemy Hit with Attacks"],
     "mods": [
       "+(15-25) to Strength",
@@ -120,6 +136,9 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["Gain (6-8) Life per Enemy Hit with Attacks"],
     "mods": [
       "+(15-30) to all Attributes",
@@ -138,6 +157,8 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["Has 1 Socket"],
     "mods": [
       "Has 2 Sockets",
@@ -154,6 +175,8 @@
     "type": "Quiver",
     "levelReq": 55,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Gain (10-15)% of Physical Damage as Extra Chaos Damage"],
     "mods": [
       "10% increased Attack Speed",
@@ -171,6 +194,8 @@
     "type": "Quiver",
     "levelReq": 31,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "(20-24)% Chance to Block Attack Damage",
@@ -188,6 +213,9 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Has 1 Socket"],
     "mods": [
       "Has 2 Sockets",
@@ -204,6 +232,9 @@
     "type": "Quiver",
     "levelReq": 64,
     "league": "Heist",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(20-30)% increased Critical Strike Chance with Bows"],
     "mods": [
       "+30 to Dexterity",
@@ -221,6 +252,9 @@
     "type": "Quiver",
     "levelReq": 56,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Rigwald, The Wolven King} (Level 70+)",
     "implicit": ["(20-30)% increased Global Accuracy Rating"],
     "mods": [
       "-10% to Fire Resistance",
@@ -238,6 +272,8 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-30)% increased Projectile Speed"],
     "mods": [
       "+(30-40) to Dexterity",
@@ -255,6 +291,8 @@
     "type": "Quiver",
     "levelReq": 57,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(12-16) to (24-27) Added Physical Damage with Bow Attacks"],
     "mods": [
       "+(20-40) to Dexterity",
@@ -272,6 +310,8 @@
     "type": "Quiver",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-30)% increased Global Accuracy Rating"],
     "mods": [
       "+(15-25) to Intelligence",
@@ -288,6 +328,8 @@
     "type": "Quiver",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-30)% increased Critical Strike Chance with Bows"],
     "mods": [
       "+30 to Dexterity",
@@ -305,6 +347,9 @@
     "type": "Quiver",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Catarina} in normal{Mastermind's Lair}",
     "implicit": ["Gain (10-15)% of Physical Damage as Extra Chaos Damage"],
     "mods": [
       "+(10-20) to Dexterity and Intelligence",
@@ -323,6 +368,8 @@
     "type": "Quiver",
     "levelReq": 52,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(8-10)% increased Attack Speed"],
     "mods": [
       "Grants Call of Steel",
@@ -339,6 +386,9 @@
     "type": "Quiver",
     "levelReq": 60,
     "league": "Harbinger",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Created from item parts obtained from Boss in The Beachhead",
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "Grants Summon Harbinger of Directions Skill",
@@ -355,6 +405,8 @@
     "type": "Quiver",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["(20-30)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "+(15-25)% to Fire Resistance",
@@ -372,6 +424,9 @@
     "type": "Quiver",
     "levelReq": 60,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{The Fracturing Spinner} via currency{Fragmentation Scroll}",
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "Grants Summon Greater Harbinger of Directions Skill",
@@ -388,6 +443,9 @@
     "type": "Quiver",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["Adds (12-15) to (24-27) Fire Damage to Attacks"],
     "mods": [
       "10% increased Attack Speed",
@@ -405,6 +463,10 @@
     "type": "Quiver",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "influences": ["shaper", "elder"],
+    "source": "Drops from unique{The Elder} (Uber)",
     "implicit": ["(20-30)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Consumes a Void Charge to Trigger Level 20 Void Shot when you fire Arrows with a Non-Triggered Skill",

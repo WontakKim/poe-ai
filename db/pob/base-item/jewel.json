@@ -6,7 +6,8 @@
     "subType": null,
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "intjewel", "jewel", "not_dex", "not_for_sale", "not_str"]
   },
   {
     "id": "Corvine_Charm",
@@ -15,7 +16,8 @@
     "subType": "Charm",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["animal_charm", "default", "int_animal_charm"]
   },
   {
     "id": "Crimson_Jewel",
@@ -24,7 +26,8 @@
     "subType": null,
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "jewel", "not_dex", "not_for_sale", "not_int", "strjewel"]
   },
   {
     "id": "Ghastly_Eye_Jewel",
@@ -33,7 +36,8 @@
     "subType": "Abyss",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["abyss_jewel", "abyss_jewel_summoner", "default", "not_for_sale"]
   },
   {
     "id": "Hypnotic_Eye_Jewel",
@@ -42,7 +46,8 @@
     "subType": "Abyss",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["abyss_jewel", "abyss_jewel_caster", "default", "not_for_sale"]
   },
   {
     "id": "Large_Cluster_Jewel",
@@ -51,7 +56,8 @@
     "subType": "Cluster",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "expansion_jewel_large", "jewel", "not_for_sale"]
   },
   {
     "id": "Lupine_Charm",
@@ -60,7 +66,8 @@
     "subType": "Charm",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["animal_charm", "default", "dex_animal_charm"]
   },
   {
     "id": "Medium_Cluster_Jewel",
@@ -69,7 +76,8 @@
     "subType": "Cluster",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "expansion_jewel_medium", "jewel", "not_for_sale"]
   },
   {
     "id": "Murderous_Eye_Jewel",
@@ -78,7 +86,8 @@
     "subType": "Abyss",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["abyss_jewel", "abyss_jewel_melee", "default", "not_for_sale"]
   },
   {
     "id": "Prismatic_Jewel",
@@ -87,7 +96,8 @@
     "subType": null,
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"]
   },
   {
     "id": "Searching_Eye_Jewel",
@@ -96,7 +106,8 @@
     "subType": "Abyss",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["abyss_jewel", "abyss_jewel_ranged", "default", "not_for_sale"]
   },
   {
     "id": "Small_Cluster_Jewel",
@@ -105,7 +116,8 @@
     "subType": "Cluster",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "expansion_jewel_small", "jewel", "not_for_sale"]
   },
   {
     "id": "Timeless_Jewel",
@@ -114,7 +126,8 @@
     "subType": "Timeless",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"]
   },
   {
     "id": "Ursine_Charm",
@@ -123,7 +136,8 @@
     "subType": "Charm",
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["animal_charm", "default", "str_animal_charm"]
   },
   {
     "id": "Viridian_Jewel",
@@ -132,6 +146,7 @@
     "subType": null,
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
-    "socketLimit": null
+    "socketLimit": null,
+    "tags": ["default", "dexjewel", "jewel", "not_for_sale", "not_int", "not_str"]
   }
 ]

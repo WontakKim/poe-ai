@@ -6,6 +6,8 @@
     "type": "Claw",
     "levelReq": 46,
     "league": null,
+    "req": { "str": 0, "dex": 80, "int": 80 },
+    "sockets": null,
     "implicit": ["Grants 44 Life per Enemy Hit"],
     "mods": [
       "Socketed Gems are Supported by Level 12 Fortify",
@@ -24,6 +26,8 @@
     "type": "Claw",
     "levelReq": 26,
     "league": "Legion",
+    "req": { "str": 0, "dex": 39, "int": 56 },
+    "sockets": null,
     "implicit": ["Grants 19 Life per Enemy Hit"],
     "mods": [
       "(100-120)% increased Physical Damage",
@@ -40,6 +44,8 @@
     "type": "Claw",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
     "implicit": ["2% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "(110-130)% increased Physical Damage",
@@ -56,6 +62,8 @@
     "type": "Claw",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
     "implicit": ["1.6% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "(200-220)% increased Physical Damage",
@@ -73,6 +81,8 @@
     "type": "Claw",
     "levelReq": 37,
     "league": null,
+    "req": { "str": 0, "dex": 53, "int": 77 },
+    "sockets": null,
     "implicit": ["Grants 25 Life per Enemy Hit"],
     "mods": [
       "(15-20)% increased Cast Speed",
@@ -88,6 +98,8 @@
     "type": "Claw",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["2% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "+8% Chance to Block Attack Damage while Dual Wielding Claws",
@@ -105,6 +117,9 @@
     "type": "Claw",
     "levelReq": 68,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Esh Breach or from unique{Esh, Forked Thought}",
     "implicit": ["Grants 46 Life per Enemy Hit"],
     "mods": [
       "(8-12)% increased Dexterity",
@@ -121,6 +136,9 @@
     "type": "Claw",
     "levelReq": 68,
     "league": "Breach",
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
+    "source": "Upgraded from unique{Hand of Thought and Motion} using currency{Blessing of Esh}",
     "implicit": ["Grants 46 Life per Enemy Hit"],
     "mods": [
       "(8-12)% increased Dexterity",
@@ -137,6 +155,9 @@
     "type": "Claw",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["Grants 46 Life per Enemy Hit"],
     "mods": [
       "(40-60)% increased Physical Damage",
@@ -153,6 +174,8 @@
     "type": "Claw",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["Gain 3 Life per Enemy Hit with Attacks"],
     "mods": [
       "25% increased Attack Speed when on Low Life",
@@ -169,6 +192,9 @@
     "type": "Claw",
     "levelReq": 62,
     "league": "Harvest",
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
+    "source": "Drops from unique{Oshabi, Avatar of the Grove}",
     "implicit": ["1.6% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "20% chance to Trigger Level 25 Summon Spectral Wolf on Critical Strike with this Weapon",
@@ -184,6 +210,8 @@
     "type": "Claw",
     "levelReq": 34,
     "league": null,
+    "req": { "str": 0, "dex": 61, "int": 61 },
+    "sockets": null,
     "implicit": ["Grants 20 Life per Enemy Hit"],
     "mods": [
       "(75-100)% increased Physical Damage",
@@ -202,6 +230,8 @@
     "type": "Claw",
     "levelReq": 46,
     "league": null,
+    "req": { "str": 0, "dex": 80, "int": 80 },
+    "sockets": null,
     "implicit": ["Grants 44 Life per Enemy Hit"],
     "mods": [
       "+1 to Level of Socketed Dexterity Gems",
@@ -219,6 +249,9 @@
     "type": "Claw",
     "levelReq": 46,
     "league": "Heist",
+    "req": { "str": 0, "dex": 80, "int": 80 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Grants 44 Life per Enemy Hit"],
     "mods": [
       "Socketed Gems are Supported by Level 12 Cast when Damage Taken",
@@ -236,6 +269,9 @@
     "type": "Claw",
     "levelReq": 66,
     "league": "Heist",
+    "req": { "str": 0, "dex": 95, "int": 131 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["2% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "(110-130)% increased Physical Damage",
@@ -253,6 +289,9 @@
     "type": "Claw",
     "levelReq": null,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["Grants 3 Life per Enemy Hit"],
     "mods": [
       "25% increased Attack Speed when on Low Life",
@@ -269,6 +308,8 @@
     "type": "Claw",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
     "implicit": ["2% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -286,6 +327,8 @@
     "type": "Claw",
     "levelReq": 70,
     "league": null,
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
     "implicit": ["2% of Physical Attack Damage Leeched as Life"],
     "mods": [
       "Adds (35-50) to (100-125) Physical Damage",
@@ -302,6 +345,8 @@
     "type": "Claw",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 113, "int": 113 },
+    "sockets": null,
     "implicit": ["Grants 40 Life per Enemy Hit"],
     "mods": [
       "(150-170)% increased Physical Damage",
@@ -320,6 +365,8 @@
     "type": "Claw",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 131, "int": 95 },
+    "sockets": null,
     "implicit": ["Grants 46 Life per Enemy Hit"],
     "mods": [
       "Adds (40-50) to (130-150) Physical Damage",
@@ -338,6 +385,8 @@
     "type": "Claw",
     "levelReq": 12,
     "league": null,
+    "req": { "str": 0, "dex": 25, "int": 25 },
+    "sockets": null,
     "implicit": ["Grants 7 Life per Enemy Hit"],
     "mods": [
       "+(10-15) to Strength",

@@ -7,6 +7,7 @@
     "implicit": "Spend Energy Shield before Mana for Costs of Socketed Skills\n+(140-165) to maximum Energy Shield",
     "req": { "level": 70, "str": 117, "dex": null, "int": 117 },
     "socketLimit": 6,
+    "tags": ["default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 65, "physMax": 120, "critChance": 7.5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -17,6 +18,7 @@
     "implicit": "+1 to Maximum Power Charges and Maximum Endurance Charges",
     "req": { "level": 30, "str": 54, "dex": null, "int": 54 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 39, "physMax": 73, "critChance": 8.3, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -27,6 +29,7 @@
     "implicit": "+20% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 23, "str": 43, "dex": null, "int": 43 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 27, "physMax": 57, "critChance": 7.7, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -37,6 +40,7 @@
     "implicit": "80% increased Global Critical Strike Chance",
     "req": { "level": 36, "str": 66, "dex": null, "int": 66 },
     "socketLimit": 6,
+    "tags": ["default", "maraketh", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 41, "physMax": 85, "critChance": 7.5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -47,6 +51,7 @@
     "implicit": "100% increased Global Critical Strike Chance",
     "req": { "level": 70, "str": 117, "dex": null, "int": 117 },
     "socketLimit": 6,
+    "tags": ["default", "maraketh", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 70, "physMax": 145, "critChance": 7.5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -57,6 +62,7 @@
     "implicit": "+1 to Maximum Power Charges and Maximum Endurance Charges",
     "req": { "level": 70, "str": 117, "dex": null, "int": 117 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 78, "physMax": 144, "critChance": 8.3, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -67,6 +73,7 @@
     "implicit": "+25% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 60, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "top_tier_base_item_type", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 53, "physMax": 160, "critChance": 8.5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -77,6 +84,7 @@
     "implicit": "+22% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 55, "str": 94, "dex": null, "int": 94 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 65, "physMax": 121, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -87,6 +95,7 @@
     "implicit": "+20% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": null, "str": 12, "dex": null, "int": 12 },
     "socketLimit": 6,
+    "tags": ["default", "small_staff", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 9, "physMax": 19, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -97,6 +106,7 @@
     "implicit": "+22% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 52, "str": 89, "dex": null, "int": 89 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 48, "physMax": 145, "critChance": 8.25, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -107,6 +117,7 @@
     "implicit": "+25% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 66, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 57, "physMax": 171, "critChance": 8.5, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -117,6 +128,7 @@
     "implicit": "+20% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 13, "str": 27, "dex": null, "int": 27 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 14, "physMax": 42, "critChance": 7.6, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -127,6 +139,7 @@
     "implicit": "+25% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 68, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "top_tier_base_item_type", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 73, "physMax": 136, "critChance": 8, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -137,6 +150,7 @@
     "implicit": "+25% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 62, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 72, "physMax": 120, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -147,6 +161,7 @@
     "implicit": "+20% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 18, "str": 35, "dex": null, "int": 35 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 24, "physMax": 41, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -157,6 +172,7 @@
     "implicit": "+25% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 64, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "top_tier_base_item_type", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 71, "physMax": 147, "critChance": 8.1, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -167,6 +183,7 @@
     "implicit": "+22% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 41, "str": 72, "dex": null, "int": 72 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 38, "physMax": 114, "critChance": 7.9, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -177,6 +194,7 @@
     "implicit": "80% increased Global Critical Strike Chance",
     "req": { "level": 57, "str": 101, "dex": null, "int": 101 },
     "socketLimit": 6,
+    "tags": ["default", "maraketh", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 66, "physMax": 138, "critChance": 7.5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -187,6 +205,7 @@
     "implicit": "+1 to Maximum Power Charges and Maximum Endurance Charges",
     "req": { "level": 50, "str": 86, "dex": null, "int": 86 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 61, "physMax": 113, "critChance": 8.3, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -197,6 +216,7 @@
     "implicit": "+20% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 9, "str": 20, "dex": null, "int": 20 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 10, "physMax": 31, "critChance": 8, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -207,6 +227,7 @@
     "implicit": "+25% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 58, "str": 99, "dex": null, "int": 99 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 55, "physMax": 165, "critChance": 8, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -217,6 +238,7 @@
     "implicit": "+22% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 45, "str": 78, "dex": null, "int": 78 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 51, "physMax": 86, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -227,6 +249,7 @@
     "implicit": "Spend Energy Shield before Mana for Costs of Socketed Skills\n+(100-120) to maximum Energy Shield",
     "req": { "level": 50, "str": 86, "dex": null, "int": 86 },
     "socketLimit": 6,
+    "tags": ["default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 55, "physMax": 102, "critChance": 7.5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -237,6 +260,7 @@
     "implicit": "+20% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 28, "str": 51, "dex": null, "int": 51 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 27, "physMax": 81, "critChance": 8.5, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -247,6 +271,7 @@
     "implicit": "+22% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 49, "str": 85, "dex": null, "int": 85 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 56, "physMax": 117, "critChance": 7.8, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -257,6 +282,7 @@
     "implicit": "Spend Energy Shield before Mana for Costs of Socketed Skills\n+(66-80) to maximum Energy Shield",
     "req": { "level": 30, "str": 54, "dex": null, "int": 54 },
     "socketLimit": 6,
+    "tags": ["default", "experimental_base", "not_for_sale", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 36, "physMax": 66, "critChance": 7.5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -267,6 +293,7 @@
     "implicit": "+20% Chance to Block Attack Damage while wielding a Staff",
     "req": { "level": 33, "str": 59, "dex": null, "int": 59 },
     "socketLimit": 6,
+    "tags": ["attack_staff", "default", "staff", "two_hand_weapon", "twohand", "warstaff", "weapon"],
     "weapon": { "physMin": 41, "physMax": 76, "critChance": 7.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -277,6 +304,7 @@
     "implicit": "+22% Chance to Block Spell Damage while wielding a Staff",
     "req": { "level": 37, "str": 65, "dex": null, "int": 65 },
     "socketLimit": 6,
+    "tags": ["default", "staff", "two_hand_weapon", "twohand", "weapon"],
     "weapon": { "physMin": 34, "physMax": 102, "critChance": 8, "attackRate": 1.15, "range": 13 }
   }
 ]

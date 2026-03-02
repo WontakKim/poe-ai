@@ -6,6 +6,9 @@
     "type": "Bow",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "Adds (80-100) to (200-225) Physical Damage",
@@ -25,6 +28,8 @@
     "type": "Bow",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "+(10-20) to Dexterity",
@@ -42,6 +47,8 @@
     "type": "Bow",
     "levelReq": 62,
     "league": "Legion",
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -60,6 +67,8 @@
     "type": "Bow",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 107, "int": 0 },
+    "sockets": null,
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(90-105)% increased Physical Damage",
@@ -75,6 +84,9 @@
     "type": "Bow",
     "levelReq": 44,
     "league": null,
+    "req": { "str": 0, "dex": 107, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(90-105)% increased Physical Damage",
@@ -91,6 +103,8 @@
     "type": "Bow",
     "levelReq": 28,
     "league": null,
+    "req": { "str": 0, "dex": 95, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (12-16) to (20-24) Physical Damage",
@@ -106,6 +120,9 @@
     "type": "Bow",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 0, "dex": 95, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (12-16) to (20-24) Physical Damage",
@@ -121,6 +138,10 @@
     "type": "Bow",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": [],
     "mods": [
       "Adds (130-150) to (270-300) Cold Damage",
@@ -140,6 +161,8 @@
     "type": "Bow",
     "levelReq": 53,
     "league": null,
+    "req": { "str": 0, "dex": 170, "int": 0 },
+    "sockets": null,
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(70-80)% increased Physical Damage",
@@ -158,6 +181,8 @@
     "type": "Bow",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 107, "int": 0 },
+    "sockets": null,
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "Adds (8-12) to (16-24) Physical Damage",
@@ -175,6 +200,8 @@
     "type": "Bow",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "(180-200)% increased Physical Damage",
@@ -192,6 +219,8 @@
     "type": "Bow",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 212 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (50-80) to (130-180) Chaos Damage",
@@ -209,6 +238,8 @@
     "type": "Bow",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "No Physical Damage",
@@ -228,6 +259,8 @@
     "type": "Bow",
     "levelReq": 5,
     "league": null,
+    "req": { "str": 0, "dex": 26, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+(10-20) to Dexterity",
@@ -246,6 +279,8 @@
     "type": "Bow",
     "levelReq": 64,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Greater Volley",
@@ -266,6 +301,9 @@
     "type": "Bow",
     "levelReq": 53,
     "league": "Heist",
+    "req": { "str": 0, "dex": 170, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -285,6 +323,9 @@
     "type": "Bow",
     "levelReq": 32,
     "league": "Heist",
+    "req": { "str": 0, "dex": 107, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "Adds (8-12) to (16-24) Physical Damage",
@@ -302,6 +343,9 @@
     "type": "Bow",
     "levelReq": 5,
     "league": "Heist",
+    "req": { "str": 0, "dex": 26, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 1 Arrow Nova",
@@ -320,6 +364,9 @@
     "type": "Bow",
     "levelReq": 66,
     "league": "Heist",
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (48-60) to (72-90) Cold Damage",
@@ -337,6 +384,8 @@
     "type": "Bow",
     "levelReq": 18,
     "league": null,
+    "req": { "str": 0, "dex": 71, "int": 0 },
+    "sockets": null,
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -352,6 +401,9 @@
     "type": "Bow",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -370,6 +422,8 @@
     "type": "Bow",
     "levelReq": 2,
     "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Bow Gems",
@@ -386,6 +440,8 @@
     "type": "Bow",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "Adds (80-95) to (220-240) Physical Damage",
@@ -401,6 +457,8 @@
     "type": "Bow",
     "levelReq": 9,
     "league": null,
+    "req": { "str": 0, "dex": 38, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "No Physical Damage",
@@ -415,6 +473,9 @@
     "type": "Bow",
     "levelReq": 57,
     "league": "Betrayal",
+    "req": { "str": 0, "dex": 190, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Fortification Leaders} in normal{Safehouses}",
     "implicit": [],
     "mods": [
       "6% increased Movement Speed",
@@ -433,6 +494,9 @@
     "type": "Bow",
     "levelReq": 58,
     "league": null,
+    "req": { "str": 0, "dex": 185, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{The Eater of Worlds}",
     "implicit": [],
     "mods": [
       "(120-160)% increased Physical Damage",
@@ -449,6 +513,9 @@
     "type": "Bow",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 0, "dex": 38, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "No Physical Damage",
@@ -464,6 +531,8 @@
     "type": "Bow",
     "levelReq": 64,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds 1 to (600-750) Lightning Damage",
@@ -481,6 +550,8 @@
     "type": "Bow",
     "levelReq": null,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(150-250)% increased bonuses gained from Equipped Quiver"
@@ -493,6 +564,8 @@
     "type": "Bow",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (48-60) to (72-90) Cold Damage",
@@ -510,6 +583,9 @@
     "type": "Bow",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 0, "dex": 212, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Uber Incarnation of Fear} in normal{Moment of Trauma}",
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Trigger a Socketed Spell when a Hit from this",
@@ -528,6 +604,9 @@
     "type": "Bow",
     "levelReq": 23,
     "league": "Breach",
+    "req": { "str": 0, "dex": 80, "int": 0 },
+    "sockets": null,
+    "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
     "implicit": [],
     "mods": [
       "(160-190)% increased Physical Damage",
@@ -545,6 +624,9 @@
     "type": "Bow",
     "levelReq": 64,
     "league": "Breach",
+    "req": { "str": 0, "dex": 185, "int": 0 },
+    "sockets": null,
+    "source": "Upgraded from unique{Xoph's Inception} using currency{Blessing of Xoph}",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Ignite Proliferation",

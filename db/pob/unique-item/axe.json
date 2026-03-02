@@ -6,6 +6,9 @@
     "type": "One Handed Axe",
     "levelReq": 63,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "Variant: Pre 3.26.0",
@@ -23,6 +26,9 @@
     "type": "Two Handed Axe",
     "levelReq": 75,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Alluring Abyss}",
     "implicit": ["25% chance to Maim on Hit"],
     "mods": [
       "+30% to Quality of Socketed Support Gems",
@@ -39,6 +45,8 @@
     "type": "Two Handed Axe",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (310-350) to (460-500) Cold Damage",
@@ -54,6 +62,8 @@
     "type": "One Handed Axe",
     "levelReq": 16,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (5-15) to (20-25) Physical Damage",
@@ -71,6 +81,9 @@
     "type": "One Handed Axe",
     "levelReq": 60,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Adds (5-15) to (20-25) Physical Damage",
@@ -88,6 +101,8 @@
     "type": "One Handed Axe",
     "levelReq": 69,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Adds (255-285) to (300-330) Fire Damage in Main Hand",
@@ -105,6 +120,8 @@
     "type": "Two Handed Axe",
     "levelReq": 64,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["25% chance to Maim on Hit"],
     "mods": [
       "(100-125)% increased Physical Damage",
@@ -121,6 +138,8 @@
     "type": "One Handed Axe",
     "levelReq": 65,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 20 Thirst for Blood Skill",
@@ -137,6 +156,8 @@
     "type": "Two Handed Axe",
     "levelReq": 58,
     "league": "Legion",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-140)% increased Physical Damage",
@@ -154,6 +175,9 @@
     "type": "Two Handed Axe",
     "levelReq": 66,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": [],
     "mods": [
       "(300-360)% increased Physical Damage",
@@ -173,6 +197,8 @@
     "type": "Two Handed Axe",
     "levelReq": 68,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by Level 30 Melee Splash",
@@ -190,6 +216,8 @@
     "type": "Two Handed Axe",
     "levelReq": 13,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Strength Gems",
@@ -207,6 +235,8 @@
     "type": "One Handed Axe",
     "levelReq": 39,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Trigger Level 15 Lightning Warp on Hit with this Weapon",
@@ -222,6 +252,8 @@
     "type": "Two Handed Axe",
     "levelReq": 55,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "20% chance to Trigger Level 16 Molten Burst on Melee Hit",
@@ -238,6 +270,8 @@
     "type": "Two Handed Axe",
     "levelReq": 33,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(100-125)% increased Physical Damage",
@@ -255,6 +289,8 @@
     "type": "One Handed Axe",
     "levelReq": 29,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -272,6 +308,9 @@
     "type": "Two Handed Axe",
     "levelReq": 37,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(120-140)% increased Physical Damage",
@@ -287,6 +326,9 @@
     "type": "One Handed Axe",
     "levelReq": 59,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "(100-140)% increased Physical Damage",
@@ -304,6 +346,9 @@
     "type": "Two Handed Axe",
     "levelReq": 62,
     "league": "Heist",
+    "req": null,
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": [],
     "mods": [
       "(7-10)% Chance to Block Spell Damage",
@@ -321,6 +366,9 @@
     "type": "One Handed Axe",
     "levelReq": 67,
     "league": "Talisman Standard, Talisman Hardcore",
+    "req": null,
+    "sockets": null,
+    "source": "Drops from unique{Rigwald, the Wolven King} (Level 75+)",
     "implicit": [],
     "mods": [
       "Adds (50-70) to (135-165) Physical Damage",
@@ -336,6 +384,8 @@
     "type": "Two Handed Axe",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(140-152)% increased Physical Damage",
@@ -352,6 +402,8 @@
     "type": "One Handed Axe",
     "levelReq": 59,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(140-180)% increased Physical Damage",
@@ -369,6 +421,9 @@
     "type": "Two Handed Axe",
     "levelReq": 55,
     "league": null,
+    "req": { "str": 128, "dex": 60, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{Incarnation of Fear} in normal{Moment of Trauma}",
     "implicit": [],
     "mods": [
       "Trigger Level 20 Starfall on Melee Critical Strike",
@@ -386,6 +441,8 @@
     "type": "Two Handed Axe",
     "levelReq": 45,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(180-200)% increased Physical Damage",
@@ -403,6 +460,9 @@
     "type": "Two Handed Axe",
     "levelReq": 40,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Strength Gems",
@@ -421,6 +481,9 @@
     "type": "One Handed Axe",
     "levelReq": 33,
     "league": null,
+    "req": { "str": 85, "dex": 37, "int": 0 },
+    "sockets": null,
+    "source": "Drops from unique{It That Was Esh} and unique{It That Was Tul} in normal{Hive Colony}",
     "implicit": [],
     "mods": [
       "(30-50)% increased Fire Damage",
@@ -437,6 +500,9 @@
     "type": "One Handed Axe",
     "levelReq": 32,
     "league": null,
+    "req": null,
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by Level 2 Chance to Flee",
@@ -455,6 +521,8 @@
     "type": "Two Handed Axe",
     "levelReq": 37,
     "league": "Beyond",
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(120-140)% increased Physical Damage",
@@ -470,6 +538,8 @@
     "type": "One Handed Axe",
     "levelReq": 6,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by Level 2 Chance to Flee",
@@ -486,6 +556,9 @@
     "type": "Two Handed Axe",
     "levelReq": 64,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Upgraded from unique{Uul-Netol's Kiss} using currency{Blessing of Uul-Netol}",
     "implicit": ["25% chance to Maim on Hit"],
     "mods": [
       "Trigger Level 20 Bone Nova when you Hit a Bleeding Enemy",
@@ -501,6 +574,9 @@
     "type": "Two Handed Axe",
     "levelReq": 64,
     "league": "Breach",
+    "req": null,
+    "sockets": null,
+    "source": "Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}",
     "implicit": ["25% chance to Maim on Hit"],
     "mods": [
       "(230-270)% increased Physical Damage",
@@ -517,6 +593,8 @@
     "type": "Two Handed Axe",
     "levelReq": 18,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Increased Area of Effect",
@@ -534,6 +612,8 @@
     "type": "Two Handed Axe",
     "levelReq": 62,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": [],
     "mods": [
       "(7-10)% Chance to Block Spell Damage",

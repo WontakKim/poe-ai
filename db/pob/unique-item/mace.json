@@ -6,6 +6,9 @@
     "type": "Sceptre",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 104, "dex": 0, "int": 122 },
+    "sockets": null,
+    "influences": ["elder"],
     "implicit": ["40% increased Elemental Damage"],
     "mods": [
       "(180-200)% increased Physical Damage",
@@ -24,6 +27,8 @@
     "type": "Sceptre",
     "levelReq": 10,
     "league": null,
+    "req": { "str": 22, "dex": 0, "int": 22 },
+    "sockets": null,
     "implicit": ["12% increased Elemental Damage"],
     "mods": [
       "(4-6)% increased Cast Speed",
@@ -40,6 +45,8 @@
     "type": "Sceptre",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 95, "dex": 0, "int": 131 },
+    "sockets": null,
     "implicit": ["40% increased Elemental Damage"],
     "mods": [
       "Grants Level 25 Scorching Ray Skill",
@@ -56,6 +63,8 @@
     "type": "Sceptre",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 52, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": ["22% increased Elemental Damage"],
     "mods": [
       "Socketed Gems are Supported by Level 15 Bonechill",
@@ -73,6 +82,8 @@
     "type": "Two Handed Mace",
     "levelReq": 63,
     "league": null,
+    "req": null,
+    "sockets": null,
     "implicit": ["5% chance to deal Double Damage"],
     "mods": [
       "Adds (100-130) to (360-430) Physical Damage",
@@ -91,6 +102,8 @@
     "type": "Sceptre",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["32% increased Elemental Damage"],
     "mods": [
       "(260-310)% increased Physical Damage",
@@ -106,6 +119,8 @@
     "type": "One Handed Mace",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 71, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "(50-75)% increased Physical Damage",
@@ -122,6 +137,8 @@
     "type": "Sceptre",
     "levelReq": 28,
     "league": "Torment",
+    "req": { "str": 51, "dex": 0, "int": 51 },
+    "sockets": null,
     "implicit": ["16% increased Elemental Damage"],
     "mods": [
       "20% increased Physical Damage",
@@ -139,6 +156,9 @@
     "type": "Sceptre",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Obtained from unique{Shipping} in normal{Kingsmarch}",
     "implicit": ["30% increased Elemental Damage"],
     "mods": [
       "Adds (60-85) to (100-133) Physical Damage",
@@ -155,6 +175,8 @@
     "type": "One Handed Mace",
     "levelReq": 66,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "Adds (5-10) to (15-23) Physical Damage",
@@ -171,6 +193,9 @@
     "type": "One Handed Mace",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Vendor Recipe",
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "(140-180)% increased Physical Damage",
@@ -188,6 +213,8 @@
     "type": "One Handed Mace",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "(140-180)% increased Physical Damage",
@@ -204,6 +231,9 @@
     "type": "Sceptre",
     "levelReq": 47,
     "league": "Delve",
+    "req": { "str": 81, "dex": 0, "int": 81 },
+    "sockets": null,
+    "source": "Drops from unique{Ahuatotli, the Blind}",
     "implicit": ["24% increased Elemental Damage"],
     "mods": [
       "(70-100)% increased Spell Damage",
@@ -221,6 +251,9 @@
     "type": "Two Handed Mace",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 131, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "+1 to Level of Socketed Melee Gems",
@@ -239,6 +272,8 @@
     "type": "Two Handed Mace",
     "levelReq": 40,
     "league": null,
+    "req": { "str": 104, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "+1 to Level of Socketed Melee Gems",
@@ -257,6 +292,8 @@
     "type": "One Handed Mace",
     "levelReq": 41,
     "league": null,
+    "req": { "str": 134, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": [],
     "mods": [
       "Grants Level 12 Summon Stone Golem Skill",
@@ -273,6 +310,8 @@
     "type": "Sceptre",
     "levelReq": 56,
     "league": null,
+    "req": { "str": 96, "dex": 0, "int": 96 },
+    "sockets": null,
     "implicit": ["26% increased Elemental Damage"],
     "mods": [
       "Adds (35-46) to (85-128) Physical Damage",
@@ -288,6 +327,8 @@
     "type": "Sceptre",
     "levelReq": 64,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["32% increased Elemental Damage"],
     "mods": [
       "+(50-70) to Strength",
@@ -305,6 +346,9 @@
     "type": "Sceptre",
     "levelReq": 75,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
     "implicit": ["32% increased Elemental Damage"],
     "mods": [
       "Socketed Gems are Supported by Level 20 Elemental Proliferation",
@@ -323,6 +367,8 @@
     "type": "Sceptre",
     "levelReq": 35,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": ["18% increased Elemental Damage"],
     "mods": [
       "+(20-30) to all Attributes",
@@ -339,6 +385,8 @@
     "type": "One Handed Mace",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 107, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -356,6 +404,8 @@
     "type": "One Handed Mace",
     "levelReq": 50,
     "league": null,
+    "req": { "str": 161, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "Adds (26-32) to (36-42) Physical Damage",
@@ -373,6 +423,8 @@
     "type": "Two Handed Mace",
     "levelReq": 27,
     "league": null,
+    "req": { "str": 92, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "200% increased Physical Damage",
@@ -388,6 +440,9 @@
     "type": "Two Handed Mace",
     "levelReq": 61,
     "league": null,
+    "req": { "str": 92, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "Trigger Level 20 Elemental Warding on Melee Hit while Cursed",
@@ -405,6 +460,8 @@
     "type": "One Handed Mace",
     "levelReq": 10,
     "league": null,
+    "req": { "str": 41, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "(300-360)% increased Physical Damage",
@@ -421,6 +478,9 @@
     "type": "Two Handed Mace",
     "levelReq": 36,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["45% increased Stun Duration on Enemies"],
     "mods": [
       "(140-200)% increased Physical Damage",
@@ -439,6 +499,8 @@
     "type": "Two Handed Mace",
     "levelReq": 17,
     "league": null,
+    "req": { "str": 62, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["45% increased Stun Duration on Enemies"],
     "mods": [
       "(140-200)% increased Physical Damage",
@@ -455,6 +517,8 @@
     "type": "Two Handed Mace",
     "levelReq": 44,
     "league": "Tempest",
+    "req": { "str": 143, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["45% increased Stun Duration on Enemies"],
     "mods": [
       "25% chance to Trigger Level 20 Animate Weapon on Kill",
@@ -472,6 +536,8 @@
     "type": "Two Handed Mace",
     "levelReq": 67,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["25% chance to double Stun Duration"],
     "mods": [
       "Adds (27-56) to (270-400) Physical Damage",
@@ -489,6 +555,8 @@
     "type": "One Handed Mace",
     "levelReq": 20,
     "league": "Legion",
+    "req": { "str": 71, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "(160-200)% increased Physical Damage",
@@ -506,6 +574,8 @@
     "type": "Sceptre",
     "levelReq": 56,
     "league": null,
+    "req": { "str": 96, "dex": 0, "int": 96 },
+    "sockets": null,
     "implicit": ["26% increased Elemental Damage"],
     "mods": [
       "+(30-40) to Intelligence",
@@ -521,6 +591,8 @@
     "type": "Two Handed Mace",
     "levelReq": 57,
     "league": "Legion",
+    "req": { "str": 182, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["45% increased Stun Duration on Enemies"],
     "mods": [
       "(500-600)% increased Physical Damage",
@@ -536,6 +608,8 @@
     "type": "One Handed Mace",
     "levelReq": 60,
     "league": null,
+    "req": { "str": 412, "dex": 0, "int": 300 },
+    "sockets": null,
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "(80-120)% increased Physical Damage",
@@ -553,6 +627,8 @@
     "type": "Sceptre",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 104, "dex": 0, "int": 122 },
+    "sockets": null,
     "implicit": ["40% increased Elemental Damage"],
     "mods": [
       "50% reduced maximum number of Raised Zombies",
@@ -570,6 +646,9 @@
     "type": "Sceptre",
     "levelReq": 68,
     "league": "Synthesis",
+    "req": { "str": 104, "dex": 0, "int": 122 },
+    "sockets": null,
+    "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)",
     "implicit": ["40% increased Elemental Damage"],
     "mods": [
       "(80-120)% increased Implicit Modifier magnitudes",
@@ -584,6 +663,10 @@
     "type": "One Handed Mace",
     "levelReq": 68,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
+    "influences": ["elder"],
+    "source": "Drops from unique{The Elder}",
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "Adds (45-60) to (100-120) Physical Damage",
@@ -602,6 +685,8 @@
     "type": "Sceptre",
     "levelReq": 41,
     "league": null,
+    "req": { "str": 59, "dex": 0, "int": 85 },
+    "sockets": null,
     "implicit": ["30% increased Elemental Damage"],
     "mods": [
       "(150-200)% increased Physical Damage",
@@ -617,6 +702,9 @@
     "type": "Two Handed Mace",
     "levelReq": 61,
     "league": null,
+    "req": { "str": 77, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "(80-100)% increased Physical Damage",
@@ -633,6 +721,8 @@
     "type": "Two Handed Mace",
     "levelReq": 22,
     "league": null,
+    "req": { "str": 77, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "(80-100)% increased Physical Damage",
@@ -649,6 +739,9 @@
     "type": "Sceptre",
     "levelReq": 32,
     "league": "Heist",
+    "req": { "str": 52, "dex": 0, "int": 62 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["22% increased Elemental Damage"],
     "mods": [
       "Socketed Gems are Supported by Level 15 Elemental Penetration",
@@ -666,6 +759,9 @@
     "type": "Sceptre",
     "levelReq": 35,
     "league": "Heist",
+    "req": { "str": 62, "dex": 0, "int": 62 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["18% increased Elemental Damage"],
     "mods": [
       "+(20-30) to all Attributes",
@@ -682,6 +778,9 @@
     "type": "One Handed Mace",
     "levelReq": 50,
     "league": "Heist",
+    "req": { "str": 161, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["15% reduced Enemy Stun Threshold"],
     "mods": [
       "Adds (53-67) to (71-89) Chaos Damage",
@@ -698,6 +797,9 @@
     "type": "Two Handed Mace",
     "levelReq": 67,
     "league": "Heist",
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["25% chance to double Stun Duration"],
     "mods": [
       "Adds (43-56) to (330-400) Physical Damage",
@@ -715,6 +817,9 @@
     "type": "Sceptre",
     "levelReq": 68,
     "league": "Heist",
+    "req": { "str": 104, "dex": 0, "int": 122 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["40% increased Elemental Damage"],
     "mods": [
       "(80-120)% increased Implicit Modifier magnitudes",
@@ -729,6 +834,9 @@
     "type": "Two Handed Mace",
     "levelReq": 40,
     "league": "Heist",
+    "req": { "str": 131, "dex": 0, "int": 0 },
+    "sockets": null,
+    "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "-5000 to Accuracy Rating",
@@ -742,6 +850,8 @@
     "type": "One Handed Mace",
     "levelReq": 53,
     "league": "Settlers of Kalguur",
+    "req": { "str": 170, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "+(30-40) to Strength",
@@ -759,6 +869,8 @@
     "type": "Sceptre",
     "levelReq": 58,
     "league": "Legion",
+    "req": { "str": 99, "dex": 0, "int": 99 },
+    "sockets": null,
     "implicit": ["26% increased Elemental Damage"],
     "mods": [
       "+(10-30) to Strength and Intelligence",
@@ -773,6 +885,8 @@
     "type": "Sceptre",
     "levelReq": 62,
     "league": null,
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
     "implicit": ["30% increased Elemental Damage"],
     "mods": [
       "Adds (1-10) to (150-200) Lightning Damage to Spells",
@@ -789,6 +903,9 @@
     "type": "Sceptre",
     "levelReq": 20,
     "league": null,
+    "req": { "str": 38, "dex": 0, "int": 38 },
+    "sockets": null,
+    "source": "No longer obtainable",
     "implicit": ["14% increased Elemental Damage"],
     "mods": [
       "(100-140)% increased Physical Damage",
@@ -807,6 +924,8 @@
     "type": "Two Handed Mace",
     "levelReq": 61,
     "league": "Settlers of Kalguur",
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["20% reduced Enemy Stun Threshold"],
     "mods": [
       "Trigger Level 20 Tawhoa's Chosen when you Attack with a Non-Vaal Slam or Strike Skill near an Enemy",
@@ -823,6 +942,8 @@
     "type": "Sceptre",
     "levelReq": 50,
     "league": null,
+    "req": { "str": 86, "dex": 0, "int": 86 },
+    "sockets": null,
     "implicit": ["24% increased Elemental Damage"],
     "mods": [
       "+(20-30) to Intelligence",
@@ -839,6 +960,8 @@
     "type": "Sceptre",
     "levelReq": 32,
     "league": "Beyond",
+    "req": { "str": 52, "dex": 0, "int": 62 },
+    "sockets": null,
     "implicit": ["22% increased Elemental Damage"],
     "mods": [
       "+2 to Level of All Spell Skill Gems",
@@ -856,6 +979,8 @@
     "type": "One Handed Mace",
     "levelReq": 32,
     "league": null,
+    "req": { "str": 107, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% reduced Enemy Stun Threshold"],
     "mods": [
       "(50-75)% increased Physical Damage",
@@ -872,6 +997,8 @@
     "type": "Sceptre",
     "levelReq": 41,
     "league": null,
+    "req": { "str": 59, "dex": 0, "int": 136 },
+    "sockets": null,
     "implicit": ["30% increased Elemental Damage"],
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -889,6 +1016,8 @@
     "type": "Two Handed Mace",
     "levelReq": 65,
     "league": null,
+    "req": { "str": 212, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["10% increased Strength"],
     "mods": [
       "Socketed Gems are Supported by Level 20 Endurance Charge on Melee Stun",
@@ -905,6 +1034,8 @@
     "type": "Two Handed Mace",
     "levelReq": 40,
     "league": "Perandus",
+    "req": { "str": 131, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "50% reduced Attack Speed",
@@ -918,6 +1049,8 @@
     "type": "Two Handed Mace",
     "levelReq": 54,
     "league": null,
+    "req": { "str": 173, "dex": 0, "int": 0 },
+    "sockets": null,
     "implicit": ["30% increased Stun Duration on Enemies"],
     "mods": [
       "150% increased Physical Damage",
@@ -934,6 +1067,9 @@
     "type": "Sceptre",
     "levelReq": 64,
     "league": "Ultimatum",
+    "req": { "str": 113, "dex": 0, "int": 113 },
+    "sockets": null,
+    "source": "Drops from unique{The Trialmaster}",
     "implicit": ["32% increased Elemental Damage"],
     "mods": [
       "(80-120)% increased Damage with Vaal Skills",
