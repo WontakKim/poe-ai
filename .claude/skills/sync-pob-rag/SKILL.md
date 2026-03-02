@@ -38,8 +38,8 @@ Phase 3: Sync References (4 agents parallel)   ← skip if ref up to date
     ▼
 Phase 4: Write vendor/pob/source.json          ← skip if ref skipped or partial fail
     ▼
-Phase 5: Ingest Equipment DB (sequential)      ← skip if DB up to date
-    │ base-item first, then unique-item
+Phase 5: Ingest DB (sequential + independent)   ← skip if DB up to date
+    │ base-item → unique-item (sequential), skill-gem (independent)
     ▼
 Phase 6: Report
     ▼
@@ -52,7 +52,7 @@ Output Result JSON
 
 **Non-blocking failures** (log and continue):
 - Phase 3: individual reference sync agent fails
-- Phase 5: individual ingest agent fails (but unique-item depends on base-item)
+- Phase 5: individual ingest agent fails (unique-item depends on base-item; skill-gem is independent)
 
 ## Workflow
 
@@ -102,10 +102,10 @@ Determine the current game version, PoB commit hash, and which phases need to ru
    fi
    ```
 
-4. **Check DB ingest status** (both `db/pob/base-item/source.json` AND `db/pob/unique-item/source.json`):
+4. **Check DB ingest status** (`db/pob/{base-item,unique-item,skill-gem}/source.json`):
    ```bash
    DB_UP_TO_DATE=true
-   for db_source in db/pob/base-item/source.json db/pob/unique-item/source.json; do
+   for db_source in db/pob/base-item/source.json db/pob/unique-item/source.json db/pob/skill-gem/source.json; do
      if [ ! -f "$db_source" ]; then
        DB_UP_TO_DATE=false
        break
@@ -185,17 +185,23 @@ Write sync marker **only if all 4 agents succeeded**. If any agent failed, do NO
 }
 ```
 
-### Phase 5: Ingest Equipment DB
+### Phase 5: Ingest DB
 
 **Skip this phase if `DB_UP_TO_DATE=true`.**
 
-Run ingest agents **sequentially** via the Agent tool (unique-item depends on base-item output). Do NOT run scripts directly — raw stdout pollutes the orchestrator context and degrades downstream quality.
+Run ingest agents via the Agent tool. Do NOT run scripts directly — raw stdout pollutes the orchestrator context and degrades downstream quality.
+
+**Dependency graph**:
+- base-item → unique-item (sequential: unique-item depends on base-item output)
+- skill-gem is **independent** — runs regardless of base-item/unique-item success
 
 ```
 Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
                     │ success
                     ▼
                Agent (haiku) → db/pob/unique-item/*.json
+
+               Agent (haiku) → db/pob/skill-gem/*.json     ← independent
 ```
 
 **Important**: Use the `VERSION`, `POB_COMMIT`, `POB_VERSION` variables from Phase 2 directly. Do NOT re-read `vendor/pob/source.json` — it may not exist if Phase 3-4 were skipped or failed.
@@ -219,7 +225,7 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
    ```
 
 2. Validate base-item result:
-   - If failed → log error, skip unique-item ingest, proceed to Phase 6
+   - If failed → log error, skip unique-item ingest
 
 3. **Unique item ingest** — launch 1 agent via the Agent tool (only if base-item succeeded):
 
@@ -241,6 +247,26 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
    ```
 
 4. Validate unique-item result.
+
+5. **Skill gem ingest** — launch 1 agent via the Agent tool (independent of base-item/unique-item):
+
+   | `subagent_type` | Output |
+   |-----------------|--------|
+   | `pob-ingest-skill-gem` | `db/pob/skill-gem/*.json` |
+
+   Agent `prompt`:
+   ```
+   INPUT:
+   - pob_path: vendor/pob/origin
+   - output_dir: db/pob/skill-gem
+   - gameVersion: {VERSION}
+   - pobCommit: {POB_COMMIT}
+   - pobVersion: {POB_VERSION}
+
+   Execute the workflow.
+   ```
+
+6. Validate skill-gem result.
 
 ### Phase 6: Report
 
@@ -281,7 +307,8 @@ Produce the final result summarizing all phases.
   "ingest": {
     "skipped": false,
     "base_item": "success | failed",
-    "unique_item": "success | failed | skipped"
+    "unique_item": "success | failed | skipped",
+    "skill_gem": "success | failed"
   },
   "error": null
 }
@@ -300,7 +327,8 @@ Produce the final result summarizing all phases.
   "ingest": {
     "skipped": false,
     "base_item": "success",
-    "unique_item": "success"
+    "unique_item": "success",
+    "skill_gem": "success"
   },
   "error": null
 }
@@ -314,15 +342,16 @@ Produce the final result summarizing all phases.
 | GameVersions.lua not found or VERSION empty | **Blocking.** Output: `{"status": "failed", "error": "Cannot detect version from PoB"}` |
 | Both ref and DB already synced (same commit) | Output: `{"status": "up to date", ...}` and stop |
 | Any reference sync agent fails | **Non-blocking.** Log error per agent, continue. Do NOT write vendor/pob/source.json. |
-| Base-item ingest fails | **Non-blocking.** Log error, skip unique-item ingest, proceed to Phase 6. |
-| Unique-item ingest fails | **Non-blocking.** Log error, proceed to Phase 6. |
+| Base-item ingest fails | **Non-blocking.** Log error, skip unique-item ingest. |
+| Unique-item ingest fails | **Non-blocking.** Log error. |
+| Skill-gem ingest fails | **Non-blocking.** Log error. |
 
 ## Important Notes
 
 - This skill runs interactively — confirm sync status with the user in Phase 2 before proceeding
 - vendor/pob/source.json is the ref sync marker: only written when all 4 ref agents succeed
 - db/pob/{type}/source.json is written by each ingest script automatically
-- Dual source.json check ensures partial failures are retried: if base-item succeeded but unique-item failed, the next run re-ingests both
+- Dual source.json check ensures partial failures are retried: if any DB source.json is missing or stale, the next run re-ingests all
 - Phase 5 uses Phase 2 variables directly — never re-reads vendor/pob/source.json
 - Sequential script execution only — no background `&` jobs (sandbox limitation)
 - Always output the final JSON regardless of success or failure
