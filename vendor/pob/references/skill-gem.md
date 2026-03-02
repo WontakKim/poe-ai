@@ -14,12 +14,10 @@ Skill gem data has two sources joined by `grantedEffectId`:
 - Support-only: 205 (includes 38 awakened)
 - Active+Support hybrid: 9 (support gems that also grant an active skill)
 
-**Fields**:
-`baseTypeName`, `gameId`, `grantedEffectId`, `name`, `naturalMaxLevel`, `reqDex`, `reqInt`, `reqStr`, `secondaryEffectName`, `secondaryGrantedEffectId`, `tags`, `tagString`, `vaalGem`, `variantId`
+**Fields** (14 unique):
+baseTypeName, gameId, grantedEffectId, name, naturalMaxLevel, reqDex, reqInt, reqStr, secondaryEffectName, secondaryGrantedEffectId, tags, tagString, vaalGem, variantId
 
-**Tag keys** (52 unique):
-| Tag | Count |
-|-----|-------|
+**Tag keys** (54 unique):
 | grants_active_skill | 546 |
 | area | 370 |
 | spell | 368 |
@@ -74,7 +72,12 @@ Skill gem data has two sources joined by `grantedEffectId`:
 | stance | 2 |
 
 **naturalMaxLevel distribution**:
-20: 702, 5: 35, 1: 6, 4: 3, 3: 3, 6: 2
+- 20: 702 entries
+- 5: 35 entries
+- 1: 6 entries
+- 4: 3 entries
+- 3: 3 entries
+- 6: 2 entries
 
 **Example — Active gem (Arc)**:
 ```lua
@@ -97,6 +100,7 @@ Skill gem data has two sources joined by `grantedEffectId`:
 		reqInt = 100,
 		naturalMaxLevel = 20,
 	},
+	},
 ```
 
 **Example — Support gem (Added Cold Damage)**:
@@ -117,6 +121,7 @@ Skill gem data has two sources joined by `grantedEffectId`:
 		reqInt = 0,
 		naturalMaxLevel = 20,
 	},
+	},
 ```
 
 ## Skills/ — Skill Effect Definitions
@@ -124,8 +129,6 @@ Skill gem data has two sources joined by `grantedEffectId`:
 **Path**: `src/Data/Skills/` (10 files, 1409 definitions, 783 player-visible, 626 hidden)
 
 **Definitions per file**:
-| File | Total | Visible | Hidden |
-|------|-------|---------|--------|
 | spectre | 355 | 1 | 354 |
 | act_int | 222 | 222 | 0 |
 | act_dex | 196 | 195 | 1 |
@@ -137,16 +140,32 @@ Skill gem data has two sources joined by `grantedEffectId`:
 | sup_str | 68 | 68 | 0 |
 | glove | 60 | 0 | 60 |
 
-**Top-level fields**:
-`addFlags`, `addMinionList`, `addSkillTypes`, `baseEffectiveness`, `baseFlags`, `baseMods`, `baseTypeName`, `cannotBeSupported`, `castTime`, `color`, `constantStats`, `description`, `end`, `excludeSkillTypes`, `explosiveArrowFunc`, `fromItem`, `fromTree`, `hidden`, `ignoreMinionTypes`, `incrementalEffectiveness`, `initialFunc`, `isTrigger`, `levelMods`, `levels`, `minionHasItemSet`, `minionList`, `minionSkillTypes`, `minionUses`, `name`, `notMinionStat`, `parts`, `plusVersionOf`, `postCritFunc`, `preDamageFunc`, `preSkillTypeFunc`, `qualityStats`, `requireSkillTypes`, `skillTotemId`, `skillTypes`, `statDescriptionScope`, `statMap`, `stats`, `support`, `supportGemsOnly`, `weaponTypes`
+**Top-level fields** (44 unique):
+addFlags, addMinionList, addSkillTypes, baseEffectiveness, baseFlags, baseMods, baseTypeName, cannotBeSupported, castTime, color, constantStats, description, end, excludeSkillTypes, explosiveArrowFunc, fromItem, fromTree, hidden, ignoreMinionTypes, incrementalEffectiveness, initialFunc, isTrigger, levelMods, levels, minionHasItemSet, minionList, minionSkillTypes, minionUses, name, notMinionStat, parts, plusVersionOf, postCritFunc, preDamageFunc, preSkillTypeFunc, qualityStats, requireSkillTypes, skillTotemId, skillTypes, statDescriptionScope, statMap, stats, support, supportGemsOnly, weaponTypes
 
-**Level entry fields** (named keys inside `levels[N] = { ... }`):
-attackSpeedMultiplier, attackTime, baseMultiplier, cooldown, cost, critChance, damageEffectiveness, duration, levelRequirement, manaMultiplier, manaReservationFlat, manaReservationPercent, PvPDamageMultiplier, soulPreventionDuration, statInterpolation, storedUses, vaalStoredUses
+**Level entry named fields** (17 unique):
+- levelRequirement: 31425 occurrences
+- statInterpolation: 27070 occurrences
+- cost: 19967 occurrences
+- damageEffectiveness: 13862 occurrences
+- critChance: 7752 occurrences
+- manaMultiplier: 7393 occurrences
+- baseMultiplier: 7284 occurrences
+- cooldown: 6987 occurrences
+- storedUses: 6913 occurrences
+- attackSpeedMultiplier: 4616 occurrences
+- PvPDamageMultiplier: 3160 occurrences
+- vaalStoredUses: 2052 occurrences
+- soulPreventionDuration: 2052 occurrences
+- manaReservationPercent: 1220 occurrences
+- duration: 695 occurrences
+- manaReservationFlat: 402 occurrences
+- attackTime: 280 occurrences
 
-**Cost types** (inside `cost = { ... }`):
+**Cost types** (7 unique, inside `cost = { ... }`):
 ES, Life, Mana, ManaPercent, ManaPercentPerMinute, ManaPerMinute, Soul
 
-**SkillType enum**: 125 unique values (e.g. `SkillType.Spell`, `SkillType.Attack`, ...)
+**SkillType enum**: 125 unique values (e.g. `SkillType.Spell`, `SkillType.Attack`, `SkillType.Damage`, ...)
 
 **Example — Active skill (Arc)**:
 ```lua
@@ -248,10 +267,11 @@ skills["SupportAddedColdDamage"] = {
 4. **Active+Support hybrid gems** (9 entries): Shockwave, Predator, Impending Doom, Prismatic Burst, Flamewood, Sacred Wisps, Windburst, Kinetic Instability, Living Lightning. These are support gems that also grant an active skill effect.
 
 5. **Hidden skills**: 626 of 1409 skill definitions have `hidden = true` — these are spectre, minion, item-granted, and tree-granted skills with no corresponding gem entry.
-   - glove.lua: all 60 hidden (enchantment procs)
-   - minion.lua: all 72 hidden
+   - glove.lua: 60 hidden (enchantment procs)
+   - minion.lua: 72 hidden
    - spectre.lua: 354 of 355 hidden
    - other.lua: 139 of 146 hidden (includes `fromItem = true` and `fromTree = true`)
+   - act_dex.lua: 1 of 196 hidden
 
 6. **Support-specific Skills/ fields**: `support = true`, `requireSkillTypes`, `addSkillTypes`, `excludeSkillTypes`, `manaMultiplier` (in levels instead of `cost`), `plusVersionOf` (awakened only).
 

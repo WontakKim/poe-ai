@@ -5,7 +5,7 @@
 
 **Usable (20)**: Exclude fishing and graft.
 
-**Special/ folder**: BoundByDestiny.lua (0), Generated.lua (12), New.lua (25), race.lua (11), WatchersEye.lua (0)
+**Special/ folder**: BoundByDestiny (0), Generated (12), New (25), race (11), WatchersEye (0)
 
 **Item counts**:
 | File | Count | File | Count |
@@ -23,7 +23,7 @@
 | **Total (usable)** | **1240** | | |
 
 **Block format** (items separated by `]],[[`, first starts with `[[`, last ends with `]]`):
-```lua
+```
 [[
 Ahn's Might
 Midnight Blade
@@ -36,55 +36,21 @@ Adds (80-115) to (150-205) Physical Damage
 +100 Strength Requirement
 +50% Global Critical Strike Multiplier while you have no Frenzy Charges
 +(400-500) to Accuracy Rating while at Maximum Frenzy Charges
+]]
 ```
 
 Block structure:
-- Line 1: `[[` (block start marker)
-- Line 2: Item name
-- Line 3: Base type name
-- Lines 4-N: Metadata lines and implicit/explicit mods
-  - Metadata lines match the patterns listed below
-  - After `Implicits: N`, the next N lines are implicit mods
-  - Remaining lines are explicit mods
+- Line 1: Item name
+- Line 2: Base type name
+- Metadata lines (League:, Variant:, etc.) — patterns listed below
+- `Implicits: N` — declares count of implicit mods to follow
+- Implicit mods (N lines)
+- Explicit mods (remaining lines until `]]` or `]],[[`)
 
 **Metadata patterns** (extracted from source):
-
-- **Colon-terminated**:
-  - `Duelist:`
-  - `Energy Shield:`
-  - `Has Alt Variant Three:`
-  - `Has Alt Variant Two:`
-  - `Has Alt Variant:`
-  - `Implicits:`
-  - `Item Level:`
-  - `League:`
-  - `LevelReq:`
-  - `Limited to:`
-  - `Marauder:`
-  - `Radius:`
-  - `Ranger:`
-  - `Requires Level:`
-  - `Scion:`
-  - `Selected Alt Variant Three:`
-  - `Selected Alt Variant Two:`
-  - `Selected Alt Variant:`
-  - `Selected Variant:`
-  - `Shadow:`
-  - `Sockets:`
-  - `Source:`
-  - `Talisman Tier:`
-  - `Templar:`
-  - `Upgrade:`
-  - `Variant:`
-  - `Witch:`
-
-- **Non-colon markers** (standalone lines):
-  - `Corrupted`
-  - `Elder Item`
-  - `Mirrored`
-  - `Shaper Item`
-
-Lines matching these patterns are metadata — everything else after the Implicits section is a mod line.
+- **Colon-terminated**: Duelist:, Energy Shield:, Has Alt Variant Three:, Has Alt Variant Two:, Has Alt Variant:, Implicits:, Item Level:, League:, LevelReq:, Limited to:, Marauder:, Radius:, Ranger:, Requires Level:, Scion:, Selected Alt Variant Three:, Selected Alt Variant Two:, Selected Alt Variant:, Selected Variant:, Shadow:, Sockets:, Source:, Talisman Tier:, Templar:, Upgrade:, Variant:, Witch:
+- **Non-colon markers**: Corrupted, Elder Item, Mirrored, Shaper Item
+- Lines matching these patterns are metadata — everything else after Implicits section is a mod line.
 
 **Level requirement formats**:
 - `LevelReq: N` — 98 occurrences
@@ -93,7 +59,7 @@ Lines matching these patterns are metadata — everything else after the Implici
 
 **Parsing notes**:
 1. 488 of 1240 items lack an `Implicits:` line — treat as 0 implicits (all non-metadata lines are explicit mods).
-2. Variant prefix `{variant:N}` on the base type line (line 3): amulet (1), axe (2), belt (1), body (3), boots (4), bow (1), claw (2), gloves (3), helmet (2), quiver (8), shield (4), staff (2), sword (1), wand (15). Parser must select the correct base type for the current variant.
+2. Variant prefix `{variant:N}` can appear on the base type line (line 2) in 20 files — parser must select the correct base type for the current variant.
 3. Variant filtering: find "Current" variant index (or last variant if none labeled "Current"), keep only mods matching that index or with no variant prefix.
 4. Strip `{variant:N}`, `{variant:N,M}`, and `{tags:...}` prefixes from kept lines.
 5. Special/New.lua uses `data.uniques.new = {` format (NOT `return {`).
