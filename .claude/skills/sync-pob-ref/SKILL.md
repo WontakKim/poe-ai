@@ -18,7 +18,7 @@ No manual input required. Auto-detects version and skips if already up to date.
 ## Grounding Rules
 
 - NEVER modify files outside `vendor/pob/`
-- NEVER perform data parsing yourself — delegate ALL parsing to sub-agents
+- NEVER run scripts directly — MUST use the Agent tool to delegate to sub-agents (context isolation)
 - NEVER retry a failed sub-agent — log the error and continue
 - Every sub-agent result MUST be validated before recording its status
 - Follow the phase order strictly — do NOT skip phases or reorder them

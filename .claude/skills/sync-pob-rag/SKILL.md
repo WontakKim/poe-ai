@@ -18,7 +18,7 @@ No manual input required. Auto-detects version and skips phases that are already
 ## Grounding Rules
 
 - NEVER modify files outside `vendor/pob/` and `db/pob/`
-- NEVER perform data parsing yourself — delegate ALL parsing to sub-agents
+- NEVER run scripts directly — MUST use the Agent tool to delegate to sub-agents (context isolation)
 - NEVER retry a failed sub-agent — log the error and continue
 - Every sub-agent result MUST be validated before recording its status
 - Follow the phase order strictly — do NOT skip phases or reorder them
@@ -189,7 +189,7 @@ Write sync marker **only if all 4 agents succeeded**. If any agent failed, do NO
 
 **Skip this phase if `DB_UP_TO_DATE=true`.**
 
-Run ingest agents **sequentially** (unique-item depends on base-item output).
+Run ingest agents **sequentially** via the Agent tool (unique-item depends on base-item output). Do NOT run scripts directly — raw stdout pollutes the orchestrator context and degrades downstream quality.
 
 ```
 Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
@@ -200,7 +200,7 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
 
 **Important**: Use the `VERSION`, `POB_COMMIT`, `POB_VERSION` variables from Phase 2 directly. Do NOT re-read `vendor/pob/source.json` — it may not exist if Phase 3-4 were skipped or failed.
 
-1. **Base item ingest** — launch 1 agent:
+1. **Base item ingest** — launch 1 agent via the Agent tool (MUST use `subagent_type`, not Bash):
 
    | `subagent_type` | Output |
    |-----------------|--------|
@@ -221,7 +221,7 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
 2. Validate base-item result:
    - If failed → log error, skip unique-item ingest, proceed to Phase 6
 
-3. **Unique item ingest** — launch 1 agent (only if base-item succeeded):
+3. **Unique item ingest** — launch 1 agent via the Agent tool (only if base-item succeeded):
 
    | `subagent_type` | Output |
    |-----------------|--------|
