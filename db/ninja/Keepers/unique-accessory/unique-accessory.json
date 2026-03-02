@@ -1,0 +1,5866 @@
+[
+  {
+    "id": "ahkelis-meadow-ruby-ring",
+    "name": "Ahkeli's Meadow",
+    "baseType": "Ruby Ring",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 13,
+    "listingCount": 168,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      0,
+      26.67,
+      17.33,
+      17.33,
+      24.33,
+      33.33
+    ]
+  },
+  {
+    "id": "ahkelis-mountain-ruby-ring",
+    "name": "Ahkeli's Mountain",
+    "baseType": "Ruby Ring",
+    "chaosValue": 3.40,
+    "divineValue": 0.01,
+    "volume": 37,
+    "listingCount": 482,
+    "trend": -32,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      -30,
+      -32,
+      -32
+    ]
+  },
+  {
+    "id": "ahkelis-valley-ruby-ring",
+    "name": "Ahkeli's Valley",
+    "baseType": "Ruby Ring",
+    "chaosValue": 13.00,
+    "divineValue": 0.03,
+    "volume": 31,
+    "listingCount": 275,
+    "trend": -25.71,
+    "sparkline": [
+      0,
+      -14.29,
+      -14.29,
+      -14.29,
+      -14.29,
+      -14.29,
+      -25.71
+    ]
+  },
+  {
+    "id": "anathema-moonstone-ring",
+    "name": "Anathema",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 96,
+    "listingCount": 2138,
+    "trend": 2.04,
+    "sparkline": [
+      0,
+      2.04,
+      -3.06,
+      -3.06,
+      2.04,
+      2.04,
+      2.04
+    ]
+  },
+  {
+    "id": "andvarius-gold-ring",
+    "name": "Andvarius",
+    "baseType": "Gold Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 117,
+    "listingCount": 5078,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "araku-tiki-coral-amulet",
+    "name": "Araku Tiki",
+    "baseType": "Coral Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 217,
+    "listingCount": 7812,
+    "trend": 300,
+    "sparkline": [
+      0,
+      -24,
+      -8,
+      -20,
+      82,
+      116,
+      300
+    ]
+  },
+  {
+    "id": "arns-anguish-cloth-belt",
+    "name": "Arn's Anguish",
+    "baseType": "Cloth Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 113,
+    "listingCount": 2826,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ascent-from-flesh-chain-belt",
+    "name": "Ascent From Flesh",
+    "baseType": "Chain Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 257,
+    "listingCount": 12285,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ashes-of-the-stars-onyx-amulet",
+    "name": "Ashes of the Stars",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 205,
+    "listingCount": 3399,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      12.5,
+      14,
+      13.25,
+      2.5,
+      0
+    ]
+  },
+  {
+    "id": "astral-projector-topaz-ring",
+    "name": "Astral Projector",
+    "baseType": "Topaz Ring",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 52,
+    "listingCount": 1225,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "astramentis-onyx-amulet",
+    "name": "Astramentis",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 260,
+    "listingCount": 4184,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "atziris-foible-paua-amulet",
+    "name": "Atziri's Foible",
+    "baseType": "Paua Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 94,
+    "listingCount": 3380,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "auls-uprising-onyx-amulet",
+    "name": "Aul's Uprising",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 247,
+    "listingCount": 4479,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "auxium-crystal-belt",
+    "name": "Auxium",
+    "baseType": "Crystal Belt",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 103,
+    "listingCount": 3629,
+    "trend": 50,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      50,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "badge-of-the-brotherhood-turquoise-amulet",
+    "name": "Badge of the Brotherhood",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 93,
+    "listingCount": 1331,
+    "trend": 50,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "bated-breath-chain-belt",
+    "name": "Bated Breath",
+    "baseType": "Chain Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 284,
+    "listingCount": 11190,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bears-girdle-leather-belt",
+    "name": "Bear's Girdle",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 56,
+    "listingCount": 2720,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "belt-of-the-deceiver-heavy-belt",
+    "name": "Belt of the Deceiver",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 389,
+    "listingCount": 16971,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bereks-grip-two-stone-ring",
+    "name": "Berek's Grip",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 339,
+    "listingCount": 13236,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bereks-pass-two-stone-ring",
+    "name": "Berek's Pass",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 357,
+    "listingCount": 13444,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bereks-respite-two-stone-ring",
+    "name": "Berek's Respite",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 6.00,
+    "divineValue": 0.02,
+    "volume": 133,
+    "listingCount": 6327,
+    "trend": 20,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": "betrayals-sting-steel-ring",
+    "name": "Betrayal's Sting",
+    "baseType": "Steel Ring",
+    "chaosValue": 25.00,
+    "divineValue": 0.07,
+    "volume": 219,
+    "listingCount": 7455,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "binds-of-bloody-vengeance-vanguard-belt",
+    "name": "Binds of Bloody Vengeance",
+    "baseType": "Vanguard Belt",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 64,
+    "listingCount": 1752,
+    "trend": 9.59,
+    "sparkline": [
+      0,
+      -3.70,
+      4.79,
+      9.59,
+      21.23,
+      9.59,
+      9.59
+    ]
+  },
+  {
+    "id": "biscos-leash-heavy-belt",
+    "name": "Bisco's Leash",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 187,
+    "listingCount": 9518,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "blackflame-amethyst-ring",
+    "name": "Blackflame",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 9.62,
+    "divineValue": 0.03,
+    "volume": 10,
+    "listingCount": 410,
+    "trend": -3.8,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -3,
+      0,
+      0,
+      -3.8
+    ]
+  },
+  {
+    "id": "blackheart-iron-ring",
+    "name": "Blackheart",
+    "baseType": "Iron Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 319,
+    "listingCount": 10950,
+    "trend": -27.80,
+    "sparkline": [
+      0,
+      -27.80,
+      -27.80,
+      -27.80,
+      -27.80,
+      -52.53,
+      -27.80
+    ]
+  },
+  {
+    "id": "blightwell-clutching-talisman",
+    "name": "Blightwell",
+    "baseType": "Clutching Talisman",
+    "chaosValue": 0.65,
+    "divineValue": 0.00,
+    "volume": 330,
+    "listingCount": 13941,
+    "trend": 36.84,
+    "sparkline": [
+      0,
+      -17.89,
+      26.32,
+      9.47,
+      32.63,
+      26.32,
+      36.84
+    ]
+  },
+  {
+    "id": "bloodgrip-marble-amulet",
+    "name": "Bloodgrip",
+    "baseType": "Marble Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 284,
+    "listingCount": 10485,
+    "trend": -47.92,
+    "sparkline": [
+      0,
+      -47.92,
+      -47.92,
+      -3.65,
+      -47.92,
+      -47.92,
+      -47.92
+    ]
+  },
+  {
+    "id": "bloodsoaked-medallion-amber-amulet",
+    "name": "Bloodsoaked Medallion",
+    "baseType": "Amber Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 294,
+    "listingCount": 11490,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bonemeld-marble-amulet",
+    "name": "Bonemeld",
+    "baseType": "Marble Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 304,
+    "listingCount": 10021,
+    "trend": 25,
+    "sparkline": [
+      0,
+      25,
+      76.25,
+      25,
+      0,
+      25,
+      25
+    ]
+  },
+  {
+    "id": "bound-fate-cloth-belt",
+    "name": "Bound Fate",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 145,
+    "listingCount": 6168,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "brinerot-mark-unset-ring",
+    "name": "Brinerot Mark",
+    "baseType": "Unset Ring",
+    "chaosValue": 2.30,
+    "divineValue": 0.01,
+    "volume": 14,
+    "listingCount": 448,
+    "trend": -20.69,
+    "sparkline": [
+      0,
+      -31.03,
+      -31.03,
+      -31.03,
+      -31.03,
+      -24.14,
+      -20.69
+    ]
+  },
+  {
+    "id": "call-of-the-brotherhood-two-stone-ring",
+    "name": "Call of the Brotherhood",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 115,
+    "listingCount": 4686,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "call-of-the-void-sapphire-ring",
+    "name": "Call of the Void",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 5.20,
+    "divineValue": 0.01,
+    "volume": 85,
+    "listingCount": 3193,
+    "trend": 4,
+    "sparkline": [
+      0,
+      0,
+      0,
+      2,
+      10,
+      0,
+      4
+    ]
+  },
+  {
+    "id": "carnage-heart-onyx-amulet",
+    "name": "Carnage Heart",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 33315,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ceinture-of-benevolence-cloth-belt",
+    "name": "Ceinture of Benevolence",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 257,
+    "listingCount": 14090,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "chain-of-endurance-chain-belt",
+    "name": "Chain of Endurance",
+    "baseType": "Chain Belt",
+    "chaosValue": 0.14,
+    "divineValue": 0.00,
+    "volume": 265,
+    "listingCount": 10923,
+    "trend": -79.10,
+    "sparkline": [
+      0,
+      -58.21,
+      -70.15,
+      -70.15,
+      -49.25,
+      -71.64,
+      -79.10
+    ]
+  },
+  {
+    "id": "chains-of-emancipation-chain-belt",
+    "name": "Chains of Emancipation",
+    "baseType": "Chain Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 31,
+    "listingCount": 654,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "choir-of-the-storm-lapis-amulet",
+    "name": "Choir of the Storm",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 84.00,
+    "divineValue": 0.23,
+    "volume": 23,
+    "listingCount": 206,
+    "trend": 77.97,
+    "sparkline": [
+      0,
+      11.02,
+      16.10,
+      16.10,
+      16.31,
+      16.00,
+      77.97
+    ]
+  },
+  {
+    "id": "circle-of-ambition-prismatic-ring",
+    "name": "Circle of Ambition",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 311,
+    "listingCount": 14795,
+    "trend": 44.93,
+    "sparkline": [
+      0,
+      -20.29,
+      8.70,
+      8.70,
+      8.70,
+      44.93,
+      44.93
+    ]
+  },
+  {
+    "id": "circle-of-anguish-ruby-ring",
+    "name": "Circle of Anguish",
+    "baseType": "Ruby Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 45150,
+    "trend": 0,
+    "sparkline": [
+      0,
+      200,
+      200,
+      155,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "circle-of-fear-sapphire-ring",
+    "name": "Circle of Fear",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 44568,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "circle-of-guilt-iron-ring",
+    "name": "Circle of Guilt",
+    "baseType": "Iron Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 44493,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      -33.33,
+      -13.33,
+      20,
+      6.67,
+      33.33,
+      33.33
+    ]
+  },
+  {
+    "id": "circle-of-nostalgia-amethyst-ring",
+    "name": "Circle of Nostalgia",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 49021,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      -50.00,
+      -50.00,
+      0
+    ]
+  },
+  {
+    "id": "circle-of-regret-topaz-ring",
+    "name": "Circle of Regret",
+    "baseType": "Topaz Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 44822,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "coiling-whisper-amethyst-ring",
+    "name": "Coiling Whisper",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 49.90,
+    "divineValue": 0.13,
+    "volume": 25,
+    "listingCount": 608,
+    "trend": 51.21,
+    "sparkline": [
+      0,
+      6.06,
+      20.30,
+      9.85,
+      15.76,
+      21.21,
+      51.21
+    ]
+  },
+  {
+    "id": "cowards-chains-chain-belt",
+    "name": "Coward's Chains",
+    "baseType": "Chain Belt",
+    "chaosValue": 19.00,
+    "divineValue": 0.05,
+    "volume": 23,
+    "listingCount": 426,
+    "trend": 57.02,
+    "sparkline": [
+      0,
+      -13.22,
+      -12.40,
+      17.77,
+      57.02,
+      33.88,
+      57.02
+    ]
+  },
+  {
+    "id": "cowards-legacy-chain-belt",
+    "name": "Coward's Legacy",
+    "baseType": "Chain Belt",
+    "chaosValue": 100.0,
+    "divineValue": 0.27,
+    "volume": 8,
+    "listingCount": 92,
+    "trend": 11.11,
+    "sparkline": [
+      0,
+      6.11,
+      11.11,
+      10.56,
+      11,
+      11.11,
+      11.11
+    ]
+  },
+  {
+    "id": "crystallised-omniscience-onyx-amulet",
+    "name": "Crystallised Omniscience",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 72,
+    "listingCount": 1051,
+    "trend": 0,
+    "sparkline": [
+      0,
+      30,
+      34.5,
+      44,
+      50,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "curio-of-absorption-primordial-fragment",
+    "name": "Curio of Absorption",
+    "baseType": "Primordial Fragment",
+    "chaosValue": 91.80,
+    "divineValue": 0.25,
+    "volume": 13,
+    "listingCount": 279,
+    "trend": 14.75,
+    "sparkline": [
+      0,
+      0,
+      18.38,
+      -18.25,
+      12.5,
+      -2.5,
+      14.75
+    ]
+  },
+  {
+    "id": "curio-of-consumption-primordial-fragment",
+    "name": "Curio of Consumption",
+    "baseType": "Primordial Fragment",
+    "chaosValue": 14.00,
+    "divineValue": 0.04,
+    "volume": 7,
+    "listingCount": 30,
+    "trend": 27.27,
+    "sparkline": [
+      null,
+      null,
+      0,
+      null,
+      13.64,
+      27.27,
+      27.27
+    ]
+  },
+  {
+    "id": "curio-of-decay-primordial-fragment",
+    "name": "Curio of Decay",
+    "baseType": "Primordial Fragment",
+    "chaosValue": 8.00,
+    "divineValue": 0.02,
+    "volume": 134,
+    "listingCount": 1408,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "curio-of-potential-primordial-fragment",
+    "name": "Curio of Potential",
+    "baseType": "Primordial Fragment",
+    "chaosValue": 160.0,
+    "divineValue": 0.43,
+    "volume": 27,
+    "listingCount": 217,
+    "trend": 35.59,
+    "sparkline": [
+      0,
+      31.36,
+      31.36,
+      27.12,
+      78.03,
+      31.36,
+      35.59
+    ]
+  },
+  {
+    "id": "cyclopean-coil-leather-belt",
+    "name": "Cyclopean Coil",
+    "baseType": "Leather Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 210,
+    "listingCount": 3981,
+    "trend": -16.67,
+    "sparkline": [
+      0,
+      0,
+      -10,
+      16.67,
+      33.33,
+      16.67,
+      -16.67
+    ]
+  },
+  {
+    "id": "daressos-salute-citrine-amulet",
+    "name": "Daresso's Salute",
+    "baseType": "Citrine Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 321,
+    "listingCount": 16031,
+    "trend": 354.6,
+    "sparkline": [
+      0,
+      40.91,
+      186.4,
+      336.4,
+      354.6,
+      354.6,
+      354.6
+    ]
+  },
+  {
+    "id": "darkness-enthroned-stygian-vise",
+    "name": "Darkness Enthroned",
+    "baseType": "Stygian Vise",
+    "chaosValue": 8.40,
+    "divineValue": 0.02,
+    "volume": 228,
+    "listingCount": 5177,
+    "trend": 40,
+    "sparkline": [
+      0,
+      0,
+      33.33,
+      33.33,
+      33.33,
+      33.33,
+      40
+    ]
+  },
+  {
+    "id": "death-rush-amethyst-ring",
+    "name": "Death Rush",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 99,
+    "listingCount": 1838,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "defiance-of-destiny-paua-amulet",
+    "name": "Defiance of Destiny",
+    "baseType": "Paua Amulet",
+    "chaosValue": 4319,
+    "divineValue": 11.60,
+    "volume": 112,
+    "listingCount": 302,
+    "trend": 81.08,
+    "sparkline": [
+      0,
+      9.81,
+      8.60,
+      16.31,
+      26.12,
+      47.46,
+      81.08
+    ]
+  },
+  {
+    "id": "doedres-damning-paua-ring",
+    "name": "Doedre's Damning",
+    "baseType": "Paua Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 367,
+    "listingCount": 14353,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "doedres-tongue-lapis-amulet",
+    "name": "Doedre's Tongue",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 108,
+    "listingCount": 3745,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "doryanis-invitation-cold-heavy-belt",
+    "name": "Doryani's Invitation",
+    "baseType": "Heavy Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 11,
+    "listingCount": 379,
+    "trend": 13.64,
+    "sparkline": [
+      0,
+      -36.36,
+      -6.82,
+      -13.64,
+      13.64,
+      13.64,
+      13.64
+    ],
+    "variant": "Cold"
+  },
+  {
+    "id": "doryanis-invitation-fire-heavy-belt",
+    "name": "Doryani's Invitation",
+    "baseType": "Heavy Belt",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 17,
+    "listingCount": 371,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      0,
+      -10,
+      -10,
+      0,
+      -33.33,
+      -33.33
+    ],
+    "variant": "Fire"
+  },
+  {
+    "id": "doryanis-invitation-lightning-heavy-belt",
+    "name": "Doryani's Invitation",
+    "baseType": "Heavy Belt",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 13,
+    "listingCount": 330,
+    "trend": -16.67,
+    "sparkline": [
+      0,
+      -16.67,
+      -16.67,
+      -16.67,
+      0,
+      0,
+      -16.67
+    ],
+    "variant": "Lightning"
+  },
+  {
+    "id": "doryanis-invitation-physical-heavy-belt",
+    "name": "Doryani's Invitation",
+    "baseType": "Heavy Belt",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 14,
+    "listingCount": 345,
+    "trend": 46.34,
+    "sparkline": [
+      0,
+      -7.32,
+      2.44,
+      7.32,
+      7.32,
+      7.32,
+      46.34
+    ],
+    "variant": "Physical"
+  },
+  {
+    "id": "dream-fragments-sapphire-ring",
+    "name": "Dream Fragments",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 98,
+    "listingCount": 4894,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "dyadian-dawn-heavy-belt",
+    "name": "Dyadian Dawn",
+    "baseType": "Heavy Belt",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 159,
+    "listingCount": 6788,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "emberwake-ruby-ring",
+    "name": "Emberwake",
+    "baseType": "Ruby Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 122,
+    "listingCount": 5288,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "enmitys-embrace-vermillion-ring",
+    "name": "Enmity's Embrace",
+    "baseType": "Vermillion Ring",
+    "chaosValue": 35.00,
+    "divineValue": 0.09,
+    "volume": 114,
+    "listingCount": 1934,
+    "trend": -7.41,
+    "sparkline": [
+      0,
+      0.53,
+      -7.41,
+      -7.41,
+      -4.50,
+      -7.41,
+      -7.41
+    ]
+  },
+  {
+    "id": "essence-worm-unset-ring",
+    "name": "Essence Worm",
+    "baseType": "Unset Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 363,
+    "listingCount": 14703,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "eternal-damnation-agate-amulet",
+    "name": "Eternal Damnation",
+    "baseType": "Agate Amulet",
+    "chaosValue": 819.1,
+    "divineValue": 2.20,
+    "volume": 4,
+    "listingCount": 14,
+    "trend": 0,
+    "sparkline": []
+  },
+  {
+    "id": "extractor-mentis-agate-amulet",
+    "name": "Extractor Mentis",
+    "baseType": "Agate Amulet",
+    "chaosValue": 0.26,
+    "divineValue": 0.00,
+    "volume": 372,
+    "listingCount": 14719,
+    "trend": 160,
+    "sparkline": [
+      0,
+      -10,
+      0,
+      -20,
+      -20,
+      0,
+      160
+    ]
+  },
+  {
+    "id": "eye-of-chayula-onyx-amulet",
+    "name": "Eye of Chayula",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 171,
+    "listingCount": 7958,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "eye-of-innocence-citrine-amulet",
+    "name": "Eye of Innocence",
+    "baseType": "Citrine Amulet",
+    "chaosValue": 1.87,
+    "divineValue": 0.01,
+    "volume": 191,
+    "listingCount": 7899,
+    "trend": 87,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      100,
+      0,
+      87
+    ]
+  },
+  {
+    "id": "eyes-of-the-greatwolf-greatwolf-talisman",
+    "name": "Eyes of the Greatwolf",
+    "baseType": "Greatwolf Talisman",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 399,
+    "listingCount": 17502,
+    "trend": 14.29,
+    "sparkline": [
+      0,
+      0,
+      0,
+      11.43,
+      14.29,
+      14.29,
+      14.29
+    ]
+  },
+  {
+    "id": "faminebind-rustic-sash",
+    "name": "Faminebind",
+    "baseType": "Rustic Sash",
+    "chaosValue": 0.31,
+    "divineValue": 0.00,
+    "volume": 215,
+    "listingCount": 9320,
+    "trend": -59.74,
+    "sparkline": [
+      0,
+      -31.17,
+      -59.74,
+      -62.34,
+      -19.48,
+      4.55,
+      -59.74
+    ]
+  },
+  {
+    "id": "fated-end-paua-ring",
+    "name": "Fated End",
+    "baseType": "Paua Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 16,
+    "listingCount": 247,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -5,
+      -4,
+      -5,
+      -4,
+      -4,
+      0
+    ]
+  },
+  {
+    "id": "feastbind-rustic-sash",
+    "name": "Feastbind",
+    "baseType": "Rustic Sash",
+    "chaosValue": 0.28,
+    "divineValue": 0.00,
+    "volume": 204,
+    "listingCount": 9451,
+    "trend": 460,
+    "sparkline": [
+      0,
+      0,
+      0,
+      80,
+      360,
+      350,
+      460
+    ]
+  },
+  {
+    "id": "first-piece-of-time-cloth-belt-piece",
+    "name": "First Piece of Time",
+    "baseType": "Cloth Belt Piece",
+    "chaosValue": 2.40,
+    "divineValue": 0.01,
+    "volume": 8,
+    "listingCount": 362,
+    "trend": 140,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      140
+    ]
+  },
+  {
+    "id": "foulborn-anathema-moonstone-ring",
+    "name": "Foulborn Anathema",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 28.00,
+    "divineValue": 0.08,
+    "volume": 41,
+    "listingCount": 613,
+    "trend": -20,
+    "sparkline": [
+      0,
+      0,
+      -5.71,
+      -22.86,
+      -22.86,
+      -22.86,
+      -20
+    ]
+  },
+  {
+    "id": "foulborn-astral-projector-topaz-ring",
+    "name": "Foulborn Astral Projector",
+    "baseType": "Topaz Ring",
+    "chaosValue": 20.40,
+    "divineValue": 0.05,
+    "volume": 14,
+    "listingCount": 418,
+    "trend": -17.07,
+    "sparkline": [
+      0,
+      -7.32,
+      14.63,
+      7.32,
+      39.84,
+      17.07,
+      -17.07
+    ]
+  },
+  {
+    "id": "foulborn-astramentis-onyx-amulet",
+    "name": "Foulborn Astramentis",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 53,
+    "listingCount": 777,
+    "trend": -23.95,
+    "sparkline": [
+      0,
+      -23.95,
+      3.42,
+      -23.95,
+      -16.35,
+      -22.05,
+      -23.95
+    ]
+  },
+  {
+    "id": "foulborn-auxium-crystal-belt",
+    "name": "Foulborn Auxium",
+    "baseType": "Crystal Belt",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 193,
+    "listingCount": 6276,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      6.17,
+      33.33
+    ]
+  },
+  {
+    "id": "foulborn-badge-of-the-brotherhood-turquoise-amulet",
+    "name": "Foulborn Badge of the Brotherhood",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 139.6,
+    "divineValue": 0.37,
+    "volume": 38,
+    "listingCount": 412,
+    "trend": 132.7,
+    "sparkline": [
+      0,
+      9.17,
+      8.33,
+      26.67,
+      50,
+      50,
+      132.7
+    ]
+  },
+  {
+    "id": "foulborn-belt-of-the-deceiver-heavy-belt",
+    "name": "Foulborn Belt of the Deceiver",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 377,
+    "listingCount": 18023,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-bereks-grip-two-stone-ring",
+    "name": "Foulborn Berek's Grip",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 189,
+    "listingCount": 8227,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      80,
+      100,
+      100,
+      100
+    ]
+  },
+  {
+    "id": "foulborn-bereks-pass-two-stone-ring",
+    "name": "Foulborn Berek's Pass",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 179,
+    "listingCount": 7829,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-bereks-respite-two-stone-ring",
+    "name": "Foulborn Berek's Respite",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 50.00,
+    "divineValue": 0.13,
+    "volume": 284,
+    "listingCount": 2959,
+    "trend": 25,
+    "sparkline": [
+      0,
+      0,
+      0,
+      12.5,
+      12.5,
+      25,
+      25
+    ]
+  },
+  {
+    "id": "foulborn-call-of-the-brotherhood-two-stone-ring",
+    "name": "Foulborn Call of the Brotherhood",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 70,
+    "listingCount": 1953,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      45,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-choir-of-the-storm-lapis-amulet",
+    "name": "Foulborn Choir of the Storm",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 108.0,
+    "divineValue": 0.29,
+    "volume": 141,
+    "listingCount": 804,
+    "trend": 208.6,
+    "sparkline": [
+      0,
+      2.86,
+      12,
+      559.2,
+      759.4,
+      753.4,
+      208.6
+    ]
+  },
+  {
+    "id": "foulborn-death-rush-amethyst-ring",
+    "name": "Foulborn Death Rush",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 4.70,
+    "divineValue": 0.01,
+    "volume": 22,
+    "listingCount": 682,
+    "trend": -60.83,
+    "sparkline": [
+      0,
+      -4.17,
+      25,
+      25,
+      25,
+      16.67,
+      -60.83
+    ]
+  },
+  {
+    "id": "foulborn-defiance-of-destiny-paua-amulet",
+    "name": "Foulborn Defiance of Destiny",
+    "baseType": "Paua Amulet",
+    "chaosValue": 5584,
+    "divineValue": 15.00,
+    "volume": 22,
+    "listingCount": 56,
+    "trend": 115.5,
+    "sparkline": [
+      0,
+      7.04,
+      -0.04,
+      7.06,
+      16.09,
+      28.30,
+      115.5
+    ]
+  },
+  {
+    "id": "foulborn-dream-fragments-sapphire-ring",
+    "name": "Foulborn Dream Fragments",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 62,
+    "listingCount": 1594,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-dyadian-dawn-heavy-belt",
+    "name": "Foulborn Dyadian Dawn",
+    "baseType": "Heavy Belt",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 201,
+    "listingCount": 8412,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-gifts-from-above-diamond-ring",
+    "name": "Foulborn Gifts from Above",
+    "baseType": "Diamond Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 162,
+    "listingCount": 7436,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-headhunter-leather-belt",
+    "name": "Foulborn Headhunter",
+    "baseType": "Leather Belt",
+    "chaosValue": 48399,
+    "divineValue": 130.0,
+    "volume": 74,
+    "listingCount": 138,
+    "trend": 81.61,
+    "sparkline": [
+      0,
+      5.59,
+      -0.11,
+      1.76,
+      28.67,
+      50.13,
+      81.61
+    ]
+  },
+  {
+    "id": "foulborn-heartbound-loop-moonstone-ring",
+    "name": "Foulborn Heartbound Loop",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 150,
+    "listingCount": 6443,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-hinekoras-sight-onyx-amulet",
+    "name": "Foulborn Hinekora's Sight",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 78,
+    "listingCount": 2357,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-kikazaru-topaz-ring",
+    "name": "Foulborn Kikazaru",
+    "baseType": "Topaz Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 234,
+    "listingCount": 5455,
+    "trend": 13.64,
+    "sparkline": [
+      0,
+      2.27,
+      13.64,
+      13.64,
+      13.64,
+      13.64,
+      13.64
+    ]
+  },
+  {
+    "id": "foulborn-le-heup-of-all-iron-ring",
+    "name": "Foulborn Le Heup of All",
+    "baseType": "Iron Ring",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 13542,
+    "trend": 25,
+    "sparkline": [
+      0,
+      22.5,
+      22.5,
+      25,
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "id": "foulborn-loris-lantern-prismatic-ring",
+    "name": "Foulborn Lori's Lantern",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 6.30,
+    "divineValue": 0.02,
+    "volume": 243,
+    "listingCount": 6494,
+    "trend": 110,
+    "sparkline": [
+      0,
+      0,
+      0,
+      66.67,
+      66.67,
+      66.67,
+      110
+    ]
+  },
+  {
+    "id": "foulborn-mageblood-heavy-belt",
+    "name": "Foulborn Mageblood",
+    "baseType": "Heavy Belt",
+    "chaosValue": 74460,
+    "divineValue": 200.0,
+    "volume": 15,
+    "listingCount": 33,
+    "trend": 91.97,
+    "sparkline": [
+      0,
+      -14.26,
+      -11.59,
+      -6.89,
+      55.10,
+      71.42,
+      91.97
+    ]
+  },
+  {
+    "id": "foulborn-maligaros-restraint-chain-belt",
+    "name": "Foulborn Maligaro's Restraint",
+    "baseType": "Chain Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 334,
+    "listingCount": 16970,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-meginords-girdle-heavy-belt",
+    "name": "Foulborn Meginord's Girdle",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 372,
+    "listingCount": 19556,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-mings-heart-amethyst-ring",
+    "name": "Foulborn Ming's Heart",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 56,
+    "listingCount": 2099,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-mokous-embrace-ruby-ring",
+    "name": "Foulborn Mokou's Embrace",
+    "baseType": "Ruby Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 166,
+    "listingCount": 7739,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-presence-of-chayula-onyx-amulet",
+    "name": "Foulborn Presence of Chayula",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 10.60,
+    "divineValue": 0.03,
+    "volume": 69,
+    "listingCount": 1709,
+    "trend": 32.5,
+    "sparkline": [
+      0,
+      -18.75,
+      -18.75,
+      25,
+      6.25,
+      25,
+      32.5
+    ]
+  },
+  {
+    "id": "foulborn-pyre-sapphire-ring",
+    "name": "Foulborn Pyre",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 1.50,
+    "divineValue": 0.00,
+    "volume": 46,
+    "listingCount": 1488,
+    "trend": -23.08,
+    "sparkline": [
+      0,
+      2.56,
+      53.85,
+      58.97,
+      105.1,
+      43.59,
+      -23.08
+    ]
+  },
+  {
+    "id": "foulborn-romiras-banquet-diamond-ring",
+    "name": "Foulborn Romira's Banquet",
+    "baseType": "Diamond Ring",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 176,
+    "listingCount": 6597,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-shavronnes-revelation-moonstone-ring",
+    "name": "Foulborn Shavronne's Revelation",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 21.58,
+    "divineValue": 0.06,
+    "volume": 23,
+    "listingCount": 520,
+    "trend": -12.28,
+    "sparkline": [
+      0,
+      -10.57,
+      -39.02,
+      -39.02,
+      -5.79,
+      -9.96,
+      -12.28
+    ]
+  },
+  {
+    "id": "foulborn-soul-tether-cloth-belt",
+    "name": "Foulborn Soul Tether",
+    "baseType": "Cloth Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 153,
+    "listingCount": 7569,
+    "trend": 31.58,
+    "sparkline": [
+      0,
+      2.63,
+      5.26,
+      5.26,
+      31.58,
+      31.58,
+      31.58
+    ]
+  },
+  {
+    "id": "foulborn-soulthirst-cloth-belt",
+    "name": "Foulborn Soulthirst",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 118,
+    "listingCount": 3936,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-sunblast-cloth-belt",
+    "name": "Foulborn Sunblast",
+    "baseType": "Cloth Belt",
+    "chaosValue": 3.70,
+    "divineValue": 0.01,
+    "volume": 29,
+    "listingCount": 1520,
+    "trend": 8.82,
+    "sparkline": [
+      0,
+      0,
+      2.94,
+      2.94,
+      17.65,
+      17.65,
+      8.82
+    ]
+  },
+  {
+    "id": "foulborn-the-aylardex-agate-amulet",
+    "name": "Foulborn The Aylardex",
+    "baseType": "Agate Amulet",
+    "chaosValue": 1.20,
+    "divineValue": 0.00,
+    "volume": 236,
+    "listingCount": 7813,
+    "trend": -40,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -50.00,
+      -40
+    ]
+  },
+  {
+    "id": "foulborn-the-halcyon-jade-amulet",
+    "name": "Foulborn The Halcyon",
+    "baseType": "Jade Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 182,
+    "listingCount": 6386,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-the-magnate-studded-belt",
+    "name": "Foulborn The Magnate",
+    "baseType": "Studded Belt",
+    "chaosValue": 8.60,
+    "divineValue": 0.02,
+    "volume": 59,
+    "listingCount": 1442,
+    "trend": 7.5,
+    "sparkline": [
+      0,
+      2.5,
+      12.5,
+      12.5,
+      8.75,
+      0,
+      7.5
+    ]
+  },
+  {
+    "id": "foulborn-the-pandemonius-jade-amulet",
+    "name": "Foulborn The Pandemonius",
+    "baseType": "Jade Amulet",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 51,
+    "listingCount": 1905,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-thiefs-torment-prismatic-ring",
+    "name": "Foulborn Thief's Torment",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 177,
+    "listingCount": 7473,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-timeclasp-moonstone-ring",
+    "name": "Foulborn Timeclasp",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 189,
+    "listingCount": 7002,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-umbilicus-immortalis-leather-belt",
+    "name": "Foulborn Umbilicus Immortalis",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 176,
+    "listingCount": 6196,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-ventors-gamble-gold-ring",
+    "name": "Foulborn Ventor's Gamble",
+    "baseType": "Gold Ring",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 322,
+    "listingCount": 12581,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-voice-of-the-storm-lapis-amulet",
+    "name": "Foulborn Voice of the Storm",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 214,
+    "listingCount": 5878,
+    "trend": 25,
+    "sparkline": [
+      0,
+      0,
+      -25,
+      -17.5,
+      -25,
+      20,
+      25
+    ]
+  },
+  {
+    "id": "foulborn-volls-devotion-agate-amulet",
+    "name": "Foulborn Voll's Devotion",
+    "baseType": "Agate Amulet",
+    "chaosValue": 26.40,
+    "divineValue": 0.07,
+    "volume": 30,
+    "listingCount": 669,
+    "trend": 25.71,
+    "sparkline": [
+      0,
+      -0.95,
+      14.29,
+      23.33,
+      7.14,
+      37.14,
+      25.71
+    ]
+  },
+  {
+    "id": "foulborn-warped-timepiece-turquoise-amulet",
+    "name": "Foulborn Warped Timepiece",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 216,
+    "listingCount": 7927,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-warriors-legacy-ruby-ring",
+    "name": "Foulborn Warrior's Legacy",
+    "baseType": "Ruby Ring",
+    "chaosValue": 35.40,
+    "divineValue": 0.10,
+    "volume": 25,
+    "listingCount": 509,
+    "trend": 41.6,
+    "sparkline": [
+      0,
+      1.8,
+      20,
+      20,
+      8,
+      20,
+      41.6
+    ]
+  },
+  {
+    "id": "foulborn-xophs-blood-amber-amulet",
+    "name": "Foulborn Xoph's Blood",
+    "baseType": "Amber Amulet",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 95,
+    "listingCount": 1464,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-xophs-heart-amber-amulet",
+    "name": "Foulborn Xoph's Heart",
+    "baseType": "Amber Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 205,
+    "listingCount": 7171,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "fury-valve-turquoise-amulet",
+    "name": "Fury Valve",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 221,
+    "listingCount": 8556,
+    "trend": 50,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ]
+  },
+  {
+    "id": "gifts-from-above-diamond-ring",
+    "name": "Gifts from Above",
+    "baseType": "Diamond Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 233,
+    "listingCount": 10351,
+    "trend": 72.41,
+    "sparkline": [
+      0,
+      -25.86,
+      -43.10,
+      -31.03,
+      -8.62,
+      72.41,
+      72.41
+    ]
+  },
+  {
+    "id": "gloomfang-blue-pearl-amulet",
+    "name": "Gloomfang",
+    "baseType": "Blue Pearl Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 126,
+    "listingCount": 4455,
+    "trend": 25,
+    "sparkline": [
+      0,
+      25,
+      25,
+      25,
+      0,
+      0,
+      25
+    ]
+  },
+  {
+    "id": "gluttony-leather-belt",
+    "name": "Gluttony",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 341,
+    "listingCount": 20564,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "grattus-signet-diamond-ring",
+    "name": "Grattus Signet",
+    "baseType": "Diamond Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 246,
+    "listingCount": 11601,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "gravens-secret-cloth-belt",
+    "name": "Graven's Secret",
+    "baseType": "Cloth Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 103,
+    "listingCount": 2845,
+    "trend": 25,
+    "sparkline": [
+      0,
+      25,
+      25,
+      25,
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "id": "haunting-memories-turquoise-amulet",
+    "name": "Haunting Memories",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 86,
+    "listingCount": 2271,
+    "trend": -20,
+    "sparkline": [
+      0,
+      -40,
+      -40,
+      -40,
+      -40,
+      -40,
+      -20
+    ]
+  },
+  {
+    "id": "headhunter-leather-belt",
+    "name": "Headhunter",
+    "baseType": "Leather Belt",
+    "chaosValue": 6701,
+    "divineValue": 18.00,
+    "volume": 74,
+    "listingCount": 502,
+    "trend": 75.59,
+    "sparkline": [
+      0,
+      9.74,
+      15.26,
+      20.95,
+      31.52,
+      54.80,
+      75.59
+    ]
+  },
+  {
+    "id": "heartbound-loop-moonstone-ring",
+    "name": "Heartbound Loop",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 371,
+    "listingCount": 17216,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "hinekoras-sight-onyx-amulet",
+    "name": "Hinekora's Sight",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 133,
+    "listingCount": 6238,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "hyperboreus-leather-belt",
+    "name": "Hyperboreus",
+    "baseType": "Leather Belt",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 39,
+    "listingCount": 1929,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      33.33
+    ]
+  },
+  {
+    "id": "hyrris-truth-jade-amulet",
+    "name": "Hyrri's Truth",
+    "baseType": "Jade Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 385,
+    "listingCount": 17803,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "icefang-orbit-iron-ring",
+    "name": "Icefang Orbit",
+    "baseType": "Iron Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 301,
+    "listingCount": 13949,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ikiahos-promise-coral-amulet",
+    "name": "Ikiaho's Promise",
+    "baseType": "Coral Amulet",
+    "chaosValue": 0.24,
+    "divineValue": 0.00,
+    "volume": 223,
+    "listingCount": 8121,
+    "trend": 380,
+    "sparkline": [
+      0,
+      0,
+      110,
+      140,
+      340,
+      1200,
+      380
+    ]
+  },
+  {
+    "id": "immortal-flesh-leather-belt",
+    "name": "Immortal Flesh",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 37062,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "impresence-chaos-onyx-amulet",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 25.00,
+    "divineValue": 0.07,
+    "volume": 196,
+    "listingCount": 3590,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      4.2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "variant": "Chaos"
+  },
+  {
+    "id": "impresence-cold-onyx-amulet",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 13.00,
+    "divineValue": 0.03,
+    "volume": 60,
+    "listingCount": 2032,
+    "trend": 30,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      14,
+      5,
+      30
+    ],
+    "variant": "Cold"
+  },
+  {
+    "id": "impresence-fire-onyx-amulet",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 13.00,
+    "divineValue": 0.03,
+    "volume": 47,
+    "listingCount": 1639,
+    "trend": 30,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      30
+    ],
+    "variant": "Fire"
+  },
+  {
+    "id": "impresence-lightning-onyx-amulet",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 43,
+    "listingCount": 1716,
+    "trend": -50,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -16,
+      -45,
+      -50,
+      -50
+    ],
+    "variant": "Lightning"
+  },
+  {
+    "id": "impresence-physical-onyx-amulet",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 9.40,
+    "divineValue": 0.03,
+    "volume": 57,
+    "listingCount": 1789,
+    "trend": -6,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -2,
+      -8,
+      -7,
+      -6
+    ],
+    "variant": "Physical"
+  },
+  {
+    "id": "kalandras-touch-ring",
+    "name": "Kalandra's Touch",
+    "baseType": "Ring",
+    "chaosValue": 3351,
+    "divineValue": 9.00,
+    "volume": 77,
+    "listingCount": 141,
+    "trend": 80.63,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.26,
+      4.68,
+      45.94,
+      77.49,
+      80.63
+    ]
+  },
+  {
+    "id": "kaoms-binding-heavy-belt",
+    "name": "Kaom's Binding",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 171,
+    "listingCount": 9148,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "kaoms-sign-coral-ring",
+    "name": "Kaom's Sign",
+    "baseType": "Coral Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 243,
+    "listingCount": 8685,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "karui-ward-jade-amulet",
+    "name": "Karui Ward",
+    "baseType": "Jade Amulet",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 341,
+    "listingCount": 12447,
+    "trend": 4.17,
+    "sparkline": [
+      0,
+      4.17,
+      -47.92,
+      4.17,
+      4.17,
+      4.17,
+      4.17
+    ]
+  },
+  {
+    "id": "kikazaru-topaz-ring",
+    "name": "Kikazaru",
+    "baseType": "Topaz Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 15201,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "le-heup-of-all-iron-ring",
+    "name": "Le Heup of All",
+    "baseType": "Iron Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 16687,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "leash-of-oblation-leather-belt",
+    "name": "Leash of Oblation",
+    "baseType": "Leather Belt",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 158,
+    "listingCount": 6769,
+    "trend": 25,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      25,
+      12.5,
+      25
+    ]
+  },
+  {
+    "id": "loris-lantern-prismatic-ring",
+    "name": "Lori's Lantern",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 204,
+    "listingCount": 8321,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "lost-unity-formless-ring",
+    "name": "Lost Unity",
+    "baseType": "Formless Ring",
+    "chaosValue": 1489,
+    "divineValue": 4.00,
+    "volume": 152,
+    "listingCount": 464,
+    "trend": 12.39,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.26,
+      3.55,
+      7.19,
+      24.38,
+      12.39
+    ]
+  },
+  {
+    "id": "mageblood-heavy-belt",
+    "name": "Mageblood",
+    "baseType": "Heavy Belt",
+    "chaosValue": 38347,
+    "divineValue": 103.0,
+    "volume": 111,
+    "listingCount": 220,
+    "trend": 44.71,
+    "sparkline": [
+      0,
+      -2.16,
+      -3.50,
+      3.48,
+      17.6,
+      30.68,
+      44.71
+    ]
+  },
+  {
+    "id": "malachais-artifice-unset-ring",
+    "name": "Malachai's Artifice",
+    "baseType": "Unset Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 330,
+    "listingCount": 15553,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "maligaros-cruelty-turquoise-amulet",
+    "name": "Maligaro's Cruelty",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 0.69,
+    "divineValue": 0.00,
+    "volume": 341,
+    "listingCount": 13344,
+    "trend": -31,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -31
+    ]
+  },
+  {
+    "id": "maligaros-restraint-chain-belt",
+    "name": "Maligaro's Restraint",
+    "baseType": "Chain Belt",
+    "chaosValue": 0.24,
+    "divineValue": 0.00,
+    "volume": 191,
+    "listingCount": 8492,
+    "trend": -76,
+    "sparkline": [
+      0,
+      -17.5,
+      -21,
+      -24,
+      0,
+      0,
+      -76
+    ]
+  },
+  {
+    "id": "mark-of-submission-unset-ring",
+    "name": "Mark of Submission",
+    "baseType": "Unset Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 15922,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "mark-of-the-elder-steel-ring",
+    "name": "Mark of the Elder",
+    "baseType": "Steel Ring",
+    "chaosValue": 9.60,
+    "divineValue": 0.03,
+    "volume": 95,
+    "listingCount": 3224,
+    "trend": 41.18,
+    "sparkline": [
+      0,
+      8.82,
+      14.71,
+      8.09,
+      17.65,
+      35.29,
+      41.18
+    ]
+  },
+  {
+    "id": "mark-of-the-shaper-opal-ring",
+    "name": "Mark of the Shaper",
+    "baseType": "Opal Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 96,
+    "listingCount": 3585,
+    "trend": 8.70,
+    "sparkline": [
+      0,
+      -2.17,
+      -2.17,
+      -2.17,
+      -10.87,
+      8.70,
+      8.70
+    ]
+  },
+  {
+    "id": "marylenes-fallacy-lapis-amulet",
+    "name": "Marylene's Fallacy",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 201,
+    "listingCount": 4787,
+    "trend": -31.74,
+    "sparkline": [
+      0,
+      -31.74,
+      -31.74,
+      -31.74,
+      -31.74,
+      -31.74,
+      -31.74
+    ]
+  },
+  {
+    "id": "meginords-girdle-heavy-belt",
+    "name": "Meginord's Girdle",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 390,
+    "listingCount": 15609,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "mings-heart-amethyst-ring",
+    "name": "Ming's Heart",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 118,
+    "listingCount": 5116,
+    "trend": 50,
+    "sparkline": [
+      0,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "mokous-embrace-ruby-ring",
+    "name": "Mokou's Embrace",
+    "baseType": "Ruby Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 286,
+    "listingCount": 13904,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "mothers-embrace-heavy-belt",
+    "name": "Mother's Embrace",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 157,
+    "listingCount": 8521,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "mutewind-seal-unset-ring",
+    "name": "Mutewind Seal",
+    "baseType": "Unset Ring",
+    "chaosValue": 2.40,
+    "divineValue": 0.01,
+    "volume": 8,
+    "listingCount": 309,
+    "trend": 9.09,
+    "sparkline": [
+      0,
+      18.18,
+      18.18,
+      18.18,
+      9.09,
+      18.18,
+      9.09
+    ]
+  },
+  {
+    "id": "natural-hierarchy-rotfeather-talisman",
+    "name": "Natural Hierarchy",
+    "baseType": "Rotfeather Talisman",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 312,
+    "listingCount": 13121,
+    "trend": 26.58,
+    "sparkline": [
+      0,
+      26.58,
+      26.58,
+      26.58,
+      26.58,
+      26.58,
+      26.58
+    ]
+  },
+  {
+    "id": "nevalius-inheritance-cloth-belt",
+    "name": "Nevalius Inheritance",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 110,
+    "listingCount": 5622,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ngamahus-sign-ruby-ring",
+    "name": "Ngamahu's Sign",
+    "baseType": "Ruby Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 270,
+    "listingCount": 14517,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "nights-hold-black-maw-talisman",
+    "name": "Night's Hold",
+    "baseType": "Black Maw Talisman",
+    "chaosValue": 0.23,
+    "divineValue": 0.00,
+    "volume": 280,
+    "listingCount": 10441,
+    "trend": 119.0,
+    "sparkline": [
+      0,
+      4.76,
+      14.29,
+      52.38,
+      14.29,
+      14.29,
+      119.0
+    ]
+  },
+  {
+    "id": "nimis-topaz-ring",
+    "name": "Nimis",
+    "baseType": "Topaz Ring",
+    "chaosValue": 25205,
+    "divineValue": 67.70,
+    "volume": 32,
+    "listingCount": 202,
+    "trend": 43.93,
+    "sparkline": [
+      0,
+      -0.45,
+      -1.62,
+      6.57,
+      14.10,
+      17.42,
+      43.93
+    ]
+  },
+  {
+    "id": "olesyas-delight-cloth-belt",
+    "name": "Olesya's Delight",
+    "baseType": "Cloth Belt",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 88,
+    "listingCount": 2395,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      33.33,
+      33.33,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "original-sin-amethyst-ring",
+    "name": "Original Sin",
+    "baseType": "Amethyst Ring",
+    "chaosValue": 451965,
+    "divineValue": 1214,
+    "volume": 10,
+    "listingCount": 26,
+    "trend": 145.0,
+    "sparkline": [
+      0,
+      31.79,
+      25.20,
+      31.25,
+      57.23,
+      42.98,
+      145.0
+    ]
+  },
+  {
+    "id": "perandus-blazon-cloth-belt",
+    "name": "Perandus Blazon",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 302,
+    "listingCount": 13536,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "perandus-signet-paua-ring",
+    "name": "Perandus Signet",
+    "baseType": "Paua Ring",
+    "chaosValue": 7.00,
+    "divineValue": 0.02,
+    "volume": 136,
+    "listingCount": 3538,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "perquils-toe-gold-amulet",
+    "name": "Perquil's Toe",
+    "baseType": "Gold Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 263,
+    "listingCount": 13271,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "perseverance-vanguard-belt",
+    "name": "Perseverance",
+    "baseType": "Vanguard Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 19507,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "polaric-devastation-opal-ring",
+    "name": "Polaric Devastation",
+    "baseType": "Opal Ring",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 74,
+    "listingCount": 1546,
+    "trend": 11.11,
+    "sparkline": [
+      0,
+      11.11,
+      11.11,
+      11.11,
+      11.11,
+      11.11,
+      11.11
+    ]
+  },
+  {
+    "id": "praxis-paua-ring",
+    "name": "Praxis",
+    "baseType": "Paua Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 385,
+    "listingCount": 14595,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "precursors-emblem-prismatic-ring",
+    "name": "Precursor's Emblem",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 263.4,
+    "divineValue": 0.71,
+    "volume": 19,
+    "listingCount": 576,
+    "trend": 123.2,
+    "sparkline": [
+      0,
+      0,
+      105.2,
+      111.3,
+      90.15,
+      -23.05,
+      123.2
+    ]
+  },
+  {
+    "id": "precursors-emblem-ruby-ring",
+    "name": "Precursor's Emblem",
+    "baseType": "Ruby Ring",
+    "chaosValue": 32.50,
+    "divineValue": 0.09,
+    "volume": 33,
+    "listingCount": 1136,
+    "trend": 8.33,
+    "sparkline": [
+      0,
+      0,
+      10,
+      10,
+      8.33,
+      10,
+      8.33
+    ]
+  },
+  {
+    "id": "precursors-emblem-sapphire-ring",
+    "name": "Precursor's Emblem",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 41,
+    "listingCount": 1941,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "precursors-emblem-topaz-ring",
+    "name": "Precursor's Emblem",
+    "baseType": "Topaz Ring",
+    "chaosValue": 263.4,
+    "divineValue": 0.71,
+    "volume": 87,
+    "listingCount": 1582,
+    "trend": 229.2,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      6.25,
+      242.1,
+      229.2
+    ]
+  },
+  {
+    "id": "precursors-emblem-two-stone-ring",
+    "name": "Precursor's Emblem",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 127.2,
+    "divineValue": 0.34,
+    "volume": 60,
+    "listingCount": 1574,
+    "trend": 39.81,
+    "sparkline": [
+      0,
+      -9.89,
+      3.30,
+      2.20,
+      2.20,
+      4.40,
+      39.81
+    ]
+  },
+  {
+    "id": "presence-of-chayula-onyx-amulet",
+    "name": "Presence of Chayula",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 51.00,
+    "divineValue": 0.14,
+    "volume": 12,
+    "listingCount": 197,
+    "trend": -8.60,
+    "sparkline": [
+      0,
+      29.03,
+      34.41,
+      43.37,
+      52.33,
+      55.91,
+      -8.60
+    ]
+  },
+  {
+    "id": "prismweave-rustic-sash",
+    "name": "Prismweave",
+    "baseType": "Rustic Sash",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 280,
+    "listingCount": 11121,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      100,
+      100,
+      100
+    ]
+  },
+  {
+    "id": "profane-proxy-unset-ring",
+    "name": "Profane Proxy",
+    "baseType": "Unset Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 105,
+    "listingCount": 4344,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "prosperos-protection-iron-ring",
+    "name": "Prospero's Protection",
+    "baseType": "Iron Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 265,
+    "listingCount": 14302,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "putembos-meadow-topaz-ring",
+    "name": "Putembo's Meadow",
+    "baseType": "Topaz Ring",
+    "chaosValue": 85.00,
+    "divineValue": 0.23,
+    "volume": 10,
+    "listingCount": 197,
+    "trend": 240,
+    "sparkline": [
+      0,
+      24,
+      28,
+      196,
+      220,
+      222,
+      240
+    ]
+  },
+  {
+    "id": "putembos-mountain-topaz-ring",
+    "name": "Putembo's Mountain",
+    "baseType": "Topaz Ring",
+    "chaosValue": 134.0,
+    "divineValue": 0.36,
+    "volume": 13,
+    "listingCount": 138,
+    "trend": -13.88,
+    "sparkline": [
+      0,
+      -1.67,
+      -1.67,
+      -2.31,
+      -13.88,
+      -16.45,
+      -13.88
+    ]
+  },
+  {
+    "id": "putembos-valley-topaz-ring",
+    "name": "Putembo's Valley",
+    "baseType": "Topaz Ring",
+    "chaosValue": 8.00,
+    "divineValue": 0.02,
+    "volume": 33,
+    "listingCount": 476,
+    "trend": -20,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -10,
+      -10,
+      -12,
+      -20
+    ]
+  },
+  {
+    "id": "pyre-sapphire-ring",
+    "name": "Pyre",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 130,
+    "listingCount": 6010,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "pyroshock-clasp-leather-belt",
+    "name": "Pyroshock Clasp",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 389,
+    "listingCount": 25609,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "rashkaldors-patience-jade-amulet",
+    "name": "Rashkaldor's Patience",
+    "baseType": "Jade Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 74,
+    "listingCount": 3750,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "redblade-band-unset-ring",
+    "name": "Redblade Band",
+    "baseType": "Unset Ring",
+    "chaosValue": 1.90,
+    "divineValue": 0.01,
+    "volume": 10,
+    "listingCount": 403,
+    "trend": -56.82,
+    "sparkline": [
+      0,
+      0,
+      -56.82,
+      -56.82,
+      -56.82,
+      -56.82,
+      -56.82
+    ]
+  },
+  {
+    "id": "replica-atziris-foible-paua-amulet",
+    "name": "Replica Atziri's Foible",
+    "baseType": "Paua Amulet",
+    "chaosValue": 17.00,
+    "divineValue": 0.05,
+    "volume": 27,
+    "listingCount": 419,
+    "trend": 70,
+    "sparkline": [
+      0,
+      0,
+      32.5,
+      42.5,
+      50,
+      15,
+      70
+    ]
+  },
+  {
+    "id": "replica-badge-of-the-brotherhood-turquoise-amulet",
+    "name": "Replica Badge of the Brotherhood",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 172.0,
+    "divineValue": 0.46,
+    "volume": 199,
+    "listingCount": 400,
+    "trend": 186.7,
+    "sparkline": [
+      0,
+      -16.67,
+      65,
+      83.33,
+      288.9,
+      241.7,
+      186.7
+    ]
+  },
+  {
+    "id": "replica-bated-breath-chain-belt",
+    "name": "Replica Bated Breath",
+    "baseType": "Chain Belt",
+    "chaosValue": 611.0,
+    "divineValue": 1.64,
+    "volume": 4,
+    "listingCount": 33,
+    "trend": 0,
+    "sparkline": []
+  },
+  {
+    "id": "replica-doedres-damning-paua-ring",
+    "name": "Replica Doedre's Damning",
+    "baseType": "Paua Ring",
+    "chaosValue": 5.70,
+    "divineValue": 0.02,
+    "volume": 47,
+    "listingCount": 613,
+    "trend": 72.73,
+    "sparkline": [
+      0,
+      0,
+      6.06,
+      9.09,
+      22.73,
+      42.42,
+      72.73
+    ]
+  },
+  {
+    "id": "replica-dragonfangs-flight-onyx-amulet",
+    "name": "Replica Dragonfang's Flight",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 43128,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "replica-emberwake-ruby-ring",
+    "name": "Replica Emberwake",
+    "baseType": "Ruby Ring",
+    "chaosValue": 6.40,
+    "divineValue": 0.02,
+    "volume": 33,
+    "listingCount": 910,
+    "trend": -20,
+    "sparkline": [
+      0,
+      0,
+      -6.88,
+      -37.5,
+      -12.5,
+      -12.5,
+      -20
+    ]
+  },
+  {
+    "id": "replica-headhunter-leather-belt",
+    "name": "Replica Headhunter",
+    "baseType": "Leather Belt",
+    "chaosValue": 1526,
+    "divineValue": 4.10,
+    "volume": 15,
+    "listingCount": 108,
+    "trend": 44.00,
+    "sparkline": [
+      0,
+      -2.98,
+      -1.70,
+      -15.29,
+      17.08,
+      41.55,
+      44.00
+    ]
+  },
+  {
+    "id": "replica-hinekoras-sight-onyx-amulet",
+    "name": "Replica Hinekora's Sight",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 10.20,
+    "divineValue": 0.03,
+    "volume": 22,
+    "listingCount": 901,
+    "trend": 32.47,
+    "sparkline": [
+      0,
+      35.06,
+      40.26,
+      -15.58,
+      -24.68,
+      -27.27,
+      32.47
+    ]
+  },
+  {
+    "id": "replica-hyrris-truth-jade-amulet",
+    "name": "Replica Hyrri's Truth",
+    "baseType": "Jade Amulet",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 22,
+    "listingCount": 470,
+    "trend": -16.67,
+    "sparkline": [
+      0,
+      8.33,
+      25,
+      27.08,
+      20.83,
+      20.83,
+      -16.67
+    ]
+  },
+  {
+    "id": "replica-karui-ward-jade-amulet",
+    "name": "Replica Karui Ward",
+    "baseType": "Jade Amulet",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 60,
+    "listingCount": 522,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      50,
+      100
+    ]
+  },
+  {
+    "id": "replica-malachais-artifice-unset-ring",
+    "name": "Replica Malachai's Artifice",
+    "baseType": "Unset Ring",
+    "chaosValue": 3.60,
+    "divineValue": 0.01,
+    "volume": 10,
+    "listingCount": 345,
+    "trend": 100,
+    "sparkline": [
+      0,
+      5.56,
+      11.11,
+      11.11,
+      11.11,
+      100,
+      100
+    ]
+  },
+  {
+    "id": "replica-prismweave-rustic-sash",
+    "name": "Replica Prismweave",
+    "baseType": "Rustic Sash",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 47,
+    "listingCount": 1014,
+    "trend": 25,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      20,
+      25,
+      25
+    ]
+  },
+  {
+    "id": "replica-siegebreaker-heavy-belt",
+    "name": "Replica Siegebreaker",
+    "baseType": "Heavy Belt",
+    "chaosValue": 3.10,
+    "divineValue": 0.01,
+    "volume": 9,
+    "listingCount": 166,
+    "trend": -38,
+    "sparkline": [
+      0,
+      0,
+      4,
+      20,
+      12,
+      -44,
+      -38
+    ]
+  },
+  {
+    "id": "replica-soul-tether-cloth-belt",
+    "name": "Replica Soul Tether",
+    "baseType": "Cloth Belt",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 43,
+    "listingCount": 386,
+    "trend": -11.11,
+    "sparkline": [
+      0,
+      -33.33,
+      -33.33,
+      -33.33,
+      -24.44,
+      -11.11,
+      -11.11
+    ]
+  },
+  {
+    "id": "replica-tasalios-sign-sapphire-ring",
+    "name": "Replica Tasalio's Sign",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 9.90,
+    "divineValue": 0.03,
+    "volume": 63,
+    "listingCount": 796,
+    "trend": 17.86,
+    "sparkline": [
+      0,
+      7.14,
+      7.14,
+      19.05,
+      19.05,
+      16.67,
+      17.86
+    ]
+  },
+  {
+    "id": "replica-voideye-unset-ring",
+    "name": "Replica Voideye",
+    "baseType": "Unset Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 19,
+    "listingCount": 296,
+    "trend": -37.5,
+    "sparkline": [
+      0,
+      -33.33,
+      -33.33,
+      4.17,
+      4.17,
+      -37.5,
+      -37.5
+    ]
+  },
+  {
+    "id": "replica-winterheart-gold-amulet",
+    "name": "Replica Winterheart",
+    "baseType": "Gold Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 33,
+    "listingCount": 489,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "retaliation-charm-citrine-amulet",
+    "name": "Retaliation Charm",
+    "baseType": "Citrine Amulet",
+    "chaosValue": 0.17,
+    "divineValue": 0.00,
+    "volume": 269,
+    "listingCount": 11721,
+    "trend": -5.56,
+    "sparkline": [
+      0,
+      -16.67,
+      -33.33,
+      -27.78,
+      11.11,
+      16.67,
+      -5.56
+    ]
+  },
+  {
+    "id": "rigwalds-crest-two-stone-ring",
+    "name": "Rigwald's Crest",
+    "baseType": "Two-Stone Ring",
+    "chaosValue": 1.20,
+    "divineValue": 0.00,
+    "volume": 97,
+    "listingCount": 3391,
+    "trend": -40,
+    "sparkline": [
+      0,
+      -50.00,
+      -50.00,
+      -50.00,
+      -50.00,
+      -10.00,
+      -40
+    ]
+  },
+  {
+    "id": "rigwalds-curse-wereclaw-talisman",
+    "name": "Rigwald's Curse",
+    "baseType": "Wereclaw Talisman",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 135,
+    "listingCount": 4682,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "romiras-banquet-diamond-ring",
+    "name": "Romira's Banquet",
+    "baseType": "Diamond Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 188,
+    "listingCount": 8322,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "rotblood-promise-unset-ring",
+    "name": "Rotblood Promise",
+    "baseType": "Unset Ring",
+    "chaosValue": 2.60,
+    "divineValue": 0.01,
+    "volume": 9,
+    "listingCount": 445,
+    "trend": -48,
+    "sparkline": [
+      0,
+      -36,
+      -36,
+      -36,
+      -36,
+      -40,
+      -48
+    ]
+  },
+  {
+    "id": "ryslathas-coil-studded-belt",
+    "name": "Ryslatha's Coil",
+    "baseType": "Studded Belt",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 131,
+    "listingCount": 2764,
+    "trend": -5.66,
+    "sparkline": [
+      0,
+      -5.66,
+      -5.66,
+      -5.66,
+      -5.66,
+      -5.66,
+      -5.66
+    ]
+  },
+  {
+    "id": "sacrificial-heart-paua-amulet",
+    "name": "Sacrificial Heart",
+    "baseType": "Paua Amulet",
+    "chaosValue": 2.90,
+    "divineValue": 0.01,
+    "volume": 30,
+    "listingCount": 706,
+    "trend": 7.41,
+    "sparkline": [
+      0,
+      -5.56,
+      -25.93,
+      -25.93,
+      -25.93,
+      -25.93,
+      7.41
+    ]
+  },
+  {
+    "id": "second-piece-of-time-cloth-belt-piece",
+    "name": "Second Piece of Time",
+    "baseType": "Cloth Belt Piece",
+    "chaosValue": 4.10,
+    "divineValue": 0.01,
+    "volume": 14,
+    "listingCount": 380,
+    "trend": 310,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      310
+    ]
+  },
+  {
+    "id": "shapers-seed-agate-amulet",
+    "name": "Shaper's Seed",
+    "baseType": "Agate Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 367,
+    "listingCount": 15194,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "shavronnes-revelation-moonstone-ring",
+    "name": "Shavronne's Revelation",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 25.00,
+    "divineValue": 0.07,
+    "volume": 106,
+    "listingCount": 1444,
+    "trend": 4.17,
+    "sparkline": [
+      0,
+      0.42,
+      4.17,
+      2.08,
+      4.17,
+      4.17,
+      4.17
+    ]
+  },
+  {
+    "id": "sibyls-lament-coral-ring",
+    "name": "Sibyl's Lament",
+    "baseType": "Coral Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 282,
+    "listingCount": 10990,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "sidhebreath-paua-amulet",
+    "name": "Sidhebreath",
+    "baseType": "Paua Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 371,
+    "listingCount": 21094,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "siegebreaker-heavy-belt",
+    "name": "Siegebreaker",
+    "baseType": "Heavy Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 374,
+    "listingCount": 16572,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "snakepit-sapphire-ring",
+    "name": "Snakepit",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 104,
+    "listingCount": 4116,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "solstice-vigil-onyx-amulet",
+    "name": "Solstice Vigil",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 77,
+    "listingCount": 2214,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -10,
+      -10,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "soul-tether-cloth-belt",
+    "name": "Soul Tether",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 96,
+    "listingCount": 3648,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "soulbound-paua-ring",
+    "name": "Soulbound",
+    "baseType": "Paua Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 239,
+    "listingCount": 11155,
+    "trend": 47.06,
+    "sparkline": [
+      0,
+      47.06,
+      -32.35,
+      -61.76,
+      -22.06,
+      36.76,
+      47.06
+    ]
+  },
+  {
+    "id": "soulthirst-cloth-belt",
+    "name": "Soulthirst",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 83,
+    "listingCount": 4372,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "squirming-terror-unset-ring",
+    "name": "Squirming Terror",
+    "baseType": "Unset Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 119,
+    "listingCount": 4646,
+    "trend": -3.23,
+    "sparkline": [
+      0,
+      29.03,
+      29.03,
+      25.81,
+      -3.23,
+      -1.61,
+      -3.23
+    ]
+  },
+  {
+    "id": "stone-of-lazhwar-lapis-amulet",
+    "name": "Stone of Lazhwar",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 296,
+    "listingCount": 9518,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "storm-secret-topaz-ring",
+    "name": "Storm Secret",
+    "baseType": "Topaz Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 17834,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "stormfire-opal-ring",
+    "name": "Stormfire",
+    "baseType": "Opal Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 328,
+    "listingCount": 11622,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      -33.33,
+      0,
+      0,
+      0,
+      -33.33,
+      -33.33
+    ]
+  },
+  {
+    "id": "stranglegasp-onyx-amulet",
+    "name": "Stranglegasp",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 12658,
+    "divineValue": 34.00,
+    "volume": 24,
+    "listingCount": 56,
+    "trend": 38.65,
+    "sparkline": [
+      0,
+      -3.96,
+      -1.45,
+      6.35,
+      12.68,
+      31.77,
+      38.65
+    ]
+  },
+  {
+    "id": "sunblast-cloth-belt",
+    "name": "Sunblast",
+    "baseType": "Cloth Belt",
+    "chaosValue": 1.30,
+    "divineValue": 0.00,
+    "volume": 25,
+    "listingCount": 845,
+    "trend": -60.61,
+    "sparkline": [
+      0,
+      21.21,
+      21.21,
+      -21.21,
+      -33.33,
+      -66.67,
+      -60.61
+    ]
+  },
+  {
+    "id": "survivors-guilt-heavy-belt",
+    "name": "Survivor's Guilt",
+    "baseType": "Heavy Belt",
+    "chaosValue": 3.80,
+    "divineValue": 0.01,
+    "volume": 11,
+    "listingCount": 567,
+    "trend": -68.85,
+    "sparkline": [
+      0,
+      -25.41,
+      -83.61,
+      -84.43,
+      -77.05,
+      -80.33,
+      -68.85
+    ]
+  },
+  {
+    "id": "tainted-pact-coral-amulet",
+    "name": "Tainted Pact",
+    "baseType": "Coral Amulet",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 84,
+    "listingCount": 2629,
+    "trend": 57.89,
+    "sparkline": [
+      0,
+      5.26,
+      5.26,
+      5.26,
+      57.89,
+      42.11,
+      57.89
+    ]
+  },
+  {
+    "id": "tasalios-sign-sapphire-ring",
+    "name": "Tasalio's Sign",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 376,
+    "listingCount": 19255,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tavukai-coral-amulet",
+    "name": "Tavukai",
+    "baseType": "Coral Amulet",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 100,
+    "listingCount": 4059,
+    "trend": 300,
+    "sparkline": [
+      0,
+      0,
+      280,
+      300,
+      300,
+      200,
+      300
+    ]
+  },
+  {
+    "id": "tawhanukus-timing-moonstone-ring",
+    "name": "Tawhanuku's Timing",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 18912,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tear-of-purity-lapis-amulet",
+    "name": "Tear of Purity",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 296,
+    "listingCount": 10128,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-anvil-amber-amulet",
+    "name": "The Anvil",
+    "baseType": "Amber Amulet",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 10382,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      0,
+      -33.33,
+      -33.33,
+      -33.33,
+      -33.33,
+      -33.33
+    ]
+  },
+  {
+    "id": "the-arkhons-tools-cloth-belt",
+    "name": "The Arkhon's Tools",
+    "baseType": "Cloth Belt",
+    "chaosValue": 25.30,
+    "divineValue": 0.07,
+    "volume": 241,
+    "listingCount": 6181,
+    "trend": 15,
+    "sparkline": [
+      0,
+      0.68,
+      4.55,
+      0,
+      13.64,
+      9.86,
+      15
+    ]
+  },
+  {
+    "id": "the-aylardex-agate-amulet",
+    "name": "The Aylardex",
+    "baseType": "Agate Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 332,
+    "listingCount": 13835,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-burden-of-truth-crystal-belt",
+    "name": "The Burden of Truth",
+    "baseType": "Crystal Belt",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 80,
+    "listingCount": 2477,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      -22.5,
+      -22.5,
+      -25,
+      -25,
+      0
+    ]
+  },
+  {
+    "id": "the-druggery-cloth-belt",
+    "name": "The Druggery",
+    "baseType": "Cloth Belt",
+    "chaosValue": 0.74,
+    "divineValue": 0.00,
+    "volume": 239,
+    "listingCount": 10830,
+    "trend": -26,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -26
+    ]
+  },
+  {
+    "id": "the-ephemeral-bond-lapis-amulet",
+    "name": "The Ephemeral Bond",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 307,
+    "listingCount": 7405,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-eternal-struggle-onyx-amulet",
+    "name": "The Eternal Struggle",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 14909,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-felbog-fang-citrine-amulet",
+    "name": "The Felbog Fang",
+    "baseType": "Citrine Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 77,
+    "listingCount": 2964,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-flow-untethered-cloth-belt",
+    "name": "The Flow Untethered",
+    "baseType": "Cloth Belt",
+    "chaosValue": 11.40,
+    "divineValue": 0.03,
+    "volume": 16,
+    "listingCount": 118,
+    "trend": 37.35,
+    "sparkline": [
+      0,
+      0,
+      -1.20,
+      208.4,
+      201.2,
+      16.87,
+      37.35
+    ]
+  },
+  {
+    "id": "the-halcyon-jade-amulet",
+    "name": "The Halcyon",
+    "baseType": "Jade Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 17,
+    "listingCount": 919,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      270,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-hateful-accuser-nameless-ring",
+    "name": "The Hateful Accuser",
+    "baseType": "Nameless Ring",
+    "chaosValue": 14.70,
+    "divineValue": 0.04,
+    "volume": 93,
+    "listingCount": 3069,
+    "trend": 47,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      47
+    ]
+  },
+  {
+    "id": "the-highwayman-gold-ring",
+    "name": "The Highwayman",
+    "baseType": "Gold Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 21712,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-hungry-loop-unset-ring",
+    "name": "The Hungry Loop",
+    "baseType": "Unset Ring",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 111,
+    "listingCount": 3406,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0
+    ]
+  },
+  {
+    "id": "the-ignomon-gold-amulet",
+    "name": "The Ignomon",
+    "baseType": "Gold Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 234,
+    "listingCount": 9536,
+    "trend": 185.7,
+    "sparkline": [
+      0,
+      -17.14,
+      -8.57,
+      95.71,
+      185.7,
+      185.7,
+      185.7
+    ]
+  },
+  {
+    "id": "the-jinxed-juju-citrine-amulet",
+    "name": "The Jinxed Juju",
+    "baseType": "Citrine Amulet",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 215,
+    "listingCount": 7228,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-magnate-studded-belt",
+    "name": "The Magnate",
+    "baseType": "Studded Belt",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 85,
+    "listingCount": 2315,
+    "trend": 11.11,
+    "sparkline": [
+      0,
+      0,
+      -5.56,
+      0,
+      0,
+      -5.56,
+      11.11
+    ]
+  },
+  {
+    "id": "the-pandemonius-jade-amulet",
+    "name": "The Pandemonius",
+    "baseType": "Jade Amulet",
+    "chaosValue": 8.00,
+    "divineValue": 0.02,
+    "volume": 17,
+    "listingCount": 656,
+    "trend": -20,
+    "sparkline": [
+      0,
+      0,
+      10,
+      20,
+      -30,
+      -20,
+      -20
+    ]
+  },
+  {
+    "id": "the-pariah-unset-ring",
+    "name": "The Pariah",
+    "baseType": "Unset Ring",
+    "chaosValue": 5.20,
+    "divineValue": 0.01,
+    "volume": 23,
+    "listingCount": 468,
+    "trend": -16.13,
+    "sparkline": [
+      0,
+      -19.35,
+      -3.23,
+      12.90,
+      12.90,
+      12.90,
+      -16.13
+    ]
+  },
+  {
+    "id": "the-primordial-chain-coral-amulet",
+    "name": "The Primordial Chain",
+    "baseType": "Coral Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 284,
+    "listingCount": 8659,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-queller-of-minds-nameless-ring",
+    "name": "The Queller of Minds",
+    "baseType": "Nameless Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 28,
+    "listingCount": 939,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      30,
+      3.33,
+      -36.67,
+      -26.67,
+      -33.33,
+      -33.33
+    ]
+  },
+  {
+    "id": "the-retch-rustic-sash",
+    "name": "The Retch",
+    "baseType": "Rustic Sash",
+    "chaosValue": 4.80,
+    "divineValue": 0.01,
+    "volume": 16,
+    "listingCount": 456,
+    "trend": 50,
+    "sparkline": [
+      0,
+      68.75,
+      75,
+      75,
+      62.5,
+      62.5,
+      50
+    ]
+  },
+  {
+    "id": "the-selfish-shepherd-nameless-ring",
+    "name": "The Selfish Shepherd",
+    "baseType": "Nameless Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 32,
+    "listingCount": 991,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-sundered-will-fugitive-ring",
+    "name": "The Sundered Will",
+    "baseType": "Fugitive Ring",
+    "chaosValue": 744.6,
+    "divineValue": 2.00,
+    "volume": 245,
+    "listingCount": 2577,
+    "trend": 79.39,
+    "sparkline": [
+      0,
+      26.20,
+      24.80,
+      33.67,
+      44.94,
+      58.94,
+      79.39
+    ]
+  },
+  {
+    "id": "the-taming-prismatic-ring",
+    "name": "The Taming",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 25.00,
+    "divineValue": 0.07,
+    "volume": 369,
+    "listingCount": 2422,
+    "trend": 31.58,
+    "sparkline": [
+      0,
+      3.16,
+      5.26,
+      5.26,
+      5.26,
+      5.26,
+      31.58
+    ]
+  },
+  {
+    "id": "the-tides-of-time-vanguard-belt",
+    "name": "The Tides of Time",
+    "baseType": "Vanguard Belt",
+    "chaosValue": 49.00,
+    "divineValue": 0.13,
+    "volume": 94,
+    "listingCount": 1904,
+    "trend": 22.5,
+    "sparkline": [
+      0,
+      17.5,
+      25,
+      10,
+      25,
+      17.5,
+      22.5
+    ]
+  },
+  {
+    "id": "the-torrents-reclamation-cloth-belt",
+    "name": "The Torrent's Reclamation",
+    "baseType": "Cloth Belt",
+    "chaosValue": 64.00,
+    "divineValue": 0.17,
+    "volume": 7,
+    "listingCount": 53,
+    "trend": 28,
+    "sparkline": [
+      0,
+      -10,
+      -10,
+      null,
+      76,
+      20,
+      28
+    ]
+  },
+  {
+    "id": "the-unseen-hue-opal-ring",
+    "name": "The Unseen Hue",
+    "baseType": "Opal Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 209,
+    "listingCount": 4797,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-untouched-soul-gold-amulet",
+    "name": "The Untouched Soul",
+    "baseType": "Gold Amulet",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 88,
+    "listingCount": 2021,
+    "trend": 25,
+    "sparkline": [
+      0,
+      -2.5,
+      0,
+      0,
+      0,
+      10,
+      25
+    ]
+  },
+  {
+    "id": "the-wardens-brand-iron-ring",
+    "name": "The Warden's Brand",
+    "baseType": "Iron Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 278,
+    "listingCount": 11836,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-will-of-esh-synaptic-ring",
+    "name": "The Will of Esh",
+    "baseType": "Synaptic Ring",
+    "chaosValue": 16.00,
+    "divineValue": 0.04,
+    "volume": 192,
+    "listingCount": 5090,
+    "trend": -20,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -21.75,
+      -20
+    ]
+  },
+  {
+    "id": "the-will-of-tul-cryonic-ring",
+    "name": "The Will of Tul",
+    "baseType": "Cryonic Ring",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 156,
+    "listingCount": 3991,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -1.67,
+      -6.67,
+      -5.33,
+      -18,
+      -18,
+      0
+    ]
+  },
+  {
+    "id": "the-will-of-uul-netol-organic-ring",
+    "name": "The Will of Uul-Netol",
+    "baseType": "Organic Ring",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 158,
+    "listingCount": 3937,
+    "trend": -15.73,
+    "sparkline": [
+      0,
+      1.69,
+      -15.73,
+      -1.40,
+      6.74,
+      -15.73,
+      -15.73
+    ]
+  },
+  {
+    "id": "the-will-of-xoph-enthalpic-ring",
+    "name": "The Will of Xoph",
+    "baseType": "Enthalpic Ring",
+    "chaosValue": 14.10,
+    "divineValue": 0.04,
+    "volume": 157,
+    "listingCount": 4293,
+    "trend": 0.71,
+    "sparkline": [
+      0,
+      0,
+      0,
+      2.86,
+      1.43,
+      -8.57,
+      0.71
+    ]
+  },
+  {
+    "id": "thiefs-torment-prismatic-ring",
+    "name": "Thief's Torment",
+    "baseType": "Prismatic Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 305,
+    "listingCount": 14083,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "timeclasp-moonstone-ring",
+    "name": "Timeclasp",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 16473,
+    "trend": 50,
+    "sparkline": [
+      0,
+      50,
+      50,
+      50,
+      95,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "triumvirate-authority-unset-ring",
+    "name": "Triumvirate Authority",
+    "baseType": "Unset Ring",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 201,
+    "listingCount": 4701,
+    "trend": 66.67,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      33.33,
+      66.67,
+      66.67
+    ]
+  },
+  {
+    "id": "umbilicus-immortalis-leather-belt",
+    "name": "Umbilicus Immortalis",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 84,
+    "listingCount": 4971,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ungils-harmony-turquoise-amulet",
+    "name": "Ungil's Harmony",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 114,
+    "listingCount": 4785,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "uul-netols-vow-unset-amulet",
+    "name": "Uul-Netol's Vow",
+    "baseType": "Unset Amulet",
+    "chaosValue": 1489,
+    "divineValue": 4.00,
+    "volume": 76,
+    "listingCount": 723,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.26,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "uzazas-meadow-sapphire-ring",
+    "name": "Uzaza's Meadow",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 13.20,
+    "divineValue": 0.04,
+    "volume": 32,
+    "listingCount": 424,
+    "trend": 24.53,
+    "sparkline": [
+      0,
+      -5.66,
+      8.49,
+      13.21,
+      13.21,
+      23.58,
+      24.53
+    ]
+  },
+  {
+    "id": "uzazas-mountain-sapphire-ring",
+    "name": "Uzaza's Mountain",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 97.00,
+    "divineValue": 0.26,
+    "volume": 27,
+    "listingCount": 224,
+    "trend": 67.24,
+    "sparkline": [
+      0,
+      16.21,
+      20.69,
+      36.72,
+      25,
+      67.24,
+      67.24
+    ]
+  },
+  {
+    "id": "uzazas-valley-sapphire-ring",
+    "name": "Uzaza's Valley",
+    "baseType": "Sapphire Ring",
+    "chaosValue": 126.0,
+    "divineValue": 0.34,
+    "volume": 24,
+    "listingCount": 167,
+    "trend": 394.1,
+    "sparkline": [
+      0,
+      -3.92,
+      1.96,
+      213.7,
+      300,
+      347.1,
+      394.1
+    ]
+  },
+  {
+    "id": "valakos-sign-topaz-ring",
+    "name": "Valako's Sign",
+    "baseType": "Topaz Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 358,
+    "listingCount": 16029,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "valyrium-moonstone-ring",
+    "name": "Valyrium",
+    "baseType": "Moonstone Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 16508,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      -33.33,
+      -33.33,
+      -33.33,
+      -33.33,
+      -33.33,
+      -33.33
+    ]
+  },
+  {
+    "id": "venarius-astrolabe-astrolabe-amulet",
+    "name": "Venarius' Astrolabe",
+    "baseType": "Astrolabe Amulet",
+    "chaosValue": 256.0,
+    "divineValue": 0.69,
+    "volume": 80,
+    "listingCount": 805,
+    "trend": 28,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28
+    ]
+  },
+  {
+    "id": "venopuncture-iron-ring",
+    "name": "Venopuncture",
+    "baseType": "Iron Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 259,
+    "listingCount": 13070,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ventors-gamble-gold-ring",
+    "name": "Ventor's Gamble",
+    "baseType": "Gold Ring",
+    "chaosValue": 1.01,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 105479,
+    "trend": 1,
+    "sparkline": [
+      0,
+      100,
+      100,
+      100,
+      100,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "victarios-acuity-turquoise-amulet",
+    "name": "Victario's Acuity",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 330,
+    "listingCount": 14186,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -10.5,
+      -4,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "vivinsect-unset-ring",
+    "name": "Vivinsect",
+    "baseType": "Unset Ring",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 40,
+    "listingCount": 1391,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "voice-of-the-storm-lapis-amulet",
+    "name": "Voice of the Storm",
+    "baseType": "Lapis Amulet",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 54,
+    "listingCount": 769,
+    "trend": -12.28,
+    "sparkline": [
+      0,
+      -12.28,
+      -12.28,
+      -15.79,
+      -12.28,
+      -12.28,
+      -12.28
+    ]
+  },
+  {
+    "id": "voideye-unset-ring",
+    "name": "Voideye",
+    "baseType": "Unset Ring",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 306,
+    "listingCount": 14019,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "volls-devotion-agate-amulet",
+    "name": "Voll's Devotion",
+    "baseType": "Agate Amulet",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 46,
+    "listingCount": 1119,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "warped-timepiece-turquoise-amulet",
+    "name": "Warped Timepiece",
+    "baseType": "Turquoise Amulet",
+    "chaosValue": 2.20,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 12037,
+    "trend": 120,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      100,
+      120
+    ]
+  },
+  {
+    "id": "warriors-legacy-ruby-ring",
+    "name": "Warrior's Legacy",
+    "baseType": "Ruby Ring",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 70,
+    "listingCount": 1083,
+    "trend": 20,
+    "sparkline": [
+      0,
+      0,
+      20,
+      20,
+      10.4,
+      16.2,
+      20
+    ]
+  },
+  {
+    "id": "whispers-of-infinity-seaglass-amulet",
+    "name": "Whispers of Infinity",
+    "baseType": "Seaglass Amulet",
+    "chaosValue": 74.50,
+    "divineValue": 0.20,
+    "volume": 262,
+    "listingCount": 3859,
+    "trend": -6.88,
+    "sparkline": [
+      0,
+      0,
+      -1.25,
+      -2.75,
+      -1.25,
+      0,
+      -6.88
+    ]
+  },
+  {
+    "id": "willowgift-jade-amulet",
+    "name": "Willowgift",
+    "baseType": "Jade Amulet",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 244,
+    "listingCount": 9533,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "winterheart-gold-amulet",
+    "name": "Winterheart",
+    "baseType": "Gold Amulet",
+    "chaosValue": 0.44,
+    "divineValue": 0.00,
+    "volume": 212,
+    "listingCount": 9382,
+    "trend": 131.6,
+    "sparkline": [
+      0,
+      -13.16,
+      279.0,
+      339.5,
+      421.0,
+      179.0,
+      131.6
+    ]
+  },
+  {
+    "id": "winterweave-coral-ring",
+    "name": "Winterweave",
+    "baseType": "Coral Ring",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 71,
+    "listingCount": 2762,
+    "trend": -25,
+    "sparkline": [
+      0,
+      -14,
+      -2.5,
+      -10,
+      -25,
+      -25,
+      -25
+    ]
+  },
+  {
+    "id": "woespike-steel-ring",
+    "name": "Woespike",
+    "baseType": "Steel Ring",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 267,
+    "listingCount": 8721,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      60,
+      44,
+      100,
+      100
+    ]
+  },
+  {
+    "id": "wurms-molt-leather-belt",
+    "name": "Wurm's Molt",
+    "baseType": "Leather Belt",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 378,
+    "listingCount": 19116,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "xophs-blood-amber-amulet",
+    "name": "Xoph's Blood",
+    "baseType": "Amber Amulet",
+    "chaosValue": 14.40,
+    "divineValue": 0.04,
+    "volume": 25,
+    "listingCount": 293,
+    "trend": 4.35,
+    "sparkline": [
+      0,
+      13.04,
+      1.45,
+      1.45,
+      7.25,
+      19.57,
+      4.35
+    ]
+  },
+  {
+    "id": "xophs-heart-amber-amulet",
+    "name": "Xoph's Heart",
+    "baseType": "Amber Amulet",
+    "chaosValue": 3.40,
+    "divineValue": 0.01,
+    "volume": 29,
+    "listingCount": 1074,
+    "trend": 13.33,
+    "sparkline": [
+      0,
+      -33.33,
+      -30,
+      -20,
+      -3.33,
+      -13.33,
+      13.33
+    ]
+  },
+  {
+    "id": "yndas-stand-studded-belt",
+    "name": "Ynda's Stand",
+    "baseType": "Studded Belt",
+    "chaosValue": 264.0,
+    "divineValue": 0.71,
+    "volume": 35,
+    "listingCount": 424,
+    "trend": -0.38,
+    "sparkline": [
+      0,
+      -1.17,
+      -5.29,
+      -17.36,
+      -4.34,
+      -2.08,
+      -0.38
+    ]
+  },
+  {
+    "id": "yoke-of-suffering-onyx-amulet",
+    "name": "Yoke of Suffering",
+    "baseType": "Onyx Amulet",
+    "chaosValue": 744.6,
+    "divineValue": 2.00,
+    "volume": 399,
+    "listingCount": 2443,
+    "trend": 43.19,
+    "sparkline": [
+      0,
+      -3.85,
+      -0.58,
+      -3.85,
+      -3.85,
+      -3.85,
+      43.19
+    ]
+  },
+  {
+    "id": "zerphis-heart-paua-amulet",
+    "name": "Zerphi's Heart",
+    "baseType": "Paua Amulet",
+    "chaosValue": 744.6,
+    "divineValue": 2.00,
+    "volume": 5,
+    "listingCount": 24,
+    "trend": 0,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0
+    ]
+  }
+]

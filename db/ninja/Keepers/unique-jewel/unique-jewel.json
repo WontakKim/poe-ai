@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "amanamus-gaze-ghastly-eye-jewel",
+    "name": "Amanamu's Gaze",
+    "baseType": "Ghastly Eye Jewel",
+    "chaosValue": 1264,
+    "divineValue": 3.40,
+    "volume": 50,
+    "listingCount": 367,
+    "trend": 58.14,
+    "sparkline": [
+      0,
+      -1.61,
+      29.16,
+      4.09,
+      29.98,
+      36.81,
+      58.14
+    ]
+  },
+  {
+    "id": "ambition-vaal-aspect",
+    "name": "Ambition",
+    "baseType": "Vaal Aspect",
+    "chaosValue": 26.00,
+    "divineValue": 0.07,
+    "volume": 48,
+    "listingCount": 608,
+    "trend": 30,
+    "sparkline": [
+      0,
+      0,
+      0,
+      2.5,
+      0,
+      0,
+      30
+    ]
+  },
+  {
+    "id": "ancestral-vision-viridian-jewel",
+    "name": "Ancestral Vision",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 198,
+    "listingCount": 2264,
+    "trend": 50,
+    "sparkline": [
+      0,
+      5,
+      22.5,
+      36,
+      50,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "apex-mode-cobalt-jewel",
+    "name": "Apex Mode",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 31,
+    "listingCount": 746,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "atziris-reign-crimson-jewel",
+    "name": "Atziri's Reign",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 72,
+    "listingCount": 3899,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "beauty-vaal-aspect",
+    "name": "Beauty",
+    "baseType": "Vaal Aspect",
+    "chaosValue": 372.3,
+    "divineValue": 1.00,
+    "volume": 26,
+    "listingCount": 127,
+    "trend": 13.41,
+    "sparkline": [
+      0,
+      -4.93,
+      -13.66,
+      58.18,
+      42.02,
+      21.14,
+      13.41
+    ]
+  },
+  {
+    "id": "bloodnotch-crimson-jewel",
+    "name": "Bloodnotch",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 48.20,
+    "divineValue": 0.13,
+    "volume": 287,
+    "listingCount": 1810,
+    "trend": 186.9,
+    "sparkline": [
+      0,
+      -6.40,
+      -15.48,
+      19.05,
+      48.66,
+      151.2,
+      186.9
+    ]
+  },
+  {
+    "id": "bound-by-destiny-prismatic-jewel",
+    "name": "Bound By Destiny",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 399,
+    "listingCount": 47737,
+    "trend": 4.17,
+    "sparkline": [
+      0,
+      4.17,
+      -1.04,
+      4.17,
+      4.17,
+      4.17,
+      4.17
+    ]
+  },
+  {
+    "id": "brutal-restraint-timeless-jewel",
+    "name": "Brutal Restraint",
+    "baseType": "Timeless Jewel",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 399,
+    "listingCount": 236218,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -33.33,
+      -33.33,
+      -32,
+      17.33,
+      -33.33,
+      0
+    ]
+  },
+  {
+    "id": "brute-force-solution-cobalt-jewel",
+    "name": "Brute Force Solution",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 309,
+    "listingCount": 10203,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -35.00,
+      -50.00,
+      0,
+      0,
+      15,
+      0
+    ]
+  },
+  {
+    "id": "calamitous-visions-small-cluster-jewel",
+    "name": "Calamitous Visions",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 116,
+    "listingCount": 3850,
+    "trend": 50,
+    "sparkline": [
+      0,
+      50,
+      50,
+      50,
+      57.5,
+      50,
+      50
+    ]
+  },
+  {
+    "id": "careful-planning-viridian-jewel",
+    "name": "Careful Planning",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 268,
+    "listingCount": 11480,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "chill-of-corruption-viridian-jewel",
+    "name": "Chill of Corruption",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 50,
+    "listingCount": 2212,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "combat-focus-cobalt-jewel",
+    "name": "Combat Focus",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 32,
+    "listingCount": 61,
+    "trend": -60,
+    "sparkline": [
+      0,
+      0,
+      10,
+      -31.2,
+      -38.4,
+      -31.2,
+      -60
+    ]
+  },
+  {
+    "id": "combat-focus-crimson-jewel",
+    "name": "Combat Focus",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 48.00,
+    "divineValue": 0.13,
+    "volume": 3,
+    "listingCount": 90,
+    "trend": 0,
+    "sparkline": [
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "id": "combat-focus-viridian-jewel",
+    "name": "Combat Focus",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 10.90,
+    "divineValue": 0.03,
+    "volume": 33,
+    "listingCount": 62,
+    "trend": -45.5,
+    "sparkline": [
+      0,
+      2,
+      11.5,
+      -18.5,
+      -23,
+      -14,
+      -45.5
+    ]
+  },
+  {
+    "id": "cooperation-vaal-aspect",
+    "name": "Cooperation",
+    "baseType": "Vaal Aspect",
+    "chaosValue": 372.3,
+    "divineValue": 1.00,
+    "volume": 82,
+    "listingCount": 426,
+    "trend": -23.03,
+    "sparkline": [
+      0,
+      4.57,
+      -1.49,
+      14.70,
+      13.09,
+      -27.75,
+      -23.03
+    ]
+  },
+  {
+    "id": "curiosity-vaal-aspect",
+    "name": "Curiosity",
+    "baseType": "Vaal Aspect",
+    "chaosValue": 5.30,
+    "divineValue": 0.01,
+    "volume": 137,
+    "listingCount": 1985,
+    "trend": -41.11,
+    "sparkline": [
+      0,
+      -11.11,
+      -11.11,
+      -22.22,
+      -44.44,
+      -22.22,
+      -41.11
+    ]
+  },
+  {
+    "id": "dead-reckoning-cobalt-jewel",
+    "name": "Dead Reckoning",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 63,
+    "listingCount": 2855,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "dissolution-of-the-flesh-crimson-jewel",
+    "name": "Dissolution of the Flesh",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 94,
+    "listingCount": 1079,
+    "trend": 28.21,
+    "sparkline": [
+      0,
+      -5.98,
+      27.56,
+      -14.53,
+      -14.53,
+      28.21,
+      28.21
+    ]
+  },
+  {
+    "id": "efficient-training-crimson-jewel",
+    "name": "Efficient Training",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 338,
+    "listingCount": 18480,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "elegant-hubris-timeless-jewel",
+    "name": "Elegant Hubris",
+    "baseType": "Timeless Jewel",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 399,
+    "listingCount": 241524,
+    "trend": -23.86,
+    "sparkline": [
+      0,
+      -22.59,
+      -23.86,
+      -19.29,
+      -49.24,
+      -23.86,
+      -23.86
+    ]
+  },
+  {
+    "id": "emperors-cunning-viridian-jewel",
+    "name": "Emperor's Cunning",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 9121,
+    "divineValue": 24.50,
+    "volume": 6,
+    "listingCount": 30,
+    "trend": 2.99,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      0,
+      2.33,
+      2.99
+    ]
+  },
+  {
+    "id": "emperors-mastery-prismatic-jewel",
+    "name": "Emperor's Mastery",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 22450,
+    "divineValue": 60.30,
+    "volume": 24,
+    "listingCount": 31,
+    "trend": 25.23,
+    "sparkline": [
+      0,
+      -2.79,
+      -8.21,
+      -11.16,
+      -12.25,
+      -8.10,
+      25.23
+    ]
+  },
+  {
+    "id": "emperors-might-crimson-jewel",
+    "name": "Emperor's Might",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 2978,
+    "divineValue": 8.00,
+    "volume": 11,
+    "listingCount": 30,
+    "trend": 115.1,
+    "sparkline": [
+      0,
+      -9.33,
+      -25.25,
+      13.22,
+      79.90,
+      96.24,
+      115.1
+    ]
+  },
+  {
+    "id": "emperors-wit-cobalt-jewel",
+    "name": "Emperor's Wit",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 11095,
+    "divineValue": 29.80,
+    "volume": 29,
+    "listingCount": 43,
+    "trend": 28.91,
+    "sparkline": [
+      0,
+      15.41,
+      2.78,
+      3.54,
+      -17.20,
+      -8.25,
+      28.91
+    ]
+  },
+  {
+    "id": "energised-armour-crimson-jewel",
+    "name": "Energised Armour",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 92,
+    "listingCount": 4343,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "energy-from-within-cobalt-jewel",
+    "name": "Energy From Within",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 7.60,
+    "divineValue": 0.02,
+    "volume": 17,
+    "listingCount": 649,
+    "trend": -5,
+    "sparkline": [
+      0,
+      25,
+      25,
+      25,
+      25,
+      0,
+      -5
+    ]
+  },
+  {
+    "id": "fertile-mind-cobalt-jewel",
+    "name": "Fertile Mind",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 276,
+    "listingCount": 13733,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "fevered-mind-cobalt-jewel",
+    "name": "Fevered Mind",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 58,
+    "listingCount": 2806,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "firesong-crimson-jewel",
+    "name": "Firesong",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 70,
+    "listingCount": 2403,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "fluid-motion-viridian-jewel",
+    "name": "Fluid Motion",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 230,
+    "listingCount": 10584,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "forbidden-flame-crimson-jewel",
+    "name": "Forbidden Flame",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 42.50,
+    "divineValue": 0.11,
+    "volume": 399,
+    "listingCount": 7691,
+    "trend": 81.62,
+    "sparkline": [
+      0,
+      14.74,
+      49.57,
+      70.94,
+      70.94,
+      103.0,
+      81.62
+    ]
+  },
+  {
+    "id": "forbidden-flesh-cobalt-jewel",
+    "name": "Forbidden Flesh",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 45.00,
+    "divineValue": 0.12,
+    "volume": 399,
+    "listingCount": 7414,
+    "trend": 58.73,
+    "sparkline": [
+      0,
+      1.59,
+      5.82,
+      13.23,
+      26.98,
+      41.09,
+      58.73
+    ]
+  },
+  {
+    "id": "fortress-covenant-cobalt-jewel",
+    "name": "Fortress Covenant",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 64.40,
+    "divineValue": 0.17,
+    "volume": 50,
+    "listingCount": 803,
+    "trend": 27.52,
+    "sparkline": [
+      0,
+      16.83,
+      18.81,
+      18.81,
+      37.82,
+      20.40,
+      27.52
+    ]
+  },
+  {
+    "id": "foulborn-ancestral-vision-viridian-jewel",
+    "name": "Foulborn Ancestral Vision",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 31.00,
+    "divineValue": 0.08,
+    "volume": 62,
+    "listingCount": 579,
+    "trend": 11.51,
+    "sparkline": [
+      0,
+      7.91,
+      15.11,
+      51.08,
+      54.68,
+      7.91,
+      11.51
+    ]
+  },
+  {
+    "id": "foulborn-firesong-crimson-jewel",
+    "name": "Foulborn Firesong",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 11.80,
+    "divineValue": 0.03,
+    "volume": 46,
+    "listingCount": 1027,
+    "trend": -57.86,
+    "sparkline": [
+      0,
+      19.64,
+      19.64,
+      -12.14,
+      -62.14,
+      -25,
+      -57.86
+    ]
+  },
+  {
+    "id": "foulborn-inspired-learning-crimson-jewel",
+    "name": "Foulborn Inspired Learning",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 80.00,
+    "divineValue": 0.21,
+    "volume": 190,
+    "listingCount": 446,
+    "trend": 7.67,
+    "sparkline": [
+      0,
+      124.8,
+      37.28,
+      -32.71,
+      108.6,
+      -32.71,
+      7.67
+    ]
+  },
+  {
+    "id": "foulborn-intuitive-leap-viridian-jewel",
+    "name": "Foulborn Intuitive Leap",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 335.4,
+    "divineValue": 0.90,
+    "volume": 72,
+    "listingCount": 463,
+    "trend": 26.56,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.28,
+      4.68,
+      13.51,
+      25.45,
+      26.56
+    ]
+  },
+  {
+    "id": "foulborn-lioneyes-fall-viridian-jewel",
+    "name": "Foulborn Lioneye's Fall",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 5.60,
+    "divineValue": 0.02,
+    "volume": 33,
+    "listingCount": 796,
+    "trend": 12,
+    "sparkline": [
+      0,
+      56,
+      88,
+      82,
+      70,
+      94,
+      12
+    ]
+  },
+  {
+    "id": "foulborn-might-of-the-meek-crimson-jewel",
+    "name": "Foulborn Might of the Meek",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 2122,
+    "divineValue": 5.70,
+    "volume": 94,
+    "listingCount": 543,
+    "trend": 162.4,
+    "sparkline": [
+      0,
+      36.05,
+      48.16,
+      75.00,
+      79.65,
+      129.0,
+      162.4
+    ]
+  },
+  {
+    "id": "foulborn-stormshroud-viridian-jewel",
+    "name": "Foulborn Stormshroud",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 54,
+    "listingCount": 942,
+    "trend": 10.50,
+    "sparkline": [
+      0,
+      -0.55,
+      0,
+      6.63,
+      10.50,
+      10.50,
+      10.50
+    ]
+  },
+  {
+    "id": "foulborn-the-blue-dream-cobalt-jewel",
+    "name": "Foulborn The Blue Dream",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 181,
+    "listingCount": 5061,
+    "trend": -28.57,
+    "sparkline": [
+      0,
+      17.86,
+      -14.29,
+      -28.57,
+      -28.57,
+      -15.71,
+      -28.57
+    ]
+  },
+  {
+    "id": "foulborn-the-blue-nightmare-cobalt-jewel",
+    "name": "Foulborn The Blue Nightmare",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 73.50,
+    "divineValue": 0.20,
+    "volume": 79,
+    "listingCount": 1189,
+    "trend": 5,
+    "sparkline": [
+      0,
+      0,
+      -3.57,
+      0,
+      0,
+      7.71,
+      5
+    ]
+  },
+  {
+    "id": "foulborn-the-green-dream-viridian-jewel",
+    "name": "Foulborn The Green Dream",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 171,
+    "listingCount": 5541,
+    "trend": 150,
+    "sparkline": [
+      0,
+      10,
+      0,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": "foulborn-the-green-nightmare-viridian-jewel",
+    "name": "Foulborn The Green Nightmare",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 40.00,
+    "divineValue": 0.11,
+    "volume": 77,
+    "listingCount": 1149,
+    "trend": 0,
+    "sparkline": [
+      0,
+      25,
+      2.5,
+      23,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "foulborn-the-red-dream-crimson-jewel",
+    "name": "Foulborn The Red Dream",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 181,
+    "listingCount": 3277,
+    "trend": 19.05,
+    "sparkline": [
+      0,
+      19.05,
+      -4.76,
+      -4.76,
+      -38.33,
+      -4.76,
+      19.05
+    ]
+  },
+  {
+    "id": "foulborn-the-red-nightmare-crimson-jewel",
+    "name": "Foulborn The Red Nightmare",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 72.80,
+    "divineValue": 0.20,
+    "volume": 75,
+    "listingCount": 981,
+    "trend": -72.53,
+    "sparkline": [
+      0,
+      -2.73,
+      -69.81,
+      0.09,
+      -62.26,
+      -66.34,
+      -72.53
+    ]
+  },
+  {
+    "id": "foulborn-unnatural-instinct-viridian-jewel",
+    "name": "Foulborn Unnatural Instinct",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 17051,
+    "divineValue": 45.80,
+    "volume": 98,
+    "listingCount": 206,
+    "trend": -21.71,
+    "sparkline": [
+      0,
+      81.20,
+      13.95,
+      -0.09,
+      -12.49,
+      -24.85,
+      -21.71
+    ]
+  },
+  {
+    "id": "foulborn-witchbane-cobalt-jewel",
+    "name": "Foulborn Witchbane",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 15.80,
+    "divineValue": 0.04,
+    "volume": 35,
+    "listingCount": 572,
+    "trend": 41.07,
+    "sparkline": [
+      0,
+      21.43,
+      10.71,
+      37.5,
+      203.6,
+      230.4,
+      41.07
+    ]
+  },
+  {
+    "id": "fragility-crimson-jewel",
+    "name": "Fragility",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 227,
+    "listingCount": 12995,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "glorious-vanity-timeless-jewel",
+    "name": "Glorious Vanity",
+    "baseType": "Timeless Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 399,
+    "listingCount": 280109,
+    "trend": 6.95,
+    "sparkline": [
+      0,
+      6.95,
+      6.95,
+      29.95,
+      6.95,
+      -12.30,
+      6.95
+    ]
+  },
+  {
+    "id": "grand-spectrum-cobalt-jewel",
+    "name": "Grand Spectrum",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 372.3,
+    "divineValue": 1.00,
+    "volume": 63,
+    "listingCount": 533,
+    "trend": 165.9,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      -3.21,
+      4.29,
+      165.9
+    ]
+  },
+  {
+    "id": "grand-spectrum-crimson-jewel",
+    "name": "Grand Spectrum",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 60.00,
+    "divineValue": 0.16,
+    "volume": 65,
+    "listingCount": 583,
+    "trend": 24.48,
+    "sparkline": [
+      0,
+      0.83,
+      -6.64,
+      7.88,
+      -0.41,
+      -4.56,
+      24.48
+    ]
+  },
+  {
+    "id": "grand-spectrum-viridian-jewel",
+    "name": "Grand Spectrum",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 23.30,
+    "divineValue": 0.06,
+    "volume": 71,
+    "listingCount": 1122,
+    "trend": -69.34,
+    "sparkline": [
+      0,
+      -12.89,
+      -16.71,
+      -34.21,
+      -54.34,
+      -62.24,
+      -69.34
+    ]
+  },
+  {
+    "id": "healthy-mind-cobalt-jewel",
+    "name": "Healthy Mind",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 6.00,
+    "divineValue": 0.02,
+    "volume": 67,
+    "listingCount": 2385,
+    "trend": -23.08,
+    "sparkline": [
+      0,
+      9.62,
+      15.38,
+      15.38,
+      15.38,
+      28.21,
+      -23.08
+    ]
+  },
+  {
+    "id": "hidden-potential-viridian-jewel",
+    "name": "Hidden Potential",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 51,
+    "listingCount": 2535,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "immutable-force-crimson-jewel",
+    "name": "Immutable Force",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 25.00,
+    "divineValue": 0.07,
+    "volume": 285,
+    "listingCount": 2819,
+    "trend": -44.44,
+    "sparkline": [
+      0,
+      -26.67,
+      -33.33,
+      -35.56,
+      -39.11,
+      -44.44,
+      -44.44
+    ]
+  },
+  {
+    "id": "impossible-escape-viridian-jewel",
+    "name": "Impossible Escape",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 47.80,
+    "divineValue": 0.13,
+    "volume": 386,
+    "listingCount": 6594,
+    "trend": 139,
+    "sparkline": [
+      0,
+      5,
+      100,
+      150,
+      150,
+      100,
+      139
+    ]
+  },
+  {
+    "id": "inertia-crimson-jewel",
+    "name": "Inertia",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 379,
+    "listingCount": 17858,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "inspired-learning-crimson-jewel",
+    "name": "Inspired Learning",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 139,
+    "listingCount": 4290,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "intuitive-leap-viridian-jewel",
+    "name": "Intuitive Leap",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 15.10,
+    "divineValue": 0.04,
+    "volume": 143,
+    "listingCount": 1765,
+    "trend": 51,
+    "sparkline": [
+      0,
+      0,
+      50,
+      50,
+      50,
+      50,
+      51
+    ]
+  },
+  {
+    "id": "kitavas-teachings-small-cluster-jewel",
+    "name": "Kitava's Teachings",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 83,
+    "listingCount": 3699,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "kurgals-gaze-hypnotic-eye-jewel",
+    "name": "Kurgal's Gaze",
+    "baseType": "Hypnotic Eye Jewel",
+    "chaosValue": 11.20,
+    "divineValue": 0.03,
+    "volume": 38,
+    "listingCount": 816,
+    "trend": -20,
+    "sparkline": [
+      0,
+      -28.57,
+      -30.71,
+      -37.14,
+      -64.29,
+      -22.86,
+      -20
+    ]
+  },
+  {
+    "id": "lethal-pride-timeless-jewel",
+    "name": "Lethal Pride",
+    "baseType": "Timeless Jewel",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 399,
+    "listingCount": 221896,
+    "trend": 34.83,
+    "sparkline": [
+      0,
+      12.36,
+      22.25,
+      34.83,
+      34.83,
+      -10.11,
+      34.83
+    ]
+  },
+  {
+    "id": "lioneyes-fall-viridian-jewel",
+    "name": "Lioneye's Fall",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 82,
+    "listingCount": 2076,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      33.33,
+      33.33,
+      33.33
+    ]
+  },
+  {
+    "id": "megalomaniac-medium-cluster-jewel",
+    "name": "Megalomaniac",
+    "baseType": "Medium Cluster Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 686293,
+    "trend": -36.31,
+    "sparkline": [
+      0,
+      14.65,
+      27.39,
+      27.39,
+      -19.75,
+      -36.31,
+      -36.31
+    ]
+  },
+  {
+    "id": "melding-of-the-flesh-cobalt-jewel",
+    "name": "Melding of the Flesh",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 50.00,
+    "divineValue": 0.13,
+    "volume": 211,
+    "listingCount": 1628,
+    "trend": -16.67,
+    "sparkline": [
+      0,
+      -0.67,
+      -2.08,
+      -8.33,
+      -3.33,
+      -8.33,
+      -16.67
+    ]
+  },
+  {
+    "id": "might-of-the-meek-crimson-jewel",
+    "name": "Might of the Meek",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 97,
+    "listingCount": 2218,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -13.33,
+      -5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "militant-faith-timeless-jewel",
+    "name": "Militant Faith",
+    "baseType": "Timeless Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 399,
+    "listingCount": 261494,
+    "trend": -33.33,
+    "sparkline": [
+      0,
+      -33.33,
+      0,
+      0,
+      0,
+      -33.33,
+      -33.33
+    ]
+  },
+  {
+    "id": "nadir-mode-cobalt-jewel",
+    "name": "Nadir Mode",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 33,
+    "listingCount": 1005,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "natural-affinity-small-cluster-jewel",
+    "name": "Natural Affinity",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 4.00,
+    "divineValue": 0.01,
+    "volume": 169,
+    "listingCount": 3795,
+    "trend": -38.46,
+    "sparkline": [
+      0,
+      -23.08,
+      -23.08,
+      -23.08,
+      -38.46,
+      -38.46,
+      -38.46
+    ]
+  },
+  {
+    "id": "one-with-nothing-small-cluster-jewel",
+    "name": "One With Nothing",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 171,
+    "listingCount": 4243,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "pacifism-viridian-jewel",
+    "name": "Pacifism",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 152,
+    "listingCount": 9585,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "powerlessness-cobalt-jewel",
+    "name": "Powerlessness",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 153,
+    "listingCount": 10343,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "primordial-eminence-viridian-jewel",
+    "name": "Primordial Eminence",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 28.00,
+    "divineValue": 0.08,
+    "volume": 274,
+    "listingCount": 6723,
+    "trend": 12,
+    "sparkline": [
+      0,
+      0,
+      0,
+      3.8,
+      12,
+      13.6,
+      12
+    ]
+  },
+  {
+    "id": "primordial-harmony-cobalt-jewel",
+    "name": "Primordial Harmony",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 315,
+    "listingCount": 5974,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "primordial-might-crimson-jewel",
+    "name": "Primordial Might",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 60,
+    "listingCount": 1432,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "pure-talent-viridian-jewel",
+    "name": "Pure Talent",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 4.70,
+    "divineValue": 0.01,
+    "volume": 85,
+    "listingCount": 3397,
+    "trend": 56.67,
+    "sparkline": [
+      0,
+      0,
+      6.67,
+      0,
+      33.33,
+      33.33,
+      56.67
+    ]
+  },
+  {
+    "id": "quickening-covenant-viridian-jewel",
+    "name": "Quickening Covenant",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 27,
+    "listingCount": 1247,
+    "trend": 0,
+    "sparkline": [
+      0,
+      160,
+      168,
+      174,
+      176,
+      120,
+      0
+    ]
+  },
+  {
+    "id": "rain-of-splinters-crimson-jewel",
+    "name": "Rain of Splinters",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 26.00,
+    "divineValue": 0.07,
+    "volume": 23,
+    "listingCount": 546,
+    "trend": -60,
+    "sparkline": [
+      0,
+      7.69,
+      165.5,
+      0,
+      -75.69,
+      -69.23,
+      -60
+    ]
+  },
+  {
+    "id": "rational-doctrine-cobalt-jewel",
+    "name": "Rational Doctrine",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1117,
+    "divineValue": 3.00,
+    "volume": 127,
+    "listingCount": 985,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.28,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "reckless-defence-cobalt-jewel",
+    "name": "Reckless Defence",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 270,
+    "listingCount": 13879,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "replica-fragility-crimson-jewel",
+    "name": "Replica Fragility",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 39.93,
+    "divineValue": 0.11,
+    "volume": 4,
+    "listingCount": 126,
+    "trend": 0,
+    "sparkline": []
+  },
+  {
+    "id": "replica-pacifism-viridian-jewel",
+    "name": "Replica Pacifism",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.28,
+    "divineValue": 0.00,
+    "volume": 9,
+    "listingCount": 154,
+    "trend": 28,
+    "sparkline": [
+      0,
+      0,
+      0,
+      760,
+      0,
+      0,
+      28
+    ]
+  },
+  {
+    "id": "replica-powerlessness-cobalt-jewel",
+    "name": "Replica Powerlessness",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 18.60,
+    "divineValue": 0.05,
+    "volume": 5,
+    "listingCount": 170,
+    "trend": 1760,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      1760
+    ]
+  },
+  {
+    "id": "replica-primordial-might-crimson-jewel",
+    "name": "Replica Primordial Might",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 2.50,
+    "divineValue": 0.01,
+    "volume": 29,
+    "listingCount": 694,
+    "trend": 127.3,
+    "sparkline": [
+      0,
+      0,
+      -9.09,
+      9.09,
+      136.4,
+      381.8,
+      127.3
+    ]
+  },
+  {
+    "id": "replica-reckless-defence-cobalt-jewel",
+    "name": "Replica Reckless Defence",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 12.20,
+    "divineValue": 0.03,
+    "volume": 200,
+    "listingCount": 2836,
+    "trend": -8.96,
+    "sparkline": [
+      0,
+      44.40,
+      11.94,
+      11.94,
+      2.24,
+      5.22,
+      -8.96
+    ]
+  },
+  {
+    "id": "seething-fury-viridian-jewel",
+    "name": "Seething Fury",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 52,
+    "listingCount": 2240,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "self-flagellation-viridian-jewel",
+    "name": "Self-Flagellation",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 174,
+    "listingCount": 8403,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "split-personality-crimson-jewel",
+    "name": "Split Personality",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 399,
+    "listingCount": 68901,
+    "trend": 200,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      200
+    ]
+  },
+  {
+    "id": "stormshroud-viridian-jewel",
+    "name": "Stormshroud",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1117,
+    "divineValue": 3.00,
+    "volume": 237,
+    "listingCount": 659,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -2.53,
+      -2.34,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "sublime-vision-prismatic-jewel",
+    "name": "Sublime Vision",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 372.3,
+    "divineValue": 1.00,
+    "volume": 294,
+    "listingCount": 2209,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.28,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "tecrods-gaze-murderous-eye-jewel",
+    "name": "Tecrod's Gaze",
+    "baseType": "Murderous Eye Jewel",
+    "chaosValue": 15.00,
+    "divineValue": 0.04,
+    "volume": 62,
+    "listingCount": 706,
+    "trend": -25,
+    "sparkline": [
+      0,
+      -3.5,
+      0,
+      0,
+      0,
+      -17.5,
+      -25
+    ]
+  },
+  {
+    "id": "tempered-flesh-crimson-jewel",
+    "name": "Tempered Flesh",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 53,
+    "listingCount": 1209,
+    "trend": 1.52,
+    "sparkline": [
+      0,
+      -33.67,
+      -32.32,
+      1.52,
+      1.52,
+      1.52,
+      1.52
+    ]
+  },
+  {
+    "id": "tempered-mind-cobalt-jewel",
+    "name": "Tempered Mind",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 46,
+    "listingCount": 1587,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tempered-spirit-viridian-jewel",
+    "name": "Tempered Spirit",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 8.10,
+    "divineValue": 0.02,
+    "volume": 37,
+    "listingCount": 1217,
+    "trend": 170,
+    "sparkline": [
+      0,
+      120,
+      100,
+      60,
+      0,
+      0,
+      170
+    ]
+  },
+  {
+    "id": "the-adorned-crimson-jewel",
+    "name": "The Adorned",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 30.00,
+    "divineValue": 0.08,
+    "volume": 127,
+    "listingCount": 1756,
+    "trend": -25,
+    "sparkline": [
+      0,
+      -8.75,
+      -11.25,
+      -12.5,
+      -25,
+      -25,
+      -25
+    ]
+  },
+  {
+    "id": "the-anima-stone-prismatic-jewel",
+    "name": "The Anima Stone",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 18.60,
+    "divineValue": 0.05,
+    "volume": 133,
+    "listingCount": 2839,
+    "trend": 24,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      1.33,
+      17.67,
+      24
+    ]
+  },
+  {
+    "id": "the-balance-of-terror-cobalt-jewel",
+    "name": "The Balance of Terror",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 50.00,
+    "divineValue": 0.13,
+    "volume": 399,
+    "listingCount": 9944,
+    "trend": 1.01,
+    "sparkline": [
+      0,
+      -2.63,
+      0.81,
+      1.01,
+      -0.61,
+      1.01,
+      1.01
+    ]
+  },
+  {
+    "id": "the-blue-dream-cobalt-jewel",
+    "name": "The Blue Dream",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 3.00,
+    "divineValue": 0.01,
+    "volume": 46,
+    "listingCount": 1825,
+    "trend": 200,
+    "sparkline": [
+      0,
+      0,
+      180,
+      130,
+      240,
+      200,
+      200
+    ]
+  },
+  {
+    "id": "the-blue-nightmare-cobalt-jewel",
+    "name": "The Blue Nightmare",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 35.60,
+    "divineValue": 0.10,
+    "volume": 37,
+    "listingCount": 426,
+    "trend": 78,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      78
+    ]
+  },
+  {
+    "id": "the-front-line-small-cluster-jewel",
+    "name": "The Front Line",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 98,
+    "listingCount": 4167,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-golden-rule-viridian-jewel",
+    "name": "The Golden Rule",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 195,
+    "listingCount": 9575,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "id": "the-green-dream-viridian-jewel",
+    "name": "The Green Dream",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 1.40,
+    "divineValue": 0.00,
+    "volume": 40,
+    "listingCount": 2099,
+    "trend": 40,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      40
+    ]
+  },
+  {
+    "id": "the-green-nightmare-viridian-jewel",
+    "name": "The Green Nightmare",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 290.6,
+    "divineValue": 0.78,
+    "volume": 18,
+    "listingCount": 363,
+    "trend": 481.2,
+    "sparkline": [
+      0,
+      -5,
+      -40,
+      -1,
+      -14,
+      -14,
+      481.2
+    ]
+  },
+  {
+    "id": "the-interrogation-small-cluster-jewel",
+    "name": "The Interrogation",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 111,
+    "listingCount": 3527,
+    "trend": 51.52,
+    "sparkline": [
+      0,
+      6.06,
+      6.06,
+      49.24,
+      21.21,
+      34.85,
+      51.52
+    ]
+  },
+  {
+    "id": "the-light-of-meaning-prismatic-jewel",
+    "name": "The Light of Meaning",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 29.30,
+    "divineValue": 0.08,
+    "volume": 399,
+    "listingCount": 6975,
+    "trend": -2.33,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -16.67,
+      -3.33,
+      -5.33,
+      -2.33
+    ]
+  },
+  {
+    "id": "the-red-dream-crimson-jewel",
+    "name": "The Red Dream",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 59,
+    "listingCount": 2105,
+    "trend": 47.06,
+    "sparkline": [
+      0,
+      -11.76,
+      47.06,
+      47.06,
+      47.06,
+      47.06,
+      47.06
+    ]
+  },
+  {
+    "id": "the-red-nightmare-crimson-jewel",
+    "name": "The Red Nightmare",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 11727,
+    "divineValue": 31.50,
+    "volume": 16,
+    "listingCount": 65,
+    "trend": 43.11,
+    "sparkline": [
+      0,
+      4.46,
+      19.59,
+      34.61,
+      36.89,
+      57.61,
+      43.11
+    ]
+  },
+  {
+    "id": "the-siege-small-cluster-jewel",
+    "name": "The Siege",
+    "baseType": "Small Cluster Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 83,
+    "listingCount": 3966,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "thread-of-hope-crimson-jewel",
+    "name": "Thread of Hope",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 399,
+    "listingCount": 16382,
+    "trend": 11.11,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      -11.11,
+      4.44,
+      11.11
+    ]
+  },
+  {
+    "id": "to-dust-cobalt-jewel",
+    "name": "To Dust",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 232,
+    "listingCount": 13035,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "transcendent-flesh-crimson-jewel",
+    "name": "Transcendent Flesh",
+    "baseType": "Crimson Jewel",
+    "chaosValue": 242.0,
+    "divineValue": 0.65,
+    "volume": 25,
+    "listingCount": 234,
+    "trend": 10,
+    "sparkline": [
+      0,
+      -5.45,
+      -10.91,
+      -17.27,
+      -12.27,
+      -9.09,
+      10
+    ]
+  },
+  {
+    "id": "transcendent-mind-cobalt-jewel",
+    "name": "Transcendent Mind",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 118.0,
+    "divineValue": 0.32,
+    "volume": 29,
+    "listingCount": 99,
+    "trend": 31.55,
+    "sparkline": [
+      0,
+      -0.22,
+      -0.22,
+      49.48,
+      235.3,
+      264.9,
+      31.55
+    ]
+  },
+  {
+    "id": "transcendent-spirit-viridian-jewel",
+    "name": "Transcendent Spirit",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 150.0,
+    "divineValue": 0.40,
+    "volume": 22,
+    "listingCount": 92,
+    "trend": -20.97,
+    "sparkline": [
+      0,
+      -5.16,
+      -5.16,
+      -5.16,
+      -23.34,
+      -23.34,
+      -20.97
+    ]
+  },
+  {
+    "id": "ulamans-gaze-searching-eye-jewel",
+    "name": "Ulaman's Gaze",
+    "baseType": "Searching Eye Jewel",
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 57,
+    "listingCount": 821,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "unending-hunger-cobalt-jewel",
+    "name": "Unending Hunger",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 8.00,
+    "divineValue": 0.02,
+    "volume": 108,
+    "listingCount": 3116,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "unnatural-instinct-viridian-jewel",
+    "name": "Unnatural Instinct",
+    "baseType": "Viridian Jewel",
+    "chaosValue": 744.6,
+    "divineValue": 2.00,
+    "volume": 399,
+    "listingCount": 1780,
+    "trend": 175.7,
+    "sparkline": [
+      0,
+      3.67,
+      -0.04,
+      3.85,
+      44.39,
+      146.2,
+      175.7
+    ]
+  },
+  {
+    "id": "voices-3-passives-large-cluster-jewel",
+    "name": "Voices",
+    "baseType": "Large Cluster Jewel",
+    "chaosValue": 3482,
+    "divineValue": 9.35,
+    "volume": 28,
+    "listingCount": 61,
+    "trend": -76.66,
+    "sparkline": [
+      0,
+      0.36,
+      -1.76,
+      4.80,
+      -6.84,
+      -80.28,
+      -76.66
+    ],
+    "variant": "3 passives"
+  },
+  {
+    "id": "voices-5-passives-large-cluster-jewel",
+    "name": "Voices",
+    "baseType": "Large Cluster Jewel",
+    "chaosValue": 14.00,
+    "divineValue": 0.04,
+    "volume": 151,
+    "listingCount": 6389,
+    "trend": -17.65,
+    "sparkline": [
+      0,
+      -11.76,
+      17.65,
+      -11.76,
+      -23.53,
+      -23.53,
+      -17.65
+    ],
+    "variant": "5 passives"
+  },
+  {
+    "id": "voices-7-passives-large-cluster-jewel",
+    "name": "Voices",
+    "baseType": "Large Cluster Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 399,
+    "listingCount": 16959,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "variant": "7 passives"
+  },
+  {
+    "id": "voices-large-cluster-jewel",
+    "name": "Voices",
+    "baseType": "Large Cluster Jewel",
+    "chaosValue": 980992,
+    "divineValue": 2635,
+    "volume": 90,
+    "listingCount": 173,
+    "trend": 155.0,
+    "sparkline": [
+      0,
+      -10.37,
+      28.51,
+      57.28,
+      75.86,
+      96.52,
+      155.0
+    ]
+  },
+  {
+    "id": "watchers-eye-prismatic-jewel",
+    "name": "Watcher's Eye",
+    "baseType": "Prismatic Jewel",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 399,
+    "listingCount": 216547,
+    "trend": 0,
+    "sparkline": [
+      0,
+      43.75,
+      50,
+      41.5,
+      26.68,
+      25,
+      0
+    ]
+  },
+  {
+    "id": "witchbane-cobalt-jewel",
+    "name": "Witchbane",
+    "baseType": "Cobalt Jewel",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 84,
+    "listingCount": 2350,
+    "trend": -44.44,
+    "sparkline": [
+      0,
+      11.11,
+      5.56,
+      -44.44,
+      -44.44,
+      -44.44,
+      -44.44
+    ]
+  }
+]

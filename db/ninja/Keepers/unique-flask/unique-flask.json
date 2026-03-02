@@ -1,0 +1,724 @@
+[
+  {
+    "id": "atziris-promise",
+    "name": "Atziri's Promise",
+    "baseType": "Amethyst Flask",
+    "chaosValue": 8.00,
+    "divineValue": 0.02,
+    "volume": 172,
+    "listingCount": 1841,
+    "trend": 15.94,
+    "sparkline": [
+      0,
+      -27.54,
+      5.80,
+      13.04,
+      7.97,
+      15.94,
+      15.94
+    ]
+  },
+  {
+    "id": "blood-of-the-karui",
+    "name": "Blood of the Karui",
+    "baseType": "Sanctified Life Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 224,
+    "listingCount": 8189,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "bottled-faith",
+    "name": "Bottled Faith",
+    "baseType": "Sulphur Flask",
+    "chaosValue": 1117,
+    "divineValue": 3.00,
+    "volume": 178,
+    "listingCount": 1053,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.28,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "cinderswallow-urn",
+    "name": "Cinderswallow Urn",
+    "baseType": "Silver Flask",
+    "chaosValue": 50.00,
+    "divineValue": 0.13,
+    "volume": 399,
+    "listingCount": 5116,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "coralitos-signature",
+    "name": "Coralito's Signature",
+    "baseType": "Diamond Flask",
+    "chaosValue": 0.20,
+    "divineValue": 0.00,
+    "volume": 173,
+    "listingCount": 7620,
+    "trend": 233.3,
+    "sparkline": [
+      0,
+      -16.67,
+      50,
+      216.7,
+      466.7,
+      400,
+      233.3
+    ]
+  },
+  {
+    "id": "coruscating-elixir",
+    "name": "Coruscating Elixir",
+    "baseType": "Ruby Flask",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 84,
+    "listingCount": 2016,
+    "trend": 24.22,
+    "sparkline": [
+      0,
+      19.88,
+      24.22,
+      24.22,
+      24.22,
+      24.22,
+      24.22
+    ]
+  },
+  {
+    "id": "divination-distillate",
+    "name": "Divination Distillate",
+    "baseType": "Large Hybrid Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 128,
+    "listingCount": 4217,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "doedres-elixir",
+    "name": "Doedre's Elixir",
+    "baseType": "Greater Mana Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 222,
+    "listingCount": 7342,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "dying-sun",
+    "name": "Dying Sun",
+    "baseType": "Ruby Flask",
+    "chaosValue": 1862,
+    "divineValue": 5.00,
+    "volume": 163,
+    "listingCount": 1255,
+    "trend": 40.49,
+    "sparkline": [
+      0,
+      -1.17,
+      -2.28,
+      4.68,
+      13.51,
+      25.45,
+      40.49
+    ]
+  },
+  {
+    "id": "elixir-of-the-unbroken-circle",
+    "name": "Elixir of the Unbroken Circle",
+    "baseType": "Iron Flask",
+    "chaosValue": 35.00,
+    "divineValue": 0.09,
+    "volume": 11,
+    "listingCount": 151,
+    "trend": -14.63,
+    "sparkline": [
+      0,
+      -1.22,
+      0,
+      0,
+      -2.44,
+      -7.80,
+      -14.63
+    ]
+  },
+  {
+    "id": "forbidden-taste",
+    "name": "Forbidden Taste",
+    "baseType": "Quartz Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 196,
+    "listingCount": 6287,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "kiaras-determination",
+    "name": "Kiara's Determination",
+    "baseType": "Silver Flask",
+    "chaosValue": 0.07,
+    "divineValue": 0.00,
+    "volume": 293,
+    "listingCount": 12939,
+    "trend": -39.13,
+    "sparkline": [
+      0,
+      30.43,
+      4.35,
+      13.04,
+      73.91,
+      47.83,
+      -39.13
+    ]
+  },
+  {
+    "id": "laviangas-spirit",
+    "name": "Lavianga's Spirit",
+    "baseType": "Sanctified Mana Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 273,
+    "listingCount": 8722,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "lions-roar",
+    "name": "Lion's Roar",
+    "baseType": "Granite Flask",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 142,
+    "listingCount": 4304,
+    "trend": -28.57,
+    "sparkline": [
+      0,
+      -28.57,
+      -28.57,
+      -28.57,
+      -28.57,
+      -28.57,
+      -28.57
+    ]
+  },
+  {
+    "id": "olroths-resolve",
+    "name": "Olroth's Resolve",
+    "baseType": "Iron Flask",
+    "chaosValue": 303.4,
+    "divineValue": 0.81,
+    "volume": 40,
+    "listingCount": 210,
+    "trend": 14.48,
+    "sparkline": [
+      0,
+      -2.83,
+      -24.53,
+      4.68,
+      13.51,
+      -3.80,
+      14.48
+    ]
+  },
+  {
+    "id": "oriaths-end",
+    "name": "Oriath's End",
+    "baseType": "Bismuth Flask",
+    "chaosValue": 60.00,
+    "divineValue": 0.16,
+    "volume": 132,
+    "listingCount": 1689,
+    "trend": 33.33,
+    "sparkline": [
+      0,
+      -10,
+      -11.56,
+      11.11,
+      -2.22,
+      0,
+      33.33
+    ]
+  },
+  {
+    "id": "progenesis",
+    "name": "Progenesis",
+    "baseType": "Amethyst Flask",
+    "chaosValue": 24200,
+    "divineValue": 65.00,
+    "volume": 77,
+    "listingCount": 165,
+    "trend": 3.73,
+    "sparkline": [
+      0,
+      -1.92,
+      -8.56,
+      -5.90,
+      -5.19,
+      -1.52,
+      3.73
+    ]
+  },
+  {
+    "id": "replica-laviangas-spirit",
+    "name": "Replica Lavianga's Spirit",
+    "baseType": "Sanctified Mana Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 35,
+    "listingCount": 495,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "replica-rumis-concoction",
+    "name": "Replica Rumi's Concoction",
+    "baseType": "Granite Flask",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 49,
+    "listingCount": 595,
+    "trend": 0,
+    "sparkline": [
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "replica-sorrow-of-the-divine",
+    "name": "Replica Sorrow of the Divine",
+    "baseType": "Sulphur Flask",
+    "chaosValue": 8.80,
+    "divineValue": 0.02,
+    "volume": 47,
+    "listingCount": 756,
+    "trend": 76,
+    "sparkline": [
+      0,
+      0,
+      160,
+      0,
+      75,
+      73,
+      76
+    ]
+  },
+  {
+    "id": "replica-witchfire-brew",
+    "name": "Replica Witchfire Brew",
+    "baseType": "Stibnite Flask",
+    "chaosValue": 25.60,
+    "divineValue": 0.07,
+    "volume": 28,
+    "listingCount": 261,
+    "trend": 70.67,
+    "sparkline": [
+      0,
+      40,
+      33.33,
+      33.33,
+      33.33,
+      33.33,
+      70.67
+    ]
+  },
+  {
+    "id": "rotgut",
+    "name": "Rotgut",
+    "baseType": "Quicksilver Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 258,
+    "listingCount": 7588,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "rumis-concoction",
+    "name": "Rumi's Concoction",
+    "baseType": "Granite Flask",
+    "chaosValue": 5.90,
+    "divineValue": 0.02,
+    "volume": 238,
+    "listingCount": 4677,
+    "trend": 18,
+    "sparkline": [
+      0,
+      16,
+      26,
+      16,
+      28,
+      20,
+      18
+    ]
+  },
+  {
+    "id": "sins-rebirth",
+    "name": "Sin's Rebirth",
+    "baseType": "Stibnite Flask",
+    "chaosValue": 9.70,
+    "divineValue": 0.03,
+    "volume": 22,
+    "listingCount": 429,
+    "trend": -3,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -3
+    ]
+  },
+  {
+    "id": "soul-catcher",
+    "name": "Soul Catcher",
+    "baseType": "Quartz Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 74,
+    "listingCount": 1480,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "soul-ripper",
+    "name": "Soul Ripper",
+    "baseType": "Quartz Flask",
+    "chaosValue": 6850,
+    "divineValue": 18.40,
+    "volume": 9,
+    "listingCount": 30,
+    "trend": 127.3,
+    "sparkline": [
+      0,
+      36.32,
+      3.53,
+      -7.97,
+      -0.20,
+      10.21,
+      127.3
+    ]
+  },
+  {
+    "id": "starlight-chalice",
+    "name": "Starlight Chalice",
+    "baseType": "Iron Flask",
+    "chaosValue": 2085,
+    "divineValue": 5.60,
+    "volume": 7,
+    "listingCount": 31,
+    "trend": 57.35,
+    "sparkline": [
+      0,
+      -1.15,
+      36.72,
+      41.53,
+      58.91,
+      null,
+      57.35
+    ]
+  },
+  {
+    "id": "taste-of-hate",
+    "name": "Taste of Hate",
+    "baseType": "Sapphire Flask",
+    "chaosValue": 10.00,
+    "divineValue": 0.03,
+    "volume": 130,
+    "listingCount": 2535,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -15,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-overflowing-chalice",
+    "name": "The Overflowing Chalice",
+    "baseType": "Sulphur Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 272,
+    "listingCount": 11483,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-sorrow-of-the-divine",
+    "name": "The Sorrow of the Divine",
+    "baseType": "Sulphur Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 371,
+    "listingCount": 14399,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-wise-oak",
+    "name": "The Wise Oak",
+    "baseType": "Bismuth Flask",
+    "chaosValue": 1.00,
+    "divineValue": 0.00,
+    "volume": 143,
+    "listingCount": 4337,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "the-writhing-jar",
+    "name": "The Writhing Jar",
+    "baseType": "Hallowed Hybrid Flask",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 227,
+    "listingCount": 7294,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "vessel-of-vinktar",
+    "name": "Vessel of Vinktar",
+    "baseType": "Topaz Flask",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 126,
+    "listingCount": 2868,
+    "trend": 100,
+    "sparkline": [
+      0,
+      0,
+      0,
+      2,
+      100,
+      100,
+      100
+    ]
+  },
+  {
+    "id": "voranas-preparation",
+    "name": "Vorana's Preparation",
+    "baseType": "Iron Flask",
+    "chaosValue": 18.00,
+    "divineValue": 0.05,
+    "volume": 14,
+    "listingCount": 302,
+    "trend": 80,
+    "sparkline": [
+      0,
+      12,
+      12,
+      10,
+      18,
+      24,
+      80
+    ]
+  },
+  {
+    "id": "wellwater-phylactery",
+    "name": "Wellwater Phylactery",
+    "baseType": "Colossal Mana Flask",
+    "chaosValue": 20.00,
+    "divineValue": 0.05,
+    "volume": 54,
+    "listingCount": 1434,
+    "trend": 300,
+    "sparkline": [
+      0,
+      0,
+      0,
+      80,
+      100,
+      230,
+      300
+    ]
+  },
+  {
+    "id": "wine-of-the-prophet",
+    "name": "Wine of the Prophet",
+    "baseType": "Gold Flask",
+    "chaosValue": 11169,
+    "divineValue": 30.00,
+    "volume": 38,
+    "listingCount": 126,
+    "trend": 47.96,
+    "sparkline": [
+      0,
+      3.96,
+      2.85,
+      12.12,
+      14.31,
+      32.92,
+      47.96
+    ]
+  },
+  {
+    "id": "witchfire-brew",
+    "name": "Witchfire Brew",
+    "baseType": "Stibnite Flask",
+    "chaosValue": 2.00,
+    "divineValue": 0.01,
+    "volume": 103,
+    "listingCount": 3101,
+    "trend": 0,
+    "sparkline": [
+      0,
+      0,
+      0,
+      -30.00,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "zerphis-last-breath",
+    "name": "Zerphi's Last Breath",
+    "baseType": "Grand Mana Flask",
+    "chaosValue": 2.22,
+    "divineValue": 0.01,
+    "volume": 23,
+    "listingCount": 511,
+    "trend": -41.58,
+    "sparkline": [
+      0,
+      -21.05,
+      2.63,
+      -21.05,
+      -23.42,
+      -39.47,
+      -41.58
+    ]
+  }
+]
