@@ -172,6 +172,13 @@ for my $skill_file (@ARGV) {
       while ($block =~ /"([^"]+)"/g) { push @gem_stats, $1; }
     }
 
+    # notMinionStat: { "str1", "str2", ... }
+    my @not_minion_stats;
+    if ($body =~ /\tnotMinionStat\s*=\s*\{([^}]*)\}/) {
+      my $nms_block = $1;
+      while ($nms_block =~ /"([^"]+)"/g) { push @not_minion_stats, $1; }
+    }
+
     # constantStats: { { "str", num }, ... }
     my @constant_stats;
     if ($body =~ /\tconstantStats\s*=\s*\{(.*?)^\t\},/ms) {
@@ -449,6 +456,11 @@ for my $skill_file (@ARGV) {
     # stats (stat IDs for level values)
     if (@gem_stats) {
       push @json_fields, "\"stats\": [" . join(", ", map { json_str($_) } @gem_stats) . "]";
+    }
+
+    # notMinionStat (sparse)
+    if (@not_minion_stats) {
+      push @json_fields, "\"notMinionStat\": [" . join(", ", map { json_str($_) } @not_minion_stats) . "]";
     }
 
     # statInterpolation (promoted from level 1)

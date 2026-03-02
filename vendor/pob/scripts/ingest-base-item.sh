@@ -93,6 +93,29 @@ while ($content =~ /itemBases\["([^"]+)"\]\s*=\s*\{(.*?)^\}/gms) {
   }
   $item{tags} = \@tags;
 
+  # influenceTags = { key = "value", ... } → hash (null for flask/jewel/tincture)
+  if ($body =~ /\binfluenceTags\s*=\s*\{([^}]*)\}/) {
+    my $iblock = $1;
+    my %itags;
+    while ($iblock =~ /(\w+)\s*=\s*"([^"]+)"/g) {
+      $itags{$1} = $2;
+    }
+    $item{influenceTags} = \%itags;
+  }
+
+  # implicitModTypes = { { "tag1", "tag2" }, ... } → array of arrays
+  my @implicit_mod_types;
+  if ($body =~ /\bimplicitModTypes\s*=\s*\{(.*)\}\s*,\s*$/m) {
+    my $outer = $1;
+    while ($outer =~ /\{([^}]*)\}/g) {
+      my $inner = $1;
+      my @mtags;
+      while ($inner =~ /"([^"]+)"/g) { push @mtags, $1; }
+      push @implicit_mod_types, \@mtags;
+    }
+  }
+  $item{implicitModTypes} = \@implicit_mod_types;
+
   my %req;
   if ($body =~ /\breq\s*=\s*\{([^}]*)\}/) {
     my $req_str = $1;
@@ -213,6 +236,30 @@ for my $i (0 .. $#items) {
   print "    \"tags\": [";
   if (scalar(@t) > 0) {
     print join(", ", map { json_str($_) } @t);
+  }
+  print "],\n";
+
+  # influenceTags
+  if (defined $it->{influenceTags}) {
+    my $inf = $it->{influenceTags};
+    my @iparts;
+    for my $k (sort keys %$inf) {
+      push @iparts, json_str($k) . ": " . json_str($inf->{$k});
+    }
+    print "    \"influenceTags\": {" . join(", ", @iparts) . "},\n";
+  } else {
+    print "    \"influenceTags\": null,\n";
+  }
+
+  # implicitModTypes
+  my @imt = @{$it->{implicitModTypes}};
+  print "    \"implicitModTypes\": [";
+  if (scalar(@imt) > 0) {
+    my @outer;
+    for my $inner (@imt) {
+      push @outer, "[" . join(", ", map { json_str($_) } @$inner) . "]";
+    }
+    print join(", ", @outer);
   }
   print "]";
 

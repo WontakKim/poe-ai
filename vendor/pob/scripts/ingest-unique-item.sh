@@ -124,17 +124,19 @@ sub parse_item {
   my ($req_str, $req_dex, $req_int) = (0, 0, 0);
   my $sockets;
   my $source;
+  my $limited_to;
 
   for my $i (0 .. $#lines) {
     if ($lines[$i] =~ /^Variant:\s*(.+)/)    { push @variant_names, $1; }
     if ($lines[$i] =~ /^League:\s*(.+)/)     { $league = $1; }
     if ($lines[$i] =~ /^LevelReq:\s*(\d+)/)  { $level_req_override = int($1); }
-    if ($lines[$i] =~ /^Requires Level\s+(\d+)/) {
+    if ($lines[$i] =~ /^Requires Level:?\s*(\d+)/) {
       $requires_level = int($1);
       if ($lines[$i] =~ /(\d+)\s+Str/) { $req_str = int($1); }
       if ($lines[$i] =~ /(\d+)\s+Dex/) { $req_dex = int($1); }
       if ($lines[$i] =~ /(\d+)\s+Int/) { $req_int = int($1); }
     }
+    if ($lines[$i] =~ /^Limited to:\s*(\d+)/) { $limited_to = int($1); }
     if ($lines[$i] =~ /^Sockets:\s*(.+)/)   { $sockets = $1; }
     if ($lines[$i] =~ /^(?:\{variant:[^}]+\})?\s*Source:\s*(.+)/) { $source = $1; }
     if ($lines[$i] =~ /^Implicits:\s*(\d+)/) { $implicits_n = int($1); $implicits_line_idx = $i; }
@@ -288,6 +290,8 @@ sub parse_item {
     sockets    => $sockets,
     influences => \@influences,
     source     => $source,
+    variants   => \@variant_names,
+    limitedTo  => $limited_to,
   };
 }
 
@@ -382,6 +386,17 @@ for my $i (0 .. $#all_items) {
   # source
   if (defined $it->{source}) {
     print "    \"source\": " . json_str($it->{source}) . ",\n";
+  }
+
+  # variants (sparse)
+  my @vars = @{$it->{variants}};
+  if (scalar(@vars) > 0) {
+    print "    \"variants\": [" . join(", ", map { json_str($_) } @vars) . "],\n";
+  }
+
+  # limitedTo (sparse)
+  if (defined $it->{limitedTo}) {
+    print "    \"limitedTo\": " . int($it->{limitedTo}) . ",\n";
   }
 
   # implicit array
