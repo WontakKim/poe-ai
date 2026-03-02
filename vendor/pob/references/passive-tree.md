@@ -1,5 +1,5 @@
 <!-- @generated gameVersion=3.27 pobCommit=fb6cd055 pobVersion=v2.60.0 -->
-# Passive Tree — `src/TreeData/{version}/tree.lua`
+# Passive Tree — `src/TreeData/3_27/tree.lua`
 
 Passive skill tree data for each game version. One `tree.lua` file per version containing all node definitions, group coordinates, class/ascendancy info, and constants.
 
@@ -7,8 +7,8 @@ Passive skill tree data for each game version. One `tree.lua` file per version c
 
 **Source**: `src/GameVersions.lua`
 
-- **Latest version**: 3_27 (display: Default)
-- **Total versions**: 35 (2_6, 3_6–3_9, 3_10, 3_11, ..., 3_25, 3_26, 3_27)
+- **Latest version**: 3_27 (display: 3.27)
+- **Total versions**: 35 (2_6, ..., 3_27)
 - **Variants**: base, ruthless (3.22+), alternate (3.25+), ruthless_alternate (3.25+)
 
 ## tree.lua Structure (3_27)
@@ -18,15 +18,14 @@ Passive skill tree data for each game version. One `tree.lua` file per version c
 **Top-level sections**:
 | Section | Line | Purpose |
 |---------|------|---------|
-| tree | 2 | Display name (usually "Default") |
-| classes | 3 | 7 base classes with ascendancy definitions |
-| alternate_ascendancies | 281 | 13 bloodline alternate ascendancies (3.25+) |
-| groups | 439 | 755 node groups with spatial coordinates |
-| nodes | 12063 | 3287 passive skill nodes |
-| jewelSlots | 87132 | 60 jewel socket node IDs |
-| min_x, min_y, max_x, max_y | 87194-87197 | Tree boundary coordinates |
-| constants | 87198 | Orbit radii, skill counts, class enum values |
-| points | 87233 | Total passive and ascendancy points available |
+| tree | 2 | Version identifier |
+| classes | 3 | Character class definitions with ascendancies |
+| alternate_ascendancies | 281 | Bloodline alternate ascendancy trees |
+| groups | 439 | Node group spatial coordinates and orbits |
+| nodes | 12063 | All passive skill node definitions |
+| jewelSlots | 87132 | Jewel socket node IDs |
+| constants | 87198 | Game constants (orbit radii, skills per orbit) |
+| points | 87233 | Total and ascendancy passive points |
 
 ## Nodes
 
@@ -52,7 +51,7 @@ Note: Flags overlap — a node can have multiple flags (e.g. `isBloodline` + `is
 ### Node Fields
 
 All fields found on node entries:
-activeEffectImage, activeIcon, ascendancies, ascendancyName, background, base_dex, base_int, base_str, classStartIndex, DexClass, DexIntClass, Dexterity, expansionJewel, flavourText, flavourTextColour, flavourTextRect, grantedDexterity, grantedIntelligence, grantedPassivePoints, grantedStrength, group, icon, id, in, inactiveIcon, IntClass, Intelligence, isAscendancyStart, isBlighted, isBloodline, isJewelSocket, isKeystone, isMastery, isMultipleChoice, isMultipleChoiceOption, isNotable, isProxy, masteryEffects, name, nodes, orbit, orbitIndex, orbits, out, recipe, reminderText, skill, stats, StrClass, StrDexClass, StrDexIntClass, StrIntClass, Strength, x, y
+DexClass,DexIntClass,Dexterity,IntClass,Intelligence,StrClass,StrDexClass,StrDexIntClass,StrIntClass,Strength,activeEffectImage,activeIcon,ascendancies,ascendancyName,background,base_dex,base_int,base_str,classStartIndex,expansionJewel,flavourText,flavourTextColour,flavourTextRect,grantedDexterity,grantedIntelligence,grantedPassivePoints,grantedStrength,group,icon,id,in,inactiveIcon,isAscendancyStart,isBlighted,isBloodline,isJewelSocket,isKeystone,isMastery,isMultipleChoice,isMultipleChoiceOption,isNotable,isProxy,masteryEffects,name,nodes,orbit,orbitIndex,orbits,out,recipe,reminderText,skill,stats,x,y
 
 **Common fields** (present on most nodes): skill, name, icon, stats, group, orbit, orbitIndex, out, in
 
@@ -98,40 +97,40 @@ activeEffectImage, activeIcon, ascendancies, ascendancyName, background, base_de
 | Saboteur | 23 |
 | Assassin | 21 |
 | Deadeye | 19 |
-| Warlock | 18 |
 | Necromancer | 18 |
+| Warlock | 18 |
 | Hierophant | 17 |
 | Elementalist | 17 |
-| Guardian | 16 |
 | Champion | 16 |
-| Berserker | 16 |
 | Chieftain | 16 |
+| Berserker | 16 |
+| Guardian | 16 |
 | Pathfinder | 15 |
 | Juggernaut | 15 |
-| Slayer | 15 |
 | Warden | 15 |
-| Trickster | 15 |
-| Inquisitor | 15 |
 | Occultist | 15 |
+| Inquisitor | 15 |
+| Slayer | 15 |
 | Gladiator | 15 |
+| Trickster | 15 |
 | Primalist | 11 |
-| Farrul | 10 |
 | Olroth | 10 |
-| Trialmaster | 8 |
+| Farrul | 10 |
 | Aul | 8 |
-| Lycia | 7 |
+| Trialmaster | 8 |
 | Oshabi | 7 |
 | Delirious | 7 |
 | Catarina | 7 |
-| KingInTheMists | 7 |
+| Lycia | 7 |
 | Breachlord | 7 |
+| KingInTheMists | 7 |
 
 ### Alternate Ascendancies
 
 13 alternate ascendancy definitions in `["alternate_ascendancies"]`:
 
 | ID | Name |
-|---|---|
+|---------|------|
 | Warden | Warden of the Maji |
 | Warlock | Warlock of the Mists |
 | Primalist | Wildwood Primalist |
@@ -278,67 +277,57 @@ Each group has:
 ### Notable (non-ascendancy)
 
 ```lua
-        [16703]= {
-            ["skill"]= 16703,
-            ["name"]= "Skull Cracking",
-            ["icon"]= "Art/2DArt/SkillIcons/passives/skullcracking.png",
+        [13164]= {
+            ["skill"]= 13164,
+            ["name"]= "Divine Judgement",
+            ["icon"]= "Art/2DArt/SkillIcons/passives/CelestialPunishment.png",
             ["isNotable"]= true,
             ["recipe"]= {
-                "ClearOil",
-                "BlackOil",
-                "OpalescentOil"
+                "SepiaOil",
+                "TealOil",
+                "BlackOil"
             },
             ["stats"]= {
-                "36% increased Physical Damage with Maces or Sceptres",
-                "Mace or Sceptre Attacks deal 36% increased Damage with Ailments",
-                "12% reduced Enemy Stun Threshold with Maces or Sceptres"
+                "50% increased Elemental Damage"
             },
-            ["reminderText"]= {
-                "(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)",
-                "(The Stun Threshold determines how much Damage can Stun something)"
-            },
-            ["group"]= 75,
-            ["orbit"]= 3,
-            ["orbitIndex"]= 11,
+            ["group"]= 63,
+            ["orbit"]= 2,
+            ["orbitIndex"]= 12,
             ["out"]= {
-                "8500",
-                "57266",
-                "14832"
+                "44298"
             },
-            ["in"]= {}
+            ["in"]= {
+                "41251",
+                "8198"
+            }
         },
 ```
 
 ### Mastery (first 2 effects shown)
 
 ```lua
-        [14832]= {
-            ["skill"]= 14832,
-            ["name"]= "Mace Mastery",
-            ["icon"]= "Art/2DArt/SkillIcons/passives/MasteryGroupMace.png",
+        [44298]= {
+            ["skill"]= 44298,
+            ["name"]= "Elemental Mastery",
+            ["icon"]= "Art/2DArt/SkillIcons/passives/MasteryElementalDamage.png",
             ["isMastery"]= true,
-            ["inactiveIcon"]= "Art/2DArt/SkillIcons/passives/MasteryPassiveIcons/PassiveMasteryMaceInactive.png",
-            ["activeIcon"]= "Art/2DArt/SkillIcons/passives/MasteryPassiveIcons/PassiveMasteryMaceActive.png",
-            ["activeEffectImage"]= "Art/2DArt/UIImages/InGame/PassiveMastery/MasteryBackgroundGraphic/MasteryMacePattern.png",
+            ["inactiveIcon"]= "Art/2DArt/SkillIcons/passives/MasteryPassiveIcons/PassiveMasteryElementalInactive.png",
+            ["activeIcon"]= "Art/2DArt/SkillIcons/passives/MasteryPassiveIcons/PassiveMasteryElementalActive.png",
+            ["activeEffectImage"]= "Art/2DArt/UIImages/InGame/PassiveMastery/MasteryBackgroundGraphic/MasteryElementalPattern.png",
             ["masteryEffects"]= {
                 {
-                    ["effect"]= 37132,
+                    ["effect"]= 48385,
                     ["stats"]= {
-                        "All Damage with Maces and Sceptres inflicts Chill"
-                    },
-                    ["reminderText"]= {
-                        "(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)"
+                        "Exposure you inflict applies at least -18% to the affected Resistance"
                     }
                 },
                 {
-                    ["effect"]= 17821,
+                    ["effect"]= 4119,
                     ["stats"]= {
-                        "20% increased Area of Effect if you've dealt a Critical Strike Recently"
-                    },
-                    ["reminderText"]= {
-                        "(Recently refers to the past 4 seconds)"
+                        "60% reduced Reflected Elemental Damage taken"
                     }
                 },
+                {
                 ...
             }
         },
@@ -347,27 +336,25 @@ Each group has:
 ### Jewel Socket
 
 ```lua
-        [44169]= {
-            ["skill"]= 44169,
-            ["name"]= "Medium Jewel Socket",
+        [36931]= {
+            ["skill"]= 36931,
+            ["name"]= "Small Jewel Socket",
             ["icon"]= "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
             ["isJewelSocket"]= true,
             ["expansionJewel"]= {
-                ["size"]= 1,
-                ["index"]= 2,
-                ["proxy"]= "53203",
-                ["parent"]= "55190"
+                ["size"]= 0,
+                ["index"]= 0,
+                ["proxy"]= "49951",
+                ["parent"]= "17219"
             },
             ["stats"]= {},
-            ["group"]= 52,
-            ["orbit"]= 3,
-            ["orbitIndex"]= 15,
-            ["out"]= {
-                "17219"
-            },
+            ["group"]= 35,
+            ["orbit"]= 2,
+            ["orbitIndex"]= 12,
+            ["out"]= {},
             ["in"]= {
-                "53203",
-                "30275"
+                "49951",
+                "28018"
             }
         },
 ```
@@ -375,35 +362,31 @@ Each group has:
 ### Small (regular) Node
 
 ```lua
-        [38023]= {
-            ["skill"]= 38023,
-            ["name"]= "Mace Damage and Reduced Enemy Stun Threshold",
-            ["icon"]= "Art/2DArt/SkillIcons/passives/stunmace.png",
+        [7092]= {
+            ["skill"]= 7092,
+            ["name"]= "Physical and Lightning Damage",
+            ["icon"]= "Art/2DArt/SkillIcons/passives/DivineWrath.png",
             ["stats"]= {
-                "16% increased Physical Damage with Maces or Sceptres",
-                "Mace or Sceptre Attacks deal 16% increased Damage with Ailments",
-                "5% reduced Enemy Stun Threshold with Maces or Sceptres"
+                "8% increased Lightning Damage",
+                "8% increased Physical Damage"
             },
-            ["reminderText"]= {
-                "(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)",
-                "(The Stun Threshold determines how much Damage can Stun something)"
+            ["group"]= 63,
+            ["orbit"]= 3,
+            ["orbitIndex"]= 3,
+            ["out"]= {
+                "14665"
             },
-            ["group"]= 75,
-            ["orbit"]= 4,
-            ["orbitIndex"]= 31,
-            ["out"]= {},
             ["in"]= {
-                "40645",
-                "57266"
+                "29061"
             }
         },
 ```
 
 ## Edge Cases
 
-1. **Old format versions (2_6, 3_6–3_9)**: Compact/minified Lua — field names are abbreviated (`["oo"]`, `["n"]`). No `["skill"]=` field, so grep-based counting returns 0. Only versions 3.10+ use the expanded readable format.
+1. **Old format versions (2_6, 3_6-3_9)**: Compact/minified Lua — field names are abbreviated (`["oo"]`, `["n"]`). No `["skill"]=` field, so grep-based counting returns 0. Only versions 3.10+ use the expanded readable format.
 
-2. **Alternate tree variants**: `{version}_alternate` directories contain the alternate ascendancy tree. These have additional bloodline nodes (e.g. 3_27: 3,287 nodes vs 3_27_alternate: 3,317 nodes).
+2. **Alternate tree variants**: `{version}_alternate` directories contain the alternate ascendancy tree. These have additional bloodline nodes. See Historical Node Counts table for per-version comparison.
 
 3. **Ruthless variants**: `{version}_ruthless` directories. Same base tree structure, may have different node values.
 

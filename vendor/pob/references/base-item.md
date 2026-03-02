@@ -5,7 +5,7 @@
 
 **Usable (20)**: Exclude fishing (joke item) and graft (Sanctum-internal).
 
-**Item counts** (1,063 total usable):
+**Item counts**:
 | File | Count | File | Count |
 |------|-------|------|-------|
 | body | 123 | flask | 48 |
@@ -23,44 +23,35 @@
 **Lua format** (example from `sword.lua`):
 ```lua
 itemBases["Rusted Sword"] = {
-	type = "One Handed Sword",
-	socketLimit = 3,
-	tags = { default = true, one_hand_weapon = true, onehand = true, sword = true, weapon = true, },
-	influenceTags = { shaper = "sword_shaper", elder = "sword_elder", adjudicator = "sword_adjudicator", basilisk = "sword_basilisk", crusader = "sword_crusader", eyrie = "sword_eyrie", cleansing = "sword_cleansing", tangle = "sword_tangle" },
-	implicit = "40% increased Global Accuracy Rating",
-	implicitModTypes = { { "attack" }, },
-	weapon = { PhysicalMin = 4, PhysicalMax = 9, CritChanceBase = 5, AttackRateBase = 1.55, Range = 11, },
-	req = { str = 8, dex = 8, },
+	type = "One Handed Sword",  -- Item type string
+	socketLimit = 3,  -- Max sockets (omitted if 0)
+	tags = { default = true, one_hand_weapon = true, onehand = true, sword = true, weapon = true, },  -- Classification tags
+	influenceTags = { shaper = "sword_shaper", elder = "sword_elder", adjudicator = "sword_adjudicator", basilisk = "sword_basilisk", crusader = "sword_crusader", eyrie = "sword_eyrie", cleansing = "sword_cleansing", tangle = "sword_tangle" },  -- Influence variant IDs (weapons only)
+	implicit = "40% increased Global Accuracy Rating",  -- Implicit mod text (may contain \n for multiline)
+	implicitModTypes = { { "attack" }, },  -- Implicit mod tags (array of arrays)
+	weapon = { PhysicalMin = 4, PhysicalMax = 9, CritChanceBase = 5, AttackRateBase = 1.55, Range = 11, },  -- Type-specific stats (weapons, armour, flask, tincture)
+	req = { str = 8, dex = 8, },  -- Minimum requirements (str, dex, int, level)
 }
 ```
 
 **Top-level fields**:
-- `type` — Item base type (e.g., "One Handed Sword")
-- `socketLimit` — Maximum socket count
-- `tags` — Boolean categories (e.g., sword, weapon, fire_damage)
-- `influenceTags` — Influence-specific tags (e.g., shaper, elder)
-- `implicit` — Implicit mod string
-- `implicitModTypes` — Nested arrays of implicit mod types (e.g., `{ { "attack" }, }`)
-- `weapon` — Weapon stats (appears in weapon bases)
-- `armour` — Armour stats (appears in armour bases)
-- `flask` — Flask stats (appears in flask.lua)
-- `tincture` — Tincture stats (appears in tincture.lua)
-- `req` — Requirements table (str, dex, int)
-- `subType` — Secondary type classification (rare)
-- `hidden` — Boolean; set to true for test/unreleased items
-- `flavourText` — Flavour text string (rare)
+`armour`, `flask`, `flavourText`, `hidden`, `implicit`, `implicitModTypes`, `influenceTags`, `req`, `socketLimit`, `subType`, `tags`, `tincture`, `type`, `weapon`
 
 **Type-specific stat fields** (exactly one per item, or none):
-- **weapon** (sword, axe, mace, dagger, claw, wand, staff, bow): `{ AttackRateBase, CritChanceBase, PhysicalMax, PhysicalMin, Range }`
-- **armour** (body, boots, gloves, helmet, shield): `{ ArmourBaseMax, ArmourBaseMin, BlockChance, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, MovementPenalty, WardBaseMax, WardBaseMin }` (sparse — different bases have different subsets)
-- **flask** (flask): `{ buff, chargesMax, chargesUsed, duration, life, mana }` (sparse — life/mana/utility flasks differ)
+- **weapon** (axe, bow, claw, dagger, mace, staff, sword, wand): `{ AttackRateBase, CritChanceBase, PhysicalMax, PhysicalMin, Range }`
+- **armour** (body, boots, gloves, helmet, shield): `{ ArmourBaseMax, ArmourBaseMin, BlockChance, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, MovementPenalty, WardBaseMax, WardBaseMin }`
+- **flask** (flask): `{ buff, chargesMax, chargesUsed, duration, life, mana }`
 - **tincture** (tincture): `{ cooldown, manaBurn }`
 - **jewel/amulet/ring/belt/quiver**: No type-specific stat fields.
 
 **Caveats**:
-1. **Multiline implicit strings** — Files with `\n` in implicit mod strings (boots, dagger, tincture, ring, graft, helmet, claw, gloves, staff, belt, amulet): Parser must handle escaped newlines in implicit field values.
-2. **Hidden items** — Files with `hidden = true` entries (body, sword, quiver): These are unreleased/test items and should be marked during import.
-3. **Flavour text** — Files with `flavourText` field (body, sword, ring, amulet): Additional cosmetic field that may vary per entry.
-4. **Excluded files** — `fishing.lua` and `graft.lua` are excluded from usable count: fishing is a joke item, graft is Sanctum-internal.
-5. **Sparse armour sub-fields** — BlockChance, EnergyShieldBase*, EvasionBase*, WardBase* appear only on specific bases (e.g., shields have BlockChance; evasion bases have EvasionBaseMax/EvasionBaseMin).
-6. **Sparse flask sub-fields** — life/mana fields appear only on life/mana flasks; buff/duration/chargesUsed/chargesMax vary by flask type (utility vs life/mana).
+- **Multiline implicits**: Files with literal `\n` in implicit strings: amulet, belt, boots, claw, dagger, gloves, graft, helmet, ring, staff, tincture. Require unescaping when parsing.
+- **Hidden items**: Files containing `hidden = true`: body, quiver, sword. Quest items, divination card bases, etc.
+- **Flavour text**: Files with optional `flavourText` field: amulet, body, ring, sword.
+- **Sparse armour sub-fields** (per-file distribution):
+  body.lua: ArmourBaseMax, ArmourBaseMin, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, MovementPenalty
+  boots.lua: ArmourBaseMax, ArmourBaseMin, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, WardBaseMax, WardBaseMin
+  gloves.lua: ArmourBaseMax, ArmourBaseMin, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, WardBaseMax, WardBaseMin
+  helmet.lua: ArmourBaseMax, ArmourBaseMin, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, WardBaseMax, WardBaseMin
+  shield.lua: ArmourBaseMax, ArmourBaseMin, BlockChance, EnergyShieldBaseMax, EnergyShieldBaseMin, EvasionBaseMax, EvasionBaseMin, MovementPenalty
+- **Sparse flask sub-fields**: `life`/`mana` on Life/Mana flasks. `buff`/`duration` on Utility flasks. All flasks have `chargesUsed`/`chargesMax`.
