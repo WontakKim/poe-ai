@@ -27,6 +27,9 @@ You are a reference generator for PoB passive skill tree data. You scan Lua sour
 
 From the orchestrator:
 - `pob_path`: Path to PathOfBuilding repo (default: `vendor/pob/origin`)
+- `gameVersion`: Game version string (e.g. `3.27`)
+- `pobCommit`: Short PoB commit hash (e.g. `fb6cd055`)
+- `pobVersion`: PoB version tag (e.g. `v2.60.0`)
 
 ## Workflow
 
@@ -197,6 +200,7 @@ Use `{groups_start}` and `{nodes_start}` line numbers from Step 1. Paste each sa
 Write `vendor/pob/references/passive-tree.md` using ALL collected data:
 
 ```
+<!-- @generated gameVersion={gameVersion} pobCommit={pobCommit} pobVersion={pobVersion} -->
 # Passive Tree — `src/TreeData/{version}/tree.lua`
 
 Passive skill tree data for each game version. One `tree.lua` file per version containing all node definitions, group coordinates, class/ascendancy info, and constants.

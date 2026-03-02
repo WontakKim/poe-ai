@@ -120,15 +120,27 @@ Orchestrator ──┬─ Agent (haiku) → references/base-item.md
                └─ Agent (haiku) → references/passive-tree.md
 ```
 
-1. Read all 4 agent prompt files from `.claude/agents/pob/sync/`:
-   - `base-item.md`, `unique-item.md`, `skill-gem.md`, `passive-tree.md`
+1. Launch **exactly 4** agents **in parallel** (single message, 4 Agent tool calls). Verify all 4 are present before sending.
 
-2. Launch 4 agents **in parallel** (single message, 4 Agent tool calls):
-   - `subagent_type`: `"general-purpose"`, `model`: `"haiku"`
-   - `prompt`: full content of the agent `.md` file + `\n\nINPUT:\n- pob_path: vendor/pob/origin\n\nExecute the workflow above.`
-   - These agents are NOT auto-registered subagent_types — invoke by passing the `.md` content as the prompt
+   | # | `subagent_type` | Output |
+   |---|-----------------|--------|
+   | 1 | `pob-sync-base-item` | `references/base-item.md` |
+   | 2 | `pob-sync-unique-item` | `references/unique-item.md` |
+   | 3 | `pob-sync-skill-gem` | `references/skill-gem.md` |
+   | 4 | `pob-sync-passive-tree` | `references/passive-tree.md` |
 
-3. Validate results per agent:
+   Each agent `prompt`:
+   ```
+   INPUT:
+   - pob_path: vendor/pob/origin
+   - gameVersion: {VERSION}
+   - pobCommit: {POB_COMMIT (short)}
+   - pobVersion: {POB_VERSION}
+
+   Execute the workflow.
+   ```
+
+2. Validate results per agent:
    - Agent completed and wrote its reference file → `"success"`
    - Agent failed → `"failed"`, log error
    - Each agent is independent — one failure does NOT block the others

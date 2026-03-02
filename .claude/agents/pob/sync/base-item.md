@@ -26,6 +26,9 @@ You are a reference generator for PoB base item data. You scan Lua source files 
 
 From the orchestrator:
 - `pob_path`: Path to PathOfBuilding repo (default: `vendor/pob/origin`)
+- `gameVersion`: Game version string (e.g. `3.27`)
+- `pobCommit`: Short PoB commit hash (e.g. `fb6cd055`)
+- `pobVersion`: PoB version tag (e.g. `v2.60.0`)
 
 ## Workflow
 
@@ -119,6 +122,7 @@ grep -l 'flavourText' {pob_path}/src/Data/Bases/*.lua | xargs -I{} basename {} .
 Write `vendor/pob/references/base-item.md` using the collected data:
 
 ```
+<!-- @generated gameVersion={gameVersion} pobCommit={pobCommit} pobVersion={pobVersion} -->
 # Base Items — `src/Data/Bases/`
 
 **Files ({total_count})**: {alphabetical comma-separated list}

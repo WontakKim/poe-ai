@@ -25,6 +25,9 @@ You are a reference generator for PoB unique item data. You scan Lua source file
 
 From the orchestrator:
 - `pob_path`: Path to PathOfBuilding repo (default: `vendor/pob/origin`)
+- `gameVersion`: Game version string (e.g. `3.27`)
+- `pobCommit`: Short PoB commit hash (e.g. `fb6cd055`)
+- `pobVersion`: PoB version tag (e.g. `v2.60.0`)
 
 ## Workflow
 
@@ -135,6 +138,7 @@ Note the opening format (`data.uniques.new = {` vs `return {`).
 Write `vendor/pob/references/unique-item.md` using the collected data:
 
 ```
+<!-- @generated gameVersion={gameVersion} pobCommit={pobCommit} pobVersion={pobVersion} -->
 # Unique Items — `src/Data/Uniques/`
 
 **Main files ({main_count})**: {alphabetical comma-separated list including fishing and graft}

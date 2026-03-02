@@ -26,6 +26,9 @@ You are a reference generator for PoB skill gem data. You scan Lua source files 
 
 From the orchestrator:
 - `pob_path`: Path to PathOfBuilding repo (default: `vendor/pob/origin`)
+- `gameVersion`: Game version string (e.g. `3.27`)
+- `pobCommit`: Short PoB commit hash (e.g. `fb6cd055`)
+- `pobVersion`: PoB version tag (e.g. `v2.60.0`)
 
 ## Workflow
 
@@ -221,6 +224,7 @@ perl -ne '
 Write `vendor/pob/references/skill-gem.md` using ALL collected data:
 
 ```
+<!-- @generated gameVersion={gameVersion} pobCommit={pobCommit} pobVersion={pobVersion} -->
 # Skill Gems — `src/Data/Gems.lua` + `src/Data/Skills/`
 
 Skill gem data has two sources joined by `grantedEffectId`:
