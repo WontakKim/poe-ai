@@ -9,6 +9,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice}",
+    "variants": ["Pre 3.0.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
@@ -25,6 +26,7 @@
     "league": "Domination, Nemesis",
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.3.0", "Pre 2.6.0", "Pre 3.15.0", "Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "50% increased Life Recovered",
@@ -42,6 +44,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex}",
+    "variants": ["Pre 3.15.0", "Pre 3.16.0", "Current"],
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "(30-15)% reduced Duration",
@@ -60,6 +63,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Catarina, Master of Undeath}",
+    "variants": ["Pre 3.26 Crit Chance", "Damage Taken is Leeched as Life", "Item Rarity", "Pre 3.26 Movement Speed/Stun Avoidance", "Stun Avoidance", "Life Regen", "Reduced Reflected Damage Taken", "Physical Damage can Ignite", "Ignited enemies have Malediction", "Additional Curse", "Ignite Spread", "Ignite Leech", "Pre 3.15.0", "Pre 3.16.0 Crit Chance", "Pre 3.26", "Life on Kill", "Mana on Kill", "ES on Kill"],
     "implicit": [],
     "mods": [
       "+(10-20) to maximum Charges",
@@ -77,6 +81,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Take (200-300) Chaos Damage per Second during Effect",
@@ -94,6 +99,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "25% increased Duration",
@@ -111,6 +117,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.1.0", "Pre 2.2.0", "Pre 3.5.0", "Pre 3.15.0", "Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "(30-50)% increased Rarity of Items found during Effect",
@@ -127,6 +134,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "(300-250)% increased Charges per use",
@@ -147,6 +155,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Shaper}",
+    "variants": ["Pre 3.0.0", "Pre 3.15.0", "Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "(150-125)% increased Charges per use",
@@ -165,6 +174,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Medved, Feller of Heroes} in normal{Expedition Logbook}",
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(50-80)% increased Duration",
@@ -182,6 +192,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.2.3", "Pre 2.6.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Recover (75-100)% of Life on use",
@@ -197,6 +208,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Immunity to Freeze, Chill, Curses and Stuns during Effect",
@@ -228,6 +240,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Pre 3.0.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Knocks Back Enemies in an Area when you use a Flask",
@@ -246,6 +259,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Olroth, Origin of the Fall} in normal{Expedition Logbook}",
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["Restores Ward on use"],
     "mods": [
       "(50-40)% increased Charges per use",
@@ -367,6 +381,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Pre 2.6.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "50% chance to gain a Flask Charge when you deal a Critical Strike",
@@ -384,6 +399,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.3.0", "Pre 2.5.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "(8-12)% Chance to Block Attack Damage during Effect",
@@ -416,6 +432,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Vaal Omnitect}",
+    "variants": ["Pre 3.10.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "Cannot gain Mana during effect",
@@ -434,6 +451,7 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{Soul Catcher} via currency{Vial of the Ghost}",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "+(-40-90) maximum Charges",
@@ -468,6 +486,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Pre 3.0.0", "Pre 3.15.0", "Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "(20-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
@@ -485,6 +504,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.15.0", "Current"],
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "(40-60)% increased Charge Recovery",
@@ -501,6 +521,7 @@
     "league": "Legion",
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.7.0", "Current"],
     "implicit": ["Creates Consecrated Ground on Use"],
     "mods": [
       "Life Recovery from Flasks also applies to Energy Shield during Effect",
@@ -517,6 +538,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.15.0", "Current"],
     "implicit": [],
     "mods": [
       "During Effect, 6% reduced Damage taken of each Element for which your Uncapped Elemental Resistance is lowest",
@@ -551,6 +573,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Avatar of Thunder} in unique{The Vinktar Square}",
+    "variants": ["Pre 2.2.0 (Penetration)", "Pre 2.2.0 (Spells)", "Pre 2.2.0 (Attacks)", "Pre 2.2.0 (Conversion)", "Pre 3.0.0 (Penetration)", "Pre 3.0.0 (Spells)", "Pre 3.0.0 (Attacks)", "Pre 3.0.0 (Conversion)", "Pre 3.14.0 (Spells)", "Pre 3.14.0 (Conversion)", "Pre 3.15.0 (Penetration)", "Pre 3.15.0 (Spells)", "Pre 3.15.0 (Attacks)", "Current (Conversion)", "Current (Proliferation)", "Current (Penetration)", "Current (Spells)", "Current (Attacks)"],
     "implicit": [],
     "mods": [
       "(150-125)% increased Charges per use",
@@ -624,6 +647,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.15.0", "Current"],
     "implicit": ["Creates a Smoke Cloud on Use"],
     "mods": [
       "(10--10)% increased Charges per use",
@@ -639,6 +663,7 @@
     "league": "Perandus",
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.2.0", "Current"],
     "implicit": [],
     "mods": [
       "50% increased Charges per use",

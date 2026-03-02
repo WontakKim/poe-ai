@@ -8,6 +8,8 @@
     "req": { "level": 78, "str": null, "dex": 116, "int": 116 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 308, "evasionMax": 355, "energyShieldMin": 62, "energyShieldMax": 71 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 75, "str": 79, "dex": null, "int": 79 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 185, "armourMax": 212, "energyShieldMin": 38, "energyShieldMax": 43 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 45, "str": 51, "dex": 51, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], [], []],
     "armour": { "armourMin": 122, "armourMax": 140, "evasionMin": 122, "evasionMax": 140 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 37, "str": 42, "dex": null, "int": 42 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 101, "armourMax": 119, "energyShieldMin": 21, "energyShieldMax": 25 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 18, "str": 42, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 92, "armourMax": 115 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": null, "str": 8, "dex": 8, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 13, "armourMax": 18, "evasionMin": 13, "evasionMax": 18 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 75, "str": null, "dex": 79, "int": 79 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "cold"], ["elemental_damage", "damage", "elemental", "cold"]],
     "armour": { "evasionMin": 185, "evasionMax": 212, "energyShieldMin": 38, "energyShieldMax": 43 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 34, "str": null, "dex": null, "int": 73 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 36, "energyShieldMax": 40 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 73, "str": 76, "dex": null, "int": 76 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "default", "helmet", "helmetatlas1", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [["damage", "minion"]],
     "armour": { "armourMin": 197, "armourMax": 227, "energyShieldMin": 40, "energyShieldMax": 46 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 45, "str": null, "dex": 51, "int": 51 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 122, "evasionMax": 137, "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 26, "str": 58, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 130, "armourMax": 150 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 7, "str": 21, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 38, "armourMax": 50 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 78, "str": 194, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 501, "armourMax": 576 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 78, "str": 116, "dex": 116, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 308, "armourMax": 355, "evasionMin": 308, "evasionMax": 355 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 31, "str": 36, "dex": null, "int": 36 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 85, "armourMax": 95, "energyShieldMin": 18, "energyShieldMax": 20 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 67, "str": null, "dex": 73, "int": 88 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 190, "evasionMax": 219, "energyShieldMin": 47, "energyShieldMax": 54 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 45, "str": 51, "dex": null, "int": 51 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 122, "armourMax": 140, "energyShieldMin": 25, "energyShieldMax": 29 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 73, "str": null, "dex": 170, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 431, "evasionMax": 496 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 84, "str": 132, "dex": null, "int": 132 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 355, "armourMax": 409, "energyShieldMin": 71, "energyShieldMax": 82 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 69, "str": 138, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 373, "armourMax": 429 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 60, "str": 138, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 346, "armourMax": 381 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 73, "str": 101, "dex": null, "int": 101 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 268, "armourMax": 308, "energyShieldMin": 54, "energyShieldMax": 62 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 43, "str": 49, "dex": 49, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 117, "armourMax": 134, "evasionMin": 117, "evasionMax": 134 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 28, "str": null, "dex": 33, "int": 33 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 77, "evasionMax": 88, "energyShieldMin": 17, "energyShieldMax": 19 }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 58, "str": 64, "dex": 64, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 160, "armourMax": 189, "evasionMin": 160, "evasionMax": 189 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 15, "str": null, "dex": 20, "int": 20 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "cold"], ["elemental_damage", "damage", "elemental", "cold"]],
     "armour": { "evasionMin": 42, "evasionMax": 49, "energyShieldMin": 10, "energyShieldMax": 12 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 73, "str": 170, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 431, "armourMax": 496 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 84, "str": 224, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 582, "armourMax": 669 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": 33, "str": 38, "dex": 38, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 90, "armourMax": 97, "evasionMin": 90, "evasionMax": 97 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": 35, "str": 75, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 174, "armourMax": 195 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": 35, "str": null, "dex": 40, "int": 40 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 96, "evasionMax": 103, "energyShieldMin": 20, "energyShieldMax": 22 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "demigods", "helmet", "not_for_sale"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [["attribute"]],
     "armour": {  }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 53, "str": 59, "dex": null, "int": 59 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 143, "armourMax": 161, "energyShieldMin": 29, "energyShieldMax": 33 }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 22, "str": 27, "dex": null, "int": 27 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 61, "armourMax": 76, "energyShieldMin": 14, "energyShieldMax": 17 }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 78, "str": null, "dex": 194, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 501, "evasionMax": 576 }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 57, "str": null, "dex": 64, "int": 64 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 157, "evasionMax": 185, "energyShieldMin": 32, "energyShieldMax": 38 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 84, "str": 132, "dex": 132, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 355, "armourMax": 409, "evasionMin": 355, "evasionMax": 409 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 69, "str": null, "dex": null, "int": 154 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 80, "energyShieldMax": 92 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 41, "str": null, "dex": 87, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 203, "evasionMax": 227 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 15, "str": 20, "dex": null, "int": 20 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 42, "armourMax": 49, "energyShieldMin": 10, "energyShieldMax": 12 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 8, "str": null, "dex": null, "int": 23 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 12, "energyShieldMax": 15 }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": null, "str": 9, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 9, "armourMax": 13 }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": 17, "str": null, "dex": 21, "int": 21 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 48, "evasionMax": 60, "energyShieldMin": 11, "energyShieldMax": 14 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": 73, "str": null, "dex": 101, "int": 101 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 268, "evasionMax": 308, "energyShieldMin": 54, "energyShieldMax": 62 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": 73, "str": 101, "dex": 101, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 268, "armourMax": 308, "evasionMin": 268, "evasionMax": 308 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": 51, "str": 57, "dex": 57, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 138, "armourMax": 155, "evasionMin": 138, "evasionMax": 155 }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": null, "str": null, "dex": 13, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 19, "evasionMax": 27 }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 20, "str": null, "dex": 46, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 101, "evasionMax": 127 }
   },
   {
@@ -536,6 +632,8 @@
     "req": { "level": 84, "str": null, "dex": null, "int": 224 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 117, "energyShieldMax": 134 }
   },
   {
@@ -547,6 +645,8 @@
     "req": { "level": 70, "str": null, "dex": 150, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 380, "evasionMax": 437 }
   },
   {
@@ -558,6 +658,8 @@
     "req": { "level": 39, "str": null, "dex": null, "int": 83 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 41, "energyShieldMax": 48 }
   },
   {
@@ -569,6 +671,8 @@
     "req": { "level": 58, "str": 64, "dex": null, "int": 64 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 160, "armourMax": 189, "energyShieldMin": 33, "energyShieldMax": 39 }
   },
   {
@@ -580,6 +684,8 @@
     "req": { "level": 84, "str": null, "dex": 224, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 582, "evasionMax": 669 }
   },
   {
@@ -591,6 +697,8 @@
     "req": { "level": 65, "str": null, "dex": null, "int": 138 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 73, "energyShieldMax": 84 }
   },
   {
@@ -602,6 +710,8 @@
     "req": { "level": 73, "str": null, "dex": null, "int": 170 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 87, "energyShieldMax": 100 }
   },
   {
@@ -613,6 +723,8 @@
     "req": { "level": 54, "str": null, "dex": null, "int": 112 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 55, "energyShieldMax": 64 }
   },
   {
@@ -624,6 +736,8 @@
     "req": { "level": 67, "str": 62, "dex": 85, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 162, "armourMax": 187, "evasionMin": 233, "evasionMax": 268 }
   },
   {
@@ -635,6 +749,8 @@
     "req": { "level": 47, "str": null, "dex": 99, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 232, "evasionMax": 266 }
   },
   {
@@ -646,6 +762,8 @@
     "req": { "level": 78, "str": 116, "dex": null, "int": 116 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 308, "armourMax": 355, "energyShieldMin": 62, "energyShieldMax": 71 }
   },
   {
@@ -657,6 +775,8 @@
     "req": { "level": 75, "str": 79, "dex": 79, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], [], []],
     "armour": { "armourMin": 185, "armourMax": 212, "evasionMin": 185, "evasionMax": 212 }
   },
   {
@@ -668,6 +788,8 @@
     "req": { "level": 63, "str": 85, "dex": 62, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 229, "armourMax": 263, "evasionMin": 159, "evasionMax": 183 }
   },
   {
@@ -679,6 +801,8 @@
     "req": { "level": 10, "str": null, "dex": 14, "int": 14 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 29, "evasionMax": 38, "energyShieldMin": 7, "energyShieldMax": 10 }
   },
   {
@@ -690,6 +814,8 @@
     "req": { "level": 68, "str": 62, "dex": null, "int": 91 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 161, "armourMax": 185, "energyShieldMin": 51, "energyShieldMax": 58 }
   },
   {
@@ -701,6 +827,8 @@
     "req": { "level": 63, "str": 85, "dex": null, "int": 62 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 224, "armourMax": 258, "energyShieldMin": 32, "energyShieldMax": 37 }
   },
   {
@@ -712,6 +840,8 @@
     "req": { "level": 38, "str": null, "dex": 44, "int": 44 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 104, "evasionMax": 119, "energyShieldMin": 22, "energyShieldMax": 25 }
   },
   {
@@ -723,6 +853,8 @@
     "req": { "level": 40, "str": 85, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 198, "armourMax": 233 }
   },
   {
@@ -734,6 +866,8 @@
     "req": { "level": 52, "str": null, "dex": 58, "int": 58 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 141, "evasionMax": 158, "energyShieldMin": 29, "energyShieldMax": 32 }
   },
   {
@@ -745,6 +879,8 @@
     "req": { "level": 65, "str": 148, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 377, "armourMax": 434 }
   },
   {
@@ -756,6 +892,8 @@
     "req": { "level": 49, "str": 55, "dex": 55, "int": 55 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 97, "wardMax": 112 }
   },
   {
@@ -767,6 +905,8 @@
     "req": { "level": 68, "str": 66, "dex": 66, "int": 66 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 164, "wardMax": 189 }
   },
   {
@@ -778,6 +918,8 @@
     "req": { "level": 25, "str": 30, "dex": 30, "int": 30 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 41, "wardMax": 47 }
   },
   {
@@ -789,6 +931,8 @@
     "req": { "level": 5, "str": 9, "dex": null, "int": 9 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 16, "armourMax": 22, "energyShieldMin": 5, "energyShieldMax": 7 }
   },
   {
@@ -800,6 +944,8 @@
     "req": { "level": 13, "str": 18, "dex": 18, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 37, "armourMax": 48, "evasionMin": 37, "evasionMax": 48 }
   },
   {
@@ -811,6 +957,8 @@
     "req": { "level": 55, "str": 114, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 276, "armourMax": 325 }
   },
   {
@@ -822,6 +970,8 @@
     "req": { "level": null, "str": null, "dex": 8, "int": 8 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 13, "evasionMax": 18, "energyShieldMin": 4, "energyShieldMax": 6 }
   },
   {
@@ -833,6 +983,8 @@
     "req": { "level": 36, "str": 42, "dex": 42, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 98, "armourMax": 116, "evasionMin": 98, "evasionMax": 116 }
   },
   {
@@ -844,6 +996,8 @@
     "req": { "level": 48, "str": 101, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 237, "armourMax": 272 }
   },
   {
@@ -855,6 +1009,8 @@
     "req": { "level": 60, "str": null, "dex": 138, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 346, "evasionMax": 381 }
   },
   {
@@ -866,6 +1022,8 @@
     "req": { "level": 64, "str": null, "dex": 138, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 369, "evasionMax": 425 }
   },
   {
@@ -877,6 +1035,8 @@
     "req": { "level": 59, "str": null, "dex": null, "int": 122 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 60, "energyShieldMax": 68 }
   },
   {
@@ -888,6 +1048,8 @@
     "req": { "level": 12, "str": 16, "dex": null, "int": 16 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 34, "armourMax": 45, "energyShieldMin": 8, "energyShieldMax": 11 }
   },
   {
@@ -899,6 +1061,8 @@
     "req": { "level": 15, "str": 20, "dex": 20, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "not_for_sale", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [[], [], []],
     "armour": { "armourMin": 42, "armourMax": 49, "evasionMin": 42, "evasionMax": 49 }
   },
   {
@@ -910,6 +1074,8 @@
     "req": { "level": 48, "str": null, "dex": null, "int": 101 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 49, "energyShieldMax": 55 }
   },
   {
@@ -921,6 +1087,8 @@
     "req": { "level": 78, "str": null, "dex": null, "int": 194 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 101, "energyShieldMax": 116 }
   },
   {
@@ -932,6 +1100,8 @@
     "req": { "level": 17, "str": null, "dex": null, "int": 40 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 20, "energyShieldMax": 25 }
   },
   {
@@ -943,6 +1113,8 @@
     "req": { "level": 84, "str": null, "dex": 132, "int": 132 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 355, "evasionMax": 409, "energyShieldMin": 71, "energyShieldMax": 82 }
   },
   {
@@ -954,6 +1126,8 @@
     "req": { "level": 26, "str": null, "dex": null, "int": 58 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 28, "energyShieldMax": 33 }
   },
   {
@@ -965,6 +1139,8 @@
     "req": { "level": 10, "str": null, "dex": 27, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 53, "evasionMax": 69 }
   },
   {
@@ -976,6 +1152,8 @@
     "req": { "level": 55, "str": null, "dex": 114, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 276, "evasionMax": 325 }
   },
   {
@@ -987,6 +1165,8 @@
     "req": { "level": 62, "str": null, "dex": 79, "int": 72 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 207, "evasionMax": 239, "energyShieldMin": 37, "energyShieldMax": 43 }
   },
   {
@@ -998,6 +1178,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": 13 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 7, "energyShieldMax": 10 }
   },
   {
@@ -1009,6 +1191,8 @@
     "req": { "level": 23, "str": 28, "dex": 28, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 64, "armourMax": 80, "evasionMin": 64, "evasionMax": 80 }
   },
   {
@@ -1020,6 +1204,8 @@
     "req": { "level": 45, "str": null, "dex": 51, "int": 51 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "helmet", "not_for_sale"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "cold"], ["elemental_damage", "damage", "elemental", "cold"]],
     "armour": { "evasionMin": 122, "evasionMax": 140, "energyShieldMin": 25, "energyShieldMax": 29 }
   },
   {
@@ -1031,6 +1217,8 @@
     "req": { "level": 30, "str": null, "dex": 66, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "helmet"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 150, "evasionMax": 172 }
   },
   {
@@ -1042,6 +1230,8 @@
     "req": { "level": 44, "str": 50, "dex": null, "int": 50 },
     "socketLimit": 4,
     "tags": ["armour", "default", "helmet", "str_int_armour"],
+    "influenceTags": {"adjudicator": "helmet_adjudicator", "basilisk": "helmet_basilisk", "cleansing": "helmet_cleansing", "crusader": "helmet_crusader", "elder": "helmet_elder", "eyrie": "helmet_eyrie", "shaper": "helmet_shaper", "tangle": "helmet_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 119, "armourMax": 137, "energyShieldMin": 25, "energyShieldMax": 29 }
   }
 ]

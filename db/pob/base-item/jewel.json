@@ -7,7 +7,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "intjewel", "jewel", "not_dex", "not_for_sale", "not_str"]
+    "tags": ["default", "intjewel", "jewel", "not_dex", "not_for_sale", "not_str"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Corvine_Charm",
@@ -17,7 +19,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["animal_charm", "default", "int_animal_charm"]
+    "tags": ["animal_charm", "default", "int_animal_charm"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Crimson_Jewel",
@@ -27,7 +31,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "jewel", "not_dex", "not_for_sale", "not_int", "strjewel"]
+    "tags": ["default", "jewel", "not_dex", "not_for_sale", "not_int", "strjewel"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Ghastly_Eye_Jewel",
@@ -37,7 +43,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["abyss_jewel", "abyss_jewel_summoner", "default", "not_for_sale"]
+    "tags": ["abyss_jewel", "abyss_jewel_summoner", "default", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Hypnotic_Eye_Jewel",
@@ -47,7 +55,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["abyss_jewel", "abyss_jewel_caster", "default", "not_for_sale"]
+    "tags": ["abyss_jewel", "abyss_jewel_caster", "default", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Large_Cluster_Jewel",
@@ -57,7 +67,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "expansion_jewel_large", "jewel", "not_for_sale"]
+    "tags": ["default", "expansion_jewel_large", "jewel", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Lupine_Charm",
@@ -67,7 +79,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["animal_charm", "default", "dex_animal_charm"]
+    "tags": ["animal_charm", "default", "dex_animal_charm"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Medium_Cluster_Jewel",
@@ -77,7 +91,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "expansion_jewel_medium", "jewel", "not_for_sale"]
+    "tags": ["default", "expansion_jewel_medium", "jewel", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Murderous_Eye_Jewel",
@@ -87,7 +103,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["abyss_jewel", "abyss_jewel_melee", "default", "not_for_sale"]
+    "tags": ["abyss_jewel", "abyss_jewel_melee", "default", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Prismatic_Jewel",
@@ -97,7 +115,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"]
+    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Searching_Eye_Jewel",
@@ -107,7 +127,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["abyss_jewel", "abyss_jewel_ranged", "default", "not_for_sale"]
+    "tags": ["abyss_jewel", "abyss_jewel_ranged", "default", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Small_Cluster_Jewel",
@@ -117,7 +139,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "expansion_jewel_small", "jewel", "not_for_sale"]
+    "tags": ["default", "expansion_jewel_small", "jewel", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Timeless_Jewel",
@@ -127,7 +151,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"]
+    "tags": ["default", "dexjewel", "intjewel", "jewel", "not_for_sale", "strjewel"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Ursine_Charm",
@@ -137,7 +163,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["animal_charm", "default", "str_animal_charm"]
+    "tags": ["animal_charm", "default", "str_animal_charm"],
+    "influenceTags": null,
+    "implicitModTypes": []
   },
   {
     "id": "Viridian_Jewel",
@@ -147,6 +175,8 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "dexjewel", "jewel", "not_for_sale", "not_int", "not_str"]
+    "tags": ["default", "dexjewel", "jewel", "not_for_sale", "not_int", "not_str"],
+    "influenceTags": null,
+    "implicitModTypes": []
   }
 ]

@@ -7,7 +7,9 @@
     "implicit": "(20-30)% increased Totem Placement speed",
     "req": { "level": 74, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "quiver", "quiveratlas1"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "quiver", "quiveratlas1"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["speed"]]
   },
   {
     "id": "Blazing_Arrow_Quiver",
@@ -17,7 +19,9 @@
     "implicit": "Adds (12-15) to (24-27) Fire Damage to Attacks",
     "req": { "level": 45, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "fire", "attack"]]
   },
   {
     "id": "Blunt_Arrow_Quiver",
@@ -27,7 +31,9 @@
     "implicit": "(25-35)% increased Stun Duration on Enemies",
     "req": { "level": 16, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [[]]
   },
   {
     "id": "Blunt_Arrow_Quiver",
@@ -37,7 +43,9 @@
     "implicit": "Adds (7-9) to (13-16) Physical Damage to Attacks",
     "req": { "level": 31, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Broadhead_Arrow_Quiver",
@@ -47,7 +55,9 @@
     "implicit": "6 to 12 Added Physical Damage with Bow Attacks",
     "req": { "level": 28, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Broadhead_Arrow_Quiver",
@@ -57,7 +67,9 @@
     "implicit": "(8-10)% increased Attack Speed",
     "req": { "level": 49, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack", "speed"]]
   },
   {
     "id": "Conductive_Quiver",
@@ -67,7 +79,9 @@
     "implicit": "Adds 1 to 5 Lightning Damage to Attacks",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "lightning", "attack"]]
   },
   {
     "id": "Cured_Quiver",
@@ -77,7 +91,9 @@
     "implicit": "Adds 2 to 4 Fire Damage to Attacks",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "fire", "attack"]]
   },
   {
     "id": "Feathered_Arrow_Quiver",
@@ -87,7 +103,9 @@
     "implicit": "(20-30)% increased Projectile Speed",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["speed"]]
   },
   {
     "id": "Fire_Arrow_Quiver",
@@ -97,7 +115,9 @@
     "implicit": "4 to 8 Added Fire Damage with Bow Attacks",
     "req": { "level": 22, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "fire", "attack"]]
   },
   {
     "id": "Fire_Arrow_Quiver",
@@ -107,7 +127,9 @@
     "implicit": "Adds 3 to 5 Fire Damage to Attacks",
     "req": { "level": 9, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "fire", "attack"]]
   },
   {
     "id": "Heavy_Arrow_Quiver",
@@ -117,7 +139,9 @@
     "implicit": "Adds (12-15) to (24-27) Physical Damage to Attacks",
     "req": { "level": 61, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Heavy_Quiver",
@@ -127,7 +151,9 @@
     "implicit": "Adds 1 to 4 Physical Damage to Attacks",
     "req": { "level": 5, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Light_Quiver",
@@ -137,7 +163,9 @@
     "implicit": "+(30-40) to Dexterity",
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attribute"]]
   },
   {
     "id": "Ornate_Quiver",
@@ -147,7 +175,9 @@
     "implicit": "Has 1 Socket",
     "req": { "level": 45, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "quiver"]
+    "tags": ["default", "not_for_sale", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [[]]
   },
   {
     "id": "Penetrating_Arrow_Quiver",
@@ -157,7 +187,9 @@
     "implicit": "Arrows Pierce an additional Target",
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack"]]
   },
   {
     "id": "Penetrating_Arrow_Quiver",
@@ -167,7 +199,9 @@
     "implicit": "Arrows Pierce an additional Target",
     "req": { "level": 25, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack"]]
   },
   {
     "id": "Primal_Arrow_Quiver",
@@ -177,7 +211,9 @@
     "implicit": "(20-30)% increased Elemental Damage with Attack Skills",
     "req": { "level": 66, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "attack"]]
   },
   {
     "id": "Rugged_Quiver",
@@ -187,7 +223,9 @@
     "implicit": "Adds 2 to 3 Cold Damage to Attacks",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "cold", "attack"]]
   },
   {
     "id": "Serrated_Arrow_Quiver",
@@ -197,7 +235,9 @@
     "implicit": "1 to 4 Added Physical Damage with Bow Attacks",
     "req": { "level": 5, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Serrated_Arrow_Quiver",
@@ -207,7 +247,9 @@
     "implicit": "Adds 1 to 4 Physical Damage to Attacks",
     "req": { "level": 4, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Sharktooth_Arrow_Quiver",
@@ -217,7 +259,9 @@
     "implicit": "Gain (3-4) Life per Enemy Hit with Attacks",
     "req": { "level": 10, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]]
   },
   {
     "id": "Sharktooth_Arrow_Quiver",
@@ -227,7 +271,9 @@
     "implicit": "Gain (6-8) Life per Enemy Hit with Attacks",
     "req": { "level": 14, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]]
   },
   {
     "id": "Spike-Point_Arrow_Quiver",
@@ -237,7 +283,9 @@
     "implicit": "(20-30)% increased Global Critical Strike Chance",
     "req": { "level": 45, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["critical"]]
   },
   {
     "id": "Spike-Point_Arrow_Quiver",
@@ -247,7 +295,9 @@
     "implicit": "(20-30)% increased Critical Strike Chance with Bows",
     "req": { "level": 40, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack", "critical"]]
   },
   {
     "id": "Two-Point_Arrow_Quiver",
@@ -257,7 +307,9 @@
     "implicit": "(20-30)% increased Global Accuracy Rating",
     "req": { "level": 4, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver", "trade_market_legacy_item"]
+    "tags": ["default", "quiver", "trade_market_legacy_item"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack"]]
   },
   {
     "id": "Two-Point_Arrow_Quiver",
@@ -267,7 +319,9 @@
     "implicit": "(20-30)% increased Global Accuracy Rating",
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["attack"]]
   },
   {
     "id": "Vile_Arrow_Quiver",
@@ -277,6 +331,8 @@
     "implicit": "Gain (10-15)% of Physical Damage as Extra Chaos Damage",
     "req": { "level": 55, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "quiver"]
+    "tags": ["default", "quiver"],
+    "influenceTags": {"adjudicator": "quiver_adjudicator", "basilisk": "quiver_basilisk", "cleansing": "quiver_cleansing", "crusader": "quiver_crusader", "elder": "quiver_elder", "eyrie": "quiver_eyrie", "shaper": "quiver_shaper", "tangle": "quiver_tangle"},
+    "implicitModTypes": [["physical_damage", "chaos_damage", "damage", "physical", "chaos"]]
   }
 ]

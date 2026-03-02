@@ -7,7 +7,9 @@
     "implicit": "+(17-23)% to Chaos Resistance",
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["chaos", "resistance"]]
   },
   {
     "id": "Bone_Ring",
@@ -17,7 +19,9 @@
     "implicit": "Minions have +(10-15)% to all Elemental Resistances",
     "req": { "level": 25, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "ring_can_roll_minion_modifiers"]
+    "tags": ["default", "ring", "ring_can_roll_minion_modifiers"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "resistance", "minion"]]
   },
   {
     "id": "Breach_Ring",
@@ -27,7 +31,9 @@
     "implicit": "Properties are doubled while in a Breach",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[]]
   },
   {
     "id": "Cerulean_Ring",
@@ -37,7 +43,9 @@
     "implicit": "(8-10)% increased maximum Mana",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas4"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas4"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["resource", "mana"]]
   },
   {
     "id": "Cogwork_Ring",
@@ -47,7 +55,9 @@
     "implicit": "-1 Prefix Modifier allowed\n+1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n25% increased Suffix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], [], []]
   },
   {
     "id": "Composite_Ring",
@@ -57,7 +67,9 @@
     "implicit": "+3 Prefix Modifiers allowed\n-3 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], []]
   },
   {
     "id": "Coral_Ring",
@@ -67,7 +79,9 @@
     "implicit": "+(20-30) to maximum Life",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["resource", "life"]]
   },
   {
     "id": "Cryonic_Ring",
@@ -77,7 +91,9 @@
     "implicit": "+2% to maximum Cold Resistance\nCannot roll Modifiers of Non-Cold Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "cold", "resistance"], ["elemental", "cold", "resistance"]]
   },
   {
     "id": "Diamond_Ring",
@@ -87,7 +103,9 @@
     "implicit": "(20-30)% increased Global Critical Strike Chance",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["critical"]]
   },
   {
     "id": "Dusk_Ring",
@@ -97,7 +115,9 @@
     "implicit": "Left ring slot: 15% reduced Skill Effect Duration\nRight ring slot: 15% increased Skill Effect Duration",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], []]
   },
   {
     "id": "Enthalpic_Ring",
@@ -107,7 +127,9 @@
     "implicit": "+2% to maximum Fire Resistance\nCannot roll Modifiers of Non-Fire Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "resistance"], ["elemental", "fire", "resistance"]]
   },
   {
     "id": "Formless_Ring",
@@ -117,7 +139,9 @@
     "implicit": "(5-7)% increased Global Defences",
     "req": { "level": 42, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["defences"]]
   },
   {
     "id": "Fugitive_Ring",
@@ -127,7 +151,9 @@
     "implicit": "+2% to maximum Chaos Resistance\nCannot roll Modifiers of Non-Chaos Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["chaos", "resistance"], ["chaos", "resistance"]]
   },
   {
     "id": "Geodesic_Ring",
@@ -137,7 +163,9 @@
     "implicit": "+1 Prefix Modifier allowed\n-1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n25% increased Prefix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], [], []]
   },
   {
     "id": "Gloam_Ring",
@@ -147,7 +175,9 @@
     "implicit": "Left ring slot: Minions take 15% reduced Damage\nRight ring slot: Minions take 15% increased Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring", "ring_can_roll_minion_modifiers"]
+    "tags": ["default", "not_for_sale", "ring", "ring_can_roll_minion_modifiers"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["minion"], ["minion"]]
   },
   {
     "id": "Gold_Ring",
@@ -157,7 +187,9 @@
     "implicit": "(6-15)% increased Rarity of Items found",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["drop"]]
   },
   {
     "id": "Golden_Hoop",
@@ -167,7 +199,9 @@
     "implicit": "+(8-12) to all Attributes",
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "demigods", "not_for_sale", "ring"]
+    "tags": ["default", "demigods", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["attribute"]]
   },
   {
     "id": "Helical_Ring",
@@ -177,7 +211,9 @@
     "implicit": "-2 Prefix Modifiers allowed\n+1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n50% increased Suffix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], [], []]
   },
   {
     "id": "Iolite_Ring",
@@ -187,7 +223,9 @@
     "implicit": "(17-23)% increased Chaos Damage",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas5"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas5"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["chaos_damage", "damage", "chaos"]]
   },
   {
     "id": "Iron_Ring",
@@ -197,7 +235,9 @@
     "implicit": "Adds 1 to 4 Physical Damage to Attacks",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Jet_Ring",
@@ -207,7 +247,9 @@
     "implicit": "(5-10)% increased Global Defences",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "demigods", "not_for_sale", "ring"]
+    "tags": ["default", "demigods", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["defences"]]
   },
   {
     "id": "Manifold_Ring",
@@ -217,7 +259,9 @@
     "implicit": "+1 Prefix Modifier allowed\n-2 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed\n50% increased Prefix Modifier magnitudes",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], [], []]
   },
   {
     "id": "Moonstone_Ring",
@@ -227,7 +271,9 @@
     "implicit": "+(15-25) to maximum Energy Shield",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["defences", "energy_shield"]]
   },
   {
     "id": "Nameless_Ring",
@@ -237,7 +283,9 @@
     "implicit": "50% increased Elemental Ailment Duration on you\n50% reduced Effect of Curses on you",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental"], ["elemental"]]
   },
   {
     "id": "Opal_Ring",
@@ -247,7 +295,9 @@
     "implicit": "(15-25)% increased Elemental Damage",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas2"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas2"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]]
   },
   {
     "id": "Organic_Ring",
@@ -257,7 +307,9 @@
     "implicit": "3% additional Physical Damage Reduction\nCannot roll Modifiers of Non-Physical Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["physical"], ["physical"]]
   },
   {
     "id": "Paua_Ring",
@@ -267,7 +319,9 @@
     "implicit": "+(20-30) to maximum Mana",
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["resource", "mana"]]
   },
   {
     "id": "Penumbra_Ring",
@@ -277,7 +331,9 @@
     "implicit": "Left ring slot: 30% reduced Effect of Curses on you\nRight ring slot: 30% increased Effect of Curses on you",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["curse"], ["curse"]]
   },
   {
     "id": "Prismatic_Ring",
@@ -287,7 +343,9 @@
     "implicit": "+(8-10)% to all Elemental Resistances",
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "resistance"]]
   },
   {
     "id": "Ratcheting_Ring",
@@ -297,7 +355,9 @@
     "implicit": "-3 Prefix Modifiers allowed\n+3 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "experimental_base", "not_for_sale", "ring"]
+    "tags": ["default", "experimental_base", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[], [], []]
   },
   {
     "id": "Ring",
@@ -307,7 +367,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": []
   },
   {
     "id": "Ruby_Ring",
@@ -317,7 +379,9 @@
     "implicit": "+(20-30)% to Fire Resistance",
     "req": { "level": 16, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "resistance"]]
   },
   {
     "id": "Sapphire_Ring",
@@ -327,7 +391,9 @@
     "implicit": "+(20-30)% to Cold Resistance",
     "req": { "level": 8, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "cold", "resistance"]]
   },
   {
     "id": "Shadowed_Ring",
@@ -337,7 +403,9 @@
     "implicit": "Left ring slot: 25% of Cold Damage from Hits taken as Fire Damage\nRight ring slot: 25% of Fire Damage from Hits taken as Cold Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "cold"], ["elemental", "fire", "cold"]]
   },
   {
     "id": "Shadowed_Ring",
@@ -347,7 +415,9 @@
     "implicit": "Left ring slot: 25% of Fire Damage from Hits taken as Lightning Damage\nRight ring slot: 25% of Lightning Damage from Hits taken as Fire Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "lightning"], ["elemental", "fire", "lightning"]]
   },
   {
     "id": "Shadowed_Ring",
@@ -357,7 +427,9 @@
     "implicit": "Left ring slot: 25% of Lightning Damage from Hits taken as Cold Damage\nRight ring slot: 25% of Cold Damage from Hits taken as Lightning Damage",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "cold", "lightning"], ["elemental", "cold", "lightning"]]
   },
   {
     "id": "Steel_Ring",
@@ -367,7 +439,9 @@
     "implicit": "Adds (3-4) to (10-14) Physical Damage to Attacks",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas1"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas1"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["physical_damage", "damage", "physical", "attack"]]
   },
   {
     "id": "Synaptic_Ring",
@@ -377,7 +451,9 @@
     "implicit": "+2% to maximum Lightning Resistance\nCannot roll Modifiers of Non-Lightning Damage Types",
     "req": { "level": 32, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "lightning", "resistance"], ["elemental", "lightning", "resistance"]]
   },
   {
     "id": "Tenebrous_Ring",
@@ -387,7 +463,9 @@
     "implicit": "Left ring slot: 30% reduced Duration of Ailments on You\nRight ring slot: 30% increased Duration of Ailments on You",
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "not_for_sale", "ring"]
+    "tags": ["default", "not_for_sale", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["ailment"], ["ailment"]]
   },
   {
     "id": "Topaz_Ring",
@@ -397,7 +475,9 @@
     "implicit": "+(20-30)% to Lightning Resistance",
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring"]
+    "tags": ["default", "ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "lightning", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring",
@@ -407,7 +487,9 @@
     "implicit": "+(12-16)% to Fire and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "lightning", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring",
@@ -417,7 +499,9 @@
     "implicit": "+(12-16)% to Cold and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "cold", "lightning", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring",
@@ -427,7 +511,9 @@
     "implicit": "+(12-16)% to Fire and Cold Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "cold", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring_(Cold/Lightning)",
@@ -437,7 +523,9 @@
     "implicit": "+(12-16)% to Cold and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "cold", "lightning", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring_(Fire/Cold)",
@@ -447,7 +535,9 @@
     "implicit": "+(12-16)% to Fire and Cold Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "cold", "resistance"]]
   },
   {
     "id": "Two-Stone_Ring_(Fire/Lightning)",
@@ -457,7 +547,9 @@
     "implicit": "+(12-16)% to Fire and Lightning Resistances",
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "twostonering"]
+    "tags": ["default", "ring", "twostonering"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["elemental", "fire", "lightning", "resistance"]]
   },
   {
     "id": "Unset_Ring",
@@ -467,7 +559,9 @@
     "implicit": "Has 1 Socket",
     "req": { "level": 5, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["default", "ring", "unset_ring"]
+    "tags": ["default", "ring", "unset_ring"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [[]]
   },
   {
     "id": "Vermillion_Ring",
@@ -477,6 +571,8 @@
     "implicit": "(5-7)% increased maximum Life",
     "req": { "level": 80, "str": null, "dex": null, "int": null },
     "socketLimit": null,
-    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas3"]
+    "tags": ["atlas_base_type", "default", "not_for_sale", "ring", "ringatlas3"],
+    "influenceTags": {"adjudicator": "ring_adjudicator", "basilisk": "ring_basilisk", "cleansing": "ring_cleansing", "crusader": "ring_crusader", "elder": "ring_elder", "eyrie": "ring_eyrie", "shaper": "ring_shaper", "tangle": "ring_tangle"},
+    "implicitModTypes": [["resource", "life"]]
   }
 ]

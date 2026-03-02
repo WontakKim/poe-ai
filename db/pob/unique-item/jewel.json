@@ -39,6 +39,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "+(5-10) to Dexterity",
@@ -55,6 +56,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "60% reduced Cost of Aura Skills that summon Totems"
@@ -70,6 +72,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{The Unbreakable} in normal{Contract: Breaking the Unbreakable}",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(20-25)% increased Spell Damage",
@@ -103,6 +106,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "10% increased Mana Regeneration Rate",
@@ -120,6 +124,8 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
+    "variants": ["Pre 3.14.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(15-20)% increased Vaal Skill Effect Duration",
@@ -152,6 +158,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(40-60)% of Damage Taken from Stunning Hits is Recovered as Life"
@@ -195,11 +202,13 @@
     "name": "Brutal Restraint",
     "baseType": "Timeless Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from Maraketh Legion",
+    "variants": ["Asenath (Dance with Death)", "Deshret (Wind Dancer) (Pre 3.11.0)", "Nasima (Second Sight)", "Balbala (The Traitor)"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Denoted service of (500-8000) dekhara in the akhara of Balbala",
@@ -217,6 +226,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Intelligence",
@@ -249,6 +259,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Dexterity",
@@ -282,6 +293,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "50% chance to gain an additional Vaal Soul per Enemy Shattered"
@@ -297,6 +309,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(20-30)% increased Mana Regeneration Rate",
@@ -313,6 +326,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.8.0", "Current"],
     "implicit": [],
     "mods": [
       "Traps and Mines have a 25% chance to Poison on Hit",
@@ -345,6 +359,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.9.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -365,6 +381,8 @@
     "req": null,
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.21.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -382,6 +400,8 @@
     "req": null,
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.21.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -399,6 +419,8 @@
     "req": null,
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.21.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Elemental Damage",
@@ -432,6 +454,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "3% reduced Mana Cost of Skills",
@@ -449,6 +472,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "10% chance to Avoid Elemental Ailments",
@@ -466,6 +491,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "4% increased Effect of your Curses",
@@ -497,6 +523,8 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.8.0", "Pre 3.23.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Skeletons gain Added Chaos Damage equal to (20-30)% of Maximum Energy Shield on your Equipped Shield"
@@ -512,6 +540,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Searing Exarch}",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Removes all Energy Shield",
@@ -530,6 +559,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "With at least 40 Strength in Radius, Combust is Disabled",
@@ -546,6 +576,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Strength",
@@ -573,11 +604,13 @@
     "name": "Elegant Hubris",
     "baseType": "Timeless Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from Eternal Legion",
+    "variants": ["Cadiro (Supreme Decadence)", "Chitus (Supreme Ego) (Pre 3.11.0)", "Victario (Supreme Grandstanding)", "Caspiro (Supreme Ostentation)"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Commissioned (2000-160000) coins to commemorate Caspiro",
@@ -595,6 +628,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Eternal Labyrinth",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "20% increased Global Accuracy Rating",
@@ -612,6 +646,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Eternal Labyrinth",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "4% increased maximum Life",
@@ -630,6 +665,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Eternal Labyrinth",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "10% increased Damage",
@@ -647,6 +683,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Eternal Labyrinth",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -664,6 +701,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(7-10)% increased Elemental Damage",
@@ -682,6 +720,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "(15-20)% increased Armour",
@@ -699,6 +738,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 2.5.0", "Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "(3-6)% increased maximum Energy Shield",
@@ -716,6 +756,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Intelligence",
@@ -733,6 +774,8 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.10.0", "Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "+(5-10) to Intelligence",
@@ -749,6 +792,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -797,6 +841,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -815,6 +860,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Dexterity",
@@ -832,6 +878,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Minions have (5-15)% increased maximum Life",
@@ -843,11 +890,13 @@
     "name": "Fortress Covenant",
     "baseType": "Cobalt Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": null,
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Minions deal (35-45)% increased Damage",
@@ -867,6 +916,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Maximum 10 Fragile Regrowth",
@@ -900,6 +951,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.8.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Summon 4 additional Skeleton Warriors with Summon Skeleton",
@@ -916,6 +969,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -929,11 +983,13 @@
     "name": "Glorious Vanity",
     "baseType": "Timeless Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from Vaal Legion",
+    "variants": ["Doryani (Corrupted Soul)", "Xibaqua (Divine Flesh)", "Zerphi (Eternal Youth) (Pre 3.11.0)", "Ahuana (Immortal Ambition)"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Bathed in the blood of (100-8000) sacrificed in the name of Ahuana",
@@ -951,6 +1007,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Lord's Labyrinth",
+    "variants": ["Pre 3.0.0", "Pre 3.10.0", "Current - Crit Chance", "Current - Minion Crit Multi", "Current - Min Power Charge"],
+    "limitedTo": 3,
     "implicit": [],
     "mods": [
       "+1 to Minimum Power Charges per Grand Spectrum"
@@ -966,6 +1024,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Lord's Labyrinth",
+    "variants": ["Pre 3.0.0", "Pre 3.10.0", "Current - Elemental Resistances", "Current - Maximum Life", "Current - Min Endurance Charge"],
+    "limitedTo": 3,
     "implicit": [],
     "mods": [
       "+1 to Minimum Endurance Charges per Grand Spectrum"
@@ -981,6 +1041,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops in The Lord's Labyrinth",
+    "variants": ["Pre 2.5.0", "Pre 3.0.0", "Pre 3.10.0", "Current - Elemental Damage", "Current - Chance to avoid Ailments", "Current - Min Frenzy Charge"],
+    "limitedTo": 3,
     "implicit": [],
     "mods": [
       "+1 to Minimum Frenzy Charges per Grand Spectrum"
@@ -996,6 +1058,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(8-12)% increased Damage over Time",
@@ -1013,6 +1077,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "(15-25)% increased Trap Damage",
@@ -1029,6 +1094,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.17.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Lightning Damage",
@@ -1045,6 +1112,8 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(15-20)% increased maximum Mana",
@@ -1062,6 +1131,8 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(20-25)% increased Damage for each Magic Item Equipped",
@@ -1078,6 +1149,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-20)% increased Movement Speed while Ignited",
@@ -1095,6 +1168,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead"
@@ -1109,6 +1183,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(500-1000)% increased Stun and Block Recovery"
@@ -1124,6 +1199,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(16-24) to Strength",
@@ -1141,6 +1217,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1231,11 +1309,13 @@
     "name": "Lethal Pride",
     "baseType": "Timeless Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from Karui Legion",
+    "variants": ["Kaom (Strength of Blood)", "Kiloava (Glancing Blows) (Pre 3.11.0)", "Rakiata (Tempered by War)", "Akoya (Chainbreaker)"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Commanded leadership over (10000-18000) warriors under Akoya",
@@ -1267,6 +1347,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Impale Chance (Pre 3.13.0)", "Impale Overwhelm (Pre 3.13.0)", "Impale Effect (Pre 3.13.0)", "Impale Chance (Current)", "Impale Overwhelm (Current)", "Impale Effect (Current)"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "5% increased Impale Effect",
@@ -1299,6 +1381,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
@@ -1315,6 +1398,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "+(0.3-0.4) metres to Melee Strike Range while Unarmed",
@@ -1331,6 +1416,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Eater of Worlds}",
+    "variants": ["Pre 3.19.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "-(80-70)% to All Elemental Resistances",
@@ -1348,6 +1435,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Axe", "Claw", "Dagger", "Mace", "Sword"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "to deal Double Damage with the Main-Hand Weapon",
@@ -1393,11 +1482,13 @@
     "name": "Militant Faith",
     "baseType": "Timeless Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from Templar Legion",
+    "variants": ["Avarius (Power of Purpose)", "Dominus (Inner Conviction)", "Venarius (The Agnostic) (Pre 3.11.0)", "Maxarius (Transcendence)", "Totem Damage", "Brand Damage", "Channelling Damage", "Area Damage", "Elemental Damage", "Elemental Resistances", "Effect of non-Damaging Ailments", "Elemental Ailment Duration", "Duration of Curses", "Minion Attack and Cast Speed", "Minions Accuracy Rating", "Mana Regen", "Skill Cost", "Non-Curse Aura Effect", "Defences from Shield"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "3% increased Defences from Equipped Shield per 10 Devotion",
@@ -1415,6 +1506,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "10% increased Experience Gain of Corrupted Gems"
@@ -1430,6 +1522,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Unbreakable} in normal{Contract: Breaking the Unbreakable}",
+    "variants": ["Pre 3.26", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Item Level: 82",
@@ -1463,6 +1557,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.1.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(15-20)% increased Damage with Hits against Chilled Enemies",
@@ -1495,6 +1591,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -1527,6 +1624,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1544,6 +1642,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Projectiles Pierce an additional Target",
@@ -1591,6 +1690,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.3.0", "Current"],
     "implicit": [],
     "mods": [
       "Golem Skills have (20-30)% increased Cooldown Recovery Rate",
@@ -1644,6 +1744,8 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "While your Passive Skill Tree connects to a class' starting location, you gain:",
@@ -1661,11 +1763,13 @@
     "name": "Quickening Covenant",
     "baseType": "Viridian Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": null,
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Minions have (12-16)% increased Attack Speed",
@@ -1685,6 +1789,8 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Crimson Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(30-50)% reduced Totem Damage",
@@ -1702,6 +1808,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.3.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(8-12)% increased Global Physical Damage",
@@ -1739,6 +1847,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.4.0", "Pre 3.20.0", "Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "+(2-6)% Chance to Block Spell Damage",
@@ -1789,6 +1898,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "4% increased Skill Effect Duration",
@@ -1806,6 +1916,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Maximum 5 Fragile Regrowth",
@@ -1839,6 +1950,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-20)% increased Attack Speed while Chilled",
@@ -1906,6 +2018,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "While your Passive Skill Tree connects to a class' starting location, you gain:",
@@ -1927,6 +2040,7 @@
     "league": "Heist",
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "+(2-6)% Chance to Block Spell Damage",
@@ -1959,6 +2073,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.0.0", "Pre 3.17.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Global Physical Damage",
@@ -1975,6 +2091,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1992,6 +2110,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(20-30)% chance to gain an additional Vaal Soul on Kill"
@@ -2002,11 +2121,13 @@
     "name": "Seething Fury",
     "baseType": "Viridian Jewel",
     "type": "Jewel",
-    "levelReq": null,
+    "levelReq": 20,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.16.0", "Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Attack Damage while holding a Shield",
@@ -2025,6 +2146,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-20)% increased Damage per Curse on you",
@@ -2041,6 +2163,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2057,6 +2180,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "+2 to maximum number of Spectres",
@@ -2077,6 +2202,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "3% increased Totem Life per 10 Strength Allocated in Radius",
@@ -2093,6 +2219,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.20.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Minions deal (8-12)% increased Damage",
@@ -2109,6 +2237,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(7-10)% increased maximum Mana",
@@ -2125,6 +2255,8 @@
     "req": null,
     "sockets": null,
     "source": "Drops from the Simulacrum Encounter",
+    "variants": ["Strength", "Dexterity", "Intelligence", "Life", "Mana", "Energy Shield", "Armour", "Evasion Rating", "Accuracy Rating"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "This Jewel's Socket has 25% increased effect per Allocated Passive Skill between",
@@ -2142,6 +2274,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.6.0", "Pre 3.17.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(7-13)% increased Chaos Damage",
@@ -2175,6 +2309,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -2206,6 +2341,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -2222,6 +2359,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "20% reduced Flask Charges gained",
@@ -2239,6 +2378,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Flasks applied to you have 20% reduced Effect",
@@ -2256,6 +2397,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Flasks gain 2 Charges when you hit a Non-Unique Enemy, no more than once per second",
@@ -2272,6 +2415,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "+(10-20) to Strength",
@@ -2289,6 +2433,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Vaal Omnitect}",
+    "variants": ["Pre 3.8.0", "Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Strength per 1 Strength on Allocated Passives in Radius",
@@ -2305,6 +2450,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Vaal Omnitect}",
+    "variants": ["Pre 3.8.0", "Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
@@ -2321,6 +2467,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Vaal Omnitect}",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
@@ -2337,6 +2484,7 @@
     "req": null,
     "sockets": null,
     "source": "Vaal Aspect Combination",
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "(0–100)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels"
@@ -2352,6 +2500,8 @@
     "req": null,
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.23.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped"
@@ -2367,6 +2517,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
@@ -2384,6 +2535,8 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{The Blue Dream} using currency{Blessing of Chayula}",
+    "variants": ["Pre 3.21.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
@@ -2416,6 +2569,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Viridian Jewel}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "(30-40)% increased Armour while Bleeding",
@@ -2435,6 +2589,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
@@ -2452,6 +2607,8 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{The Green Dream} using currency{Blessing of Chayula}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
@@ -2484,6 +2641,8 @@
     "req": null,
     "sockets": null,
     "source": "King of The Mists",
+    "variants": ["Life", "Energy Shield", "Mana", "Armour", "Evasion Rating", "Attributes", "Global Crit Chance", "Physical Damage", "Lightning Damage", "Cold Damage", "Fire Damage", "Chaos Damage", "Chaos Resistance"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Selected Variant: 1",
@@ -2500,6 +2659,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2518,6 +2678,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Life", "Energy Shield", "Mana", "Armour", "Evasion Rating", "Attributes", "Global Crit Chance", "Physical Damage", "Lightning Damage", "Cold Damage", "Fire Damage", "Chaos Damage", "Chaos Resistance"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Selected Variant: 1",
@@ -2534,6 +2696,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in Chayula Breach or from unique{Chayula, Who Dreamt}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
@@ -2551,6 +2714,8 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{The Red Dream} using currency{Blessing of Chayula}",
+    "variants": ["Pre 3.21.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
@@ -2583,6 +2748,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.14.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(8-15)% increased Armour",
@@ -2599,6 +2766,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Sirus, Awakener of Worlds}",
+    "variants": ["Small Ring", "Medium Ring", "Large Ring", "Very Large Ring", "Massive Ring (Uber)"],
     "implicit": [],
     "mods": [
       "Only affects Passives in Massive Ring",
@@ -2616,6 +2784,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on normal{Cobalt Jewel}",
+    "variants": ["Pre 3.0.0", "Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "(10-20)% reduced Skeleton Duration",
@@ -2636,6 +2805,7 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{Tempered Flesh} via currency{Vial of Transcendence}",
+    "variants": ["Pre 3.8.0", "Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Strength per 1 Strength on Allocated Passives in Radius",
@@ -2654,6 +2824,7 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{Tempered Mind} via currency{Vial of Transcendence}",
+    "variants": ["Pre 3.8.0", "Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
@@ -2672,6 +2843,7 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{Tempered Spirit} via currency{Vial of Transcendence}",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
@@ -2704,6 +2876,8 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "Minions have (6-8)% increased Area of Effect of Area Skills",
@@ -2719,6 +2893,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "Allocated Small Passive Skills in Radius grant nothing",
@@ -2765,6 +2940,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "Minions deal (10-15)% increased Damage",
@@ -2784,6 +2960,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from the Simulacrum Encounter",
+    "variants": ["Adds 1 Small Passive Skill", "Adds 3 Small Passive Skills", "Adds 5 Small Passive Skills", "Adds 7 Small Passive Skills"],
     "implicit": [],
     "mods": [
       "Adds 3 Jewel Socket Passive Skills",
@@ -2800,6 +2977,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.9.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -2816,6 +2995,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "10% increased Attack Damage",
@@ -2832,6 +3013,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "100% increased effect of Tattoos in Radius"
@@ -2863,6 +3045,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(8-12)% increased Global Physical Damage",
@@ -2879,6 +3062,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -2897,6 +3082,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "limitedTo": 2,
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -2916,6 +3102,8 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.3.0", "Current"],
+    "limitedTo": 1,
     "implicit": [],
     "mods": [
       "(10-15)% increased Cold Damage",

@@ -8,6 +8,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6.5, "chargesUsed": 35, "chargesMax": 65, "buff": ["+35% to Chaos Resistance"] }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [["flask"]],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["60% reduced Effect of Freeze on you"] }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [["flask"]],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Armour"] }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 8, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 8.5, "chargesUsed": 15, "chargesMax": 40, "buff": ["+35% to all Elemental Resistances"] }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 40, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 690, "mana": 200, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1000, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 350, "duration": 5, "chargesUsed": 8, "chargesMax": 38 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 7.5, "chargesUsed": 20, "chargesMax": 50, "buff": ["30% increased Stun Threshold", "Cannot be Stunned if you've been Stunned during Effect"] }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 20, "chargesMax": 40, "buff": ["100% increased Global Critical Strike Chance"] }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 2400, "duration": 3.5, "chargesUsed": 15, "chargesMax": 45 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 1400, "duration": 5, "chargesUsed": 8, "chargesMax": 42 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 65, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 2080, "duration": 2, "chargesUsed": 15, "chargesMax": 45 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 65, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 1800, "duration": 7, "chargesUsed": 8, "chargesMax": 42 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 830, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 24, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 250, "duration": 5, "chargesUsed": 8, "chargesMax": 36 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 5, "chargesUsed": 60, "chargesMax": 80, "buff": ["30% increased Rarity of Items found"] }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 640, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 170, "duration": 4.5, "chargesUsed": 7, "chargesMax": 30 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Armour"] }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 360, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 120, "duration": 4, "chargesUsed": 9, "chargesMax": 36 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 60, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask", "not_for_sale"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1740, "mana": 480, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 42, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1990, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 42, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 700, "duration": 6, "chargesUsed": 6, "chargesMax": 30 }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "expedition_flask", "flask", "not_for_sale", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [["flask"]],
     "flask": { "duration": 4, "chargesUsed": 40, "chargesMax": 60, "buff": ["+200 to Ward"] }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Evasion Rating"] }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 30, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 510, "mana": 140, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 6, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 250, "duration": 3.5, "chargesUsed": 9, "chargesMax": 30 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": 6, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 90, "duration": 4, "chargesUsed": 8, "chargesMax": 35 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": 20, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 230, "mana": 100, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": 3, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 150, "duration": 3.5, "chargesUsed": 8, "chargesMax": 28 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 3, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 70, "duration": 3.5, "chargesUsed": 7, "chargesMax": 30 }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+10% chance to Suppress Spell Damage", "Phasing"] }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 4, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["40% increased Movement Speed"] }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Fire Resistance", "+40% to Fire Resistance"] }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1440, "mana": 400, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1200, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 36, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 480, "duration": 5.5, "chargesUsed": 7, "chargesMax": 35 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 1460, "duration": 1.5, "chargesUsed": 15, "chargesMax": 30 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 50, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 1100, "duration": 6.5, "chargesUsed": 7, "chargesMax": 35 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Cold Resistance", "+40% to Cold Resistance"] }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 6, "chargesUsed": 40, "chargesMax": 60, "buff": ["Onslaught"] }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": 10, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "hybrid_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 100, "mana": 70, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "life_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "life": 70, "duration": 3, "chargesUsed": 7, "chargesMax": 21 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "mana_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "mana": 50, "duration": 3, "chargesUsed": 6, "chargesMax": 24 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [["flask"]],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Evasion Rating"] }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": 27, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [["flask"]],
     "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["40% increased Damage"] }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 18, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "flask", "utility_flask"],
+    "influenceTags": null,
+    "implicitModTypes": [],
     "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Lightning Resistance", "+40% to Lightning Resistance"] }
   }
 ]

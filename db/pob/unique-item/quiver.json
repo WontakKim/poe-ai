@@ -25,6 +25,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.17.0", "Current"],
     "implicit": ["(20-30)% increased Projectile Speed"],
     "mods": [
       "Grants Level 5 Frostbite Skill",
@@ -45,6 +46,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 2.0.0", "Pre 3.17.0", "Current"],
     "implicit": ["Adds (12-15) to (24-27) Fire Damage to Attacks"],
     "mods": [
       "10% increased Attack Speed",
@@ -82,6 +84,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["1 to 4 Added Physical Damage with Bow Attacks"],
     "mods": [
       "(20-25)% reduced Enemy Stun Threshold",
@@ -118,6 +121,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["Gain (6-8) Life per Enemy Hit with Attacks"],
     "mods": [
       "+(15-25) to Strength",
@@ -177,6 +181,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.17.0", "Current"],
     "implicit": ["Gain (10-15)% of Physical Damage as Extra Chaos Damage"],
     "mods": [
       "10% increased Attack Speed",
@@ -196,6 +201,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "(20-24)% Chance to Block Attack Damage",
@@ -255,6 +261,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Rigwald, The Wolven King} (Level 70+)",
+    "variants": ["Pre 3.14.0", "Current"],
     "implicit": ["(20-30)% increased Global Accuracy Rating"],
     "mods": [
       "-10% to Fire Resistance",
@@ -274,6 +281,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["(20-30)% increased Projectile Speed"],
     "mods": [
       "+(30-40) to Dexterity",
@@ -293,6 +301,7 @@
     "league": "Harvest",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["(12-16) to (24-27) Added Physical Damage with Bow Attacks"],
     "mods": [
       "+(20-40) to Dexterity",
@@ -330,6 +339,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.5.0", "Current"],
     "implicit": ["(20-30)% increased Critical Strike Chance with Bows"],
     "mods": [
       "+30 to Dexterity",
@@ -350,6 +360,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Catarina} in normal{Mastermind's Lair}",
+    "variants": ["Minion Damage affects you", "Minion Attack Speed affects you", "Minion Cast Speed affects you", "Cast Speed with Minion Skills", "Minions are Aggressive", "Armour and Evasion Rating", "Evasion Rating and Energy Shield", "Life and Mana Regen", "Mana and Life Regen", "Fire and Cold Damage", "Fire and Lightning Damage", "Cold and Lightning Damage"],
     "implicit": ["Gain (10-15)% of Physical Damage as Extra Chaos Damage"],
     "mods": [
       "+(10-20) to Dexterity and Intelligence",
@@ -370,6 +381,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Pre 3.26.0", "Current"],
     "implicit": ["(8-10)% increased Attack Speed"],
     "mods": [
       "Grants Call of Steel",
@@ -446,6 +458,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 1.2.0", "Pre 2.0.0", "Pre 3.17.0", "Current"],
     "implicit": ["Adds (12-15) to (24-27) Fire Damage to Attacks"],
     "mods": [
       "10% increased Attack Speed",
@@ -467,6 +480,7 @@
     "sockets": null,
     "influences": ["shaper", "elder"],
     "source": "Drops from unique{The Elder} (Uber)",
+    "variants": ["Pre 3.5.0", "Pre 3.17.0", "Current"],
     "implicit": ["(20-30)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Consumes a Void Charge to Trigger Level 20 Void Shot when you fire Arrows with a Non-Triggered Skill",

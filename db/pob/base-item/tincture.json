@@ -8,6 +8,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "fire", "attack", "ailment"], ["elemental_damage", "damage", "elemental", "fire", "attack", "ailment"]],
     "tincture": { "manaBurn": 0.6, "cooldown": 7 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["physical_damage", "bleed", "damage", "physical", "attack", "ailment"], ["physical_damage", "bleed", "damage", "physical", "attack", "ailment"]],
     "tincture": { "manaBurn": 0.7, "cooldown": 6 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "cold", "attack", "ailment"], ["elemental_damage", "damage", "elemental", "cold", "attack", "ailment"]],
     "tincture": { "manaBurn": 0.6, "cooldown": 7 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "lightning", "attack", "ailment"], ["elemental_damage", "damage", "elemental", "lightning", "attack", "ailment"]],
     "tincture": { "manaBurn": 0.6, "cooldown": 7 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["attack"], ["attack"]],
     "tincture": { "manaBurn": 0.9, "cooldown": 10 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["attack"]],
     "tincture": { "manaBurn": 0.5, "cooldown": 8 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["chaos_damage", "poison", "damage", "chaos", "attack", "ailment"], ["chaos_damage", "poison", "damage", "chaos", "attack", "ailment"]],
     "tincture": { "manaBurn": 0.7, "cooldown": 6 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "attack"]],
     "tincture": { "manaBurn": 0.7, "cooldown": 8 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["attack", "critical"]],
     "tincture": { "manaBurn": 0.7, "cooldown": 8 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": null,
     "tags": ["default", "tincture"],
+    "influenceTags": null,
+    "implicitModTypes": [["attack"], ["attack"]],
     "tincture": { "manaBurn": 0.9, "cooldown": 8 }
   }
 ]

@@ -8,6 +8,7 @@
     "league": null,
     "req": { "str": 138, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Pre 3.0.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds 40 to 60 Physical Damage to Attacks",
@@ -100,6 +101,7 @@
     "req": { "str": 0, "dex": 0, "int": 23 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.9.0", "Current"],
     "implicit": [],
     "mods": [
       "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
@@ -120,6 +122,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 23 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
@@ -138,6 +141,7 @@
     "league": null,
     "req": { "str": 0, "dex": 138, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "Grants Level 30 Snipe Skill",
@@ -291,6 +295,7 @@
     "req": { "str": 64, "dex": 0, "int": 64 },
     "sockets": null,
     "source": "Drops from unique{Craiceann, First of the Deep}",
+    "variants": ["Pre 3.4.0", "Current"],
     "implicit": [],
     "mods": [
       "+(4-6)% Chance to Block Spell Damage",
@@ -329,6 +334,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 154 },
     "sockets": null,
+    "variants": ["Pre 3.7.0", "Current"],
     "implicit": [],
     "mods": [
       "+(300-350) to Accuracy Rating",
@@ -367,6 +373,7 @@
     "league": "Tempest",
     "req": { "str": 0, "dex": 58, "int": 58 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(150-200)% increased Evasion and Energy Shield",
@@ -386,6 +393,7 @@
     "req": { "str": 64, "dex": 0, "int": 64 },
     "sockets": null,
     "source": "Drops from unique{Aul, the Crystal King}",
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": [],
     "mods": [
       "Has 1 Socket",
@@ -406,6 +414,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(150-225) to maximum Energy Shield",
@@ -441,6 +450,7 @@
     "league": null,
     "req": { "str": 38, "dex": 38, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -460,6 +470,7 @@
     "req": { "str": 38, "dex": 38, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "+(20-30) to Strength",
@@ -500,6 +511,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 83 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Curse Gems",
@@ -630,6 +642,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(75-100) to Armour",
@@ -647,6 +660,7 @@
     "league": null,
     "req": { "str": 0, "dex": 27, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds 15 to 25 Cold Damage to Attacks",
@@ -665,6 +679,7 @@
     "league": "Expedition",
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(20-30) to Intelligence",
@@ -723,6 +738,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 122 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -739,7 +755,7 @@
     "type": "Helmet",
     "levelReq": 62,
     "league": "Legion",
-    "req": null,
+    "req": { "str": 0, "dex": 79, "int": 72 },
     "sockets": null,
     "implicit": [],
     "mods": [
@@ -779,6 +795,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 122 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -797,6 +814,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(120-150)% increased Armour and Energy Shield",
@@ -839,6 +857,7 @@
     "req": { "str": 0, "dex": 79, "int": 72 },
     "sockets": null,
     "source": "Drops from unique{The Trialmaster}",
+    "variants": ["Area of Effect", "Blind", "Mana Cost + Reservation", "Curse Effect", "Skill Effect Duration", "Crushed", "+2 Gems", "Minimum Charges", "Cooldown Recovery", "Aura Effect", "Additional Projectile", "Malediction", "Quantity"],
     "implicit": ["Variant: Area of Effect"],
     "mods": [
       "Variant: Blind",
@@ -907,6 +926,7 @@
     "req": { "str": 0, "dex": 0, "int": 138 },
     "sockets": null,
     "source": "Drops from unique{Kurgal, the Blackblooded}",
+    "variants": ["One Abyssal Socket", "Two Abyssal Sockets"],
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -927,6 +947,7 @@
     "league": null,
     "req": { "str": 0, "dex": 46, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.19.0", "Pre 3.23.0", "Current"],
     "implicit": [],
     "mods": [
       "(80-100)% increased Evasion Rating",
@@ -946,6 +967,7 @@
     "league": null,
     "req": { "str": 0, "dex": 73, "int": 88 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.0.0", "Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "+(40-50) to maximum Energy Shield",
@@ -964,6 +986,7 @@
     "league": "Legion",
     "req": { "str": 16, "dex": 0, "int": 16 },
     "sockets": null,
+    "variants": ["Pre 3.7.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -1001,6 +1024,7 @@
     "league": null,
     "req": { "str": 114, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "(30-40)% increased Fire Damage",
@@ -1021,6 +1045,7 @@
     "sockets": null,
     "influences": ["shaper", "elder"],
     "source": "Drops from unique{The Elder} (Uber)",
+    "variants": ["Pre 3.5.0", "Current"],
     "implicit": [],
     "mods": [
       "(150-180)% increased Energy Shield",
@@ -1057,6 +1082,7 @@
     "league": null,
     "req": { "str": 50, "dex": 0, "int": 50 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": [],
     "mods": [
       "15% reduced Cast Speed",
@@ -1074,6 +1100,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -1093,6 +1120,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Amanamu, Liege of the Lightless} or unique{Ulaman, Sovereign of the Well}",
+    "variants": ["One Abyssal Socket (Pre 3.21.0)", "Two Abyssal Sockets (Pre 3.21.0)", "One Abyssal Socket (Current)", "Two Abyssal Sockets (Current)"],
     "implicit": [],
     "mods": [
       "Has 2 Abyssal Sockets",
@@ -1113,6 +1141,7 @@
     "req": { "str": 0, "dex": 21, "int": 21 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.7.0", "Pre 3.17.0", "Current"],
     "implicit": [],
     "mods": [
       "(15-30)% increased Spell Damage",
@@ -1133,6 +1162,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 1.0.0", "Pre 2.0.0", "Pre 3.7.0", "Pre 3.17.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+20 to Strength",
@@ -1151,6 +1181,7 @@
     "req": null,
     "sockets": null,
     "source": "Use currency{Vaal Orb} on unique{Voll's Vision}",
+    "variants": ["Pre 3.0.0", "Pre 3.11.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds (13-17) to (29-37) Chaos Damage",
@@ -1170,6 +1201,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 58 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(30-50) to maximum Energy Shield",
@@ -1190,6 +1222,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.0.0", "Current"],
     "implicit": [],
     "mods": [
       "+(170-210) to maximum Energy Shield",
@@ -1208,6 +1241,7 @@
     "req": null,
     "sockets": null,
     "source": "Opening normal{Pools Coffer} in normal{Sanctum of Immortality}",
+    "variants": ["Pre 3.14.0", "Current"],
     "implicit": [],
     "mods": [
       "(140-220)% increased Armour and Energy Shield",
@@ -1252,6 +1286,7 @@
     "req": { "str": 64, "dex": 0, "int": 64 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "+(25-30) to all Attributes",
@@ -1307,6 +1342,7 @@
     "league": null,
     "req": { "str": 62, "dex": 0, "int": 91 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": [],
     "mods": [
       "+(130-160) to maximum Energy Shield",
@@ -1326,6 +1362,7 @@
     "league": null,
     "req": { "str": 0, "dex": 64, "int": 64 },
     "sockets": null,
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "(230-260)% increased Evasion and Energy Shield",
@@ -1347,6 +1384,7 @@
     "league": null,
     "req": { "str": 42, "dex": 0, "int": 42 },
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(100-120) to maximum Mana",
@@ -1365,6 +1403,7 @@
     "league": null,
     "req": { "str": 0, "dex": 150, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Current"],
     "implicit": [],
     "mods": [
       "+(800-1000) to Accuracy Rating",
@@ -1418,9 +1457,10 @@
     "type": "Helmet",
     "levelReq": 44,
     "league": null,
-    "req": null,
+    "req": { "str": 50, "dex": 0, "int": 50 },
     "sockets": null,
     "source": "Drops from unique{The Eater of Worlds} (Uber)",
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": [],
     "mods": [
       "+(30-50) to Strength",
@@ -1518,6 +1558,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(20-30) to Dexterity",
@@ -1555,6 +1596,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 138 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.5.0", "Pre 3.16.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Concentrated Effect",
@@ -1628,6 +1670,7 @@
     "league": null,
     "req": { "str": 42, "dex": 42, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(60-80)% increased Armour and Evasion",
@@ -1664,6 +1707,7 @@
     "league": null,
     "req": { "str": 0, "dex": 138, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": [],
     "mods": [
       "50% reduced Damage when on Low Life",
@@ -1702,6 +1746,7 @@
     "league": null,
     "req": { "str": 58, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": [],
     "mods": [
       "+2 to Level of Socketed Minion Gems",
@@ -1720,6 +1765,7 @@
     "league": null,
     "req": { "str": 85, "dex": 0, "int": 62 },
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(240-300)% increased Armour and Energy Shield",
@@ -1739,6 +1785,7 @@
     "league": null,
     "req": { "str": 62, "dex": 85, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.1.0", "Pre 1.3.0", "Pre 3.5.0", "Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 30 Melee Physical Damage",
@@ -1762,6 +1809,7 @@
     "league": null,
     "req": { "str": 85, "dex": 0, "int": 62 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.0.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by Level 20 Cast on Death",
@@ -1783,6 +1831,7 @@
     "req": { "str": 0, "dex": 0, "int": 224 },
     "sockets": null,
     "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
+    "variants": ["Animated Weapons", "Summoned Golems", "Summoned Raging Spirits", "Raised Spectres", "Raised Spiders", "Raised Zombies", "Summoned Reapers", "Sentinels of Absolution", "Sentinels of Dominance", "Sentinels of Purity", "Summoned Holy Relics", "Summoned Phantasms", "Summoned Skeletons", "Summoned Spectral Wolves"],
     "implicit": [],
     "mods": [
       "+(50-100) to maximum Energy Shield",
@@ -1823,6 +1872,7 @@
     "req": { "str": 0, "dex": 0, "int": 112 },
     "sockets": null,
     "source": "Drops from unique{Catarina, Master of Undeath}",
+    "variants": ["Strength and Quality Pre 3.16.0", "Dexterity and Quality Pre 3.16.0", "Intelligence and Quality Pre 3.16.0", "Fire and Chaos Resistances Pre 3.16.0", "Cold and Chaos Resistances Pre 3.16.0", "Lightning and Chaos Resistances Pre 3.16.0", "Strength and Dexterity Pre 3.16.0", "Dexterity and Intelligence Pre 3.16.0", "Strength and Intelligence Pre 3.16.0", "Mine Laying Speed Pre 3.16.0", "Focus Spell Trigger Pre 3.16.0", "Focus Ailment Duration Pre 3.16.0", "Avoid Elemental Damage Pre 3.16.0", "Focus Ailment Duration Pre 3.19.0", "Focus Ailment Duration Pre 3.22.0", "Fire and Chaos Resistances Pre 3.26.0", "Cold and Chaos Resistances Pre 3.26.0", "Lightning and Chaos Resistances Pre 3.26.0", "Strength and Dexterity Pre 3.26.0", "Dexterity and Intelligence Pre 3.26.0", "Strength and Intelligence Pre 3.26.0", "Mine Laying Speed Pre 3.26.0", "Focus Spell Trigger Pre 3.26.0", "Focus Ailment Duration Pre 3.26.0", "Avoid Elemental Damage Pre 3.26.0", "Additional Minions + Minion Life", "+2 AoE Gems + inc AoE", "+2 Proj Gems + Pierce", "+2 Melee Gems + Strike Range", "Life + Mana Regen", "Mana + Life Regen", "Inc Evasion while Focused", "Physical Damage Reduction while Focused", "+2 Gems", "Inc Corpse Life", "Attack/Cast Speed if consumed corpse", "Take no Crit Damage if Recharge", "Damage if consumed corpse"],
     "implicit": [],
     "mods": [
       "Socketed Gems have 25% increased Reservation Efficiency",
@@ -1862,6 +1912,7 @@
     "req": { "str": 101, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour",
@@ -1880,6 +1931,7 @@
     "req": { "str": 148, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Upgraded from unique{The Formless Flame} using currency{Blessing of Xoph}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are supported by level 30 Infernal Legion",
@@ -1897,6 +1949,7 @@
     "league": "Domination",
     "req": { "str": 0, "dex": 44, "int": 44 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.0.0", "Current"],
     "implicit": [],
     "mods": [
       "Trigger Level 1 Create Lesser Shrine when you Kill an Enemy",
@@ -1938,6 +1991,7 @@
     "req": { "str": 28, "dex": 28, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Pre 3.7.0", "Current"],
     "implicit": [],
     "mods": [
       "+500 to Accuracy Rating",
@@ -2068,6 +2122,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 122 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "(240-280)% increased Energy Shield",
@@ -2143,6 +2198,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": [],
     "mods": [
       "+(260-300) to Armour",
@@ -2196,8 +2252,9 @@
     "type": "Helmet",
     "levelReq": 34,
     "league": null,
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 73 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Pre 3.24.0", "Current"],
     "implicit": [],
     "mods": [
       "Has 4 Abyssal Sockets",
@@ -2234,6 +2291,7 @@
     "league": "Tempest",
     "req": { "str": 0, "dex": 0, "int": 154 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "Trigger Level 10 Shock Ground when Hit",

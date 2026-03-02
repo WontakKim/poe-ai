@@ -8,6 +8,8 @@
     "req": { "level": 53, "str": 83, "dex": null, "int": 99 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 45, "physMax": 67, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 70, "str": 95, "dex": null, "int": 131 },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 41, "physMax": 61, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 56, "str": 179, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 48, "physMax": 80, "critChance": 5, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 66, "str": 212, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 65, "physMax": 82, "critChance": 5, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 38, "str": 125, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 33, "physMax": 42, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 44, "str": 143, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 25, "physMax": 59, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 70, "str": 220, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [["attack", "speed"]],
     "weapon": { "physMin": 49, "physMax": 74, "critChance": 5, "attackRate": 1.35, "range": 11 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 24, "str": 83, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 19, "physMax": 32, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 47, "str": 81, "dex": null, "int": 81 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 30, "physMax": 55, "critChance": 7, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 30, "str": 101, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 39, "physMax": 64, "critChance": 5, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 70, "str": 218, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 39, "physMax": 81, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 27, "str": 92, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 40, "physMax": 60, "critChance": 5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 10, "str": 22, "dex": null, "int": 22 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 15, "physMax": 29, "critChance": 7, "attackRate": 1.1, "range": 11 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 66, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 41, "physMax": 95, "critChance": 7, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 28, "str": 95, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 32, "physMax": 40, "critChance": 5, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 59, "str": 188, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [["damage"]],
     "weapon": { "physMin": 65, "physMax": 135, "critChance": 5.5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 69, "str": 220, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 91, "physMax": 136, "critChance": 5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 50, "str": 161, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 31, "physMax": 64, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 50, "str": 161, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 62, "physMax": 103, "critChance": 5, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 41, "str": 59, "dex": null, "int": 85 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 35, "physMax": 52, "critChance": 8, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 5, "str": 14, "dex": null, "int": 14 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 11, "physMax": 17, "critChance": 7, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 55, "str": 184, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [["attack", "speed"]],
     "weapon": { "physMin": 44, "physMax": 66, "critChance": 5, "attackRate": 1.35, "range": 11 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 54, "str": 173, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 77, "physMax": 104, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 32, "str": 107, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 21, "physMax": 43, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": null, "str": 14, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 6, "physMax": 8, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": null, "str": 20, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 10, "physMax": 16, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": null, "str": 8, "dex": null, "int": 8 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 8, "physMax": 11, "critChance": 7, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 47, "str": 152, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 38, "physMax": 63, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": 30, "str": 101, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 20, "physMax": 41, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": 32, "str": 107, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 46, "physMax": 62, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": 60, "str": 212, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 54, "physMax": 101, "critChance": 5, "attackRate": 1.15, "range": 11 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 40, "str": 131, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 43, "physMax": 88, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 35, "str": 62, "dex": null, "int": 62 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 24, "physMax": 36, "critChance": 7, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 36, "str": 66, "dex": null, "int": 66 },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 27, "physMax": 50, "critChance": 7, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 70, "str": 220, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "mace", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 81, "physMax": 135, "critChance": 5, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 65, "str": 212, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [["attribute"]],
     "weapon": { "physMin": 102, "physMax": 153, "critChance": 5, "attackRate": 1.1, "range": 13 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 20, "str": 38, "dex": null, "int": 38 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 27, "physMax": 40, "critChance": 7, "attackRate": 1.1, "range": 11 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 22, "str": 77, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 27, "physMax": 49, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 57, "str": 182, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 112, "physMax": 168, "critChance": 5, "attackRate": 1, "range": 13 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 56, "str": 96, "dex": null, "int": 96 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 37, "physMax": 55, "critChance": 7, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 44, "str": 77, "dex": null, "int": 77 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 38, "physMax": 57, "critChance": 7, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": 62, "str": 212, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 35, "physMax": 81, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": 12, "str": 47, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 16, "physMax": 33, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": 63, "str": 212, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [["damage"]],
     "weapon": { "physMin": 74, "physMax": 138, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": 34, "str": 118, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 45, "physMax": 68, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": 68, "str": 212, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 38, "physMax": 80, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": 24, "str": 44, "dex": null, "int": 44 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 24, "physMax": 45, "critChance": 7, "attackRate": 1.15, "range": 11 }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 60, "str": 95, "dex": null, "int": 131 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 49, "physMax": 73, "critChance": 8, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -536,6 +632,8 @@
     "req": { "level": 50, "str": 161, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 53, "physMax": 67, "critChance": 5, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -547,6 +645,8 @@
     "req": { "level": 30, "str": 44, "dex": null, "int": 64 },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "critical"]],
     "weapon": { "physMin": 23, "physMax": 34, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -558,6 +658,8 @@
     "req": { "level": 64, "str": 212, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 49, "physMax": 82, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -569,6 +671,8 @@
     "req": { "level": 35, "str": 116, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 31, "physMax": 51, "critChance": 5, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -580,6 +684,8 @@
     "req": { "level": 53, "str": 170, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 33, "physMax": 69, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -591,6 +697,8 @@
     "req": { "level": 61, "str": 212, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 77, "physMax": 115, "critChance": 5, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -602,6 +710,8 @@
     "req": { "level": 51, "str": 164, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 72, "physMax": 108, "critChance": 5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -613,6 +723,8 @@
     "req": { "level": 62, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 51, "physMax": 76, "critChance": 7, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -624,6 +736,8 @@
     "req": { "level": 15, "str": 25, "dex": null, "int": 35 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 21, "physMax": 32, "critChance": 8, "attackRate": 1.1, "range": 11 }
   },
   {
@@ -635,6 +749,8 @@
     "req": { "level": 28, "str": 51, "dex": null, "int": 51 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 21, "physMax": 50, "critChance": 7, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -646,6 +762,8 @@
     "req": { "level": 41, "str": 134, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 37, "physMax": 69, "critChance": 5, "attackRate": 1.15, "range": 11 }
   },
   {
@@ -657,6 +775,8 @@
     "req": { "level": 50, "str": 86, "dex": null, "int": 86 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 34, "physMax": 80, "critChance": 7, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -668,6 +788,8 @@
     "req": { "level": 70, "str": 121, "dex": null, "int": 113 },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 42, "physMax": 78, "critChance": 7, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -679,6 +801,8 @@
     "req": { "level": 38, "str": 67, "dex": null, "int": 67 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 30, "physMax": 55, "critChance": 7, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -690,6 +814,8 @@
     "req": { "level": 32, "str": 52, "dex": null, "int": 62 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 29, "physMax": 44, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -701,6 +827,8 @@
     "req": { "level": 17, "str": 62, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 25, "physMax": 38, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -712,6 +840,8 @@
     "req": { "level": 56, "str": 187, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 75, "physMax": 113, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -723,6 +853,8 @@
     "req": { "level": 10, "str": 41, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 13, "physMax": 16, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -734,6 +866,8 @@
     "req": { "level": 48, "str": 155, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 55, "physMax": 103, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -745,6 +879,8 @@
     "req": { "level": 50, "str": 71, "dex": null, "int": 102 },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 35, "physMax": 52, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -756,6 +892,8 @@
     "req": { "level": 55, "str": 98, "dex": null, "int": 98 },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 39, "physMax": 72, "critChance": 7, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -767,6 +905,8 @@
     "req": { "level": 44, "str": 143, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 54, "physMax": 81, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -778,6 +918,8 @@
     "req": { "level": 15, "str": 56, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 15, "physMax": 27, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -789,6 +931,8 @@
     "req": { "level": 58, "str": 185, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 49, "physMax": 62, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -800,6 +944,8 @@
     "req": { "level": 67, "str": 212, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 101, "physMax": 137, "critChance": 6, "attackRate": 1.15, "range": 13 }
   },
   {
@@ -811,6 +957,8 @@
     "req": { "level": 36, "str": 119, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 57, "physMax": 85, "critChance": 5, "attackRate": 1.1, "range": 13 }
   },
   {
@@ -822,6 +970,8 @@
     "req": { "level": 5, "str": 26, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 8, "physMax": 13, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -833,6 +983,8 @@
     "req": { "level": 8, "str": 35, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "mace", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_mace_adjudicator", "basilisk": "2h_mace_basilisk", "cleansing": "2h_mace_cleansing", "crusader": "2h_mace_crusader", "elder": "2h_mace_elder", "eyrie": "2h_mace_eyrie", "shaper": "2h_mace_shaper", "tangle": "2h_mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 17, "physMax": 25, "critChance": 5, "attackRate": 1.25, "range": 13 }
   },
   {
@@ -844,6 +996,8 @@
     "req": { "level": 58, "str": 99, "dex": null, "int": 99 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 43, "physMax": 80, "critChance": 7, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -855,6 +1009,8 @@
     "req": { "level": 64, "str": 113, "dex": null, "int": 113 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 37, "physMax": 70, "critChance": 7, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -866,6 +1022,8 @@
     "req": { "level": 68, "str": 104, "dex": null, "int": 122 },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sceptre", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sceptre_adjudicator", "basilisk": "sceptre_basilisk", "cleansing": "sceptre_cleansing", "crusader": "sceptre_crusader", "elder": "sceptre_elder", "eyrie": "sceptre_eyrie", "shaper": "sceptre_shaper", "tangle": "sceptre_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental"]],
     "weapon": { "physMin": 50, "physMax": 76, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
   },
   {
@@ -877,6 +1035,8 @@
     "req": { "level": 20, "str": 71, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 13, "physMax": 31, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -888,6 +1048,8 @@
     "req": { "level": 34, "str": 118, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "mace", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "mace_adjudicator", "basilisk": "mace_basilisk", "cleansing": "mace_cleansing", "crusader": "mace_crusader", "elder": "mace_elder", "eyrie": "mace_eyrie", "shaper": "mace_shaper", "tangle": "mace_tangle"},
+    "implicitModTypes": [["attack", "speed"]],
     "weapon": { "physMin": 28, "physMax": 42, "critChance": 5, "attackRate": 1.35, "range": 11 }
   }
 ]

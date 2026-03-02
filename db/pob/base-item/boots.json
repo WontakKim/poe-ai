@@ -8,6 +8,8 @@
     "req": { "level": 47, "str": null, "dex": 45, "int": 45 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 85, "evasionMax": 95, "energyShieldMin": 18, "energyShieldMax": 20 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 46, "str": 82, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 151, "armourMax": 174 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 37, "str": 67, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 122, "armourMax": 144 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 61, "str": null, "dex": null, "int": 119 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 47, "energyShieldMax": 55 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 63, "str": null, "dex": 62, "int": 62 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 121, "evasionMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 20, "str": 39, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 68, "armourMax": 78 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 80, "str": 124, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 236, "armourMax": 271 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 30, "str": 30, "dex": 30, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 55, "armourMax": 63, "evasionMin": 55, "evasionMax": 63 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 55, "str": null, "dex": 52, "int": 52 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 99, "evasionMax": 117, "energyShieldMin": 20, "energyShieldMax": 24 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 5, "str": 8, "dex": null, "int": 8 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 11, "armourMax": 15, "energyShieldMin": 3, "energyShieldMax": 5 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 78, "str": 85, "dex": 85, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 176, "armourMax": 203, "evasionMin": 176, "evasionMax": 203 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 27, "str": null, "dex": 27, "int": 27 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 50, "evasionMax": 57, "energyShieldMin": 11, "energyShieldMax": 12 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 20, "str": null, "dex": 39, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["attack"], ["attack"]],
     "armour": { "evasionMin": 68, "evasionMax": 78 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 53, "str": null, "dex": null, "int": 94 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 36, "energyShieldMax": 42 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 64, "str": 62, "dex": null, "int": 62 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 121, "armourMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 50, "str": 89, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "armourMin": 164, "armourMax": 189 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 22, "str": null, "dex": 42, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 74, "evasionMax": 92 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 65, "str": 62, "dex": 62, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 121, "armourMax": 139, "evasionMin": 121, "evasionMax": 139 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 80, "str": null, "dex": null, "int": 124 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["speed"], ["speed"]],
     "armour": { "energyShieldMin": 50, "energyShieldMax": 57 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 20, "str": null, "dex": null, "int": 39 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["speed"], ["speed"]],
     "armour": { "energyShieldMin": 15, "energyShieldMax": 18 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 39, "str": null, "dex": 70, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 129, "evasionMax": 148 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 70, "str": null, "dex": 56, "int": 76 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "boots", "bootsatlasdexint", "default", "dex_int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["chaos", "resistance"]],
     "armour": { "evasionMin": 112, "evasionMax": 129, "energyShieldMin": 32, "energyShieldMax": 37 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 12, "str": null, "dex": 26, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 42, "evasionMax": 54 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "demigods", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["elemental", "resistance"]],
     "armour": {  }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 54, "str": 95, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 177, "armourMax": 209 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 78, "str": null, "dex": 153, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 307, "evasionMax": 353 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 59, "str": 56, "dex": 56, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 106, "armourMax": 122, "evasionMin": 106, "evasionMax": 122 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 78, "str": null, "dex": 85, "int": 85 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 176, "evasionMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": null, "str": 8, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 6, "armourMax": 9 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": 18, "str": 19, "dex": 19, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 34, "armourMax": 44, "evasionMin": 34, "evasionMax": 44 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": 6, "str": 9, "dex": 9, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 12, "armourMax": 17, "evasionMin": 12, "evasionMax": 17 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 58, "str": 54, "dex": null, "int": 54 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 104, "armourMax": 120, "energyShieldMin": 21, "energyShieldMax": 25 }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 84, "str": 177, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 359, "armourMax": 413 }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 78, "str": 85, "dex": null, "int": 85 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 176, "armourMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 28, "str": 28, "dex": null, "int": 28 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 51, "armourMax": 64, "energyShieldMin": 11, "energyShieldMax": 14 }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 69, "str": null, "dex": 82, "int": 42 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 185, "evasionMax": 213, "energyShieldMin": 18, "energyShieldMax": 21 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 50, "str": null, "dex": null, "int": 89 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["speed"], ["speed"]],
     "armour": { "energyShieldMin": 34, "energyShieldMax": 39 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 34, "str": null, "dex": 62, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 113, "evasionMax": 126 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 84, "str": 98, "dex": null, "int": 98 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 205, "armourMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 84, "str": null, "dex": 98, "int": 98 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 205, "evasionMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 23, "str": 44, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 77, "armourMax": 96 }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": 78, "str": 153, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 307, "armourMax": 353 }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": null, "str": null, "dex": 11, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 13, "evasionMax": 18 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": 33, "str": 61, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 109, "armourMax": 120 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": 13, "str": 15, "dex": null, "int": 15 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 25, "armourMax": 32, "energyShieldMin": 6, "energyShieldMax": 8 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": 36, "str": 35, "dex": null, "int": 35 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 65, "armourMax": 71, "energyShieldMin": 14, "energyShieldMax": 15 }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": 24, "str": 20, "dex": 20, "int": 20 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 24, "wardMax": 28 }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 69, "str": 46, "dex": 46, "int": 46 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 102, "wardMax": 117 }
   },
   {
@@ -536,6 +632,8 @@
     "req": { "level": 48, "str": 37, "dex": 37, "int": 37 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 62, "wardMax": 71 }
   },
   {
@@ -547,6 +645,8 @@
     "req": { "level": 78, "str": null, "dex": null, "int": 153 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 62, "energyShieldMax": 71 }
   },
   {
@@ -558,6 +658,8 @@
     "req": { "level": 44, "str": null, "dex": null, "int": 79 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 30, "energyShieldMax": 35 }
   },
   {
@@ -569,6 +671,8 @@
     "req": { "level": 38, "str": null, "dex": null, "int": 69 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 26, "energyShieldMax": 30 }
   },
   {
@@ -580,6 +684,8 @@
     "req": { "level": 32, "str": null, "dex": null, "int": 59 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 23, "energyShieldMax": 25 }
   },
   {
@@ -591,6 +697,8 @@
     "req": { "level": 42, "str": 40, "dex": 40, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 76, "armourMax": 90, "evasionMin": 76, "evasionMax": 90 }
   },
   {
@@ -602,6 +710,8 @@
     "req": { "level": 34, "str": null, "dex": 34, "int": 34 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 62, "evasionMax": 71, "energyShieldMin": 13, "energyShieldMax": 15 }
   },
   {
@@ -613,6 +723,8 @@
     "req": { "level": 55, "str": null, "dex": 97, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 180, "evasionMax": 216 }
   },
   {
@@ -624,6 +736,8 @@
     "req": { "level": 44, "str": null, "dex": 79, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 145, "evasionMax": 171 }
   },
   {
@@ -635,6 +749,8 @@
     "req": { "level": 22, "str": null, "dex": null, "int": 42 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 17, "energyShieldMax": 21 }
   },
   {
@@ -646,6 +762,8 @@
     "req": { "level": 69, "str": null, "dex": 120, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 246, "evasionMax": 283 }
   },
   {
@@ -657,6 +775,8 @@
     "req": { "level": 49, "str": 47, "dex": null, "int": 47 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 88, "armourMax": 99, "energyShieldMin": 18, "energyShieldMax": 20 }
   },
   {
@@ -668,6 +788,8 @@
     "req": { "level": 67, "str": null, "dex": null, "int": 123 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 51, "energyShieldMax": 59 }
   },
   {
@@ -679,6 +801,8 @@
     "req": { "level": 62, "str": null, "dex": 117, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 220, "evasionMax": 253 }
   },
   {
@@ -690,6 +814,8 @@
     "req": { "level": 9, "str": 21, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 32, "armourMax": 42 }
   },
   {
@@ -701,6 +827,8 @@
     "req": { "level": 36, "str": 35, "dex": 35, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 65, "armourMax": 75, "evasionMin": 65, "evasionMax": 75 }
   },
   {
@@ -712,6 +840,8 @@
     "req": { "level": 80, "str": null, "dex": 124, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["attack"], ["attack"]],
     "armour": { "evasionMin": 236, "evasionMax": 271 }
   },
   {
@@ -723,6 +853,8 @@
     "req": { "level": 16, "str": null, "dex": 18, "int": 18 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 30, "evasionMax": 39, "energyShieldMin": 7, "energyShieldMax": 9 }
   },
   {
@@ -734,6 +866,8 @@
     "req": { "level": 68, "str": 120, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 241, "armourMax": 278 }
   },
   {
@@ -745,6 +879,8 @@
     "req": { "level": 41, "str": null, "dex": 40, "int": 40 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 74, "evasionMax": 85, "energyShieldMin": 16, "energyShieldMax": 18 }
   },
   {
@@ -756,6 +892,8 @@
     "req": { "level": 70, "str": 62, "dex": null, "int": 62 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "boots", "bootsatlas3", "default", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["elemental", "fire", "lightning", "resistance"]],
     "armour": { "armourMin": 126, "armourMax": 145, "energyShieldMin": 26, "energyShieldMax": 30 }
   },
   {
@@ -767,6 +905,8 @@
     "req": { "level": 70, "str": 62, "dex": 62, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "boots", "bootsatlas2", "default", "not_for_sale", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["elemental", "fire", "cold", "resistance"]],
     "armour": { "armourMin": 126, "armourMax": 145, "evasionMin": 126, "evasionMax": 145 }
   },
   {
@@ -778,6 +918,8 @@
     "req": { "level": 70, "str": null, "dex": 62, "int": 62 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "boots", "bootsatlas1", "default", "dex_int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["elemental", "cold", "lightning", "resistance"]],
     "armour": { "evasionMin": 126, "evasionMax": 145, "energyShieldMin": 26, "energyShieldMax": 30 }
   },
   {
@@ -789,6 +931,8 @@
     "req": { "level": 62, "str": 117, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 220, "armourMax": 253 }
   },
   {
@@ -800,6 +944,8 @@
     "req": { "level": 84, "str": null, "dex": 177, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 359, "evasionMax": 413 }
   },
   {
@@ -811,6 +957,8 @@
     "req": { "level": 9, "str": null, "dex": null, "int": 21 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 8, "energyShieldMax": 11 }
   },
   {
@@ -822,6 +970,8 @@
     "req": { "level": 84, "str": null, "dex": null, "int": 177 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 72, "energyShieldMax": 83 }
   },
   {
@@ -833,6 +983,8 @@
     "req": { "level": 50, "str": null, "dex": 89, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [["attack"], ["attack"]],
     "armour": { "evasionMin": 164, "evasionMax": 189 }
   },
   {
@@ -844,6 +996,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": 11 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 5, "energyShieldMax": 7 }
   },
   {
@@ -855,6 +1009,8 @@
     "req": { "level": 6, "str": null, "dex": 9, "int": 9 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "dex_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 12, "evasionMax": 17, "energyShieldMin": 4, "energyShieldMax": 5 }
   },
   {
@@ -866,6 +1022,8 @@
     "req": { "level": 51, "str": 48, "dex": 48, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 92, "armourMax": 103, "evasionMin": 92, "evasionMax": 103 }
   },
   {
@@ -877,6 +1035,8 @@
     "req": { "level": 84, "str": 98, "dex": 98, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 205, "armourMax": 236, "evasionMin": 205, "evasionMax": 236 }
   },
   {
@@ -888,6 +1048,8 @@
     "req": { "level": 40, "str": 39, "dex": null, "int": 39 },
     "socketLimit": 4,
     "tags": ["armour", "boots", "default", "str_int_armour"],
+    "influenceTags": {"adjudicator": "boots_adjudicator", "basilisk": "boots_basilisk", "cleansing": "boots_cleansing", "crusader": "boots_crusader", "elder": "boots_elder", "eyrie": "boots_eyrie", "shaper": "boots_shaper", "tangle": "boots_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 73, "armourMax": 87, "energyShieldMin": 15, "energyShieldMax": 18 }
   }
 ]

@@ -110,6 +110,7 @@
     "league": "Domination, Nemesis",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.8.0", "Current"],
     "implicit": ["+(12-16)% to Cold and Lightning Resistances"],
     "mods": [
       "(25-30)% increased Cold Damage",
@@ -128,6 +129,7 @@
     "league": "Domination, Nemesis",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(12-16)% to Fire and Cold Resistances"],
     "mods": [
       "(25-30)% increased Fire Damage",
@@ -146,6 +148,7 @@
     "league": "Domination, Nemesis",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(12-16)% to Fire and Lightning Resistances"],
     "mods": [
       "Adds (20-25) to (30-50) Fire Damage to Spells and Attacks",
@@ -203,6 +206,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["Adds 1 to 4 Physical Damage to Attacks"],
     "mods": [
       "Adds (10-15) to (20-25) Chaos Damage to Attacks",
@@ -220,6 +224,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "Adds (12-15) to (25-30) Fire Damage to Attacks",
@@ -238,6 +243,7 @@
     "league": "Warbands",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+3 to Level of Socketed Golem Gems",
@@ -257,6 +263,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(12-16)% to Cold and Lightning Resistances"],
     "mods": [
       "+(15-25) to Intelligence",
@@ -296,6 +303,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Synthete Nightmare} in normal{The Cortex} (Uber)",
+    "variants": ["Thunder: Skill Reservation", "Thunder: Lightning Damage", "Thunder: Buff Effect", "Thunder: Max Resistance", "Thunder: Lightning Resistance", "Ash: Ash: Skill Reservation", "Ash: Fire Damage", "Ash: Buff Effect", "Ash: Max Resistance", "Ash: Fire Resistance", "Ice: Skill Reservation", "Ice: Cold Damage", "Ice: Buff Effect", "Ice: Max Resistance", "Ice: Cold Resistance", "Purity: Skill Reservation", "Purity: Physical Damage", "Purity: Buff Effect", "Purity: Sentinel Damage", "Purity: Damage Reduction", "Agony: Skill Reservationwatcher", "Agony: Chaos Damage", "Agony: Buff Effect", "Agony: Agony Damage", "Agony: Chaos Resistance"],
     "implicit": [],
     "mods": [
       "+(10–20) to all Attributes",
@@ -314,6 +322,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Skill Reservation (Pre 3.11.0)", "Skill Reservation (Current)", "Fire Damage", "Buff Effect (Pre 3.11.0)", "Buff Effect (Current)", "Max Resistance", "Fire Resistance"],
     "implicit": ["Has Alt Variant: true"],
     "mods": [
       "Variant: Skill Reservation (Pre 3.11.0)",
@@ -340,6 +349,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Skill Reservation (Pre 3.11.0)", "Skill Reservation (Current)", "Cold Damage", "Buff Effect (Pre 3.11.0)", "Buff Effect (Current)", "Max Resistance", "Cold Resistance"],
     "implicit": ["Has Alt Variant: true"],
     "mods": [
       "Variant: Skill Reservation (Pre 3.11.0)",
@@ -366,6 +376,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Skill Reservation (Pre 3.11.0)", "Skill Reservation (Current)", "Physical Damage", "Buff Effect (Pre 3.11.0)", "Buff Effect (Current)", "Sentinel Damage", "Damage Reduction"],
     "implicit": ["Has Alt Variant: true"],
     "mods": [
       "Variant: Skill Reservation (Pre 3.11.0)",
@@ -392,6 +403,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Skill Reservation (Pre 3.11.0)", "Skill Reservation (Current)", "Chaos Damage", "Buff Effect (Pre 3.11.0)", "Buff Effect (Current)", "Agony Damage", "Chaos Resistance"],
     "implicit": ["Has Alt Variant: true"],
     "mods": [
       "Variant: Skill Reservation (Pre 3.11.0)",
@@ -418,6 +430,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Altered/Augmented/Rewritten/Twisted Synthete}",
+    "variants": ["Skill Reservation (Pre 3.11.0)", "Skill Reservation (Current)", "Lightning Damage", "Buff Effect (Pre 3.11.0)", "Buff Effect (Current)", "Max Resistance", "Lightning Resistance"],
     "implicit": ["Has Alt Variant: true"],
     "mods": [
       "Variant: Skill Reservation (Pre 3.11.0)",
@@ -460,6 +473,7 @@
     "league": "Onslaught",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(17-23)% to Chaos Resistance"],
     "mods": [
       "Recover 5% of Life on Kill",
@@ -475,6 +489,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to maximum Mana"],
     "mods": [
       "+(5-20) to Intelligence",
@@ -492,6 +507,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(20-30)% to Cold Resistance"],
     "mods": [
       "20% increased maximum Mana",
@@ -510,6 +526,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.9.0", "Pre 3.16.0", "Current"],
     "implicit": ["+(20-30)% to Fire Resistance"],
     "mods": [
       "(30-40)% increased Fire Damage",
@@ -582,6 +599,7 @@
     "league": "Anarchy",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["(20-30)% increased Global Critical Strike Chance"],
     "mods": [
       "Trigger Level 10 Consecrate when you deal a Critical Strike",
@@ -654,9 +672,9 @@
     "name": "Icefang Orbit",
     "baseType": "Iron Ring",
     "type": "Ring",
-    "levelReq": null,
+    "levelReq": 49,
     "league": "Blight",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "implicit": ["League: Blight"],
     "mods": [
@@ -718,6 +736,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "Grants Level 10 Enduring Cry Skill",
@@ -735,6 +754,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "+(10-20) to Strength",
@@ -753,6 +773,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.16.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30)% to Lightning Resistance"],
     "mods": [
       "+(10-15) to all Attributes",
@@ -770,6 +791,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["Adds 1 to 4 Physical Damage to Attacks"],
     "mods": [
       "(10-30)% increased Damage",
@@ -787,6 +809,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.0.0", "Current"],
     "implicit": ["+(8-10)% to all Elemental Resistances"],
     "mods": [
       "+10% to all Elemental Resistances",
@@ -822,6 +845,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": "W",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "-20% to all Elemental Resistances",
@@ -897,6 +921,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.0.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(17-23)% to Chaos Resistance"],
     "mods": [
       "25% reduced maximum Life",
@@ -914,6 +939,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["+(20-30)% to Fire Resistance"],
     "mods": [
       "+(25-40)% to Cold Resistance",
@@ -932,6 +958,7 @@
     "league": "Warbands",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.16.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+3 to Level of Socketed Golem Gems",
@@ -950,6 +977,7 @@
     "league": "Bloodlines",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30)% to Fire Resistance"],
     "mods": [
       "+(15-25) to Strength",
@@ -1002,6 +1030,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Current"],
     "implicit": ["+(20-30) to maximum Mana"],
     "mods": [
       "+(25-30) to maximum Mana",
@@ -1144,6 +1173,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.0.0", "Current"],
     "implicit": ["+(20-30)% to Cold Resistance"],
     "mods": [
       "+(25-35)% to Fire Resistance",
@@ -1162,6 +1192,7 @@
     "league": "Warbands",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+3 to Level of Socketed Golem Gems",
@@ -1182,6 +1213,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.16.0", "Pre 3.19.0", "Pre 3.20.0", "Current"],
     "implicit": ["+(20-30) to maximum Mana"],
     "mods": [
       "+(5-20) to Intelligence",
@@ -1274,6 +1306,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Rigwald, the Wolven King} (Level 60+)",
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["+(12-16)% to Fire and Cold Resistances"],
     "mods": [
       "Trigger Level 10 Summon Spectral Wolf on Kill",
@@ -1289,6 +1322,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.1.0", "Pre 2.2.0", "Current"],
     "implicit": ["(20-30)% increased Global Critical Strike Chance"],
     "mods": [
       "+333 to Accuracy Rating",
@@ -1309,6 +1343,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Purchase from Ritual Reward",
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "Socketed Gems are Supported by Level 20 Blasphemy",
@@ -1328,6 +1363,7 @@
     "league": "Anarchy, Onslaught",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(15-25) to maximum Energy Shield"],
     "mods": [
       "+(60-75) to Intelligence",
@@ -1348,6 +1384,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.9.0", "Current"],
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "(20-30)% increased Elemental Damage with Attack Skills",
@@ -1366,6 +1403,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Current"],
     "implicit": ["+(20-30)% to Cold Resistance"],
     "mods": [
       "(20-40)% increased Spell Damage",
@@ -1440,6 +1478,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["(15-25)% increased Elemental Damage"],
     "mods": [
       "(40-45)% increased Mana Regeneration Rate",
@@ -1458,6 +1497,7 @@
     "league": "Bloodlines",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(20-30)% to Cold Resistance"],
     "mods": [
       "Adds 40 to 60 Cold Damage against Chilled Enemies",
@@ -1511,6 +1551,7 @@
     "league": "Heist",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["(6-15)% increased Rarity of Items found"],
     "mods": [
       "(15-25)% increased Rarity of Items found",
@@ -1545,6 +1586,7 @@
     "league": "Warbands",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -1619,6 +1661,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.0.0", "Pre 3.25.0", "Current"],
     "implicit": ["+(8-10)% to all Elemental Resistances"],
     "mods": [
       "+(20-30)% to all Elemental Resistances",
@@ -1636,6 +1679,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Uber Incarnation of Dread} in normal{Moment of Reverence}",
+    "variants": ["Scorch", "Brittle", "Sap"],
     "implicit": ["(15-25)% increased Elemental Damage"],
     "mods": [
       "+(5-30)% to Fire Resistance",
@@ -1751,6 +1795,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.0.0", "Pre 1.1.0", "Pre 2.6.0", "Pre 3.19.0", "Pre 3.25.0", "Current"],
     "implicit": ["+(8-10)% to all Elemental Resistances"],
     "mods": [
       "(20-30)% increased Rarity of Items found",
@@ -1770,6 +1815,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.17.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(15-25) to maximum Energy Shield"],
     "mods": [
       "(10-15)% increased Attack Speed",
@@ -1790,6 +1836,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(15-25) to maximum Energy Shield"],
     "mods": [
       "(10-15)% increased Attack Speed",
@@ -1810,6 +1857,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Atziri, Queen of the Vaal} in normal{The Apex of Sacrifice} (3 stats) or in normal{The Alluring Abyss} (4 stats)",
+    "variants": ["More Damage", "Less souls", "Additional Use (Pre 3.15.0)", "Ignore resistances", "Ignore Phys. Dmg. Reduction", "Grant Elusive", "Tailwind", "Area of Effect", "Proj. Speed", "Skill Effect Duration", "Soul Gain Prevention Duration", "Lucky Damage", "Aura Effect", "Regain Souls"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+2 to Level of Socketed Vaal Gems",
@@ -1876,6 +1924,7 @@
     "league": "Bloodlines",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.11.0", "Current"],
     "implicit": ["+(20-30)% to Lightning Resistance"],
     "mods": [
       "40% increased Damage with Hits against Shocked Enemies",
@@ -1894,6 +1943,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": ["+(15-25) to maximum Energy Shield"],
     "mods": [
       "+(30-40) to maximum Energy Shield",
@@ -1907,9 +1957,9 @@
     "name": "Venopuncture",
     "baseType": "Iron Ring",
     "type": "Ring",
-    "levelReq": null,
+    "levelReq": 49,
     "league": "Blight",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "implicit": ["League: Blight"],
     "mods": [
@@ -1931,6 +1981,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["(6-15)% increased Rarity of Items found"],
     "mods": [
       "+(0-60) to maximum Life",
@@ -1951,6 +2002,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Research Leaders} in normal{Safehouses}",
+    "variants": ["Fire and Chaos Resistances Pre 3.16.0", "Cold and Chaos Resistances Pre 3.16.0", "Lightning and Chaos Resistances Pre 3.16.0", "Strength and Dexterity Pre 3.16.0", "Dexterity and Intelligence Pre 3.16.0", "Strength and Intelligence Pre 3.16.0", "Effect of non-Damaging Ailments Pre 3.16.0", "Focus Shock Nearby Enemies Pre 3.16.0", "Minimum Frenzy Charges Pre 3.16.0", "Minimum Power Charges Pre 3.16.0", "Minimum Endurance Charges Pre 3.16.0", "Fire and Chaos Resistances", "Cold and Chaos Resistances", "Lightning and Chaos Resistances", "Strength and Dexterity", "Dexterity and Intelligence", "Strength and Intelligence", "Focus Shock Nearby Enemies", "Minimum Frenzy Charges", "Minimum Power Charges", "Minimum Endurance Charges"],
     "implicit": ["Has 1 Socket"],
     "mods": [
       "+5 to Level of Socketed Aura Gems",
@@ -1986,6 +2038,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.4.0", "Current"],
     "implicit": ["Adds 1 to 4 Physical Damage to Attacks"],
     "mods": [
       "5% increased Global Physical Damage",

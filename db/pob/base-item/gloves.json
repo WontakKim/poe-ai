@@ -8,6 +8,8 @@
     "req": { "level": 40, "str": null, "dex": null, "int": 59 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["resource", "mana"], ["resource", "mana"]],
     "armour": { "energyShieldMin": 28, "energyShieldMax": 32 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 45, "str": null, "dex": 35, "int": 35 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 81, "evasionMax": 91, "energyShieldMin": 17, "energyShieldMax": 19 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 47, "str": 68, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 154, "armourMax": 173 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 39, "str": 58, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 129, "armourMax": 154 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 70, "str": 46, "dex": null, "int": 59 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "default", "gloves", "glovesatlasstrint", "not_for_sale", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["damage"]],
     "armour": { "armourMin": 108, "armourMax": 124, "energyShieldMin": 29, "energyShieldMax": 33 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 40, "str": null, "dex": 59, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "evasionMin": 132, "evasionMax": 152 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 60, "str": null, "dex": null, "int": 95 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 45, "energyShieldMax": 52 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 58, "str": null, "dex": 45, "int": 45 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 104, "evasionMax": 123, "energyShieldMin": 21, "energyShieldMax": 25 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 23, "str": 36, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 77, "armourMax": 96 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 27, "str": 22, "dex": 22, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 50, "armourMax": 62, "evasionMin": 50, "evasionMax": 62 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 50, "str": null, "dex": 39, "int": 39 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 90, "evasionMax": 101, "energyShieldMin": 19, "energyShieldMax": 21 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 7, "str": 8, "dex": null, "int": 8 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 14, "armourMax": 20, "energyShieldMin": 4, "energyShieldMax": 6 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 78, "str": 70, "dex": 70, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 176, "armourMax": 203, "evasionMin": 176, "evasionMax": 203 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 31, "str": null, "dex": 25, "int": 25 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 57, "evasionMax": 65, "energyShieldMin": 12, "energyShieldMax": 14 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 55, "str": null, "dex": null, "int": 79 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 37, "energyShieldMax": 44 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 66, "str": 51, "dex": null, "int": 51 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 121, "armourMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 21, "str": null, "dex": 33, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 71, "evasionMax": 88 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 67, "str": 51, "dex": 51, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 121, "armourMax": 139, "evasionMin": 121, "evasionMax": 139 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 38, "str": null, "dex": 56, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 125, "evasionMax": 148 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 36, "str": null, "dex": null, "int": 54 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 70, "str": null, "dex": null, "int": 95 },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "default", "gloves", "glovesatlasint", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["caster_damage", "damage", "caster"]],
     "armour": { "energyShieldMin": 45, "energyShieldMax": 52 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": null, "str": 5, "dex": 5, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 9, "armourMax": 12, "evasionMin": 9, "evasionMax": 12 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 9, "str": null, "dex": 17, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 32, "evasionMax": 42 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "demigods", "gloves", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["resource", "life"]],
     "armour": {  }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 53, "str": 77, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 174, "armourMax": 200 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 70, "str": null, "dex": 95, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "default", "dex_armour", "gloves", "glovesatlasdex", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["damage", "attack"]],
     "armour": { "evasionMin": 220, "evasionMax": 253 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 40, "str": 59, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["block"], ["block"]],
     "armour": { "armourMin": 132, "armourMax": 152 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 78, "str": null, "dex": 125, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 307, "evasionMax": 353 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": 59, "str": 45, "dex": 45, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 106, "armourMax": 122, "evasionMin": 106, "evasionMax": 122 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": 78, "str": null, "dex": 70, "int": 70 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 176, "evasionMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": null, "str": 6, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 6, "armourMax": 9 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 15, "str": 14, "dex": 14, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 28, "armourMax": 37, "evasionMin": 28, "evasionMax": 37 }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 57, "str": 44, "dex": null, "int": 44 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 103, "armourMax": 121, "energyShieldMin": 21, "energyShieldMax": 25 }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 84, "str": 144, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 359, "armourMax": 413 }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 10, "str": null, "dex": null, "int": 18 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["resource", "mana"], ["resource", "mana"]],
     "armour": { "energyShieldMin": 9, "energyShieldMax": 10 }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 78, "str": 70, "dex": null, "int": 70 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 176, "armourMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 32, "str": 26, "dex": null, "int": 26 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 58, "armourMax": 67, "energyShieldMin": 12, "energyShieldMax": 14 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 67, "str": null, "dex": 51, "int": 51 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 121, "evasionMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 70, "str": null, "dex": null, "int": 101 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["resource", "mana"], ["resource", "mana"]],
     "armour": { "energyShieldMin": 47, "energyShieldMax": 54 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 33, "str": null, "dex": 50, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 109, "evasionMax": 122 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 84, "str": 80, "dex": null, "int": 80 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 205, "armourMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": 84, "str": null, "dex": 80, "int": 80 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 205, "evasionMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": 11, "str": 20, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 39, "armourMax": 50 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": 78, "str": 125, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 307, "armourMax": 353 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": 16, "str": 18, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["block"], ["block"]],
     "armour": { "armourMin": 35, "armourMax": 41 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": null, "str": null, "dex": 9, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 13, "evasionMax": 18 }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": 19, "str": 16, "dex": null, "int": 16 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 35, "armourMax": 46, "energyShieldMin": 8, "energyShieldMax": 10 }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 37, "str": 29, "dex": null, "int": 29 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 67, "armourMax": 77, "energyShieldMin": 14, "energyShieldMax": 16 }
   },
   {
@@ -536,6 +632,8 @@
     "req": { "level": 48, "str": 31, "dex": 31, "int": 31 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 62, "wardMax": 71 }
   },
   {
@@ -547,6 +645,8 @@
     "req": { "level": 69, "str": 38, "dex": 38, "int": 38 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 102, "wardMax": 117 }
   },
   {
@@ -558,6 +658,8 @@
     "req": { "level": 24, "str": 16, "dex": 16, "int": 16 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "ward_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "wardMin": 24, "wardMax": 28 }
   },
   {
@@ -569,6 +671,8 @@
     "req": { "level": 78, "str": null, "dex": null, "int": 125 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 62, "energyShieldMax": 71 }
   },
   {
@@ -580,6 +684,8 @@
     "req": { "level": 47, "str": null, "dex": null, "int": 68 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 32, "energyShieldMax": 37 }
   },
   {
@@ -591,6 +697,8 @@
     "req": { "level": 41, "str": null, "dex": null, "int": 60 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 28, "energyShieldMax": 33 }
   },
   {
@@ -602,6 +710,8 @@
     "req": { "level": 43, "str": 34, "dex": 34, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 78, "armourMax": 87, "evasionMin": 78, "evasionMax": 87 }
   },
   {
@@ -613,6 +723,8 @@
     "req": { "level": 54, "str": null, "dex": 78, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 177, "evasionMax": 212 }
   },
   {
@@ -624,6 +736,8 @@
     "req": { "level": 45, "str": null, "dex": 66, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 148, "evasionMax": 163 }
   },
   {
@@ -635,6 +749,8 @@
     "req": { "level": 25, "str": null, "dex": null, "int": 39 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 18, "energyShieldMax": 23 }
   },
   {
@@ -646,6 +762,8 @@
     "req": { "level": 70, "str": null, "dex": 95, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 242, "evasionMax": 278 }
   },
   {
@@ -657,6 +775,8 @@
     "req": { "level": 51, "str": 40, "dex": null, "int": 40 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 92, "armourMax": 103, "energyShieldMin": 19, "energyShieldMax": 21 }
   },
   {
@@ -668,6 +788,8 @@
     "req": { "level": 69, "str": null, "dex": null, "int": 97 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 49, "energyShieldMax": 57 }
   },
   {
@@ -679,6 +801,8 @@
     "req": { "level": 70, "str": 95, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "atlas_base_type", "default", "gloves", "glovesatlasstr", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["damage", "attack"]],
     "armour": { "armourMin": 220, "armourMax": 253 }
   },
   {
@@ -690,6 +814,8 @@
     "req": { "level": 62, "str": null, "dex": 97, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 231, "evasionMax": 265 }
   },
   {
@@ -701,6 +827,8 @@
     "req": { "level": 35, "str": 52, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 116, "armourMax": 127 }
   },
   {
@@ -712,6 +840,8 @@
     "req": { "level": 36, "str": 29, "dex": 29, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 65, "armourMax": 75, "evasionMin": 65, "evasionMax": 75 }
   },
   {
@@ -723,6 +853,8 @@
     "req": { "level": 16, "str": null, "dex": 14, "int": 14 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 30, "evasionMax": 39, "energyShieldMin": 7, "energyShieldMax": 9 }
   },
   {
@@ -734,6 +866,8 @@
     "req": { "level": 70, "str": 101, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [["block"], ["block"]],
     "armour": { "armourMin": 236, "armourMax": 271 }
   },
   {
@@ -745,6 +879,8 @@
     "req": { "level": 10, "str": null, "dex": 18, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "evasionMin": 35, "evasionMax": 41 }
   },
   {
@@ -756,6 +892,8 @@
     "req": { "level": 69, "str": 98, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 242, "armourMax": 278 }
   },
   {
@@ -767,6 +905,8 @@
     "req": { "level": 36, "str": null, "dex": 29, "int": 29 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 65, "evasionMax": 77, "energyShieldMin": 14, "energyShieldMax": 16 }
   },
   {
@@ -778,6 +918,8 @@
     "req": { "level": 70, "str": null, "dex": 101, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "not_for_sale"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [[], []],
     "armour": { "evasionMin": 236, "evasionMax": 271 }
   },
   {
@@ -789,6 +931,8 @@
     "req": { "level": 63, "str": 100, "dex": null, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 232, "armourMax": 266 }
   },
   {
@@ -800,6 +944,8 @@
     "req": { "level": 84, "str": null, "dex": 144, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_armour", "gloves", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 359, "evasionMax": 413 }
   },
   {
@@ -811,6 +957,8 @@
     "req": { "level": 12, "str": null, "dex": null, "int": 21 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 10, "energyShieldMax": 13 }
   },
   {
@@ -822,6 +970,8 @@
     "req": { "level": 84, "str": null, "dex": null, "int": 144 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour", "not_for_sale", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 72, "energyShieldMax": 83 }
   },
   {
@@ -833,6 +983,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": 9 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "energyShieldMin": 5, "energyShieldMax": 7 }
   },
   {
@@ -844,6 +996,8 @@
     "req": { "level": 5, "str": null, "dex": 6, "int": 6 },
     "socketLimit": 4,
     "tags": ["armour", "default", "dex_int_armour", "gloves"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "evasionMin": 11, "evasionMax": 15, "energyShieldMin": 3, "energyShieldMax": 5 }
   },
   {
@@ -855,6 +1009,8 @@
     "req": { "level": 49, "str": 38, "dex": 38, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_dex_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 88, "armourMax": 104, "evasionMin": 88, "evasionMax": 104 }
   },
   {
@@ -866,6 +1022,8 @@
     "req": { "level": 84, "str": 80, "dex": 80, "int": null },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "not_for_sale", "str_dex_armour", "top_tier_base_item_type"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 205, "armourMax": 236, "evasionMin": 205, "evasionMax": 236 }
   },
   {
@@ -877,6 +1035,8 @@
     "req": { "level": 43, "str": 34, "dex": null, "int": 34 },
     "socketLimit": 4,
     "tags": ["armour", "default", "gloves", "str_int_armour"],
+    "influenceTags": {"adjudicator": "gloves_adjudicator", "basilisk": "gloves_basilisk", "cleansing": "gloves_cleansing", "crusader": "gloves_crusader", "elder": "gloves_elder", "eyrie": "gloves_eyrie", "shaper": "gloves_shaper", "tangle": "gloves_tangle"},
+    "implicitModTypes": [],
     "armour": { "armourMin": 78, "armourMax": 92, "energyShieldMin": 16, "energyShieldMax": 19 }
   }
 ]

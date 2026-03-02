@@ -8,6 +8,8 @@
     "req": { "level": 70, "str": 121, "dex": 121, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["physical_damage", "elemental_damage", "damage", "physical", "elemental", "attack"]],
     "weapon": { "physMin": 34, "physMax": 63, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 24, "str": 44, "dex": 44, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 18, "physMax": 33, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 26, "str": null, "dex": 89, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 12, "physMax": 46, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 55, "str": null, "dex": 176, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 29, "physMax": 67, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 70, "str": 130, "dex": 130, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 55, "physMax": 102, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 41, "str": 72, "dex": 72, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 37, "physMax": 53, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 17, "str": null, "dex": 62, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 11, "physMax": 25, "critChance": 5.5, "attackRate": 1.55, "range": 14 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 12, "str": 21, "dex": 30, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 17, "physMax": 29, "critChance": 5, "attackRate": 1.45, "range": 13 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 12, "str": null, "dex": 47, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 11, "physMax": 20, "critChance": 6, "attackRate": 1.5, "range": 14 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 44, "str": 83, "dex": 70, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 38, "physMax": 70, "critChance": 5, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 50, "str": 86, "dex": 86, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 47, "physMax": 87, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 15, "str": 30, "dex": 30, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 15, "physMax": 21, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 40, "str": null, "dex": 131, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 25, "physMax": 46, "critChance": 6, "attackRate": 1.4, "range": 14 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 36, "str": 69, "dex": 58, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 34, "physMax": 79, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": 50, "str": 94, "dex": 94, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["physical_damage", "elemental_damage", "damage", "physical", "elemental", "attack"]],
     "weapon": { "physMin": 27, "physMax": 51, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": null, "str": 9, "dex": 9, "int": null },
     "socketLimit": 3,
     "tags": ["default", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 5, "physMax": 11, "critChance": 5, "attackRate": 1.45, "range": 11 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 5, "str": 14, "dex": 14, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 6, "physMax": 14, "critChance": 5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": null, "str": 11, "dex": 11, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 8, "physMax": 16, "critChance": 5, "attackRate": 1.45, "range": 13 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 58, "str": 81, "dex": 117, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 20, "physMax": 80, "critChance": 5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 57, "str": null, "dex": 190, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["bleed", "physical", "attack", "ailment"]],
     "weapon": { "physMin": 29, "physMax": 60, "critChance": 6, "attackRate": 1.55, "range": 14 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 35, "str": 62, "dex": 73, "int": null },
     "socketLimit": 6,
     "tags": ["default", "maraketh", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 41, "physMax": 68, "critChance": 6, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 38, "str": 55, "dex": 79, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 13, "physMax": 53, "critChance": 5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 58, "str": null, "dex": 185, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 19, "physMax": 75, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 72, "str": null, "dex": 220, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["bleed", "physical", "attack", "ailment"]],
     "weapon": { "physMin": 32, "physMax": 66, "critChance": 6, "attackRate": 1.5, "range": 14 }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 32, "str": 57, "dex": 57, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 19, "physMax": 54, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 47, "str": 81, "dex": 81, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 36, "physMax": 66, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 30, "str": null, "dex": 101, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 18, "physMax": 33, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 28, "str": 46, "dex": 55, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 20, "physMax": 33, "critChance": 5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -316,6 +372,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": 3,
     "tags": ["default", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [],
     "weapon": { "physMin": 0, "physMax": 0, "critChance": 7, "attackRate": 1.7, "range": 11 }
   },
   {
@@ -327,6 +385,8 @@
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": 6,
     "tags": ["default", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [],
     "weapon": { "physMin": 0, "physMax": 0, "critChance": 7, "attackRate": 1.6, "range": 13 }
   },
   {
@@ -338,6 +398,8 @@
     "req": { "level": 48, "str": 91, "dex": 76, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 49, "physMax": 102, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -349,6 +411,8 @@
     "req": { "level": 43, "str": null, "dex": 140, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 21, "physMax": 50, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
   },
   {
@@ -360,6 +424,8 @@
     "req": { "level": 22, "str": 45, "dex": 38, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 23, "physMax": 48, "critChance": 5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -371,6 +437,8 @@
     "req": { "level": 66, "str": 104, "dex": 122, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 41, "physMax": 68, "critChance": 5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -382,6 +450,8 @@
     "req": { "level": 70, "str": 119, "dex": 131, "int": null },
     "socketLimit": 6,
     "tags": ["default", "maraketh", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 67, "physMax": 112, "critChance": 5.7, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -393,6 +463,8 @@
     "req": { "level": 61, "str": 113, "dex": 113, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 62, "physMax": 115, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -404,6 +476,8 @@
     "req": { "level": 52, "str": null, "dex": 167, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 28, "physMax": 51, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -415,6 +489,8 @@
     "req": { "level": 30, "str": 54, "dex": 54, "int": null },
     "socketLimit": 3,
     "tags": ["default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["physical_damage", "elemental_damage", "damage", "physical", "elemental", "attack"]],
     "weapon": { "physMin": 18, "physMax": 33, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -426,6 +502,8 @@
     "req": { "level": 40, "str": 57, "dex": 83, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 39, "physMax": 65, "critChance": 5, "attackRate": 1.45, "range": 13 }
   },
   {
@@ -437,6 +515,8 @@
     "req": { "level": 56, "str": 96, "dex": 96, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 39, "physMax": 83, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -448,6 +528,8 @@
     "req": { "level": 60, "str": 113, "dex": 113, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 54, "physMax": 78, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -459,6 +541,8 @@
     "req": { "level": 50, "str": 78, "dex": 94, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 34, "physMax": 55, "critChance": 5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -470,6 +554,8 @@
     "req": { "level": 55, "str": 99, "dex": 99, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 44, "physMax": 94, "critChance": 5, "attackRate": 1.15, "range": 11 }
   },
   {
@@ -481,6 +567,8 @@
     "req": { "level": 70, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 31, "physMax": 72, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
   },
   {
@@ -492,6 +580,8 @@
     "req": { "level": 57, "str": 106, "dex": 89, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 55, "physMax": 128, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -503,6 +593,8 @@
     "req": { "level": 44, "str": 77, "dex": 77, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 45, "physMax": 84, "critChance": 5, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -514,6 +606,8 @@
     "req": { "level": 34, "str": 64, "dex": 64, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 28, "physMax": 60, "critChance": 5, "attackRate": 1.15, "range": 11 }
   },
   {
@@ -525,6 +619,8 @@
     "req": { "level": 67, "str": 113, "dex": 113, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["elemental_damage", "damage", "elemental", "attack"]],
     "weapon": { "physMin": 62, "physMax": 129, "critChance": 5, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -536,6 +632,8 @@
     "req": { "level": 22, "str": null, "dex": 77, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 12, "physMax": 29, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -547,6 +645,8 @@
     "req": { "level": 68, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 32, "physMax": 60, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -558,6 +658,8 @@
     "req": { "level": null, "str": 8, "dex": 8, "int": null },
     "socketLimit": 6,
     "tags": ["default", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [],
     "weapon": { "physMin": 1, "physMax": 1, "critChance": 5, "attackRate": 1.2, "range": 13 }
   },
   {
@@ -569,6 +671,8 @@
     "req": { "level": 62, "str": 122, "dex": 104, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 53, "physMax": 98, "critChance": 5, "attackRate": 1.2, "range": 11 }
   },
   {
@@ -580,6 +684,8 @@
     "req": { "level": 65, "str": 104, "dex": 122, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attribute"]],
     "weapon": { "physMin": 69, "physMax": 115, "critChance": 5, "attackRate": 1.45, "range": 13 }
   },
   {
@@ -591,6 +697,8 @@
     "req": { "level": 56, "str": 96, "dex": 113, "int": null },
     "socketLimit": 6,
     "tags": ["default", "maraketh", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 63, "physMax": 104, "critChance": 6, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -602,6 +710,8 @@
     "req": { "level": 8, "str": 20, "dex": 17, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 11, "physMax": 26, "critChance": 5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -613,6 +723,8 @@
     "req": { "level": 68, "str": 113, "dex": 113, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 35, "physMax": 99, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -624,6 +736,8 @@
     "req": { "level": 27, "str": 45, "dex": 54, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 30, "physMax": 50, "critChance": 5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -635,6 +749,8 @@
     "req": { "level": 62, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 29, "physMax": 69, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
   },
   {
@@ -646,6 +762,8 @@
     "req": { "level": 49, "str": null, "dex": 158, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 18, "physMax": 73, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
   },
   {
@@ -656,7 +774,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": 3,
-    "tags": ["default"]
+    "tags": ["default"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": []
   },
   {
     "id": "Random_Two_Hand_Sword",
@@ -666,7 +786,9 @@
     "implicit": null,
     "req": { "level": null, "str": null, "dex": null, "int": null },
     "socketLimit": 6,
-    "tags": ["default"]
+    "tags": ["default"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": []
   },
   {
     "id": "Reaver_Sword",
@@ -677,6 +799,8 @@
     "req": { "level": 59, "str": 82, "dex": 119, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 62, "physMax": 104, "critChance": 5, "attackRate": 1.5, "range": 13 }
   },
   {
@@ -688,6 +812,8 @@
     "req": { "level": 30, "str": 54, "dex": 54, "int": null },
     "socketLimit": 6,
     "tags": ["default", "experimental_base", "not_for_sale", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [[]],
     "weapon": { "physMin": 30, "physMax": 56, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -699,6 +825,8 @@
     "req": { "level": null, "str": null, "dex": 20, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 5, "physMax": 11, "critChance": 5.5, "attackRate": 1.55, "range": 14 }
   },
   {
@@ -710,6 +838,8 @@
     "req": { "level": null, "str": 8, "dex": 8, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 4, "physMax": 9, "critChance": 5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -721,6 +851,8 @@
     "req": { "level": 10, "str": 18, "dex": 26, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 5, "physMax": 22, "critChance": 5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -732,6 +864,8 @@
     "req": { "level": 46, "str": null, "dex": 149, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 21, "physMax": 49, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -743,6 +877,8 @@
     "req": { "level": 36, "str": null, "dex": 124, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["bleed", "physical", "attack", "ailment"]],
     "weapon": { "physMin": 19, "physMax": 40, "critChance": 6, "attackRate": 1.55, "range": 14 }
   },
   {
@@ -754,6 +890,8 @@
     "req": { "level": 32, "str": 57, "dex": 57, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 31, "physMax": 65, "critChance": 5, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -765,6 +903,8 @@
     "req": { "level": 64, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 27, "physMax": 64, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -776,6 +916,8 @@
     "req": { "level": 60, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 35, "physMax": 65, "critChance": 6, "attackRate": 1.4, "range": 14 }
   },
   {
@@ -787,6 +929,8 @@
     "req": { "level": 34, "str": null, "dex": 113, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 19, "physMax": 44, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
   },
   {
@@ -798,6 +942,8 @@
     "req": { "level": 70, "str": 119, "dex": 119, "int": null },
     "socketLimit": 3,
     "tags": ["default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 37, "physMax": 80, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -809,6 +955,8 @@
     "req": { "level": 51, "str": 80, "dex": 96, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 54, "physMax": 89, "critChance": 5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -820,6 +968,8 @@
     "req": { "level": 53, "str": 91, "dex": 91, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 30, "physMax": 86, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -831,6 +981,8 @@
     "req": { "level": 17, "str": 33, "dex": 33, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 20, "physMax": 38, "critChance": 5, "attackRate": 1.4, "range": 13 }
   },
   {
@@ -842,6 +994,8 @@
     "req": { "level": 64, "str": 113, "dex": 113, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 46, "physMax": 86, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -853,6 +1007,8 @@
     "req": { "level": 63, "str": 122, "dex": 104, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "top_tier_base_item_type", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 68, "physMax": 142, "critChance": 5, "attackRate": 1.3, "range": 13 }
   },
   {
@@ -864,6 +1020,8 @@
     "req": { "level": 66, "str": null, "dex": 212, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 22, "physMax": 87, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
   },
   {
@@ -875,6 +1033,8 @@
     "req": { "level": 35, "str": 62, "dex": 62, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 25, "physMax": 53, "critChance": 5, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -886,6 +1046,8 @@
     "req": { "level": 20, "str": 41, "dex": 35, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 16, "physMax": 30, "critChance": 5, "attackRate": 1.4, "range": 11 }
   },
   {
@@ -897,6 +1059,8 @@
     "req": { "level": 7, "str": null, "dex": 32, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 4, "physMax": 17, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
   },
   {
@@ -908,6 +1072,8 @@
     "req": { "level": 54, "str": 93, "dex": 93, "int": null },
     "socketLimit": 6,
     "tags": ["default", "sword", "two_hand_weapon", "twohand", "weapon"],
+    "influenceTags": {"adjudicator": "2h_sword_adjudicator", "basilisk": "2h_sword_basilisk", "cleansing": "2h_sword_cleansing", "crusader": "2h_sword_crusader", "elder": "2h_sword_elder", "eyrie": "2h_sword_eyrie", "shaper": "2h_sword_shaper", "tangle": "2h_sword_tangle"},
+    "implicitModTypes": [["attack"]],
     "weapon": { "physMin": 52, "physMax": 109, "critChance": 5, "attackRate": 1.35, "range": 13 }
   },
   {
@@ -919,6 +1085,8 @@
     "req": { "level": 37, "str": null, "dex": 122, "int": null },
     "socketLimit": 3,
     "tags": ["default", "one_hand_weapon", "onehand", "rapier", "sword", "weapon"],
+    "influenceTags": {"adjudicator": "sword_adjudicator", "basilisk": "sword_basilisk", "cleansing": "sword_cleansing", "crusader": "sword_crusader", "elder": "sword_elder", "eyrie": "sword_eyrie", "shaper": "sword_shaper", "tangle": "sword_tangle"},
+    "implicitModTypes": [["damage", "critical"]],
     "weapon": { "physMin": 13, "physMax": 51, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
   }
 ]

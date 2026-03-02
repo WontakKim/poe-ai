@@ -8,6 +8,8 @@
     "req": { "level": 12, "str": null, "dex": 25, "int": 25 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 7, "physMax": 23, "critChance": 7.5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -19,6 +21,8 @@
     "req": { "level": 22, "str": null, "dex": 41, "int": 41 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 12, "physMax": 31, "critChance": 7.5, "attackRate": 1.55, "range": 11 }
   },
   {
@@ -30,6 +34,8 @@
     "req": { "level": 17, "str": null, "dex": 39, "int": 27 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 12, "physMax": 22, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -41,6 +47,8 @@
     "req": { "level": 36, "str": null, "dex": 67, "int": 67 },
     "socketLimit": 3,
     "tags": ["claw", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "mana", "attack"], ["resource", "life", "mana", "attack"]],
     "weapon": { "physMin": 15, "physMax": 44, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -52,6 +60,8 @@
     "req": { "level": 55, "str": null, "dex": 94, "int": 94 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 17, "physMax": 69, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -63,6 +73,8 @@
     "req": { "level": 64, "str": null, "dex": 113, "int": 113 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 26, "physMax": 68, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -74,6 +86,8 @@
     "req": { "level": 34, "str": null, "dex": 61, "int": 61 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 12, "physMax": 46, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -85,6 +99,8 @@
     "req": { "level": 72, "str": null, "dex": 121, "int": 121 },
     "socketLimit": 3,
     "tags": ["claw", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "mana", "attack"], ["resource", "life", "mana", "attack"]],
     "weapon": { "physMin": 23, "physMax": 68, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -96,6 +112,8 @@
     "req": { "level": 40, "str": null, "dex": 70, "int": 70 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 15, "physMax": 51, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -107,6 +125,8 @@
     "req": { "level": 58, "str": null, "dex": 81, "int": 117 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 30, "physMax": 78, "critChance": 8, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -118,6 +138,8 @@
     "req": { "level": 46, "str": null, "dex": 80, "int": 80 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 20, "physMax": 53, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -129,6 +151,8 @@
     "req": { "level": 62, "str": null, "dex": 131, "int": 95 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 29, "physMax": 55, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -140,6 +164,8 @@
     "req": { "level": 68, "str": null, "dex": 131, "int": 95 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 25, "physMax": 65, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -151,6 +177,8 @@
     "req": { "level": 50, "str": null, "dex": 86, "int": 86 },
     "socketLimit": 3,
     "tags": ["claw", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["chaos_damage", "damage", "chaos", "attack"]],
     "weapon": { "physMin": 20, "physMax": 37, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -162,6 +190,8 @@
     "req": { "level": null, "str": null, "dex": 11, "int": 11 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 4, "physMax": 11, "critChance": 7.3, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -173,6 +203,8 @@
     "req": { "level": 52, "str": null, "dex": 105, "int": 73 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 21, "physMax": 56, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -184,6 +216,8 @@
     "req": { "level": 49, "str": null, "dex": 69, "int": 100 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 26, "physMax": 68, "critChance": 8, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -195,6 +229,8 @@
     "req": { "level": 30, "str": null, "dex": 54, "int": 54 },
     "socketLimit": 3,
     "tags": ["claw", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["chaos_damage", "damage", "chaos", "attack"]],
     "weapon": { "physMin": 13, "physMax": 24, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -206,6 +242,8 @@
     "req": { "level": 7, "str": null, "dex": 14, "int": 20 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 6, "physMax": 17, "critChance": 8, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -217,6 +255,8 @@
     "req": { "level": 30, "str": null, "dex": 64, "int": 44 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 14, "physMax": 38, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -228,6 +268,8 @@
     "req": { "level": 70, "str": null, "dex": 113, "int": 113 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 18, "physMax": 71, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -239,6 +281,8 @@
     "req": { "level": 37, "str": null, "dex": 53, "int": 77 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 20, "physMax": 53, "critChance": 8, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -250,6 +294,8 @@
     "req": { "level": 60, "str": null, "dex": 113, "int": 113 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 21, "physMax": 73, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -261,6 +307,8 @@
     "req": { "level": 43, "str": null, "dex": 88, "int": 61 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 23, "physMax": 43, "critChance": 7, "attackRate": 1.6, "range": 11 }
   },
   {
@@ -272,6 +320,8 @@
     "req": { "level": 26, "str": null, "dex": 39, "int": 56 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "attack"]],
     "weapon": { "physMin": 16, "physMax": 43, "critChance": 8, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -283,6 +333,8 @@
     "req": { "level": 57, "str": null, "dex": 103, "int": 103 },
     "socketLimit": 3,
     "tags": ["claw", "default", "maraketh", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "mana", "attack"], ["resource", "life", "mana", "attack"]],
     "weapon": { "physMin": 21, "physMax": 64, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
   },
   {
@@ -294,6 +346,8 @@
     "req": { "level": 66, "str": null, "dex": 95, "int": 131 },
     "socketLimit": 3,
     "tags": ["claw", "default", "one_hand_weapon", "onehand", "top_tier_base_item_type", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["resource", "life", "physical", "attack"]],
     "weapon": { "physMin": 29, "physMax": 76, "critChance": 8, "attackRate": 1.3, "range": 11 }
   },
   {
@@ -305,6 +359,8 @@
     "req": { "level": 70, "str": null, "dex": 113, "int": 113 },
     "socketLimit": 3,
     "tags": ["claw", "default", "experimental_base", "not_for_sale", "one_hand_weapon", "onehand", "weapon"],
+    "influenceTags": {"adjudicator": "claw_adjudicator", "basilisk": "claw_basilisk", "cleansing": "claw_cleansing", "crusader": "claw_crusader", "elder": "claw_elder", "eyrie": "claw_eyrie", "shaper": "claw_shaper", "tangle": "claw_tangle"},
+    "implicitModTypes": [["chaos_damage", "damage", "chaos", "attack"]],
     "weapon": { "physMin": 22, "physMax": 41, "critChance": 7, "attackRate": 1.6, "range": 11 }
   }
 ]

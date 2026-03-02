@@ -9,6 +9,7 @@
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 3.5.0", "Pre 3.9.0", "Pre 3.11.0", "Pre 3.17.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds (80-100) to (200-225) Physical Damage",
@@ -30,6 +31,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.0.0", "Pre 1.2.0", "Pre 2.0.0", "Pre 3.5.0", "Pre 3.9.0", "Pre 3.17.0", "Current"],
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "+(10-20) to Dexterity",
@@ -49,6 +51,7 @@
     "league": "Legion",
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 2.0.0", "Pre 2.6.0", "Pre 3.7.0", "Pre 3.9.0", "Pre 3.17.0", "Current"],
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -69,6 +72,7 @@
     "league": null,
     "req": { "str": 0, "dex": 107, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 2.2.0", "Pre 3.0.0", "Pre 3.10.0", "Pre 3.17.0", "Pre 3.19.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(90-105)% increased Physical Damage",
@@ -87,6 +91,7 @@
     "req": { "str": 0, "dex": 107, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 1.2.0", "Pre 2.2.0", "Pre 3.0.0", "Pre 3.10.0", "Pre 3.17.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(90-105)% increased Physical Damage",
@@ -105,6 +110,7 @@
     "league": null,
     "req": { "str": 0, "dex": 95, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.1.0", "Pre 3.19.0", "Current"],
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (12-16) to (20-24) Physical Damage",
@@ -123,6 +129,7 @@
     "req": { "str": 0, "dex": 95, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.1.0", "Current"],
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (12-16) to (20-24) Physical Damage",
@@ -142,6 +149,7 @@
     "sockets": null,
     "influences": ["elder"],
     "source": "Drops from unique{The Elder}",
+    "variants": ["Pre 3.4.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds (130-150) to (270-300) Cold Damage",
@@ -163,6 +171,7 @@
     "league": null,
     "req": { "str": 0, "dex": 170, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.2.0", "Pre 2.6.0", "Pre 3.7.0", "Pre 3.17.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "(70-80)% increased Physical Damage",
@@ -202,6 +211,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.0.0", "Pre 3.17.0", "Pre 3.20.0", "Current"],
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "(180-200)% increased Physical Damage",
@@ -221,6 +231,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 212 },
     "sockets": null,
+    "variants": ["Pre 3.14.0", "Pre 3.26.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds (50-80) to (130-180) Chaos Damage",
@@ -240,6 +251,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.5.0", "Pre 3.26.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "No Physical Damage",
@@ -261,6 +273,7 @@
     "league": null,
     "req": { "str": 0, "dex": 26, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.9.0", "Current"],
     "implicit": [],
     "mods": [
       "+(10-20) to Dexterity",
@@ -281,6 +294,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.4.0", "Pre 2.6.0", "Pre 3.5.0", "Pre 3.11.0", "Pre 3.17.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Greater Volley",
@@ -304,6 +318,7 @@
     "req": { "str": 0, "dex": 170, "int": 0 },
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.17.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -386,6 +401,7 @@
     "league": null,
     "req": { "str": 0, "dex": 71, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.9.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
     "mods": [
       "(60-80)% increased Physical Damage",
@@ -424,6 +440,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Current"],
     "implicit": [],
     "mods": [
       "+1 to Level of Socketed Bow Gems",
@@ -442,6 +459,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Pre 3.17.0", "Current"],
     "implicit": ["(30-50)% increased Critical Strike Chance"],
     "mods": [
       "Adds (80-95) to (220-240) Physical Damage",
@@ -459,6 +477,7 @@
     "league": null,
     "req": { "str": 0, "dex": 38, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Current"],
     "implicit": [],
     "mods": [
       "No Physical Damage",
@@ -476,6 +495,7 @@
     "req": { "str": 0, "dex": 190, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Fortification Leaders} in normal{Safehouses}",
+    "variants": ["Crit Multi while Rare/Unique Nearby (Pre 3.17.0)", "Attack Speed while Rare/Unique Nearby (Pre 3.17.0)", "Damage per Power Charge (Pre 3.17.0)", "Damage per Frenzy Charge (Pre 3.17.0)", "Damage per Endurance Charge (Pre 3.17.0)", "Accuracy and Quality (Pre 3.17.0)", "Attack Speed and Quality (Pre 3.17.0)", "Attack Speed/Trigger Blood Rage on Kill (Pre 3.17.0)", "Cast Speed/Trigger Arcane Surge on Kill (Pre 3.17.0)", "Minion Attack and Cast Speed (Pre 3.17.0)", "Double Damage (Pre 3.17.0)", "Double Damage while Focused (Pre 3.17.0)", "Socketed Spell Trigger (Pre 3.17.0)", "Pre 3.17.0", "Crit Multi while Rare/Unique Nearby (Current)", "Attack Speed while Rare/Unique Nearby (Current)", "Damage per Power Charge (Current)", "Damage per Frenzy Charge (Current)", "Damage per Endurance Charge (Current)", "Accuracy and Str/Dex (Current)", "Attack Speed and Dex/Int (Current)", "Critical Strike Chance and Str/Int (Current)", "Cast Speed/Trigger Arcane Surge on Kill (Current)", "Minion Attack and Cast Speed (Current)", "Double Damage (Current)", "Double Damage while Focused (Current)", "Socketed Spell Trigger (Current)", "Fire Damage over Time (Current)", "Physical Damage over Time (Current)", "Chaos Damage over Time (Current)", "Current"],
     "implicit": [],
     "mods": [
       "6% increased Movement Speed",
@@ -533,6 +553,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.9.0", "Pre 3.20.0", "Current"],
     "implicit": [],
     "mods": [
       "Adds 1 to (600-750) Lightning Damage",
@@ -566,6 +587,7 @@
     "league": null,
     "req": { "str": 0, "dex": 212, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.1.2", "Pre 2.0.0", "Pre 2.6.0", "Pre 3.5.0", "Pre 3.25.0", "Current"],
     "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
     "mods": [
       "Adds (48-60) to (72-90) Cold Damage",
@@ -607,6 +629,7 @@
     "req": { "str": 0, "dex": 80, "int": 0 },
     "sockets": null,
     "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": [],
     "mods": [
       "(160-190)% increased Physical Damage",
@@ -627,6 +650,7 @@
     "req": { "str": 0, "dex": 185, "int": 0 },
     "sockets": null,
     "source": "Upgraded from unique{Xoph's Inception} using currency{Blessing of Xoph}",
+    "variants": ["Pre 3.3.0", "Pre 3.9.0", "Pre 3.17.0", "Current"],
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 20 Ignite Proliferation",

@@ -8,6 +8,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+(150-250) to Evasion Rating while on Low Life",
@@ -27,6 +28,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{The Eater of Worlds} (Uber)",
+    "variants": ["Pre 3.23.0", "Current"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "(5-10)% increased Experience Gain of Gems",
@@ -58,6 +60,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+100 to maximum Mana",
@@ -76,6 +79,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Aul, the Crystal King}",
+    "variants": ["Strength: Anger", "Strength: Determination", "Strength: Pride", "Strength: Purity of Fire", "Strength: Vitality", "Dexterity: Grace", "Dexterity: Haste", "Dexterity: Hatred", "Dexterity: Purity of Ice", "Intelligence: Clarity", "Intelligence: Discipline", "Intelligence: Malevolence", "Intelligence: Purity of Elements", "Intelligence: Purity of Lightning", "Intelligence: Wrath", "Intelligence: Zealotry", "Envy"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Grants Level 15 Envy Skill",
@@ -90,9 +94,9 @@
     "name": "Badge of the Brotherhood",
     "baseType": "Turquoise Amulet",
     "type": "Amulet",
-    "levelReq": 16,
+    "levelReq": 20,
     "league": "Blight",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "implicit": ["League: Blight"],
     "mods": [
@@ -114,6 +118,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.0.0", "Pre 3.2.0", "Current"],
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
@@ -129,6 +134,7 @@
     "league": "Talisman Hardcore",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["(15-25)% increased Global Defences"],
     "mods": [
       "+(20-30) to maximum Energy Shield",
@@ -165,6 +171,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.12.0", "Current"],
     "implicit": ["Regenerate (1.2-1.6)% of Life per second"],
     "mods": [
       "Adds 10 to 20 Physical Damage to Attacks",
@@ -221,6 +228,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(20-40) to all Attributes",
@@ -241,6 +249,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}",
+    "variants": ["Pre 3.0.0", "Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "Trigger Level 30 Lightning Bolt when you deal a Critical Strike",
@@ -295,6 +304,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+(60-80) to maximum Life",
@@ -330,6 +340,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{Lycia, Herald of the Scourge} in normal{The Beyond}",
+    "variants": ["Pre 3.25.0", "Current"],
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(40-70) to maximum Mana",
@@ -348,6 +359,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Current"],
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(30-50) to Strength",
@@ -400,6 +412,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Attributes", "Global Defences", "Chaos Damage", "Attack Damage", "Cold Damage", "Fire Damage", "Lightning Damage", "Spell Damage", "Global Physical Damage", "Mana", "Damage", "Physical Damage Reduction", "Chance to Freeze, Shock and Ignite", "Crit Chance", "Area of Effect", "Attack/Cast Speed", "Item Quantity (Pre 3.25.0)", "Life", "Crit Multiplier", "Maximum number of Raised Zombies", "Frenzy Charge on Kill", "Power Charge on Kill", "Endurance Charge on Kill", "Life Regen", "Cold taken as Fire", "Cold taken as Lightning", "Fire taken as Cold", "Fire taken as Lightning", "Lightning taken as Cold", "Lightning taken as Fire", "Gain Physical as random Element", "Extra Pierces", "Damage over Time Multiplier"],
     "implicit": [],
     "mods": [
       "+(24-36)% to Damage over Time Multiplier",
@@ -433,6 +446,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": ["(48-56)% increased Mana Regeneration Rate"],
     "mods": [
       "0.5% of Chaos Damage Leeched as Life",
@@ -472,6 +486,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Pre 3.37.0", "Current"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Prevent +(4-6)% of Suppressed Spell Damage",
@@ -489,6 +504,7 @@
     "league": "Synthesis",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "Grants Level 30 Precision Skill",
@@ -527,6 +543,7 @@
     "sockets": null,
     "influences": ["elder"],
     "source": "Drops from unique{The Elder}",
+    "variants": ["Physical", "Fire", "Cold", "Lightning", "Chaos"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "Adds (17-19) to (23-29) Chaos Damage",
@@ -547,6 +564,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(20-30) to Strength",
@@ -566,6 +584,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(20-30) to Strength",
@@ -621,6 +640,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.3.0", "Pre 2.0.0", "Pre 2.2.0", "Pre 2.6.0", "Current"],
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(80-120) to Accuracy Rating",
@@ -729,6 +749,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(40-80) to maximum Life",
@@ -748,6 +769,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["Regenerate (1-2)% of Life per second"],
     "mods": [
       "+100 to maximum Life",
@@ -760,9 +782,9 @@
     "name": "Replica Badge of the Brotherhood",
     "baseType": "Turquoise Amulet",
     "type": "Amulet",
-    "levelReq": 16,
+    "levelReq": 60,
     "league": "Heist",
-    "req": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
@@ -803,6 +825,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.16.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "Grants Level 22 Hatred Skill",
@@ -859,6 +882,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "(10-20)% chance to Blind Enemies on Hit with Attacks",
@@ -876,6 +900,7 @@
     "league": "Talisman Standard",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Current"],
     "implicit": ["+(24-36)% to Global Critical Strike Multiplier"],
     "mods": [
       "+7% to Unarmed Melee Attack Critical Strike Chance",
@@ -894,6 +919,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{The Vaal Omnitect}",
+    "variants": ["Pre 3.14.0", "Current"],
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "Adds (22-27) to (34-38) Fire Damage",
@@ -913,6 +939,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "(60-100)% increased Mana Regeneration Rate",
@@ -930,6 +957,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.0.0", "Pre 3.8.0", "Pre 3.19.0", "Current"],
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "+25% to Cold Resistance",
@@ -950,6 +978,7 @@
     "sockets": null,
     "influences": ["shaper"],
     "source": "Drops from unique{The Shaper}",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "(30-40)% increased Damage",
@@ -969,6 +998,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Vendor Recipe",
+    "variants": ["Pre 2.6.0", "Pre 3.8.0", "Current"],
     "implicit": ["+(20-30)% to Fire Resistance"],
     "mods": [
       "Grants Level 10 Frostblink Skill",
@@ -988,6 +1018,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.4.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(12-15)% Chance to Block Spell Damage",
@@ -1036,6 +1067,7 @@
     "league": "Legion",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+(30-40) to Intelligence",
@@ -1055,6 +1087,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "Grants Level 10 Purity of Elements Skill",
@@ -1072,6 +1105,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 1.3.0", "Pre 2.6.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "(10-15)% Chance to Block Attack Damage",
@@ -1109,6 +1143,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 2.5.0", "Current"],
     "implicit": ["+(16-24) to Strength and Intelligence"],
     "mods": [
       "+(30-50) to maximum Life",
@@ -1189,6 +1224,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Namharim, Born of Night} in normal{The Sacred Grove}",
+    "variants": ["Pre 3.20.0", "Current"],
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "+(30-50) to Intelligence",
@@ -1209,6 +1245,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "+(35-40)% to Cold Resistance",
@@ -1227,6 +1264,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.19.0", "Current"],
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "Adds (18-24) to (32-40) Fire Damage to Attacks",
@@ -1246,6 +1284,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Pre 3.20.0", "Current"],
     "implicit": ["+(16-24) to Strength and Dexterity"],
     "mods": [
       "+(30-40) to Intelligence",
@@ -1283,6 +1322,7 @@
     "league": "Delve",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.26.0", "Current"],
     "implicit": ["Regenerate (2-4) Life per second"],
     "mods": [
       "+3 to maximum number of Golems",
@@ -1338,6 +1378,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(250-350)% increased Global Critical Strike Chance",
@@ -1413,6 +1454,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops in Esh Breach or from unique{Esh, Forked Thought}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": ["+(20-30) to Intelligence"],
     "mods": [
       "+(10-15) to all Attributes",
@@ -1449,6 +1491,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.11.0", "Pre 3.19.0", "Current"],
     "implicit": ["+(16-24) to Dexterity and Intelligence"],
     "mods": [
       "(10-25)% increased Attack Speed",
@@ -1468,6 +1511,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
+    "variants": ["Pre 3.27.0", "Current"],
     "implicit": ["(10-15)% faster start of Energy Shield Recharge"],
     "mods": [
       "(5-10) to (20-25) Added Attack Chaos Damage per 100 Maximum Mana",
@@ -1485,6 +1529,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["+(20-30) to Dexterity"],
     "mods": [
       "10% reduced Strength",
@@ -1505,6 +1550,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.15.0", "Current"],
     "implicit": ["(12-20)% increased Rarity of Items found"],
     "mods": [
       "+(20-30) to Dexterity",
@@ -1544,6 +1590,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Drops in Xoph Breach or from unique{Xoph, Dark Embers}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": ["+(20-30) to Strength"],
     "mods": [
       "+(20-30) to Strength",
@@ -1562,6 +1609,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
+    "variants": ["Pre 3.24.0", "Current"],
     "implicit": ["+(10-16) to all Attributes"],
     "mods": [
       "+(10-20)% to Fire Resistance",
@@ -1583,6 +1631,7 @@
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
     "source": "Upgraded from unique{Sacrificial Heart} via currency{Vial of Sacrifice}",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": ["(20-30)% increased Mana Regeneration Rate"],
     "mods": [
       "Adds (48-53) to (58-60) Chaos Damage",

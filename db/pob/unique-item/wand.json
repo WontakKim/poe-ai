@@ -8,6 +8,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
     "mods": [
       "(20-30)% increased Fire Damage",
@@ -27,6 +28,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.11.0", "Current"],
     "implicit": ["(15-19)% increased Spell Damage"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -45,6 +47,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.7.0", "Pre 3.11.0", "Pre 3.19.0", "Pre 3.21.0", "Current"],
     "implicit": ["(27-31)% increased Spell Damage"],
     "mods": [
       "Adds (90-130) to (140-190) Chaos Damage to Spells",
@@ -63,6 +66,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.8.0", "Pre 3.19.0", "Pre 3.21.0", "Pre 3.27.0", "Current"],
     "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
     "mods": [
       "25% chance to Trigger Level 10 Summon Raging Spirit on Kill",
@@ -81,6 +85,7 @@
     "req": null,
     "sockets": null,
     "source": "No longer obtainable",
+    "variants": ["Pre 3.10.0", "Current"],
     "implicit": ["(29-33)% increased Spell Damage"],
     "mods": [
       "Triggers Level 20 Blinding Aura when Equipped",
@@ -102,6 +107,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.2.0", "Pre 2.3.0", "Pre 3.10.0", "Pre 3.21.0", "Pre 3.27.0", "Current"],
     "implicit": ["Adds (5-10) to (11-13) Fire Damage to Spells and Attacks"],
     "mods": [
       "(20-26)% increased Attack Speed",
@@ -122,6 +128,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Maven} (Uber)",
+    "variants": ["Pre 3.26.0", "Current"],
     "implicit": ["(36-40)% increased Spell Damage"],
     "mods": [
       "(300-350)% Increased Physical Damage",
@@ -160,6 +167,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.8.0", "Pre 3.27.0", "Current"],
     "implicit": ["Minions deal (12-16)% increased Damage"],
     "mods": [
       "Cannot be used with Chaos Inoculation",
@@ -181,6 +189,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.0.0", "Pre 2.3.0", "Pre 3.0.0", "Pre 3.27.0", "Current"],
     "implicit": ["Cannot roll Caster Modifiers"],
     "mods": [
       "Socketed Gems are supported by Level 20 Blind",
@@ -218,6 +227,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.10.0", "Pre 3.19.0", "Pre 3.21.0", "Pre 3.27.0", "Current"],
     "implicit": ["(27-31)% increased Spell Damage"],
     "mods": [
       "Gain (30-40)% of Physical Damage as Extra Chaos Damage",
@@ -233,6 +243,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 2.6.0", "Pre 3.21.0", "Current"],
     "implicit": ["(33-37)% increased Spell Damage"],
     "mods": [
       "No Physical Damage",
@@ -253,6 +264,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops from unique{The Trialmaster}",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": ["(17-21)% increased Spell Damage"],
     "mods": [
       "Grants Level 1 Blood Sacrament Skill",
@@ -269,6 +281,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.27.0", "Current"],
     "implicit": ["Minions deal (12-16)% increased Damage"],
     "mods": [
       "Cannot be used with Chaos Inoculation",
@@ -290,6 +303,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 3.21.0", "Current"],
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "(15-25)% increased Cast Speed",
@@ -310,6 +324,7 @@
     "req": null,
     "sockets": null,
     "source": "Steal from a unique{Curio Display} during a Grand Heist",
+    "variants": ["Pre 2.27.0", "Current"],
     "implicit": ["Cannot roll Caster Modifiers"],
     "mods": [
       "(110-170)% increased Physical Damage",
@@ -327,6 +342,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.11.0", "Pre 3.19.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
     "mods": [
       "+2 to Level of Socketed Gems",
@@ -345,6 +361,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.5.0", "Current"],
     "implicit": ["(17-21)% increased Spell Damage"],
     "mods": [
       "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
@@ -363,6 +380,7 @@
     "sockets": null,
     "influences": ["elder"],
     "source": "Drops from unique{The Elder}",
+    "variants": ["Pre 3.4.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (3-5) to (70-82) Lightning Damage to Spells and Attacks"],
     "mods": [
       "(30-40)% increased Spell Damage",
@@ -383,6 +401,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
     "mods": [
       "(40-60)% increased Physical Damage",
@@ -420,6 +439,7 @@
     "req": null,
     "sockets": null,
     "source": "Drops in Tul Breach or from unique{Tul, Creeping Avalanche}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "Adds (120-140) to (150-170) Cold Damage to Spells",
@@ -438,6 +458,7 @@
     "req": null,
     "sockets": null,
     "source": "Upgraded from unique{Tulborn} using currency{Blessing of Tul}",
+    "variants": ["Pre 3.16.0", "Pre 3.21.0", "Current"],
     "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
     "mods": [
       "(10-20)% increased Cast Speed",
@@ -456,6 +477,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Pre 2.27.0", "Current"],
     "implicit": [],
     "mods": [
       "Cannot roll Caster Modifiers",
@@ -494,6 +516,7 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 2.3.0", "Current"],
     "implicit": ["(36-40)% increased Spell Damage"],
     "mods": [
       "80% reduced Spell Damage",
