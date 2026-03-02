@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "Araku_Tiki",
+    "name": "Araku Tiki",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": null,
+    "league": null,
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "+(150-250) to Evasion Rating while on Low Life",
+      "+(30-50) to maximum Life",
+      "+(20-30)% to Fire Resistance",
+      "Gain Elusive on reaching Low Life",
+      "You have Phasing while on Low Life"
+    ]
+  },
+  {
+    "id": "Ashes_of_the_Stars",
+    "name": "Ashes of the Stars",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 60,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "(5-10)% increased Experience Gain of Gems",
+      "+1 to Level of all Skill Gems",
+      "+(20-30)% to Quality of all Skill Gems"
+    ]
+  },
+  {
+    "id": "Astramentis",
+    "name": "Astramentis",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "+(80-100) to all Attributes",
+      "-4 Physical Damage taken from Attacks"
+    ]
+  },
+  {
+    "id": "Atziris_Foible",
+    "name": "Atziri's Foible",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["(20-30)% increased Mana Regeneration Rate"],
+    "mods": [
+      "+100 to maximum Mana",
+      "(16-24)% increased maximum Mana",
+      "(80-100)% increased Mana Regeneration Rate",
+      "Items and Gems have 25% reduced Attribute Requirements"
+    ]
+  },
+  {
+    "id": "Auls_Uprising",
+    "name": "Aul's Uprising",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 55,
+    "league": "Delve",
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "Grants Level 15 Envy Skill",
+      "+(15-20) to all Attributes",
+      "+(50-70) to maximum Life",
+      "(15-20)% increased Global Defences",
+      "Envy has no Reservation"
+    ]
+  },
+  {
+    "id": "Badge_of_the_Brotherhood",
+    "name": "Badge of the Brotherhood",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": "Blight",
+    "implicit": ["League: Blight"],
+    "mods": [
+      "+(16-24) to Dexterity and Intelligence",
+      "(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge",
+      "(7-10)% increased Effect of Elusive on you per Power Charge",
+      "(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill",
+      "(20-25)% chance to lose a Power Charge when you gain Elusive",
+      "Your Maximum Frenzy Charges is equal to your Maximum Power Charges"
+    ]
+  },
+  {
+    "id": "Biscos_Collar",
+    "name": "Bisco's Collar",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
+      "(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"
+    ]
+  },
+  {
+    "id": "Blightwell",
+    "name": "Blightwell",
+    "baseType": "Clutching Talisman",
+    "type": "Amulet",
+    "levelReq": 28,
+    "league": "Talisman Hardcore",
+    "implicit": ["(15-25)% increased Global Defences"],
+    "mods": [
+      "+(20-30) to maximum Energy Shield",
+      "+(15-30)% to Fire Resistance",
+      "+(15-30)% to Lightning Resistance",
+      "50% slower start of Energy Shield Recharge during any Flask Effect",
+      "(150-200)% increased Energy Shield Recharge Rate during any Flask Effect"
+    ]
+  },
+  {
+    "id": "Blood_of_Corruption",
+    "name": "Blood of Corruption",
+    "baseType": "Amber Amulet",
+    "type": "Amulet",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["+(20-30) to Strength"],
+    "mods": [
+      "Grants Level 10 Gluttony of Elements Skill",
+      "Adds 19-43 Chaos Damage to Attacks",
+      "-(10-5)% to all Elemental Resistances",
+      "+(17-29)% to Chaos Resistance"
+    ]
+  },
+  {
+    "id": "Bloodgrip",
+    "name": "Bloodgrip",
+    "baseType": "Marble Amulet",
+    "type": "Amulet",
+    "levelReq": 74,
+    "league": null,
+    "implicit": ["Regenerate (1.2-1.6)% of Life per second"],
+    "mods": [
+      "Adds 10 to 20 Physical Damage to Attacks",
+      "+(60-70) to maximum Life",
+      "Regenerate (16-24) Life per second",
+      "100% increased Life Recovery from Flasks",
+      "Moving while Bleeding doesn't cause you to take extra Damage"
+    ]
+  },
+  {
+    "id": "Bloodsoaked_Medallion",
+    "name": "Bloodsoaked Medallion",
+    "baseType": "Amber Amulet",
+    "type": "Amulet",
+    "levelReq": 49,
+    "league": null,
+    "implicit": ["+(20-30) to Strength"],
+    "mods": [
+      "(40-50)% increased Global Critical Strike Chance",
+      "+(50-70) to maximum Life",
+      "+(17-29)% to Chaos Resistance",
+      "Every 10 seconds:",
+      "Gain 2% of Life per Enemy Hit with Attacks for 5 seconds",
+      "Gain 5% of Life per Enemy Killed for 5 seconds"
+    ]
+  },
+  {
+    "id": "Bonemeld",
+    "name": "Bonemeld",
+    "baseType": "Marble Amulet",
+    "type": "Amulet",
+    "levelReq": 74,
+    "league": null,
+    "implicit": ["Regenerate (1.2-1.6)% of Life per second"],
+    "mods": [
+      "+(10-20) to all Attributes",
+      "+(1-2) to Level of all Minion Skill Gems",
+      "-2% to all Resistances per Minion from your Non-Vaal Skills",
+      "(3-4)% increased Defences per Minion from your Non-Vaal Skills",
+      "Minions gain added Resistances equal to 50% of your Resistances"
+    ]
+  },
+  {
+    "id": "Carnage_Heart",
+    "name": "Carnage Heart",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "+(20-40) to all Attributes",
+      "+(10-20)% to all Elemental Resistances",
+      "(1.2-2)% of Physical Attack Damage Leeched as Life",
+      "(30-40)% increased Damage while Leeching",
+      "50% increased Life Leeched per second",
+      "Extra Gore"
+    ]
+  },
+  {
+    "id": "Choir_of_the_Storm",
+    "name": "Choir of the Storm",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 69,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "Trigger Level 30 Lightning Bolt when you deal a Critical Strike",
+      "(10-20)% increased maximum Mana",
+      "-30% to Lightning Resistance",
+      "Critical Strike Chance is increased by Overcapped Lightning Resistance"
+    ]
+  },
+  {
+    "id": "Crystallised_Omniscience",
+    "name": "Crystallised Omniscience",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 61,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "Modifiers to Attributes instead Apply to Omniscience",
+      "+1% to All Elemental Resistances per 15 Omniscience",
+      "Penetrate 1% Elemental Resistances per 15 Omniscience",
+      "Attribute Requirements can be satisfied by (15-25)% of Omniscience"
+    ]
+  },
+  {
+    "id": "Daressos_Salute",
+    "name": "Daresso's Salute",
+    "baseType": "Citrine Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": "Anarchy",
+    "implicit": ["+(16-24) to Strength and Dexterity"],
+    "mods": [
+      "50% reduced maximum Energy Shield",
+      "+(30-40)% to Fire Resistance",
+      "+(30-40)% to Cold Resistance",
+      "10% increased Movement Speed when on Full Life",
+      "+0.2 metres to Melee Strike Range",
+      "60% increased Melee Damage when on Full Life"
+    ]
+  },
+  {
+    "id": "Defiance_of_Destiny",
+    "name": "Defiance of Destiny",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": 49,
+    "league": null,
+    "implicit": ["(20-30)% increased Mana Regeneration Rate"],
+    "mods": [
+      "+(60-80) to maximum Life",
+      "+(10-40)% to Fire Resistance",
+      "+(10-40)% to Cold Resistance",
+      "+(10-40)% to Lightning Resistance",
+      "Gain (10-20)% of Missing Unreserved Life before being Hit by an Enemy"
+    ]
+  },
+  {
+    "id": "Doedres_Tongue",
+    "name": "Doedre's Tongue",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 24,
+    "league": null,
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "+(20-25)% to all Elemental Resistances",
+      "(20-25)% chance to Freeze, Shock and Ignite",
+      "Cursed Enemies cannot inflict Elemental Ailments on You"
+    ]
+  },
+  {
+    "id": "Eternal_Damnation",
+    "name": "Eternal Damnation",
+    "baseType": "Agate Amulet",
+    "type": "Amulet",
+    "levelReq": 52,
+    "league": "Sanctum",
+    "implicit": ["+(16-24) to Strength and Intelligence"],
+    "mods": [
+      "+(40-70) to maximum Mana",
+      "+(-13-13)% to Chaos Resistance",
+      "-5% to all maximum Resistances",
+      "Gain additional Elemental Damage Reduction equal to half your Chaos Resistance",
+      "Maximum Endurance, Frenzy and Power Charges is 0"
+    ]
+  },
+  {
+    "id": "Extractor_Mentis",
+    "name": "Extractor Mentis",
+    "baseType": "Agate Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Intelligence"],
+    "mods": [
+      "+(30-50) to Strength",
+      "5% chance to grant Unholy Might to nearby Enemies on Kill",
+      "5% chance to grant Onslaught to nearby Enemies on Kill",
+      "10% chance to gain Chaotic Might for 10 seconds on Kill",
+      "10% chance to gain Onslaught for 10 seconds on Kill",
+      "Recover 1% of Life on Kill"
+    ]
+  },
+  {
+    "id": "Eye_of_Chayula",
+    "name": "Eye of Chayula",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "20% reduced maximum Life",
+      "30% increased Rarity of Items found",
+      "Cannot be Stunned"
+    ]
+  },
+  {
+    "id": "Eye_of_Innocence",
+    "name": "Eye of Innocence",
+    "baseType": "Citrine Amulet",
+    "type": "Amulet",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Dexterity"],
+    "mods": [
+      "10% chance to Ignite",
+      "(50-70)% increased Damage while Ignited",
+      "Take 100 Fire Damage when you Ignite an Enemy",
+      "2% of Fire Damage Leeched as Life while Ignited"
+    ]
+  },
+  {
+    "id": "Eyes_of_the_Greatwolf",
+    "name": "Eyes of the Greatwolf",
+    "baseType": "Greatwolf Talisman",
+    "type": "Amulet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(24-36)% to Damage over Time Multiplier",
+      "Implicit Modifier magnitudes are doubled"
+    ]
+  },
+  {
+    "id": "Fury_Valve",
+    "name": "Fury Valve",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 40,
+    "league": null,
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "(15-25)% increased Evasion Rating",
+      "+(15-20)% to all Elemental Resistances",
+      "Skills fire 2 additional Projectiles",
+      "(20-30)% increased Projectile Speed",
+      "Modifiers to number of Projectiles instead apply to the number of targets Projectiles Split towards"
+    ]
+  },
+  {
+    "id": "Gloomfang",
+    "name": "Gloomfang",
+    "baseType": "Blue Pearl Amulet",
+    "type": "Amulet",
+    "levelReq": 77,
+    "league": null,
+    "implicit": ["(48-56)% increased Mana Regeneration Rate"],
+    "mods": [
+      "0.5% of Chaos Damage Leeched as Life",
+      "Lose (10-15) Life per Enemy Hit with Spells",
+      "Lose (20-25) Life per Enemy Hit with Attacks",
+      "Skills Chain +1 times",
+      "(30-40)% increased Projectile Speed",
+      "Projectiles that have Chained gain (20-35)% of Non-Chaos Damage as extra Chaos Damage"
+    ]
+  },
+  {
+    "id": "Haunting_Memories",
+    "name": "Haunting Memories",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "+(6-10)% chance to Suppress Spell Damage",
+      "(50-100)% of Suppressed Spell Damage taken bypasses Energy Shield",
+      "(50-100)% of Suppressed Spell Damage taken Recouped as Energy Shield",
+      "+(20-30) to Dexterity and Intelligence",
+      "+(40-60) to maximum Energy Shield",
+      "+(40-60) to maximum Life"
+    ]
+  },
+  {
+    "id": "Hinekoras_Sight",
+    "name": "Hinekora's Sight",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "Prevent +(4-6)% of Suppressed Spell Damage",
+      "+(600-1000) to Accuracy Rating",
+      "+(600-1000) to Evasion Rating",
+      "Cannot be Blinded"
+    ]
+  },
+  {
+    "id": "Hyrris_Truth",
+    "name": "Hyrri's Truth",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": "Synthesis",
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "Grants Level 30 Precision Skill",
+      "+(40-80) to Dexterity",
+      "+(25-50)% to Global Critical Strike Multiplier",
+      "Bow Attacks have Culling Strike",
+      "Precision has 100% increased Mana Reservation Efficiency"
+    ]
+  },
+  {
+    "id": "Ikiahos_Promise",
+    "name": "Ikiaho's Promise",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "Regenerate (3-5) Mana per second",
+      "(30-40)% increased Life Recovery from Flasks",
+      "(15-30)% increased Mana Recovery from Flasks",
+      "Life Flasks used while on Low Life apply Recovery Instantly",
+      "Mana Flasks used while on Low Mana apply Recovery Instantly"
+    ]
+  },
+  {
+    "id": "Impresence",
+    "name": "Impresence",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "Adds (17-19) to (23-29) Chaos Damage",
+      "+(50-70) to maximum Life",
+      "(30-40)% increased Damage over Time",
+      "+(17-23)% to Chaos Resistance",
+      "Despair has no Reservation if Cast as an Aura",
+      "Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy"
+    ]
+  },
+  {
+    "id": "Karui_Charge",
+    "name": "Karui Charge",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 24,
+    "league": null,
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "+(20-30) to Strength",
+      "(5-10)% increased Attack Speed",
+      "+100 to Accuracy Rating",
+      "30% increased Projectile Damage",
+      "30% increased Projectile Speed",
+      "10% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Karui_Ward",
+    "name": "Karui Ward",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "+(20-30) to Strength",
+      "+100 to Accuracy Rating",
+      "30% increased Projectile Damage",
+      "30% increased Projectile Speed",
+      "10% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Leaderships_Price",
+    "name": "Leadership's Price",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 68,
+    "league": "Heist",
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "+(-3-3)% to maximum Fire Resistance",
+      "+(-3-3)% to maximum Cold Resistance",
+      "+(-3-3)% to maximum Lightning Resistance",
+      "You have Scorching Conflux, Brittle Conflux and Sapping Conflux while your two highest Attributes are equal",
+      "Cannot Ignite, Chill, Freeze or Shock"
+    ]
+  },
+  {
+    "id": "Maligaros_Cruelty",
+    "name": "Maligaro's Cruelty",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "(4-8)% increased maximum Life",
+      "(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by 5 or more Poisons",
+      "(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons",
+      "10% increased Damage with Poison per Frenzy Charge",
+      "3% increased Poison Duration per Power Charge"
+    ]
+  },
+  {
+    "id": "Marylenes_Fallacy",
+    "name": "Marylene's Fallacy",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 40,
+    "league": null,
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "+(80-120) to Accuracy Rating",
+      "+(210-240)% to Global Critical Strike Multiplier",
+      "+(80-100) to Evasion Rating",
+      "(10-15)% increased Light Radius",
+      "40% less Critical Strike Chance",
+      "Critical Strikes have Culling Strike"
+    ]
+  },
+  {
+    "id": "Natural_Hierarchy",
+    "name": "Natural Hierarchy",
+    "baseType": "Rotfeather Talisman",
+    "type": "Amulet",
+    "levelReq": 44,
+    "league": "Talisman Standard, Talisman Hardcore",
+    "implicit": ["(25-35)% increased Damage"],
+    "mods": [
+      "(10-15)% increased Global Physical Damage",
+      "(25-30)% increased Fire Damage",
+      "(20-25)% increased Cold Damage",
+      "(15-20)% increased Lightning Damage",
+      "(30-35)% increased Chaos Damage"
+    ]
+  },
+  {
+    "id": "Ngamahu_Tiki",
+    "name": "Ngamahu Tiki",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": 36,
+    "league": null,
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "(50-70)% increased Fire Damage",
+      "+100 to Evasion Rating while on Low Life",
+      "+(30-50) to maximum Life",
+      "+(20-30)% to Fire Resistance",
+      "Regenerate 1% of Life per second while on Low Life"
+    ]
+  },
+  {
+    "id": "Nights_Hold",
+    "name": "Night's Hold",
+    "baseType": "Black Maw Talisman",
+    "type": "Amulet",
+    "levelReq": 12,
+    "league": "Talisman Standard, Talisman Hardcore",
+    "implicit": ["Has 1 Socket"],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Socketed Gems are Supported by Level 10 Added Chaos Damage",
+      "Socketed Gems are Supported by Level 10 Blind",
+      "Socketed Gems are Supported by Level 10 Cast when Stunned"
+    ]
+  },
+  {
+    "id": "Perquils_Toe",
+    "name": "Perquil's Toe",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 29,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "+(40-50) to Dexterity",
+      "(5-8)% increased Movement Speed",
+      "Lightning Damage from Enemies Hitting you is Lucky",
+      "Nearby Allies' Damage with Hits is Lucky"
+    ]
+  },
+  {
+    "id": "Presence_of_Chayula",
+    "name": "Presence of Chayula",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 60,
+    "league": "Breach",
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "30% increased Rarity of Items found",
+      "+60% to Chaos Resistance",
+      "Cannot be Stunned",
+      "20% of Maximum Life Converted to Energy Shield"
+    ]
+  },
+  {
+    "id": "Rashkaldors_Patience",
+    "name": "Rashkaldor's Patience",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 48,
+    "league": null,
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "+(40-80) to maximum Life",
+      "+(20-40) to maximum Mana",
+      "20% reduced Duration of Elemental Ailments on Enemies",
+      "Items and Gems have 10% increased Attribute Requirements",
+      "Always Freeze, Shock and Ignite"
+    ]
+  },
+  {
+    "id": "Replica_Atziris_Foible",
+    "name": "Replica Atziri's Foible",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": "Heist",
+    "implicit": ["Regenerate (1-2)% of Life per second"],
+    "mods": [
+      "+100 to maximum Life",
+      "(20-25)% increased Life Regeneration rate",
+      "Items and Gems have 25% reduced Attribute Requirements"
+    ]
+  },
+  {
+    "id": "Replica_Badge_of_the_Brotherhood",
+    "name": "Replica Badge of the Brotherhood",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": "Heist",
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges",
+      "(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill",
+      "(7-10)% increased Cooldown Recovery of Travel Skills per Frenzy Charge",
+      "+1 to Maximum Fortification per Endurance Charge",
+      "(20-25)% chance to lose an Endurance Charge when you gain Fortification"
+    ]
+  },
+  {
+    "id": "Replica_Hinekoras_Sight",
+    "name": "Replica Hinekora's Sight",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 20,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+(10–16) to all Attributes",
+      "+(600–1000) to Accuracy Rating",
+      "+(600–1000) to Armour",
+      "+1% to all maximum Elemental Resistances",
+      "You cannot be Maimed"
+    ]
+  },
+  {
+    "id": "Replica_Hyrris_Truth",
+    "name": "Replica Hyrri's Truth",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": "Heist",
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "Grants Level 22 Hatred Skill",
+      "+(30-55) to Dexterity",
+      "+(18-35)% to Global Critical Strike Multiplier",
+      "Bow Attacks have Culling Strike",
+      "Hatred has 100% increased Mana Reservation Efficiency"
+    ]
+  },
+  {
+    "id": "Replica_Karui_Ward",
+    "name": "Replica Karui Ward",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 5,
+    "league": "Heist",
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "+(20-30) to Intelligence",
+      "+100 to Accuracy Rating",
+      "10% increased Movement Speed",
+      "30% increased Area of Effect",
+      "30% increased Area Damage"
+    ]
+  },
+  {
+    "id": "Replica_Winterheart",
+    "name": "Replica Winterheart",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 42,
+    "league": "Heist",
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+(50-70) to maximum Energy Shield",
+      "+75% to Lightning Resistance",
+      "Regenerate 5% of Energy Shield per second while Shocked",
+      "Unaffected by Shock"
+    ]
+  },
+  {
+    "id": "Retaliation_Charm",
+    "name": "Retaliation Charm",
+    "baseType": "Citrine Amulet",
+    "type": "Amulet",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Dexterity"],
+    "mods": [
+      "(10-20)% chance to Blind Enemies on Hit with Attacks",
+      "Blind does not affect your Light Radius",
+      "Blind you inflict is Reflected to you",
+      "(10-20)% chance to gain a Frenzy Charge on Hit while Blinded"
+    ]
+  },
+  {
+    "id": "Rigwalds_Curse",
+    "name": "Rigwald's Curse",
+    "baseType": "Wereclaw Talisman",
+    "type": "Amulet",
+    "levelReq": 28,
+    "league": "Talisman Standard",
+    "implicit": ["+(24-36)% to Global Critical Strike Multiplier"],
+    "mods": [
+      "+7% to Unarmed Melee Attack Critical Strike Chance",
+      "Modifiers to Claw Damage also apply to Unarmed Attack Damage with Melee Skills",
+      "Modifiers to Claw Attack Speed also apply to Unarmed Attack Speed with Melee Skills",
+      "Modifiers to Claw Critical Strike Chance also apply to Unarmed Critical Strike Chance with Melee Skills"
+    ]
+  },
+  {
+    "id": "Sacrificial_Heart",
+    "name": "Sacrificial Heart",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": 32,
+    "league": "Incursion",
+    "implicit": ["(20-30)% increased Mana Regeneration Rate"],
+    "mods": [
+      "Adds (22-27) to (34-38) Fire Damage",
+      "Adds (20-23) to (31-35) Cold Damage",
+      "Adds (1-3) to (47-52) Lightning Damage",
+      "Gain 10 Life per Enemy Hit if you have used a Vaal Skill Recently",
+      "10% increased Movement Speed if you have used a Vaal Skill Recently",
+      "Gain up to maximum Power Charges when you use a Vaal Skill"
+    ]
+  },
+  {
+    "id": "Shapers_Seed",
+    "name": "Shaper's Seed",
+    "baseType": "Agate Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Intelligence"],
+    "mods": [
+      "(60-100)% increased Mana Regeneration Rate",
+      "Regenerate 4% of Life per second",
+      "Nearby Allies gain 4% of Life Regenerated per Second",
+      "Nearby Allies gain 80% increased Mana Regeneration Rate"
+    ]
+  },
+  {
+    "id": "Sidhebreath",
+    "name": "Sidhebreath",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": null,
+    "league": null,
+    "implicit": ["(20-30)% increased Mana Regeneration Rate"],
+    "mods": [
+      "+25% to Cold Resistance",
+      "Minions have (10-15)% increased maximum Life",
+      "Minions convert 50% of Physical Damage to Cold Damage",
+      "Minions deal (25-35) to (60-65) additional Cold Damage",
+      "Minions deal no Non-Cold Damage"
+    ]
+  },
+  {
+    "id": "Solstice_Vigil",
+    "name": "Solstice Vigil",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "(30-40)% increased Damage",
+      "+(50-70) to maximum Life",
+      "Regenerate (8-10) Mana per second",
+      "Temporal Chains has no Reservation if Cast as an Aura",
+      "Gain Shaper's Presence for 10 seconds when you kill a Rare or Unique Enemy"
+    ]
+  },
+  {
+    "id": "Star_of_Wraeclast",
+    "name": "Star of Wraeclast",
+    "baseType": "Ruby Amulet",
+    "type": "Amulet",
+    "levelReq": 28,
+    "league": null,
+    "implicit": ["+(20-30)% to Fire Resistance"],
+    "mods": [
+      "Grants Level 10 Frostblink Skill",
+      "(30-50)% increased Cold Damage",
+      "+(10-15)% to all Elemental Resistances",
+      "60% increased Area of Effect of Hex Skills",
+      "You cannot be Cursed with Silence",
+      "Frostblink has 50% increased Duration"
+    ]
+  },
+  {
+    "id": "Stone_of_Lazhwar",
+    "name": "Stone of Lazhwar",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "+(12-15)% Chance to Block Spell Damage",
+      "(15-20)% increased Cast Speed",
+      "+(40-70) to maximum Mana"
+    ]
+  },
+  {
+    "id": "Stranglegasp",
+    "name": "Stranglegasp",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "Can have 3 additional Enchantment Modifiers"
+    ]
+  },
+  {
+    "id": "Tainted_Pact",
+    "name": "Tainted Pact",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": null,
+    "league": null,
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "+(20-30) to Strength",
+      "(2-3)% of Physical Attack Damage Leeched as Life",
+      "(1-1.5)% of Physical Attack Damage Leeched as Mana",
+      "Taking Chaos Damage over Time heals you instead while Leeching Life"
+    ]
+  },
+  {
+    "id": "Tavukai",
+    "name": "Tavukai",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": 54,
+    "league": "Legion",
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "+(30-40) to Intelligence",
+      "Minions have +(-17-17)% to Chaos Resistance",
+      "Summon Raging Spirit has (20-30)% increased Duration",
+      "Summoned Raging Spirits deal (25-40)% increased Damage",
+      "Summoned Raging Spirits have (25-40)% increased maximum Life",
+      "Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage"
+    ]
+  },
+  {
+    "id": "Tear_of_Purity",
+    "name": "Tear of Purity",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "Grants Level 10 Purity of Elements Skill",
+      "+(10-20) to all Attributes",
+      "+(20-40) to maximum Life",
+      "+(5-10)% to all Elemental Resistances"
+    ]
+  },
+  {
+    "id": "The_Anvil",
+    "name": "The Anvil",
+    "baseType": "Amber Amulet",
+    "type": "Amulet",
+    "levelReq": 45,
+    "league": null,
+    "implicit": ["+(20-30) to Strength"],
+    "mods": [
+      "(10-15)% Chance to Block Attack Damage",
+      "10% reduced Attack Speed",
+      "10% reduced Cast Speed",
+      "+(400-500) to Armour",
+      "(34-48) Life gained when you Block",
+      "(10-24) Mana gained when you Block",
+      "+3% to maximum Chance to Block Attack Damage",
+      "Reflects 240 to 300 Physical Damage to Attackers on Block"
+    ]
+  },
+  {
+    "id": "The_Ascetic",
+    "name": "The Ascetic",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 8,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "(80-100)% increased Rarity of Items found with a Normal Item equipped",
+      "(10-15)% increased Quantity of Items found with a Magic Item equipped"
+    ]
+  },
+  {
+    "id": "The_Aylardex",
+    "name": "The Aylardex",
+    "baseType": "Agate Amulet",
+    "type": "Amulet",
+    "levelReq": 32,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Intelligence"],
+    "mods": [
+      "+(30-50) to maximum Life",
+      "+(50-70) to maximum Mana",
+      "+1 to Maximum Power Charges",
+      "10% increased Mana Regeneration Rate Per Power Charge",
+      "(80-100)% increased Power Charge Duration",
+      "1% of Damage is taken from Mana before Life per Power Charge",
+      "40% reduced Critical Strike Chance per Power Charge"
+    ]
+  },
+  {
+    "id": "The_Effigon",
+    "name": "The Effigon",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 57,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "+10 to Dexterity",
+      "Adds 12 to 24 Fire Damage to Attacks",
+      "+(100-150) to Accuracy Rating",
+      "+(100-150) to Evasion Rating",
+      "+20% to Fire Resistance",
+      "Your Hits can't be Evaded by Blinded Enemies",
+      "Damage Penetrates 10% Fire Resistance against Blinded Enemies"
+    ]
+  },
+  {
+    "id": "The_Ephemeral_Bond",
+    "name": "The Ephemeral Bond",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 68,
+    "league": "Heist",
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "(25-40)% increased Mana Regeneration Rate",
+      "+(15-25)% to all Elemental Resistances",
+      "+(30-40)% to Critical Strike Multiplier if you've gained a Power Charge Recently",
+      "(1-2) to (36-40) Lightning Damage per Power Charge",
+      "90% less Power Charge Duration"
+    ]
+  },
+  {
+    "id": "The_Eternal_Struggle",
+    "name": "The Eternal Struggle",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 61,
+    "league": null,
+    "implicit": ["9% increased Mana Reservation Efficiency of Skills", "6% increased Movement Speed"],
+    "mods": [
+      "+(20-50) to Strength",
+      "+(20-50) to Dexterity",
+      "+(20-50) to Intelligence",
+      "(10-15)% increased Global Defences",
+      "Critical Strikes inflict Malignant Madness if The Eater of Worlds is dominant",
+      "Kill Enemies that have 15% or lower Life on Hit if The Searing Exarch is dominant"
+    ]
+  },
+  {
+    "id": "The_Felbog_Fang",
+    "name": "The Felbog Fang",
+    "baseType": "Citrine Amulet",
+    "type": "Amulet",
+    "levelReq": 61,
+    "league": "Harvest",
+    "implicit": ["+(16-24) to Strength and Dexterity"],
+    "mods": [
+      "+(30-50) to Intelligence",
+      "(10-15)% increased Cast Speed",
+      "(10-15)% increased Area of Effect",
+      "Enemies Cursed by you are Hindered if 25% of Curse Duration expired",
+      "Your Curses have 25% increased Effect if 50% of Curse Duration expired",
+      "Enemies Cursed by you take 35% increased Damage if 75% of Curse Duration expired"
+    ]
+  },
+  {
+    "id": "The_Halcyon",
+    "name": "The Halcyon",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 35,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "+(35-40)% to Cold Resistance",
+      "30% increased Freeze Duration on Enemies",
+      "10% chance to Freeze",
+      "Freezes you inflict spread to other Enemies within 1.5 metres",
+      "60% increased Damage if you've Frozen an Enemy Recently"
+    ]
+  },
+  {
+    "id": "The_Ignomon",
+    "name": "The Ignomon",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 8,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "Adds (18-24) to (32-40) Fire Damage to Attacks",
+      "+(100-150) to Accuracy Rating",
+      "+(100-150) to Evasion Rating",
+      "+20% to Fire Resistance",
+      "20% increased Light Radius",
+      "Nearby Enemies are Blinded"
+    ]
+  },
+  {
+    "id": "The_Jinxed_Juju",
+    "name": "The Jinxed Juju",
+    "baseType": "Citrine Amulet",
+    "type": "Amulet",
+    "levelReq": 48,
+    "league": null,
+    "implicit": ["+(16-24) to Strength and Dexterity"],
+    "mods": [
+      "+(30-40) to Intelligence",
+      "+(23-31)% to Chaos Resistance",
+      "(10-15)% increased effect of Non-Curse Auras from your Skills",
+      "10% of Damage from Hits is taken from your Spectres' Life before you",
+      "(The damage they take will be divided evenly between them)"
+    ]
+  },
+  {
+    "id": "The_Pandemonius",
+    "name": "The Pandemonius",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "(20-30)% increased Cold Damage",
+      "+(35-40)% to Cold Resistance",
+      "Chill Enemy for 1 second when Hit",
+      "Blind Chilled Enemies on Hit",
+      "Damage Penetrates 20% Cold Resistance against Chilled Enemies"
+    ]
+  },
+  {
+    "id": "The_Primordial_Chain",
+    "name": "The Primordial Chain",
+    "baseType": "Coral Amulet",
+    "type": "Amulet",
+    "levelReq": 34,
+    "league": "Delve",
+    "implicit": ["Regenerate (2-4) Life per second"],
+    "mods": [
+      "+3 to maximum number of Golems",
+      "You cannot have non-Golem Minions",
+      "25% reduced Golem Size",
+      "Golems Deal (25-35)% less Damage",
+      "Golems have (25-35)% less Life",
+      "Golems have (80-100)% increased Movement Speed",
+      "Primordial"
+    ]
+  },
+  {
+    "id": "The_Untouched_Soul",
+    "name": "The Untouched Soul",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 48,
+    "league": "Affliction",
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "+40 to maximum Life for each Empty Red Socket on any Equipped Item",
+      "+225 to Accuracy Rating for each Empty Green Socket on any Equipped Item",
+      "+40 to maximum Mana for each Empty Blue Socket on any Equipped Item",
+      "+18% to all Elemental Resistances for each Empty White Socket on any Equipped Item"
+    ]
+  },
+  {
+    "id": "The_Utmost",
+    "name": "The Utmost",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 8,
+    "league": null,
+    "implicit": ["(12–20)% increased Rarity of Items found"],
+    "mods": [
+      "+(0–30)% chance to Suppress Spell Damage",
+      "+(0–5)% to all maximum Elemental Resistances",
+      "(0–40)% increased Attack and Cast Speed",
+      "Damage Penetrates (0–20)% Elemental Resistances"
+    ]
+  },
+  {
+    "id": "Ungils_Harmony",
+    "name": "Ungil's Harmony",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 23,
+    "league": null,
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "(250-350)% increased Global Critical Strike Chance",
+      "+(30-50) to maximum Life",
+      "+(30-50) to maximum Mana",
+      "40% increased Stun and Block Recovery",
+      "Your Critical Strikes do not deal extra Damage"
+    ]
+  },
+  {
+    "id": "Uul-Netols_Vow",
+    "name": "Uul-Netol's Vow",
+    "baseType": "Unset Amulet",
+    "type": "Amulet",
+    "levelReq": 72,
+    "league": null,
+    "implicit": ["Has 1 Socket"],
+    "mods": [
+      "Socketed Support Gems can also Support Skills from your Body Armour",
+      "+(-30-30)% to Fire Resistance",
+      "+(-30-30)% to Cold Resistance",
+      "+(-30-30)% to Lightning Resistance",
+      "+(-23-23)% to Chaos Resistance"
+    ]
+  },
+  {
+    "id": "Venarius_Astrolabe",
+    "name": "Venarius' Astrolabe",
+    "baseType": "Astrolabe Amulet",
+    "type": "Amulet",
+    "levelReq": 69,
+    "league": null,
+    "implicit": ["Implicit Modifiers Cannot Be Changed", "Has Elder, Shaper and all Conqueror Influences"],
+    "mods": [
+      "The stars are aligned if you have 6 Influence types among other Equipped Items",
+      "You have Elemental Conflux if the stars are aligned",
+      "+(1-3) to Level of all Elemental Skill Gems if the stars are aligned",
+      "+(1-3) to Level of all Elemental Support Gems if the stars are aligned"
+    ]
+  },
+  {
+    "id": "Victarios_Acuity",
+    "name": "Victario's Acuity",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 16,
+    "league": "Onslaught",
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "+(30-40)% to Lightning Resistance",
+      "+(8-10)% to Chaos Resistance",
+      "10% chance to gain a Frenzy Charge on Kill",
+      "10% chance to gain a Power Charge on Kill",
+      "5% increased Projectile Speed per Frenzy Charge",
+      "5% increased Projectile Damage per Power Charge"
+    ]
+  },
+  {
+    "id": "Voice_of_the_Storm",
+    "name": "Voice of the Storm",
+    "baseType": "Lapis Amulet",
+    "type": "Amulet",
+    "levelReq": 69,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Intelligence"],
+    "mods": [
+      "+(10-15) to all Attributes",
+      "50% increased Lightning Damage",
+      "(10-20)% increased maximum Mana",
+      "Lightning Damage with Non-Critical Strikes is Lucky"
+    ]
+  },
+  {
+    "id": "Volls_Devotion",
+    "name": "Voll's Devotion",
+    "baseType": "Agate Amulet",
+    "type": "Amulet",
+    "levelReq": 32,
+    "league": "Anarchy, Onslaught",
+    "implicit": ["+(16-24) to Strength and Intelligence"],
+    "mods": [
+      "+(30-40) to maximum Life",
+      "+(20-30) to maximum Energy Shield",
+      "+(15-20)% to all Elemental Resistances",
+      "30% reduced Endurance Charge Duration",
+      "30% reduced Power Charge Duration",
+      "Gain an Endurance Charge when a Power Charge expires or is consumed"
+    ]
+  },
+  {
+    "id": "Warped_Timepiece",
+    "name": "Warped Timepiece",
+    "baseType": "Turquoise Amulet",
+    "type": "Amulet",
+    "levelReq": 50,
+    "league": null,
+    "implicit": ["+(16-24) to Dexterity and Intelligence"],
+    "mods": [
+      "(10-25)% increased Attack Speed",
+      "(10-25)% increased Cast Speed",
+      "(10-15)% increased Movement Speed",
+      "(10-20)% reduced Skill Effect Duration",
+      "Debuffs on you Expire 100% Faster"
+    ]
+  },
+  {
+    "id": "Whispers_of_Infinity",
+    "name": "Whispers of Infinity",
+    "baseType": "Seaglass Amulet",
+    "type": "Amulet",
+    "levelReq": 74,
+    "league": null,
+    "implicit": ["(10-15)% faster start of Energy Shield Recharge"],
+    "mods": [
+      "(5-10) to (20-25) Added Attack Chaos Damage per 100 Maximum Mana",
+      "+(50-100) to maximum Energy Shield",
+      "(40-60)% reduced maximum Mana",
+      "Skills Cost Energy Shield instead of Mana or Life"
+    ]
+  },
+  {
+    "id": "Willowgift",
+    "name": "Willowgift",
+    "baseType": "Jade Amulet",
+    "type": "Amulet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": ["+(20-30) to Dexterity"],
+    "mods": [
+      "10% reduced Strength",
+      "15% increased Dexterity",
+      "-(30-20)% to Fire Resistance",
+      "+(30-40)% to Cold Resistance",
+      "You do not inherently take less Damage for having Fortification",
+      "+4% chance to Suppress Spell Damage per Fortification",
+      "(15-25)% increased Attack and Cast Speed while at maximum Fortification"
+    ]
+  },
+  {
+    "id": "Winterheart",
+    "name": "Winterheart",
+    "baseType": "Gold Amulet",
+    "type": "Amulet",
+    "levelReq": 42,
+    "league": null,
+    "implicit": ["(12-20)% increased Rarity of Items found"],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+(50-70) to maximum Life",
+      "+75% to Cold Resistance",
+      "Cannot be Chilled",
+      "Regenerate 10% of Life per second while Frozen"
+    ]
+  },
+  {
+    "id": "Xophs_Blood",
+    "name": "Xoph's Blood",
+    "baseType": "Amber Amulet",
+    "type": "Amulet",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Strength"],
+    "mods": [
+      "10% increased maximum Life",
+      "+(20-40)% to Fire Resistance",
+      "10% increased Strength",
+      "Damage Penetrates 10% Fire Resistance",
+      "Cover Enemies in Ash when they Hit you",
+      "Avatar of Fire"
+    ]
+  },
+  {
+    "id": "Xophs_Heart",
+    "name": "Xoph's Heart",
+    "baseType": "Amber Amulet",
+    "type": "Amulet",
+    "levelReq": 35,
+    "league": "Breach",
+    "implicit": ["+(20-30) to Strength"],
+    "mods": [
+      "+(20-30) to Strength",
+      "25% increased Fire Damage",
+      "+(25-35) to maximum Life",
+      "+(20-40)% to Fire Resistance",
+      "Nearby Enemies are Covered in Ash"
+    ]
+  },
+  {
+    "id": "Yoke_of_Suffering",
+    "name": "Yoke of Suffering",
+    "baseType": "Onyx Amulet",
+    "type": "Amulet",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["+(10-16) to all Attributes"],
+    "mods": [
+      "+(10-20)% to Fire Resistance",
+      "+(10-20)% to Cold Resistance",
+      "+(20-40)% to Lightning Resistance",
+      "30% reduced Duration of Ailments on Enemies",
+      "(5-10)% chance to Shock",
+      "Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them",
+      "Your Elemental Damage can Shock"
+    ]
+  },
+  {
+    "id": "Zerphis_Heart",
+    "name": "Zerphi's Heart",
+    "baseType": "Paua Amulet",
+    "type": "Amulet",
+    "levelReq": 70,
+    "league": "Incursion",
+    "implicit": ["(20-30)% increased Mana Regeneration Rate"],
+    "mods": [
+      "Adds (48-53) to (58-60) Chaos Damage",
+      "Items and Gems have 50% increased Attribute Requirements",
+      "Chaos Damage can Ignite, Chill and Shock",
+      "Gain Soul Eater for 20 seconds when you use a Vaal Skill"
+    ]
+  }
+]

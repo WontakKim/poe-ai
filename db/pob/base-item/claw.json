@@ -1,0 +1,282 @@
+[
+  {
+    "id": "Awl",
+    "name": "Awl",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 7 Life per Enemy Hit",
+    "req": { "level": 12, "str": null, "dex": 25, "int": 25 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 7, "physMax": 23, "critChance": 7.5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Blinder",
+    "name": "Blinder",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 12 Life per Enemy Hit",
+    "req": { "level": 22, "str": null, "dex": 41, "int": 41 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 31, "critChance": 7.5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Cats_Paw",
+    "name": "Cat's Paw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 8 Life per Enemy Hit",
+    "req": { "level": 17, "str": null, "dex": 39, "int": 27 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 22, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Double_Claw",
+    "name": "Double Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 15 Life per Enemy Hit\nGrants 6 Mana per Enemy Hit",
+    "req": { "level": 36, "str": null, "dex": 67, "int": 67 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 44, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Eagle_Claw",
+    "name": "Eagle Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "2% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 55, "str": null, "dex": 94, "int": 94 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 17, "physMax": 69, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Eye_Gouger",
+    "name": "Eye Gouger",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 50 Life per Enemy Hit",
+    "req": { "level": 64, "str": null, "dex": 113, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 26, "physMax": 68, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Fright_Claw",
+    "name": "Fright Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 20 Life per Enemy Hit",
+    "req": { "level": 34, "str": null, "dex": 61, "int": 61 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 46, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Gemini_Claw",
+    "name": "Gemini Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 38 Life per Enemy Hit\nGrants 14 Mana per Enemy Hit",
+    "req": { "level": 72, "str": null, "dex": 121, "int": 121 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 23, "physMax": 68, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Gouger",
+    "name": "Gouger",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 24 Life per Enemy Hit",
+    "req": { "level": 40, "str": null, "dex": 70, "int": 70 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 51, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Great_White_Claw",
+    "name": "Great White Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 46 Life per Enemy Hit",
+    "req": { "level": 58, "str": null, "dex": 81, "int": 117 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 78, "critChance": 8, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Gut_Ripper",
+    "name": "Gut Ripper",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 44 Life per Enemy Hit",
+    "req": { "level": 46, "str": null, "dex": 80, "int": 80 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 53, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Hellions_Paw",
+    "name": "Hellion's Paw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "1.6% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 62, "str": null, "dex": 131, "int": 95 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 55, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Imperial_Claw",
+    "name": "Imperial Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 46 Life per Enemy Hit",
+    "req": { "level": 68, "str": null, "dex": 131, "int": 95 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 25, "physMax": 65, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Malign_Fangs",
+    "name": "Malign Fangs",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Adds (43-55) to (81-104) Chaos Damage",
+    "req": { "level": 50, "str": null, "dex": 86, "int": 86 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 37, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Nailed_Fist",
+    "name": "Nailed Fist",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 3 Life per Enemy Hit",
+    "req": { "level": null, "str": null, "dex": 11, "int": 11 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 4, "physMax": 11, "critChance": 7.3, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Noble_Claw",
+    "name": "Noble Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 40 Life per Enemy Hit",
+    "req": { "level": 52, "str": null, "dex": 105, "int": 73 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 56, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Prehistoric_Claw",
+    "name": "Prehistoric Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "2% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 49, "str": null, "dex": 69, "int": 100 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 26, "physMax": 68, "critChance": 8, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Shadow_Fangs",
+    "name": "Shadow Fangs",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Adds (26-38) to (52-70) Chaos Damage",
+    "req": { "level": 30, "str": null, "dex": 54, "int": 54 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 24, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Sharktooth_Claw",
+    "name": "Sharktooth Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 6 Life per Enemy Hit",
+    "req": { "level": 7, "str": null, "dex": 14, "int": 20 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 6, "physMax": 17, "critChance": 8, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Sparkling_Claw",
+    "name": "Sparkling Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 15 Life per Enemy Hit",
+    "req": { "level": 30, "str": null, "dex": 64, "int": 44 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 14, "physMax": 38, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Terror_Claw",
+    "name": "Terror Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "2% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 70, "str": null, "dex": 113, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 71, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Thresher_Claw",
+    "name": "Thresher Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 25 Life per Enemy Hit",
+    "req": { "level": 37, "str": null, "dex": 53, "int": 77 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 53, "critChance": 8, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Throat_Stabber",
+    "name": "Throat Stabber",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 40 Life per Enemy Hit",
+    "req": { "level": 60, "str": null, "dex": 113, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 73, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Tigers_Paw",
+    "name": "Tiger's Paw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "1.6% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 43, "str": null, "dex": 88, "int": 61 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 23, "physMax": 43, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Timeworn_Claw",
+    "name": "Timeworn Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 19 Life per Enemy Hit",
+    "req": { "level": 26, "str": null, "dex": 39, "int": 56 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 16, "physMax": 43, "critChance": 8, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Twin_Claw",
+    "name": "Twin Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Grants 28 Life per Enemy Hit\nGrants 10 Mana per Enemy Hit",
+    "req": { "level": 57, "str": null, "dex": 103, "int": 103 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 64, "critChance": 7.5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Vaal_Claw",
+    "name": "Vaal Claw",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "2% of Physical Attack Damage Leeched as Life",
+    "req": { "level": 66, "str": null, "dex": 95, "int": 131 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 76, "critChance": 8, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Void_Fangs",
+    "name": "Void Fangs",
+    "type": "Claw",
+    "subType": null,
+    "implicit": "Adds (46-63) to (92-113) Chaos Damage",
+    "req": { "level": 70, "str": null, "dex": 113, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 22, "physMax": 41, "critChance": 7, "attackRate": 1.6, "range": 11 }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "Abberaths_Horn",
+    "name": "Abberath's Horn",
+    "baseType": "Goat's Horn",
+    "type": "Wand",
+    "levelReq": 6,
+    "league": null,
+    "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
+    "mods": [
+      "(20-30)% increased Fire Damage",
+      "Adds (4-6) to (8-12) Fire Damage to Spells",
+      "(40-60)% increased Global Critical Strike Chance",
+      "Gain 10 Life per Ignited Enemy Killed",
+      "25% reduced Ignite Duration on Enemies"
+    ]
+  },
+  {
+    "id": "Amplification_Rod",
+    "name": "Amplification Rod",
+    "baseType": "Spiraled Wand",
+    "type": "Wand",
+    "levelReq": 36,
+    "league": null,
+    "implicit": ["(15-19)% increased Spell Damage"],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Socketed Gems are Supported by Level 10 Intensify",
+      "Socketed Gems are Supported by Level 10 Spell Echo",
+      "Socketed Gems are Supported by Level 10 Controlled Destruction",
+      "+(10-30) to Intelligence"
+    ]
+  },
+  {
+    "id": "Apeps_Rage",
+    "name": "Apep's Rage",
+    "baseType": "Omen Wand",
+    "type": "Wand",
+    "levelReq": 53,
+    "league": null,
+    "implicit": ["(27-31)% increased Spell Damage"],
+    "mods": [
+      "Adds (90-130) to (140-190) Chaos Damage to Spells",
+      "(25-30)% increased Cast Speed",
+      "+(5-10)% to Chaos Resistance",
+      "Poisons you inflict deal Damage (30-50)% faster",
+      "Lose 40 Mana when you use a Skill"
+    ]
+  },
+  {
+    "id": "Ashcaller",
+    "name": "Ashcaller",
+    "baseType": "Goat's Horn",
+    "type": "Wand",
+    "levelReq": 6,
+    "league": null,
+    "implicit": ["Adds (1-2) to (3-4) Fire Damage to Spells and Attacks"],
+    "mods": [
+      "25% chance to Trigger Level 10 Summon Raging Spirit on Kill",
+      "Adds (20-24) to (38-46) Fire Damage",
+      "Adds (20-24) to (36-46) Fire Damage to Spells",
+      "10% chance to Cover Enemies in Ash on Hit"
+    ]
+  },
+  {
+    "id": "Corona_Solaris",
+    "name": "Corona Solaris",
+    "baseType": "Crystal Wand",
+    "type": "Wand",
+    "levelReq": 63,
+    "league": null,
+    "implicit": ["(29-33)% increased Spell Damage"],
+    "mods": [
+      "Triggers Level 20 Blinding Aura when Equipped",
+      "Adds (30-45) to (60-80) Fire Damage",
+      "(6-10)% increased Attack Speed",
+      "+(27-33)% to Global Critical Strike Multiplier",
+      "20% increased Light Radius",
+      "(120-140)% increased Critical Strike Chance against Blinded Enemies",
+      "Increases and Reductions to Light Radius also apply to Accuracy",
+      "Adds (145-157) to (196-210) Fire Damage to Hits with this Weapon against Blinded Enemies"
+    ]
+  },
+  {
+    "id": "Eclipse_Solaris",
+    "name": "Eclipse Solaris",
+    "baseType": "Faun's Horn",
+    "type": "Wand",
+    "levelReq": 35,
+    "league": null,
+    "implicit": ["Adds (5-10) to (11-13) Fire Damage to Spells and Attacks"],
+    "mods": [
+      "(20-26)% increased Attack Speed",
+      "+(27-33)% to Global Critical Strike Multiplier",
+      "(15-20)% increased Light Radius",
+      "Nearby Enemies are Blinded",
+      "(120-140)% increased Critical Strike Chance against Blinded Enemies",
+      "Adds 2 to 5 Fire Damage to Attacks for every 1% your Light Radius is above base value"
+    ]
+  },
+  {
+    "id": "Grace_of_the_Goddess",
+    "name": "Grace of the Goddess",
+    "baseType": "Prophecy Wand",
+    "type": "Wand",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["(36-40)% increased Spell Damage"],
+    "mods": [
+      "(300-350)% Increased Physical Damage",
+      "Gain (10-50)% of Physical Damage as Extra Fire Damage",
+      "Gain (10-50)% of Physical Damage as Extra Cold Damage",
+      "Gain (10-50)% of Physical Damage as Extra Lightning Damage",
+      "+1 to Maximum number of Sacred Wisps",
+      "+1 to number of Sacred Wisps Summoned"
+    ]
+  },
+  {
+    "id": "Lifesprig",
+    "name": "Lifesprig",
+    "baseType": "Driftwood Wand",
+    "type": "Wand",
+    "levelReq": null,
+    "league": null,
+    "implicit": ["(8-12)% increased Spell Damage"],
+    "mods": [
+      "+1 to Level of Socketed Spell Gems",
+      "(20-28)% increased Spell Damage",
+      "(5-8)% increased Cast Speed",
+      "+(15-20) to maximum Life",
+      "+(15-20) to maximum Mana",
+      "Regenerate (6-8) Life over 1 second for each Spell you Cast"
+    ]
+  },
+  {
+    "id": "Midnight_Bargain",
+    "name": "Midnight Bargain",
+    "baseType": "Calling Wand",
+    "type": "Wand",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["Minions deal (12-16)% increased Damage"],
+    "mods": [
+      "Cannot be used with Chaos Inoculation",
+      "+(10-20) to Intelligence",
+      "Minions have (20-30)% increased Movement Speed",
+      "Minions deal (50-70)% increased Damage",
+      "+1 to Maximum number of Raised Zombies",
+      "+1 to Maximum number of Spectres",
+      "+1 to Maximum number of Skeletons",
+      "Reserves 30% of Life"
+    ]
+  },
+  {
+    "id": "Moonsorrow",
+    "name": "Moonsorrow",
+    "baseType": "Imbued Wand",
+    "type": "Wand",
+    "levelReq": 59,
+    "league": null,
+    "implicit": ["Cannot roll Caster Modifiers"],
+    "mods": [
+      "Socketed Gems are supported by Level 20 Blind",
+      "+10 to Intelligence",
+      "(30-40)% increased Spell Damage",
+      "(250-275)% increased Physical Damage",
+      "(20-30)% increased Lightning Damage",
+      "10% increased Cast Speed",
+      "10% chance to Blind Enemies on hit"
+    ]
+  },
+  {
+    "id": "Mystic_Refractor",
+    "name": "Mystic Refractor",
+    "baseType": "Pagan Wand",
+    "type": "Wand",
+    "levelReq": 34,
+    "league": null,
+    "implicit": ["10% increased Cast Speed"],
+    "mods": [
+      "Skills fire (2-3) additional Projectiles",
+      "(10-20)% increased Projectile Speed",
+      "(30-50)% increased Projectile Damage",
+      "Projectiles cannot continue after colliding with targets"
+    ]
+  },
+  {
+    "id": "Obliteration",
+    "name": "Obliteration",
+    "baseType": "Omen Wand",
+    "type": "Wand",
+    "levelReq": 53,
+    "league": null,
+    "implicit": ["(27-31)% increased Spell Damage"],
+    "mods": [
+      "Gain (30-40)% of Physical Damage as Extra Chaos Damage",
+      "Enemies you Kill have a 20% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage"
+    ]
+  },
+  {
+    "id": "Piscators_Vigil",
+    "name": "Piscator's Vigil",
+    "baseType": "Imbued Wand",
+    "type": "Wand",
+    "levelReq": 59,
+    "league": null,
+    "implicit": ["(33-37)% increased Spell Damage"],
+    "mods": [
+      "No Physical Damage",
+      "(10-18)% increased Attack Speed",
+      "(20-30)% increased Critical Strike Chance",
+      "+(340-400) to Accuracy Rating",
+      "Attacks with this Weapon have (100-115)% increased Elemental Damage",
+      "Damage with Weapons Penetrates 5% Elemental Resistances"
+    ]
+  },
+  {
+    "id": "Relic_of_the_Pact",
+    "name": "Relic of the Pact",
+    "baseType": "Sage Wand",
+    "type": "Wand",
+    "levelReq": 30,
+    "league": "Ultimatum",
+    "implicit": ["(17-21)% increased Spell Damage"],
+    "mods": [
+      "Grants Level 1 Blood Sacrament Skill",
+      "Your Critical Strike Chance is Lucky while on Low Life"
+    ]
+  },
+  {
+    "id": "Replica_Midnight_Bargain",
+    "name": "Replica Midnight Bargain",
+    "baseType": "Calling Wand",
+    "type": "Wand",
+    "levelReq": 20,
+    "league": "Heist",
+    "implicit": ["Minions deal (12-16)% increased Damage"],
+    "mods": [
+      "Cannot be used with Chaos Inoculation",
+      "+(10-20) to Intelligence",
+      "Minions have (40-50)% increased Movement Speed",
+      "Minions deal (50-70)% increased Damage",
+      "+6 to maximum number of Raging Spirits",
+      "Reserves 30% of Life",
+      "+3 to maximum number of Summoned Phantasms"
+    ]
+  },
+  {
+    "id": "Replica_Tulfall",
+    "name": "Replica Tulfall",
+    "baseType": "Opal Wand",
+    "type": "Wand",
+    "levelReq": 62,
+    "league": "Heist",
+    "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
+    "mods": [
+      "(15-25)% increased Cast Speed",
+      "Lose all Power Charges on reaching Maximum Power Charges",
+      "Gain a Frenzy Charge on reaching Maximum Power Charges",
+      "(15-20)% increased Cold Damage per Frenzy Charge",
+      "50% chance to gain a Power Charge when you Hit a Frozen Enemy",
+      "Take 500 Cold Damage on reaching Maximum Power Charges"
+    ]
+  },
+  {
+    "id": "Replica_Twyzel",
+    "name": "Replica Twyzel",
+    "baseType": "Blasting Wand",
+    "type": "Wand",
+    "levelReq": 40,
+    "league": "Heist",
+    "implicit": ["Cannot roll Caster Modifiers"],
+    "mods": [
+      "(110-170)% increased Physical Damage",
+      "(5-10)% increased Attack Speed",
+      "(20-40)% increased Critical Strike Chance",
+      "Attacks fire an additional Projectile"
+    ]
+  },
+  {
+    "id": "Reverberation_Rod",
+    "name": "Reverberation Rod",
+    "baseType": "Spiraled Wand",
+    "type": "Wand",
+    "levelReq": 24,
+    "league": null,
+    "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Socketed Gems are Supported by Level 10 Arcane Surge",
+      "Socketed Gems are Supported by Level 10 Spell Echo",
+      "Socketed Gems are Supported by Level 10 Controlled Destruction",
+      "+(10-30) to Intelligence"
+    ]
+  },
+  {
+    "id": "Shade_of_Solaris",
+    "name": "Shade of Solaris",
+    "baseType": "Sage Wand",
+    "type": "Wand",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["(17-21)% increased Spell Damage"],
+    "mods": [
+      "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
+      "Critical Strikes deal no Damage",
+      "200% increased Spell Damage if you've dealt a Critical Strike in the past 8 seconds"
+    ]
+  },
+  {
+    "id": "Shimmeron",
+    "name": "Shimmeron",
+    "baseType": "Tornado Wand",
+    "type": "Wand",
+    "levelReq": 65,
+    "league": null,
+    "implicit": ["Adds (3-5) to (70-82) Lightning Damage to Spells and Attacks"],
+    "mods": [
+      "(30-40)% increased Spell Damage",
+      "Adds (26-35) to (95-105) Lightning Damage to Spells",
+      "+(6-10)% to Critical Strike Multiplier per Power Charge",
+      "+0.3% Critical Strike Chance per Power Charge",
+      "+2% Chance to Block Spell Damage per Power Charge",
+      "Adds 3 to 9 Lightning Damage to Spells per Power Charge",
+      "200 Lightning Damage taken per second per Power Charge if your Skills have dealt a Critical Strike Recently"
+    ]
+  },
+  {
+    "id": "Storm_Prison",
+    "name": "Storm Prison",
+    "baseType": "Spiraled Wand",
+    "type": "Wand",
+    "levelReq": 24,
+    "league": null,
+    "implicit": ["Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks"],
+    "mods": [
+      "(40-60)% increased Physical Damage",
+      "Adds 1 to (35-45) Lightning Damage",
+      "(15-25)% increased Mana Regeneration Rate",
+      "+1 to Maximum Power Charge",
+      "(25-35)% chance to gain a Power Charge on Kill"
+    ]
+  },
+  {
+    "id": "The_Poets_Pen",
+    "name": "The Poet's Pen",
+    "baseType": "Somatic Wand",
+    "type": "Wand",
+    "levelReq": 12,
+    "league": null,
+    "implicit": ["(11-15)% increased Spell Damage"],
+    "mods": [
+      "Cannot roll Caster Modifiers",
+      "+1 to Level of Socketed Active Skill Gems per 25 Player Levels",
+      "Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels",
+      "(8-12)% increased Attack Speed",
+      "Trigger a Socketed Spell when you Attack with this Weapon, with a 0.25 second Cooldown"
+    ]
+  },
+  {
+    "id": "Tulborn",
+    "name": "Tulborn",
+    "baseType": "Opal Wand",
+    "type": "Wand",
+    "levelReq": 62,
+    "league": "Breach",
+    "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
+    "mods": [
+      "Adds (120-140) to (150-170) Cold Damage to Spells",
+      "Gain a Power Charge on Killing a Frozen Enemy",
+      "Cold Exposure you inflict applies an extra -12% to Cold Resistance",
+      "+(20-25) Mana gained on Killing a Frozen Enemy"
+    ]
+  },
+  {
+    "id": "Tulfall",
+    "name": "Tulfall",
+    "baseType": "Opal Wand",
+    "type": "Wand",
+    "levelReq": 62,
+    "league": "Breach",
+    "implicit": ["Adds (14-29) to (42-47) Cold Damage to Spells and Attacks"],
+    "mods": [
+      "(10-20)% increased Cast Speed",
+      "Gain a Power Charge on Killing a Frozen Enemy",
+      "Adds 50 to 70 Cold Damage to Spells per Power Charge",
+      "Lose all Power Charges on reaching Maximum Power Charges",
+      "Gain a Frenzy Charge on reaching Maximum Power Charges"
+    ]
+  },
+  {
+    "id": "Twyzel",
+    "name": "Twyzel",
+    "baseType": "Blasting Wand",
+    "type": "Wand",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Cannot roll Caster Modifiers",
+      "(80-140)% increased Physical Damage",
+      "Adds (5-8) to (13-17) Physical Damage",
+      "(5-10)% increased Attack Speed",
+      "(10-20)% increased Critical Strike Chance",
+      "Attacks fire (1-2) additional Projectiles when in Off Hand",
+      "Attacks have (40-60)% increased Area of Effect when in Main Hand"
+    ]
+  },
+  {
+    "id": "Unlight_Extant",
+    "name": "Unlight Extant",
+    "baseType": "Sage Wand",
+    "type": "Wand",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["(17-21)% increased Spell Damage"],
+    "mods": [
+      "(31-43)% increased Chaos Damage",
+      "(7-13)% increased Cast Speed",
+      "+1 to Level of all Chaos Spell Skill Gems",
+      "Chaos Skills inflict up to 15 Withered Debuffs on Hit for (5-7) seconds",
+      "Cannot Inflict Wither on targets that are not on Full Life"
+    ]
+  },
+  {
+    "id": "Void_Battery",
+    "name": "Void Battery",
+    "baseType": "Prophecy Wand",
+    "type": "Wand",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["(36-40)% increased Spell Damage"],
+    "mods": [
+      "80% reduced Spell Damage",
+      "(10-20)% increased Cast Speed",
+      "(50-65)% increased Global Critical Strike Chance",
+      "+(40-50) to maximum Mana",
+      "+1 to Maximum Power Charges",
+      "25% increased Spell Damage per Power Charge"
+    ]
+  }
+]

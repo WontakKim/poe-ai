@@ -1,0 +1,282 @@
+[
+  {
+    "id": "Accumulator_Wand",
+    "name": "Accumulator Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Gain 2 Endurance, Frenzy or Power Charges every 6 seconds",
+    "req": { "level": 70, "str": null, "dex": null, "int": 237 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 50, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Assembler_Wand",
+    "name": "Assembler Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Gain an Endurance, Frenzy or Power Charge every 6 seconds",
+    "req": { "level": 30, "str": null, "dex": null, "int": 101 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 28, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Blasting_Wand",
+    "name": "Blasting Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Cannot roll Caster Modifiers",
+    "req": { "level": 40, "str": null, "dex": null, "int": 131 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 39, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Calling_Wand",
+    "name": "Calling Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Minions deal (12-16)% increased Damage",
+    "req": { "level": 20, "str": null, "dex": null, "int": 81 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 23, "critChance": 8, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Carved_Wand",
+    "name": "Carved Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(11-15)% increased Spell Damage",
+    "req": { "level": 12, "str": null, "dex": null, "int": 47 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 9, "physMax": 16, "critChance": 8, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Coiled_Wand",
+    "name": "Coiled Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (1-2) to (22-24) Lightning Damage to Spells and Attacks",
+    "req": { "level": 49, "str": null, "dex": null, "int": 158 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 55, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Congregator_Wand",
+    "name": "Congregator Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Gain an Endurance, Frenzy or Power Charge every 6 seconds",
+    "req": { "level": 50, "str": null, "dex": null, "int": 168 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 23, "physMax": 43, "critChance": 8.5, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Convening_Wand",
+    "name": "Convening Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Minions deal (20-24)% increased Damage",
+    "req": { "level": 50, "str": null, "dex": null, "int": 183 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 25, "physMax": 47, "critChance": 8, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Convoking_Wand",
+    "name": "Convoking Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Minions deal (26-30)% increased Damage",
+    "req": { "level": 72, "str": null, "dex": null, "int": 242 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 28, "physMax": 52, "critChance": 8, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Crystal_Wand",
+    "name": "Crystal Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (4-8) to (10-12) Cold Damage to Spells and Attacks",
+    "req": { "level": 45, "str": null, "dex": null, "int": 146 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 24, "physMax": 45, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Demons_Horn",
+    "name": "Demon's Horn",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (18-36) to (53-59) Fire Damage to Spells and Attacks",
+    "req": { "level": 56, "str": null, "dex": null, "int": 179 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 31, "physMax": 57, "critChance": 8, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Driftwood_Wand",
+    "name": "Driftwood Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(8-12)% increased Spell Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": 14 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 5, "physMax": 9, "critChance": 8.3, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Engraved_Wand",
+    "name": "Engraved Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(22-26)% increased Spell Damage",
+    "req": { "level": 40, "str": null, "dex": null, "int": 131 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 36, "critChance": 8, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Fauns_Horn",
+    "name": "Faun's Horn",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (5-10) to (11-13) Fire Damage to Spells and Attacks",
+    "req": { "level": 35, "str": null, "dex": null, "int": 116 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 38, "critChance": 8, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Goats_Horn",
+    "name": "Goat's Horn",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (1-2) to (3-4) Fire Damage to Spells and Attacks",
+    "req": { "level": 6, "str": null, "dex": null, "int": 29 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 7, "physMax": 13, "critChance": 8, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Heathen_Wand",
+    "name": "Heathen Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "10% increased Cast Speed",
+    "req": { "level": 55, "str": null, "dex": null, "int": 184 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 28, "physMax": 52, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Imbued_Wand",
+    "name": "Imbued Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(33-37)% increased Spell Damage",
+    "req": { "level": 59, "str": null, "dex": null, "int": 188 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 50, "critChance": 8, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Kinetic_Wand",
+    "name": "Kinetic Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Cannot roll Caster Modifiers",
+    "req": { "level": 59, "str": null, "dex": null, "int": 188 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 54, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Omen_Wand",
+    "name": "Omen Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(27-31)% increased Spell Damage",
+    "req": { "level": 53, "str": null, "dex": null, "int": 200 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 24, "physMax": 45, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Opal_Wand",
+    "name": "Opal Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (14-29) to (42-47) Cold Damage to Spells and Attacks",
+    "req": { "level": 62, "str": null, "dex": null, "int": 212 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 56, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Pagan_Wand",
+    "name": "Pagan Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "10% increased Cast Speed",
+    "req": { "level": 34, "str": null, "dex": null, "int": 118 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 37, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Profane_Wand",
+    "name": "Profane Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "14% increased Cast Speed",
+    "req": { "level": 70, "str": null, "dex": null, "int": 237 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 56, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Prophecy_Wand",
+    "name": "Prophecy Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(36-40)% increased Spell Damage",
+    "req": { "level": 68, "str": null, "dex": null, "int": 245 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 26, "physMax": 48, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Quartz_Wand",
+    "name": "Quartz Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (2-3) to (4-7) Cold Damage to Spells and Attacks",
+    "req": { "level": 18, "str": null, "dex": null, "int": 65 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 23, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Sage_Wand",
+    "name": "Sage Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "(17-21)% increased Spell Damage",
+    "req": { "level": 30, "str": null, "dex": null, "int": 119 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 17, "physMax": 32, "critChance": 8.7, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Somatic_Wand",
+    "name": "Somatic Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Cannot roll Caster Modifiers",
+    "req": { "level": 12, "str": null, "dex": null, "int": 47 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 9, "physMax": 18, "critChance": 8.5, "attackRate": 1.6, "range": 120 }
+  },
+  {
+    "id": "Spiraled_Wand",
+    "name": "Spiraled Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (1-2) to (9-11) Lightning Damage to Spells and Attacks",
+    "req": { "level": 24, "str": null, "dex": null, "int": 83 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 11, "physMax": 32, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Tornado_Wand",
+    "name": "Tornado Wand",
+    "type": "Wand",
+    "subType": null,
+    "implicit": "Adds (3-5) to (70-82) Lightning Damage to Spells and Attacks",
+    "req": { "level": 65, "str": null, "dex": null, "int": 212 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 22, "physMax": 65, "critChance": 8, "attackRate": 1.45, "range": 120 }
+  }
+]

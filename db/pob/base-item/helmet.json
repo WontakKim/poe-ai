@@ -1,0 +1,952 @@
+[
+  {
+    "id": "Ancient_Mask",
+    "name": "Ancient Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 116, "int": 116 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 308, "evasionMax": 355, "energyShieldMin": 62, "energyShieldMax": 71 }
+  },
+  {
+    "id": "Archdemon_Crown",
+    "name": "Archdemon Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": "-2 to Level of Socketed Support Gems\n+2 to Level of Socketed Skill Gems",
+    "req": { "level": 75, "str": 79, "dex": null, "int": 79 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 185, "armourMax": 212, "energyShieldMin": 38, "energyShieldMax": 43 }
+  },
+  {
+    "id": "Atonement_Mask",
+    "name": "Atonement Mask",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": "+3% to maximum Chaos Resistance\n-15% additional Physical Damage Reduction\nYou are Crushed",
+    "req": { "level": 45, "str": 51, "dex": 51, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 122, "armourMax": 140, "evasionMin": 122, "evasionMax": 140 }
+  },
+  {
+    "id": "Aventail_Helmet",
+    "name": "Aventail Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 37, "str": 42, "dex": null, "int": 42 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 101, "armourMax": 119, "energyShieldMin": 21, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Barbute_Helmet",
+    "name": "Barbute Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 18, "str": 42, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 92, "armourMax": 115 }
+  },
+  {
+    "id": "Battered_Helm",
+    "name": "Battered Helm",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": null, "str": 8, "dex": 8, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 13, "armourMax": 18, "evasionMin": 13, "evasionMax": 18 }
+  },
+  {
+    "id": "Blizzard_Crown",
+    "name": "Blizzard Crown",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": "Adds (75-85) to (115-128) Cold Damage\nYour Hits treat Cold Resistance as 10% higher than actual value",
+    "req": { "level": 75, "str": null, "dex": 79, "int": 79 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 185, "evasionMax": 212, "energyShieldMin": 38, "energyShieldMax": 43 }
+  },
+  {
+    "id": "Bone_Circlet",
+    "name": "Bone Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 34, "str": null, "dex": null, "int": 73 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 36, "energyShieldMax": 40 }
+  },
+  {
+    "id": "Bone_Helmet",
+    "name": "Bone Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": "Minions deal (15-20)% increased Damage",
+    "req": { "level": 73, "str": 76, "dex": null, "int": 76 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 197, "armourMax": 227, "energyShieldMin": 40, "energyShieldMax": 46 }
+  },
+  {
+    "id": "Callous_Mask",
+    "name": "Callous Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 45, "str": null, "dex": 51, "int": 51 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 122, "evasionMax": 137, "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Close_Helmet",
+    "name": "Close Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 26, "str": 58, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 130, "armourMax": 150 }
+  },
+  {
+    "id": "Cone_Helmet",
+    "name": "Cone Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 7, "str": 21, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 38, "armourMax": 50 }
+  },
+  {
+    "id": "Conquerors_Helmet",
+    "name": "Conqueror's Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 78, "str": 194, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 501, "armourMax": 576 }
+  },
+  {
+    "id": "Conquest_Helmet",
+    "name": "Conquest Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": 116, "dex": 116, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 308, "armourMax": 355, "evasionMin": 308, "evasionMax": 355 }
+  },
+  {
+    "id": "Crusader_Helmet",
+    "name": "Crusader Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 31, "str": 36, "dex": null, "int": 36 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 85, "armourMax": 95, "energyShieldMin": 18, "energyShieldMax": 20 }
+  },
+  {
+    "id": "Deicide_Mask",
+    "name": "Deicide Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 67, "str": null, "dex": 73, "int": 88 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 190, "evasionMax": 219, "energyShieldMin": 47, "energyShieldMax": 54 }
+  },
+  {
+    "id": "Demon_Crown",
+    "name": "Demon Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": "-1 to Level of Socketed Support Gems\n+1 to Level of Socketed Skill Gems",
+    "req": { "level": 45, "str": 51, "dex": null, "int": 51 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 122, "armourMax": 140, "energyShieldMin": 25, "energyShieldMax": 29 }
+  },
+  {
+    "id": "Dire_Pelt",
+    "name": "Dire Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 73, "str": null, "dex": 170, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 431, "evasionMax": 496 }
+  },
+  {
+    "id": "Divine_Crown",
+    "name": "Divine Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": 132, "dex": null, "int": 132 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 355, "armourMax": 409, "energyShieldMin": 71, "energyShieldMax": 82 }
+  },
+  {
+    "id": "Eternal_Burgonet",
+    "name": "Eternal Burgonet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 69, "str": 138, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 373, "armourMax": 429 }
+  },
+  {
+    "id": "Ezomyte_Burgonet",
+    "name": "Ezomyte Burgonet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 60, "str": 138, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 346, "armourMax": 381 }
+  },
+  {
+    "id": "Faithful_Helmet",
+    "name": "Faithful Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 73, "str": 101, "dex": null, "int": 101 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 268, "armourMax": 308, "energyShieldMin": 54, "energyShieldMax": 62 }
+  },
+  {
+    "id": "Fencer_Helm",
+    "name": "Fencer Helm",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 43, "str": 49, "dex": 49, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 117, "armourMax": 134, "evasionMin": 117, "evasionMax": 134 }
+  },
+  {
+    "id": "Festival_Mask",
+    "name": "Festival Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 28, "str": null, "dex": 33, "int": 33 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 77, "evasionMax": 88, "energyShieldMin": 17, "energyShieldMax": 19 }
+  },
+  {
+    "id": "Fluted_Bascinet",
+    "name": "Fluted Bascinet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 58, "str": 64, "dex": 64, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 160, "armourMax": 189, "evasionMin": 160, "evasionMax": 189 }
+  },
+  {
+    "id": "Gale_Crown",
+    "name": "Gale Crown",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": "Adds (3-4) to (5-6) Cold Damage\nYour Hits treat Cold Resistance as 10% higher than actual value",
+    "req": { "level": 15, "str": null, "dex": 20, "int": 20 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 42, "evasionMax": 49, "energyShieldMin": 10, "energyShieldMax": 12 }
+  },
+  {
+    "id": "Generals_Helmet",
+    "name": "General's Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 73, "str": 170, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 431, "armourMax": 496 }
+  },
+  {
+    "id": "Giantslayer_Helmet",
+    "name": "Giantslayer Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 84, "str": 224, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 582, "armourMax": 669 }
+  },
+  {
+    "id": "Gilded_Sallet",
+    "name": "Gilded Sallet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 33, "str": 38, "dex": 38, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 90, "armourMax": 97, "evasionMin": 90, "evasionMax": 97 }
+  },
+  {
+    "id": "Gladiator_Helmet",
+    "name": "Gladiator Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 35, "str": 75, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 174, "armourMax": 195 }
+  },
+  {
+    "id": "Golden_Mask",
+    "name": "Golden Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 35, "str": null, "dex": 40, "int": 40 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 96, "evasionMax": 103, "energyShieldMin": 20, "energyShieldMax": 22 }
+  },
+  {
+    "id": "Golden_Wreath",
+    "name": "Golden Wreath",
+    "type": "Helmet",
+    "subType": null,
+    "implicit": "+(16-24) to all Attributes",
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": {  }
+  },
+  {
+    "id": "Great_Crown",
+    "name": "Great Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 53, "str": 59, "dex": null, "int": 59 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 143, "armourMax": 161, "energyShieldMin": 29, "energyShieldMax": 33 }
+  },
+  {
+    "id": "Great_Helmet",
+    "name": "Great Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 22, "str": 27, "dex": null, "int": 27 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 61, "armourMax": 76, "energyShieldMin": 14, "energyShieldMax": 17 }
+  },
+  {
+    "id": "Grizzly_Pelt",
+    "name": "Grizzly Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 194, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 501, "evasionMax": 576 }
+  },
+  {
+    "id": "Harlequin_Mask",
+    "name": "Harlequin Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 57, "str": null, "dex": 64, "int": 64 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 157, "evasionMax": 185, "energyShieldMin": 32, "energyShieldMax": 38 }
+  },
+  {
+    "id": "Haunted_Bascinet",
+    "name": "Haunted Bascinet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": 132, "dex": 132, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 355, "armourMax": 409, "evasionMin": 355, "evasionMax": 409 }
+  },
+  {
+    "id": "Hubris_Circlet",
+    "name": "Hubris Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 69, "str": null, "dex": null, "int": 154 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 80, "energyShieldMax": 92 }
+  },
+  {
+    "id": "Hunter_Hood",
+    "name": "Hunter Hood",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 41, "str": null, "dex": 87, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 203, "evasionMax": 227 }
+  },
+  {
+    "id": "Imp_Crown",
+    "name": "Imp Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": "-1 to Level of Socketed Support Gems\n+1 to Level of Socketed Skill Gems",
+    "req": { "level": 15, "str": 20, "dex": null, "int": 20 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 42, "armourMax": 49, "energyShieldMin": 10, "energyShieldMax": 12 }
+  },
+  {
+    "id": "Iron_Circlet",
+    "name": "Iron Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 8, "str": null, "dex": null, "int": 23 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 12, "energyShieldMax": 15 }
+  },
+  {
+    "id": "Iron_Hat",
+    "name": "Iron Hat",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": null, "str": 9, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 9, "armourMax": 13 }
+  },
+  {
+    "id": "Iron_Mask",
+    "name": "Iron Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 17, "str": null, "dex": 21, "int": 21 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 48, "evasionMax": 60, "energyShieldMin": 11, "energyShieldMax": 14 }
+  },
+  {
+    "id": "Jester_Mask",
+    "name": "Jester Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 73, "str": null, "dex": 101, "int": 101 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 268, "evasionMax": 308, "energyShieldMin": 54, "energyShieldMax": 62 }
+  },
+  {
+    "id": "Knight_Helm",
+    "name": "Knight Helm",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 73, "str": 101, "dex": 101, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 268, "armourMax": 308, "evasionMin": 268, "evasionMax": 308 }
+  },
+  {
+    "id": "Lacquered_Helmet",
+    "name": "Lacquered Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 51, "str": 57, "dex": 57, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 138, "armourMax": 155, "evasionMin": 138, "evasionMax": 155 }
+  },
+  {
+    "id": "Leather_Cap",
+    "name": "Leather Cap",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 13, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 19, "evasionMax": 27 }
+  },
+  {
+    "id": "Leather_Hood",
+    "name": "Leather Hood",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 20, "str": null, "dex": 46, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 101, "evasionMax": 127 }
+  },
+  {
+    "id": "Lichs_Circlet",
+    "name": "Lich's Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": null, "int": 224 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 117, "energyShieldMax": 134 }
+  },
+  {
+    "id": "Lion_Pelt",
+    "name": "Lion Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 70, "str": null, "dex": 150, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 380, "evasionMax": 437 }
+  },
+  {
+    "id": "Lunaris_Circlet",
+    "name": "Lunaris Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 39, "str": null, "dex": null, "int": 83 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 41, "energyShieldMax": 48 }
+  },
+  {
+    "id": "Magistrate_Crown",
+    "name": "Magistrate Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 58, "str": 64, "dex": null, "int": 64 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 160, "armourMax": 189, "energyShieldMin": 33, "energyShieldMax": 39 }
+  },
+  {
+    "id": "Majestic_Pelt",
+    "name": "Majestic Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 224, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 582, "evasionMax": 669 }
+  },
+  {
+    "id": "Mind_Cage",
+    "name": "Mind Cage",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 65, "str": null, "dex": null, "int": 138 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 73, "energyShieldMax": 84 }
+  },
+  {
+    "id": "Moonlit_Circlet",
+    "name": "Moonlit Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 73, "str": null, "dex": null, "int": 170 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 87, "energyShieldMax": 100 }
+  },
+  {
+    "id": "Necromancer_Circlet",
+    "name": "Necromancer Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 54, "str": null, "dex": null, "int": 112 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 55, "energyShieldMax": 64 }
+  },
+  {
+    "id": "Nightmare_Bascinet",
+    "name": "Nightmare Bascinet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 67, "str": 62, "dex": 85, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 162, "armourMax": 187, "evasionMin": 233, "evasionMax": 268 }
+  },
+  {
+    "id": "Noble_Tricorne",
+    "name": "Noble Tricorne",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 47, "str": null, "dex": 99, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 232, "evasionMax": 266 }
+  },
+  {
+    "id": "Paladin_Crown",
+    "name": "Paladin Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": 116, "dex": null, "int": 116 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 308, "armourMax": 355, "energyShieldMin": 62, "energyShieldMax": 71 }
+  },
+  {
+    "id": "Penitent_Mask",
+    "name": "Penitent Mask",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": "+4% to maximum Chaos Resistance\n-15% additional Physical Damage Reduction\nYou are Crushed",
+    "req": { "level": 75, "str": 79, "dex": 79, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 185, "armourMax": 212, "evasionMin": 185, "evasionMax": 212 }
+  },
+  {
+    "id": "Pig-Faced_Bascinet",
+    "name": "Pig-Faced Bascinet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 63, "str": 85, "dex": 62, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 229, "armourMax": 263, "evasionMin": 159, "evasionMax": 183 }
+  },
+  {
+    "id": "Plague_Mask",
+    "name": "Plague Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 10, "str": null, "dex": 14, "int": 14 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 29, "evasionMax": 38, "energyShieldMin": 7, "energyShieldMax": 10 }
+  },
+  {
+    "id": "Praetor_Crown",
+    "name": "Praetor Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 68, "str": 62, "dex": null, "int": 91 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 161, "armourMax": 185, "energyShieldMin": 51, "energyShieldMax": 58 }
+  },
+  {
+    "id": "Prophet_Crown",
+    "name": "Prophet Crown",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 63, "str": 85, "dex": null, "int": 62 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 224, "armourMax": 258, "energyShieldMin": 32, "energyShieldMax": 37 }
+  },
+  {
+    "id": "Raven_Mask",
+    "name": "Raven Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 38, "str": null, "dex": 44, "int": 44 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 104, "evasionMax": 119, "energyShieldMin": 22, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Reaver_Helmet",
+    "name": "Reaver Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 40, "str": 85, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 198, "armourMax": 233 }
+  },
+  {
+    "id": "Regicide_Mask",
+    "name": "Regicide Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 52, "str": null, "dex": 58, "int": 58 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 141, "evasionMax": 158, "energyShieldMin": 29, "energyShieldMax": 32 }
+  },
+  {
+    "id": "Royal_Burgonet",
+    "name": "Royal Burgonet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 65, "str": 148, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 377, "armourMax": 434 }
+  },
+  {
+    "id": "Runic_Crest",
+    "name": "Runic Crest",
+    "type": "Helmet",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 49, "str": 55, "dex": 55, "int": 55 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 97, "wardMax": 112 }
+  },
+  {
+    "id": "Runic_Crown",
+    "name": "Runic Crown",
+    "type": "Helmet",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 68, "str": 66, "dex": 66, "int": 66 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 164, "wardMax": 189 }
+  },
+  {
+    "id": "Runic_Helm",
+    "name": "Runic Helm",
+    "type": "Helmet",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 25, "str": 30, "dex": 30, "int": 30 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 41, "wardMax": 47 }
+  },
+  {
+    "id": "Rusted_Coif",
+    "name": "Rusted Coif",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 5, "str": 9, "dex": null, "int": 9 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 16, "armourMax": 22, "energyShieldMin": 5, "energyShieldMax": 7 }
+  },
+  {
+    "id": "Sallet",
+    "name": "Sallet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 13, "str": 18, "dex": 18, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 37, "armourMax": 48, "evasionMin": 37, "evasionMax": 48 }
+  },
+  {
+    "id": "Samnite_Helmet",
+    "name": "Samnite Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 55, "str": 114, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 276, "armourMax": 325 }
+  },
+  {
+    "id": "Scare_Mask",
+    "name": "Scare Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 8, "int": 8 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 13, "evasionMax": 18, "energyShieldMin": 4, "energyShieldMax": 6 }
+  },
+  {
+    "id": "Secutor_Helm",
+    "name": "Secutor Helm",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 36, "str": 42, "dex": 42, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 98, "armourMax": 116, "evasionMin": 98, "evasionMax": 116 }
+  },
+  {
+    "id": "Siege_Helmet",
+    "name": "Siege Helmet",
+    "type": "Helmet",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 48, "str": 101, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 237, "armourMax": 272 }
+  },
+  {
+    "id": "Silken_Hood",
+    "name": "Silken Hood",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": 138, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 346, "evasionMax": 381 }
+  },
+  {
+    "id": "Sinner_Tricorne",
+    "name": "Sinner Tricorne",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 64, "str": null, "dex": 138, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 369, "evasionMax": 425 }
+  },
+  {
+    "id": "Solaris_Circlet",
+    "name": "Solaris Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 59, "str": null, "dex": null, "int": 122 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 60, "energyShieldMax": 68 }
+  },
+  {
+    "id": "Soldier_Helmet",
+    "name": "Soldier Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 12, "str": 16, "dex": null, "int": 16 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 34, "armourMax": 45, "energyShieldMin": 8, "energyShieldMax": 11 }
+  },
+  {
+    "id": "Sorrow_Mask",
+    "name": "Sorrow Mask",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": "+2% to maximum Chaos Resistance\n-15% additional Physical Damage Reduction\nYou are Crushed",
+    "req": { "level": 15, "str": 20, "dex": 20, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 42, "armourMax": 49, "evasionMin": 42, "evasionMax": 49 }
+  },
+  {
+    "id": "Steel_Circlet",
+    "name": "Steel Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 48, "str": null, "dex": null, "int": 101 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 49, "energyShieldMax": 55 }
+  },
+  {
+    "id": "Sunfire_Circlet",
+    "name": "Sunfire Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": null, "int": 194 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 101, "energyShieldMax": 116 }
+  },
+  {
+    "id": "Torture_Cage",
+    "name": "Torture Cage",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 17, "str": null, "dex": null, "int": 40 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 20, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Torturers_Mask",
+    "name": "Torturer's Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 132, "int": 132 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 355, "evasionMax": 409, "energyShieldMin": 71, "energyShieldMax": 82 }
+  },
+  {
+    "id": "Tribal_Circlet",
+    "name": "Tribal Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 26, "str": null, "dex": null, "int": 58 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 28, "energyShieldMax": 33 }
+  },
+  {
+    "id": "Tricorne",
+    "name": "Tricorne",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 10, "str": null, "dex": 27, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 53, "evasionMax": 69 }
+  },
+  {
+    "id": "Ursine_Pelt",
+    "name": "Ursine Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 55, "str": null, "dex": 114, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 276, "evasionMax": 325 }
+  },
+  {
+    "id": "Vaal_Mask",
+    "name": "Vaal Mask",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 62, "str": null, "dex": 79, "int": 72 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 207, "evasionMax": 239, "energyShieldMin": 37, "energyShieldMax": 43 }
+  },
+  {
+    "id": "Vine_Circlet",
+    "name": "Vine Circlet",
+    "type": "Helmet",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": 13 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 7, "energyShieldMax": 10 }
+  },
+  {
+    "id": "Visored_Sallet",
+    "name": "Visored Sallet",
+    "type": "Helmet",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 23, "str": 28, "dex": 28, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 64, "armourMax": 80, "evasionMin": 64, "evasionMax": 80 }
+  },
+  {
+    "id": "Winter_Crown",
+    "name": "Winter Crown",
+    "type": "Helmet",
+    "subType": "Evasion/Energy Shield",
+    "implicit": "Adds (15-20) to (28-35) Cold Damage\nYour Hits treat Cold Resistance as 10% higher than actual value",
+    "req": { "level": 45, "str": null, "dex": 51, "int": 51 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 122, "evasionMax": 140, "energyShieldMin": 25, "energyShieldMax": 29 }
+  },
+  {
+    "id": "Wolf_Pelt",
+    "name": "Wolf Pelt",
+    "type": "Helmet",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 30, "str": null, "dex": 66, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 150, "evasionMax": 172 }
+  },
+  {
+    "id": "Zealot_Helmet",
+    "name": "Zealot Helmet",
+    "type": "Helmet",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 44, "str": 50, "dex": null, "int": 50 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 119, "armourMax": 137, "energyShieldMin": 25, "energyShieldMax": 29 }
+  }
+]

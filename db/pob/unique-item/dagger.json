@@ -1,0 +1,380 @@
+[
+  {
+    "id": "Arakaalis_Fang",
+    "name": "Arakaali's Fang",
+    "baseType": "Fiend Dagger",
+    "type": "Dagger",
+    "levelReq": 53,
+    "league": null,
+    "implicit": ["40% increased Global Critical Strike Chance"],
+    "mods": [
+      "100% chance to Trigger Level 1 Raise Spiders on Kill",
+      "(170-200)% increased Physical Damage",
+      "Adds (8-13) to (20-30) Physical Damage",
+      "Adds 1 to 59 Chaos Damage",
+      "15% chance to Poison on Hit"
+    ]
+  },
+  {
+    "id": "Binos_Kitchen_Knife",
+    "name": "Bino's Kitchen Knife",
+    "baseType": "Slaughter Knife",
+    "type": "Dagger",
+    "levelReq": 65,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "Adds (140-155) to (210-235) Physical Damage",
+      "(40-50)% increased Critical Strike Chance",
+      "+(15-25)% to Global Critical Strike Multiplier",
+      "+(8-12)% to Chaos Resistance",
+      "On Killing a Poisoned Enemy, nearby Enemies are Poisoned",
+      "and nearby Allies Regenerate 200 Life per second"
+    ]
+  },
+  {
+    "id": "Bloodplay",
+    "name": "Bloodplay",
+    "baseType": "Stiletto",
+    "type": "Dagger",
+    "levelReq": 15,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+20 to Dexterity",
+      "(20-40)% increased Physical Damage",
+      "Adds (3-6) to (9-13) Physical Damage",
+      "10% increased Attack Speed",
+      "Extra Gore",
+      "30% chance to cause Bleeding on Hit"
+    ]
+  },
+  {
+    "id": "Cold_Iron_Point",
+    "name": "Cold Iron Point",
+    "baseType": "Ezomyte Dagger",
+    "type": "Dagger",
+    "levelReq": 62,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+3 to Level of all Physical Spell Skill Gems",
+      "Deal no Elemental Damage"
+    ]
+  },
+  {
+    "id": "Divinarius",
+    "name": "Divinarius",
+    "baseType": "Imperial Skean",
+    "type": "Dagger",
+    "levelReq": 66,
+    "league": "Legion",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(150-200)% increased Spell Damage",
+      "Gain (100-200) Life per Enemy Killed",
+      "Gain (50-100) Mana per Enemy Killed",
+      "30% increased Area of Effect",
+      "(200-250)% increased Critical Strike Chance for Spells if you've Killed Recently",
+      "+(60-100)% to Critical Strike Multiplier for Spells if you haven't Killed Recently"
+    ]
+  },
+  {
+    "id": "Festering_Resentment",
+    "name": "Festering Resentment",
+    "baseType": "Demon Dagger",
+    "type": "Dagger",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["40% increased Global Critical Strike Chance"],
+    "mods": [
+      "Trigger a Socketed Spell when you Block, with a 0.25 second Cooldown",
+      "+(30-45)% Chance to Block Spell Damage while in Off Hand",
+      "(100-150)% increased Spell Damage",
+      "(100-150)% increased Damage with Poison",
+      "Triggered Spells Poison on Hit",
+      "All Damage with Triggered Spells can Poison"
+    ]
+  },
+  {
+    "id": "Goblinedge",
+    "name": "Goblinedge",
+    "baseType": "Ambusher",
+    "type": "Dagger",
+    "levelReq": 60,
+    "league": "Ritual",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(200-250)% increased Physical Damage",
+      "(20-25)% increased Attack Speed if you haven't gained a Frenzy Charge Recently",
+      "(60-80)% increased Critical Strike Chance if you haven't gained a Power Charge Recently",
+      "+3 seconds to Duration of Frenzy and Power Charges on Culling Strike",
+      "Gain (120-150) Life on Culling Strike",
+      "Gain (10-20) Mana on Culling Strike"
+    ]
+  },
+  {
+    "id": "Goredrill",
+    "name": "Goredrill",
+    "baseType": "Skinning Knife",
+    "type": "Dagger",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+(10-15) to Dexterity",
+      "(50-70)% increased Physical Damage",
+      "Adds (1-2) to (3-5) Physical Damage",
+      "30% increased Critical Strike Chance",
+      "50% chance to cause Bleeding on Critical Strike",
+      "40% increased Attack Damage against Bleeding Enemies"
+    ]
+  },
+  {
+    "id": "Heartbreaker",
+    "name": "Heartbreaker",
+    "baseType": "Royal Skean",
+    "type": "Dagger",
+    "levelReq": 50,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(60-70)% increased Spell Damage",
+      "(40-80)% faster start of Energy Shield Recharge",
+      "+(60-100) to maximum Mana",
+      "Your Spells have Culling Strike"
+    ]
+  },
+  {
+    "id": "Mark_of_the_Doubting_Knight",
+    "name": "Mark of the Doubting Knight",
+    "baseType": "Platinum Kris",
+    "type": "Dagger",
+    "levelReq": 64,
+    "league": null,
+    "implicit": ["50% increased Global Critical Strike Chance"],
+    "mods": [
+      "+5% Chance to Block Attack Damage while Dual Wielding",
+      "(250-270)% increased Physical Damage",
+      "20% reduced Attack Speed",
+      "50% chance to Cause Bleeding on Critical Strike",
+      "50% chance to Cause Poison on Critical Strike",
+      "(20-30)% increased Critical Strike Chance",
+      "+(30-40)% to Global Critical Strike Multiplier"
+    ]
+  },
+  {
+    "id": "Mightflay",
+    "name": "Mightflay",
+    "baseType": "Flaying Knife",
+    "type": "Dagger",
+    "levelReq": 35,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(80-100)% increased Physical Damage",
+      "Adds 12 to 24 Physical Damage",
+      "+25 to Strength",
+      "Gain 10 Life per Enemy Hit with Attacks"
+    ]
+  },
+  {
+    "id": "Replica_Bloodplay",
+    "name": "Replica Bloodplay",
+    "baseType": "Stiletto",
+    "type": "Dagger",
+    "levelReq": 15,
+    "league": "Heist",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+20 to Strength",
+      "(20-40)% increased Physical Damage",
+      "Adds (3-6) to (9-13) Physical Damage",
+      "30% chance to cause Bleeding on Hit",
+      "(100-150)% increased Critical Strike Chance against Bleeding Enemies",
+      "Extra gore"
+    ]
+  },
+  {
+    "id": "Replica_Cold_Iron_Point",
+    "name": "Replica Cold Iron Point",
+    "baseType": "Ezomyte Dagger",
+    "type": "Dagger",
+    "levelReq": 62,
+    "league": "Heist",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+3 to Level of all Cold Spell Skill Gems",
+      "Deal no Cold Damage"
+    ]
+  },
+  {
+    "id": "Replica_Heartbreaker",
+    "name": "Replica Heartbreaker",
+    "baseType": "Royal Skean",
+    "type": "Dagger",
+    "levelReq": 50,
+    "league": "Heist",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(60-70)% increased Spell Damage",
+      "(40-80)% faster start of Energy Shield Recharge",
+      "+(30-50) to maximum Life",
+      "20% increased Impale Effect",
+      "20% chance to Impale on Spell Hit"
+    ]
+  },
+  {
+    "id": "Replica_Ungils_Gauche",
+    "name": "Replica Ungil's Gauche",
+    "baseType": "Boot Knife",
+    "type": "Dagger",
+    "levelReq": 20,
+    "league": "Heist",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+18% Chance to Block Attack Damage while Dual Wielding",
+      "+(10-20) to Dexterity",
+      "10% increased Attack Speed",
+      "50% increased Global Critical Strike Chance",
+      "Chill Attackers for 4 seconds on Block",
+      "Shock Attackers for 4 seconds on Block"
+    ]
+  },
+  {
+    "id": "Sanguine_Gambol",
+    "name": "Sanguine Gambol",
+    "baseType": "Skinning Knife",
+    "type": "Dagger",
+    "levelReq": 59,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(50-70)% increased Physical Damage",
+      "Adds (70-85) to (110-118) Physical Damage",
+      "+(10-15) to Dexterity",
+      "30% increased Critical Strike Chance",
+      "50% chance to cause Bleeding on Critical Strike",
+      "40% increased Attack Damage against Bleeding Enemies",
+      "You have Crimson Dance if you have dealt a Critical Strike Recently"
+    ]
+  },
+  {
+    "id": "Taproot",
+    "name": "Taproot",
+    "baseType": "Ambusher",
+    "type": "Dagger",
+    "levelReq": 60,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "(180-200)% increased Physical Damage",
+      "(10-15)% increased Attack Speed",
+      "(15-20)% increased Poison Duration",
+      "0.5% of Attack Damage Leeched as Mana against Poisoned Enemies",
+      "0.5% of Attack Damage Leeched as Life against Maimed Enemies",
+      "(15-20)% chance to Maim on Hit",
+      "20% chance to Poison on Hit"
+    ]
+  },
+  {
+    "id": "The_Consuming_Dark",
+    "name": "The Consuming Dark",
+    "baseType": "Fiend Dagger",
+    "type": "Dagger",
+    "levelReq": 53,
+    "league": null,
+    "implicit": ["40% increased Global Critical Strike Chance"],
+    "mods": [
+      "+1 to Level of all Fire Spell Skill Gems",
+      "(40-60)% increased Fire Damage",
+      "+(20-40) to Intelligence",
+      "30% of Fire Damage Converted to Chaos Damage",
+      "Your Chaos Damage has 60% chance to Poison Enemies"
+    ]
+  },
+  {
+    "id": "The_Hidden_Blade",
+    "name": "The Hidden Blade",
+    "baseType": "Ambusher",
+    "type": "Dagger",
+    "levelReq": 60,
+    "league": "Heist",
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "Trigger Level 20 Unseen Strike every 0.5 seconds while Phasing",
+      "+(20-40) to Dexterity",
+      "(230-260)% increased Physical Damage",
+      "30% reduced Attack Speed while Phasing"
+    ]
+  },
+  {
+    "id": "Ungils_Gauche",
+    "name": "Ungil's Gauche",
+    "baseType": "Boot Knife",
+    "type": "Dagger",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "+12% Chance to Block Attack Damage while Dual Wielding",
+      "(80-100)% increased Physical Damage",
+      "+(10-20) to Dexterity",
+      "Adds 3 to 30 Lightning Damage",
+      "10% increased Attack Speed",
+      "50% increased Global Critical Strike Chance"
+    ]
+  },
+  {
+    "id": "Vulconus",
+    "name": "Vulconus",
+    "baseType": "Demon Dagger",
+    "type": "Dagger",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["40% increased Global Critical Strike Chance"],
+    "mods": [
+      "Adds (85-110) to (130-150) Physical Damage",
+      "Adds (130-160) to (220-240) Fire Damage",
+      "50% chance to cause Bleeding on Hit",
+      "(75-100)% increased Fire Damage with Hits and Ailments against Bleeding Enemies",
+      "(75-100)% increased Physical Damage with Hits and Ailments against Ignited Enemies",
+      "Every 8 seconds, gain Avatar of Fire for 4 seconds",
+      "(160-200)% increased Critical Strike Chance while you have Avatar of Fire",
+      "50% of Physical Damage Converted to Fire while you have Avatar of Fire",
+      "+2000 Armour while you do not have Avatar of Fire"
+    ]
+  },
+  {
+    "id": "White_Wind",
+    "name": "White Wind",
+    "baseType": "Imperial Skean",
+    "type": "Dagger",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "Adds (160-190) to (280-320) Cold Damage",
+      "(10-15)% increased Attack Speed",
+      "+(1000-1500) to Evasion Rating",
+      "(30-40)% chance to Suppress Spell Damage while your Off Hand is empty",
+      "(100-200)% increased Cold Damage while your Off Hand is empty"
+    ]
+  },
+  {
+    "id": "Widowmaker",
+    "name": "Widowmaker",
+    "baseType": "Boot Blade",
+    "type": "Dagger",
+    "levelReq": 44,
+    "league": null,
+    "implicit": ["30% increased Global Critical Strike Chance"],
+    "mods": [
+      "Adds (35-40) to (55-60) Physical Damage",
+      "(22-30)% increased Critical Strike Chance",
+      "+(30-40)% to Global Critical Strike Multiplier",
+      "100% increased Critical Strike Chance against Enemies on Full Life",
+      "1% of Attack Damage Leeched as Life on Critical Strike"
+    ]
+  }
+]

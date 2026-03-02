@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Ashbark_Tincture",
+    "name": "Ashbark Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "25% chance to Ignite with Melee Weapons\n(60-90)% increased Damage with Ignite from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.6, "cooldown": 7 }
+  },
+  {
+    "id": "Blood_Sap_Tincture",
+    "name": "Blood Sap Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "20% chance to cause Bleeding with Melee Weapons\n(60-90)% increased Damage with Bleeding from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.7, "cooldown": 6 }
+  },
+  {
+    "id": "Borealwood_Tincture",
+    "name": "Borealwood Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "25% chance to Freeze with Melee Weapons\n(25-35)% increased Effect of Chill from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.6, "cooldown": 7 }
+  },
+  {
+    "id": "Fulgurite_Tincture",
+    "name": "Fulgurite Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "25% chance to Shock with Melee Weapons\n(25-35)% increased Effect of Shock from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.6, "cooldown": 7 }
+  },
+  {
+    "id": "Ironwood_Tincture",
+    "name": "Ironwood Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "40% reduced Enemy Stun Threshold with Melee Weapons\n(15-25)% increased Stun Duration with Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.9, "cooldown": 10 }
+  },
+  {
+    "id": "Oakbranch_Tincture",
+    "name": "Oakbranch Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "Gain 3 Rage on Melee Weapon Hit",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.5, "cooldown": 8 }
+  },
+  {
+    "id": "Poisonberry_Tincture",
+    "name": "Poisonberry Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "20% chance to Poison with Melee Weapons\n(60-90)% increased Damage with Poison from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.7, "cooldown": 6 }
+  },
+  {
+    "id": "Prismatic_Tincture",
+    "name": "Prismatic Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "(70-100)% increased Elemental Damage with Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.7, "cooldown": 8 }
+  },
+  {
+    "id": "Rosethorn_Tincture",
+    "name": "Rosethorn Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "(100-150)% increased Critical Strike Chance with Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.7, "cooldown": 8 }
+  },
+  {
+    "id": "Sporebloom_Tincture",
+    "name": "Sporebloom Tincture",
+    "type": "Tincture",
+    "subType": null,
+    "implicit": "25% chance to Blind Enemies on Hit with Melee Weapons\n(25-35)% increased Effect of Blind from Melee Weapons",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "tincture": { "manaBurn": 0.9, "cooldown": 8 }
+  }
+]

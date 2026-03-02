@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "Amanamus_Gaze",
+    "name": "Amanamu's Gaze",
+    "baseType": "Ghastly Eye Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(5-10) to all Attributes",
+      "Minions have +6% to Damage over Time Multiplier per Ghastly Eye Jewel affecting you, up to a maximum of +30%"
+    ]
+  },
+  {
+    "id": "Anatomical_Knowledge",
+    "name": "Anatomical Knowledge",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(6-8)% increased maximum Life",
+      "Adds 1 to Maximum Life per 3 Intelligence Allocated in Radius"
+    ]
+  },
+  {
+    "id": "Ancestral_Vision",
+    "name": "Ancestral Vision",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(5-10) to Dexterity",
+      "Modifiers to Chance to Suppress Spell Damage also apply to Chance to Avoid Elemental Ailments at 50% of their Value"
+    ]
+  },
+  {
+    "id": "Ancient_Waystones",
+    "name": "Ancient Waystones",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "60% reduced Cost of Aura Skills that summon Totems"
+    ]
+  },
+  {
+    "id": "Apex_Mode",
+    "name": "Apex Mode",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": 20,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(20-25)% increased Spell Damage",
+      "Spells have 10% reduced Critical Strike Chance per Intensity",
+      "Spells which have gained Intensity Recently gain 1 Intensity every 0.5 Seconds"
+    ]
+  },
+  {
+    "id": "Apparitions",
+    "name": "Apparitions",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions have (5-10)% increased Movement Speed",
+      "Minions have +(2-5)% chance to Suppress Spell Damage"
+    ]
+  },
+  {
+    "id": "Assassins_Haste",
+    "name": "Assassin's Haste",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% increased Mana Regeneration Rate",
+      "4% increased Movement Speed",
+      "4% increased Attack and Cast Speed"
+    ]
+  },
+  {
+    "id": "Atziris_Reign",
+    "name": "Atziri's Reign",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-20)% increased Vaal Skill Effect Duration",
+      "Vaal Skills have (15-20)% chance to regain consumed Souls when used"
+    ]
+  },
+  {
+    "id": "Blood_Sacrifice",
+    "name": "Blood Sacrifice",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Lose 1% of Life on Kill",
+      "Recover 1% of Mana on Kill",
+      "Lose 1% of Energy Shield on Kill"
+    ]
+  },
+  {
+    "id": "Bloodnotch",
+    "name": "Bloodnotch",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(40-60)% of Damage Taken from Stunning Hits is Recovered as Life"
+    ]
+  },
+  {
+    "id": "Brawn",
+    "name": "Brawn",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(4-6)% increased Dexterity",
+      "(4-6)% increased Strength",
+      "(10-15)% reduced Intelligence"
+    ]
+  },
+  {
+    "id": "Brittle_Barrier",
+    "name": "Brittle Barrier",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "20% faster start of Energy Shield Recharge",
+      "10% increased Damage taken while on Full Energy Shield"
+    ]
+  },
+  {
+    "id": "Brutal_Restraint",
+    "name": "Brutal Restraint",
+    "baseType": "Timeless Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "Denoted service of (500-8000) dekhara in the akhara of Balbala",
+      "Passives in radius are Conquered by the Maraketh",
+      "Historic"
+    ]
+  },
+  {
+    "id": "Brute_Force_Solution",
+    "name": "Brute Force Solution",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Intelligence",
+      "Strength from Passives in Radius is Transformed to Intelligence",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Calamitous_Visions",
+    "name": "Calamitous Visions",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Lone Messenger"
+    ]
+  },
+  {
+    "id": "Careful_Planning",
+    "name": "Careful Planning",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Dexterity",
+      "Intelligence from Passives in Radius is Transformed to Dexterity",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Cheap_Construction",
+    "name": "Cheap Construction",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% reduced Trap Duration",
+      "Can have up to 1 additional Trap placed at a time"
+    ]
+  },
+  {
+    "id": "Chill_of_Corruption",
+    "name": "Chill of Corruption",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "50% chance to gain an additional Vaal Soul per Enemy Shattered"
+    ]
+  },
+  {
+    "id": "Clear_Mind",
+    "name": "Clear Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-30)% increased Mana Regeneration Rate",
+      "(40-60)% increased Spell Damage while no Mana is Reserved"
+    ]
+  },
+  {
+    "id": "Coated_Shrapnel",
+    "name": "Coated Shrapnel",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Traps and Mines have a 25% chance to Poison on Hit",
+      "Passive Skills in Radius also grant: Traps and Mines deal (2-3) to (4-6) added Physical Damage"
+    ]
+  },
+  {
+    "id": "Cold_Steel",
+    "name": "Cold Steel",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage",
+      "Increases and Reductions to Cold Damage in Radius are Transformed to apply to Physical Damage"
+    ]
+  },
+  {
+    "id": "Collateral_Damage",
+    "name": "Collateral Damage",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Global Physical Damage",
+      "cone has a 50% chance to deal Double Damage",
+      "With at least 40 Dexterity in Radius, Galvanic Arrow deals",
+      "50% increased Area Damage",
+      "With at least 40 Dexterity in Radius, Galvanic Arrow has",
+      "25% increased Area of Effect"
+    ]
+  },
+  {
+    "id": "Combat_Focus",
+    "name": "Combat Focus",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Elemental Damage",
+      "With 40 total Strength and Intelligence in Radius, Prismatic Skills cannot choose Cold",
+      "With 40 total Strength and Intelligence in Radius, Prismatic Skills deal 50% less Cold Damage"
+    ]
+  },
+  {
+    "id": "Combat_Focus",
+    "name": "Combat Focus",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Elemental Damage",
+      "With 40 total Intelligence and Dexterity in Radius, Prismatic Skills cannot choose Fire",
+      "With 40 total Intelligence and Dexterity in Radius, Prismatic Skills deal 50% less Fire Damage"
+    ]
+  },
+  {
+    "id": "Combat_Focus",
+    "name": "Combat Focus",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Elemental Damage",
+      "With 40 total Dexterity and Strength in Radius, Prismatic Skills Strike cannot choose Lightning",
+      "With 40 total Dexterity and Strength in Radius, Prismatic Skills deal 50% less Lightning Damage"
+    ]
+  },
+  {
+    "id": "Combustibles",
+    "name": "Combustibles",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% reduced Quantity of Items found",
+      "(20-30)% increased Burning Damage"
+    ]
+  },
+  {
+    "id": "Conquerors_Efficiency",
+    "name": "Conqueror's Efficiency",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "3% reduced Mana Cost of Skills",
+      "4% increased Skill Effect Duration",
+      "4% increased Mana Reservation Efficiency of Skills"
+    ]
+  },
+  {
+    "id": "Conquerors_Longevity",
+    "name": "Conqueror's Longevity",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% chance to Avoid Elemental Ailments",
+      "10% increased Life Recovery from Flasks",
+      "5% chance to Suppress Spell Damage"
+    ]
+  },
+  {
+    "id": "Conquerors_Potency",
+    "name": "Conqueror's Potency",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "4% increased Effect of your Curses",
+      "8% increased effect of Flasks",
+      "3% increased effect of Non-Curse Auras you Cast"
+    ]
+  },
+  {
+    "id": "Corrupted_Energy",
+    "name": "Corrupted Energy",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield and 50% of Physical Damage bypasses Energy Shield"
+    ]
+  },
+  {
+    "id": "Dead_Reckoning",
+    "name": "Dead Reckoning",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Skeletons gain Added Chaos Damage equal to (20-30)% of Maximum Energy Shield on your Equipped Shield"
+    ]
+  },
+  {
+    "id": "Dissolution_of_the_Flesh",
+    "name": "Dissolution of the Flesh",
+    "baseType": "Prismatic Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Removes all Energy Shield",
+      "Life that would be lost by taking Damage is instead Reserved",
+      "until you take no Damage to Life for 2 seconds",
+      "(20-30)% more Maximum Life"
+    ]
+  },
+  {
+    "id": "Divine_Inferno",
+    "name": "Divine Inferno",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "With at least 40 Strength in Radius, Combust is Disabled",
+      "With at least 40 Strength in Radius, Attacks Exerted by Infernal Cry deal (40-60)% more Damage with Ignite"
+    ]
+  },
+  {
+    "id": "Efficient_Training",
+    "name": "Efficient Training",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Strength",
+      "Intelligence from Passives in Radius is Transformed to Strength",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Eldritch_Knowledge",
+    "name": "Eldritch Knowledge",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Elegant_Hubris",
+    "name": "Elegant Hubris",
+    "baseType": "Timeless Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "Commissioned (2000-160000) coins to commemorate Caspiro",
+      "Passives in radius are Conquered by the Eternal Empire",
+      "Historic"
+    ]
+  },
+  {
+    "id": "Emperors_Cunning",
+    "name": "Emperor's Cunning",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "20% increased Global Accuracy Rating",
+      "3% increased Character Size",
+      "(4-6)% increased Dexterity"
+    ]
+  },
+  {
+    "id": "Emperors_Mastery",
+    "name": "Emperor's Mastery",
+    "baseType": "Prismatic Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "4% increased maximum Life",
+      "3% increased Character Size",
+      "5% increased Global Defences",
+      "(5-7)% increased Attributes"
+    ]
+  },
+  {
+    "id": "Emperors_Might",
+    "name": "Emperor's Might",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% increased Damage",
+      "3% increased Character Size",
+      "(4-6)% increased Strength"
+    ]
+  },
+  {
+    "id": "Emperors_Wit",
+    "name": "Emperor's Wit",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "30% increased Global Critical Strike Chance",
+      "3% increased Character Size",
+      "(4-6)% increased Intelligence"
+    ]
+  },
+  {
+    "id": "Endless_Misery",
+    "name": "Endless Misery",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased Elemental Damage",
+      "With at least 40 Intelligence in Radius, Discharge has 60% less Area of Effect",
+      "With at least 40 Intelligence in Radius, Discharge Cooldown is 250 ms",
+      "With at least 40 Intelligence in Radius, Discharge deals 60% less Damage"
+    ]
+  },
+  {
+    "id": "Energised_Armour",
+    "name": "Energised Armour",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-20)% increased Armour",
+      "Increases and Reductions to Energy Shield in Radius are Transformed to apply to Armour at 200% of their value",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Energy_From_Within",
+    "name": "Energy From Within",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(3-6)% increased maximum Energy Shield",
+      "Increases and Reductions to Life in Radius are Transformed to apply to Energy Shield",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Fertile_Mind",
+    "name": "Fertile Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Intelligence",
+      "Dexterity from Passives in Radius is Transformed to Intelligence",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Fevered_Mind",
+    "name": "Fevered Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(5-10) to Intelligence",
+      "Notable Passive Skills in Radius are Transformed to instead grant: 10% increased Mana Cost of Skills and 20% increased Spell Damage"
+    ]
+  },
+  {
+    "id": "Fight_for_Survival",
+    "name": "Fight for Survival",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With at least 40 Dexterity in Radius, Melee Damage",
+      "dealt by Frost Blades Penetrates 15% Cold Resistance",
+      "With at least 40 Dexterity in Radius, Frost Blades has 25% increased Projectile Speed"
+    ]
+  },
+  {
+    "id": "Fireborn",
+    "name": "Fireborn",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage"
+    ]
+  },
+  {
+    "id": "Firesong",
+    "name": "Firesong",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-15)% to Fire Resistance",
+      "Modifiers to Ignite Duration on you apply to all Elemental Ailments"
+    ]
+  },
+  {
+    "id": "First_Snow",
+    "name": "First Snow",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased Projectile Damage",
+      "With at least 40 Intelligence in Radius, Freezing Pulse fires 2 additional Projectiles",
+      "With at least 40 Intelligence in Radius, 25% increased Freezing Pulse Damage if",
+      "you've Shattered an Enemy Recently"
+    ]
+  },
+  {
+    "id": "Fluid_Motion",
+    "name": "Fluid Motion",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Dexterity",
+      "Strength from Passives in Radius is Transformed to Dexterity",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Fortified_Legion",
+    "name": "Fortified Legion",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions have (5-15)% increased maximum Life",
+      "Minions Recover 2% of their Maximum Life when they Block"
+    ]
+  },
+  {
+    "id": "Fortress_Covenant",
+    "name": "Fortress Covenant",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions deal (35-45)% increased Damage",
+      "Minions have +(10-12)% Chance to Block Attack Damage",
+      "Minions have +(10-12)% Chance to Block Spell Damage",
+      "Notable Passive Skills in Radius are Transformed to instead grant: Minions take 20% increased Damage",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Fragile_Bloom",
+    "name": "Fragile Bloom",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Maximum 10 Fragile Regrowth",
+      "0.7% of Life Regenerated per second per Fragile Regrowth",
+      "Lose all Fragile Regrowth when Hit",
+      "Gain 1 Fragile Regrowth each second"
+    ]
+  },
+  {
+    "id": "Fragility",
+    "name": "Fragility",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "-1 to Maximum Endurance Charges"
+    ]
+  },
+  {
+    "id": "From_Dust",
+    "name": "From Dust",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Summon 4 additional Skeleton Warriors with Summon Skeleton",
+      "+1 second to Summon Skeleton Cooldown"
+    ]
+  },
+  {
+    "id": "Frozen_Trail",
+    "name": "Frozen Trail",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased Projectile Damage",
+      "With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles",
+      "With at least 40 Intelligence in Radius, Frostbolt Projectiles gain 40% increased Projectile",
+      "Speed per second"
+    ]
+  },
+  {
+    "id": "Glorious_Vanity",
+    "name": "Glorious Vanity",
+    "baseType": "Timeless Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "Bathed in the blood of (100-8000) sacrificed in the name of Ahuana",
+      "Passives in radius are Conquered by the Vaal",
+      "Historic"
+    ]
+  },
+  {
+    "id": "Grand_Spectrum",
+    "name": "Grand Spectrum",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Minimum Power Charges per Grand Spectrum"
+    ]
+  },
+  {
+    "id": "Grand_Spectrum",
+    "name": "Grand Spectrum",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Minimum Endurance Charges per Grand Spectrum"
+    ]
+  },
+  {
+    "id": "Grand_Spectrum",
+    "name": "Grand Spectrum",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Minimum Frenzy Charges per Grand Spectrum"
+    ]
+  },
+  {
+    "id": "Growing_Agony",
+    "name": "Growing Agony",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% increased Damage over Time",
+      "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Damage with Hits and Poison for each Poison on the Enemy",
+      "With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit"
+    ]
+  },
+  {
+    "id": "Hair_Trigger",
+    "name": "Hair Trigger",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-25)% increased Trap Damage",
+      "(40-60)% increased Trap Trigger Area of Effect"
+    ]
+  },
+  {
+    "id": "Hazardous_Research",
+    "name": "Hazardous Research",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Lightning Damage",
+      "With at least 40 Intelligence in Radius, Spark fires Projectiles in a Nova"
+    ]
+  },
+  {
+    "id": "Healthy_Mind",
+    "name": "Healthy Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-20)% increased maximum Mana",
+      "Increases and Reductions to Life in Radius are Transformed to apply to Mana at 200% of their value",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Hidden_Potential",
+    "name": "Hidden Potential",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-25)% increased Damage for each Magic Item Equipped",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Hotheaded",
+    "name": "Hotheaded",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-20)% increased Movement Speed while Ignited",
+      "(10-20)% increased Attack Speed while Ignited",
+      "(10-20)% increased Cast Speed while Ignited"
+    ]
+  },
+  {
+    "id": "Hungry_Abyss",
+    "name": "Hungry Abyss",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead"
+    ]
+  },
+  {
+    "id": "Immutable_Force",
+    "name": "Immutable Force",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(500-1000)% increased Stun and Block Recovery"
+    ]
+  },
+  {
+    "id": "Inertia",
+    "name": "Inertia",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(16-24) to Strength",
+      "Dexterity from Passives in Radius is Transformed to Strength",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Inevitability",
+    "name": "Inevitability",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "With at least 40 Intelligence in Radius, Rolling Magma deals 50% less Damage",
+      "With at least 40 Intelligence in Radius, Rolling Magma deals 40% more Damage per Chain",
+      "With at least 40 Intelligence in Radius, Rolling Magma",
+      "has 10% increased Area of Effect per Chain"
+    ]
+  },
+  {
+    "id": "Inspired_Learning",
+    "name": "Inspired Learning",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "With 4 Notables Allocated in Radius, When you Kill a Rare monster, you gain 1 of its Modifiers for 20 seconds"
+    ]
+  },
+  {
+    "id": "Intuitive_Leap",
+    "name": "Intuitive Leap",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Passive Skills in Radius can be Allocated without being connected to your tree"
+    ]
+  },
+  {
+    "id": "Izaros_Turmoil",
+    "name": "Izaro's Turmoil",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(18-25)% increased Fire Damage",
+      "(18-25)% increased Cold Damage",
+      "2% chance to Freeze",
+      "2% chance to Ignite"
+    ]
+  },
+  {
+    "id": "Kitavas_Teachings",
+    "name": "Kitava's Teachings",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Disciple of Kitava"
+    ]
+  },
+  {
+    "id": "Kurgals_Gaze",
+    "name": "Kurgal's Gaze",
+    "baseType": "Hypnotic Eye Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-20) to Intelligence",
+      "8% increased Effect of Arcane Surge on you per Hypnotic Eye Jewel affecting you, up to a maximum of 40%"
+    ]
+  },
+  {
+    "id": "Lethal_Pride",
+    "name": "Lethal Pride",
+    "baseType": "Timeless Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "Commanded leadership over (10000-18000) warriors under Akoya",
+      "Passives in radius are Conquered by the Karui",
+      "Historic"
+    ]
+  },
+  {
+    "id": "Lioneyes_Fall",
+    "name": "Lioneye's Fall",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers"
+    ]
+  },
+  {
+    "id": "Lord_of_Steel",
+    "name": "Lord of Steel",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "5% increased Impale Effect",
+      "Call of Steel deals Reflected Damage with (40-50)% increased Area of Effect",
+      "Call of Steel has (80-100)% increased Use Speed"
+    ]
+  },
+  {
+    "id": "Malicious_Intent",
+    "name": "Malicious Intent",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "5% chance to Gain Unholy Might for 4 seconds on Melee Kill"
+    ]
+  },
+  {
+    "id": "Mantra_of_Flames",
+    "name": "Mantra of Flames",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
+      "Adds (2-3) to (5-8) Fire Spell Damage per Buff on You"
+    ]
+  },
+  {
+    "id": "Martial_Artistry",
+    "name": "Martial Artistry",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(0.3-0.4) metres to Melee Strike Range while Unarmed",
+      "Passive Skills in Radius also grant: 1% increased Unarmed Attack Speed with Melee Skills"
+    ]
+  },
+  {
+    "id": "Melding_of_the_Flesh",
+    "name": "Melding of the Flesh",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "-(80-70)% to All Elemental Resistances",
+      "-(4-6)% to all maximum Elemental Resistances",
+      "Elemental Resistances are capped by your highest Maximum Elemental Resistance instead"
+    ]
+  },
+  {
+    "id": "Might_and_Influence",
+    "name": "Might and Influence",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "to deal Double Damage with the Main-Hand Weapon",
+      "(10-15)% increased Attack Damage",
+      "Speed while wielding a Claw",
+      "Multiplier while wielding a Dagger",
+      "With at least 40 Dexterity in Radius, Dual Strike has (20-30)% increased",
+      "Accuracy Rating while wielding a Sword"
+    ]
+  },
+  {
+    "id": "Might_in_All_Forms",
+    "name": "Might in All Forms",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus"
+    ]
+  },
+  {
+    "id": "Might_of_the_Meek",
+    "name": "Might of the Meek",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "50% increased Effect of non-Keystone Passive Skills in Radius",
+      "Notable Passive Skills in Radius grant nothing"
+    ]
+  },
+  {
+    "id": "Militant_Faith",
+    "name": "Militant Faith",
+    "baseType": "Timeless Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "3% increased Defences from Equipped Shield per 10 Devotion",
+      "Passives in radius are Conquered by the Templars",
+      "Historic"
+    ]
+  },
+  {
+    "id": "Mutated_Growth",
+    "name": "Mutated Growth",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% increased Experience Gain of Corrupted Gems"
+    ]
+  },
+  {
+    "id": "Nadir_Mode",
+    "name": "Nadir Mode",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Item Level: 82",
+      "(20-25)% increased Spell Damage",
+      "Spells have (30-50)% increased Critical Strike Chance per Intensity",
+      "Spells which have gained Intensity Recently lose 1 Intensity every 0.50 Seconds"
+    ]
+  },
+  {
+    "id": "Natural_Affinity",
+    "name": "Natural Affinity",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Nature's Patience"
+    ]
+  },
+  {
+    "id": "Omen_on_the_Winds",
+    "name": "Omen on the Winds",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-20)% increased Damage with Hits against Chilled Enemies",
+      "With at least 40 Dexterity in Radius, Ice Shot has 25% increased Area of Effect",
+      "With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets"
+    ]
+  },
+  {
+    "id": "One_With_Nothing",
+    "name": "One With Nothing",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Hollow Palm Technique"
+    ]
+  },
+  {
+    "id": "Overwhelming_Odds",
+    "name": "Overwhelming Odds",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Global Physical Damage",
+      "With at least 40 Strength in Radius, Cleave grants Fortify on Hit",
+      "With at least 40 Strength in Radius, Cleave has +1 to Radius per Nearby Enemy, up to +10"
+    ]
+  },
+  {
+    "id": "Pacifism",
+    "name": "Pacifism",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "-1 to Maximum Frenzy Charges"
+    ]
+  },
+  {
+    "id": "Pitch_Darkness",
+    "name": "Pitch Darkness",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "+10% to Fire Damage over Time Multiplier",
+      "With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy."
+    ]
+  },
+  {
+    "id": "Poachers_Aim",
+    "name": "Poacher's Aim",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Projectiles Pierce an additional Target",
+      "10% increased Projectile Damage"
+    ]
+  },
+  {
+    "id": "Powerlessness",
+    "name": "Powerlessness",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "-1 to Maximum Power Charges"
+    ]
+  },
+  {
+    "id": "Primordial_Eminence",
+    "name": "Primordial Eminence",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Golems have (16-20)% increased Attack and Cast Speed",
+      "30% increased Effect of Buffs granted by your Golems",
+      "Golems have +(800-1000) to Armour",
+      "Primordial"
+    ]
+  },
+  {
+    "id": "Primordial_Harmony",
+    "name": "Primordial Harmony",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Golem Skills have (20-30)% increased Cooldown Recovery Rate",
+      "Summoned Golems have (30-45)% increased Cooldown Recovery Rate",
+      "(16-20)% increased Golem Damage for each Type of Golem you have Summoned",
+      "Summoned Golems Regenerate 2% of their Life per second",
+      "Primordial"
+    ]
+  },
+  {
+    "id": "Primordial_Might",
+    "name": "Primordial Might",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
+      "Golems Summoned in the past 8 seconds deal (35-45)% increased Damage",
+      "Golems have (18-22)% increased Maximum Life",
+      "Summoned Golems are Aggressive",
+      "Primordial"
+    ]
+  },
+  {
+    "id": "Pugilist",
+    "name": "Pugilist",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "1% increased Evasion Rating per 3 Dexterity Allocated in Radius",
+      "1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius",
+      "1% increased Melee Physical Damage while Unarmed per 3 Dexterity Allocated in Radius"
+    ]
+  },
+  {
+    "id": "Pure_Talent",
+    "name": "Pure Talent",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "While your Passive Skill Tree connects to a class' starting location, you gain:",
+      "Marauder: Melee Skills have 25% increased Area of Effect",
+      "Duelist: 1% of Attack Damage Leeched as Life",
+      "Ranger: 7% increased Movement Speed",
+      "Shadow: +0.5% to Critical Strike Chance",
+      "Witch: 0.5% of Mana Regenerated per second",
+      "Templar: Damage Penetrates 5% Elemental Resistances",
+      "Scion: +25 to All Attributes"
+    ]
+  },
+  {
+    "id": "Quickening_Covenant",
+    "name": "Quickening Covenant",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions have (12-16)% increased Attack Speed",
+      "Minions have (12-16)% increased Cast Speed",
+      "Minions have (20-24)% chance to Suppress Spell Damage",
+      "Notable Passive Skills in Radius are Transformed to instead grant: Minions have 25% reduced Movement Speed",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Rain_of_Splinters",
+    "name": "Rain of Splinters",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(30-50)% reduced Totem Damage",
+      "Totems fire 2 additional Projectiles",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Rapid_Expansion",
+    "name": "Rapid Expansion",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% increased Global Physical Damage",
+      "With at least 40 Strength in Radius, Ground Slam has a 50% increased angle",
+      "With at least 40 Strength in Radius, Ground Slam has a 35% chance to grant an Endurance Charge when you Stun an Enemy"
+    ]
+  },
+  {
+    "id": "Rational_Doctrine",
+    "name": "Rational Doctrine",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "You have Consecrated Ground around you while",
+      "stationary if Strength is your highest Attribute",
+      "25% chance to create Profane Ground on Critical",
+      "Strike if Intelligence is your highest Attribute",
+      "Effects of Consecrated Ground you create Linger for 4 seconds",
+      "Effects of Profane Ground you create Linger for 4 seconds"
+    ]
+  },
+  {
+    "id": "Reckless_Defence",
+    "name": "Reckless Defence",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(2-6)% Chance to Block Spell Damage",
+      "(2-6)% Chance to Block Attack Damage",
+      "Hits have (140-200)% increased Critical Strike Chance against you"
+    ]
+  },
+  {
+    "id": "Replica_Blood_Sacrifice",
+    "name": "Replica Blood Sacrifice",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Recover 1% of Life on Kill",
+      "Recover 1% of Energy Shield on Kill",
+      "Cannot Leech or Regenerate Mana"
+    ]
+  },
+  {
+    "id": "Replica_Cheap_Construction",
+    "name": "Replica Cheap Construction",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(100-120)% increased Critical Strike Chance with Traps",
+      "Can have 5 fewer Traps placed at a time"
+    ]
+  },
+  {
+    "id": "Replica_Conquerors_Efficiency",
+    "name": "Replica Conqueror's Efficiency",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "4% increased Skill Effect Duration",
+      "+5 to Maximum Rage",
+      "Non-Channelling Skills have -9 to Total Mana Cost"
+    ]
+  },
+  {
+    "id": "Replica_Fragile_Bloom",
+    "name": "Replica Fragile Bloom",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Maximum 5 Fragile Regrowth",
+      "0.7% of Life Regenerated per second per Fragile Regrowth",
+      "Gain up to maximum Fragile Regrowth when Hit",
+      "Lose 1 Fragile Regrowth each second"
+    ]
+  },
+  {
+    "id": "Replica_Fragility",
+    "name": "Replica Fragility",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Lose an Endurance Charge each second"
+    ]
+  },
+  {
+    "id": "Replica_Hotheaded",
+    "name": "Replica Hotheaded",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(10-20)% increased Attack Speed while Chilled",
+      "(10-20)% increased Cast Speed while Chilled",
+      "(10-20)% increased Movement Speed while Chilled"
+    ]
+  },
+  {
+    "id": "Replica_Pacifism",
+    "name": "Replica Pacifism",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Lose a Frenzy Charge each second"
+    ]
+  },
+  {
+    "id": "Replica_Powerlessness",
+    "name": "Replica Powerlessness",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Lose a Power Charge each second"
+    ]
+  },
+  {
+    "id": "Replica_Primordial_Might",
+    "name": "Replica Primordial Might",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "-1 to maximum number of Golems",
+      "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
+      "Golems Summoned in the past 8 seconds deal (100-125)% increased Damage",
+      "Golems have (18-22)% increased Maximum Life",
+      "Primordial",
+      "Summoned Golems are Aggressive"
+    ]
+  },
+  {
+    "id": "Replica_Pure_Talent",
+    "name": "Replica Pure Talent",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "While your Passive Skill Tree connects to a class' starting location, you gain:",
+      "Marauder: 1% of Life Regenerated per second",
+      "Duelist: +2 to Melee Strike Range",
+      "Ranger: 20% increased Flask Charges gained",
+      "Shadow: 12% increased Attack and Cast Speed",
+      "Witch: 20% increased Skill Effect Duration",
+      "Templar: +4% Chance to Block Attack and Spell Damage",
+      "Scion: 30% increased Damage"
+    ]
+  },
+  {
+    "id": "Replica_Reckless_Defence",
+    "name": "Replica Reckless Defence",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+(2-6)% Chance to Block Spell Damage",
+      "+(2-6)% Chance to Block Attack Damage",
+      "+10% chance to be Frozen, Shocked and Ignited"
+    ]
+  },
+  {
+    "id": "Replica_Unstable_Payload",
+    "name": "Replica Unstable Payload",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Recover (20-30) Life when your Trap is triggered by an Enemy"
+    ]
+  },
+  {
+    "id": "Ring_of_Blades",
+    "name": "Ring of Blades",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Global Physical Damage",
+      "With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a Nova"
+    ]
+  },
+  {
+    "id": "Rolling_Flames",
+    "name": "Rolling Flames",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "With at least 40 Intelligence in Radius, Fireball cannot ignite",
+      "With at least 40 Intelligence in Radius, Fireball has +(30-50)% chance to inflict scorch"
+    ]
+  },
+  {
+    "id": "Sacrificial_Harvest",
+    "name": "Sacrificial Harvest",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-30)% chance to gain an additional Vaal Soul on Kill"
+    ]
+  },
+  {
+    "id": "Seething_Fury",
+    "name": "Seething Fury",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Attack Damage while holding a Shield",
+      "+0.15% to Off Hand Critical Strike Chance per 10 Maximum Energy Shield on Shield",
+      "+4% to Off Hand Critical Strike Multiplier per 10 Maximum Energy Shield on Shield",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Self-Flagellation",
+    "name": "Self-Flagellation",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-20)% increased Damage per Curse on you",
+      "An additional Curse can be applied to you"
+    ]
+  },
+  {
+    "id": "Shattered_Chains",
+    "name": "Shattered Chains",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With at least 40 Strength in Radius, 20% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer"
+    ]
+  },
+  {
+    "id": "Souls_Wick",
+    "name": "Soul's Wick",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to maximum number of Spectres",
+      "(40-50)% reduced Mana Cost of Raise Spectre",
+      "Spectres have (800-1000)% increased Critical Strike Chance",
+      "Spectres have a Base Duration of 20 seconds",
+      "Spectres do not travel between Areas",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Spire_of_Stone",
+    "name": "Spire of Stone",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "3% increased Totem Life per 10 Strength Allocated in Radius",
+      "Totems cannot be Stunned"
+    ]
+  },
+  {
+    "id": "Spirit_Guards",
+    "name": "Spirit Guards",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions deal (8-12)% increased Damage",
+      "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 20 Ranged Weapons"
+    ]
+  },
+  {
+    "id": "Spirited_Response",
+    "name": "Spirited Response",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased maximum Mana",
+      "With at least 40 Intelligence in Radius, 10% of Damage taken Recouped as Mana if you've Warcried Recently"
+    ]
+  },
+  {
+    "id": "Split_Personality",
+    "name": "Split Personality",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "This Jewel's Socket has 25% increased effect per Allocated Passive Skill between",
+      "it and your Class' starting location",
+      "+40 to Accuracy Rating"
+    ]
+  },
+  {
+    "id": "Spreading_Rot",
+    "name": "Spreading Rot",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-13)% increased Chaos Damage",
+      "With at least 40 Intelligence in Radius, Blight has 30% reduced Cast Speed",
+      "With at least 40 Intelligence in Radius, Blight inflicts Withered for 2 seconds"
+    ]
+  },
+  {
+    "id": "Static_Electricity",
+    "name": "Static Electricity",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius",
+      "Adds 1 to 2 Lightning Damage to Attacks"
+    ]
+  },
+  {
+    "id": "Steel_Spirit",
+    "name": "Steel Spirit",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased Projectile Damage",
+      "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 5% increased Damage each time it Hits."
+    ]
+  },
+  {
+    "id": "Stormshroud",
+    "name": "Stormshroud",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-15)% to Lightning Resistance",
+      "Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments"
+    ]
+  },
+  {
+    "id": "Sudden_Ignition",
+    "name": "Sudden Ignition",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "Ignited Enemies Killed by your Hits are destroyed"
+    ]
+  },
+  {
+    "id": "Survival_Instincts",
+    "name": "Survival Instincts",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "20% reduced Flask Charges gained",
+      "50% increased Flask Effect Duration",
+      "Survival"
+    ]
+  },
+  {
+    "id": "Survival_Secrets",
+    "name": "Survival Secrets",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Flasks applied to you have 20% reduced Effect",
+      "Flasks gain 3 Charges every 3 seconds while they are inactive",
+      "Survival"
+    ]
+  },
+  {
+    "id": "Survival_Skills",
+    "name": "Survival Skills",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Flasks gain 2 Charges when you hit a Non-Unique Enemy, no more than once per second",
+      "80% less Flask Charges gained from Kills",
+      "Survival"
+    ]
+  },
+  {
+    "id": "Tecrods_Gaze",
+    "name": "Tecrod's Gaze",
+    "baseType": "Murderous Eye Jewel",
+    "type": "Jewel",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-20) to Strength",
+      "40% increased Main Hand Critical Strike Chance per Murderous Eye Jewel affecting you, up to a maximum of 200%",
+      "+20% to Off Hand Critical Strike Multiplier per Murderous Eye Jewel affecting you, up to a maximum of +100%"
+    ]
+  },
+  {
+    "id": "Tempered_Flesh",
+    "name": "Tempered Flesh",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Strength per 1 Strength on Allocated Passives in Radius",
+      "2% increased Life Recovery Rate per 10 Strength on Allocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Tempered_Mind",
+    "name": "Tempered Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
+      "2% increased Mana Recovery Rate per 10 Intelligence on Allocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Tempered_Spirit",
+    "name": "Tempered Spirit",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
+      "2% increased Movement Speed per 10 Dexterity on Allocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "The_Adorned",
+    "name": "The Adorned",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Affliction",
+    "implicit": [],
+    "mods": [
+      "(0–100)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels"
+    ]
+  },
+  {
+    "id": "The_Anima_Stone",
+    "name": "The Anima Stone",
+    "baseType": "Prismatic Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped"
+    ]
+  },
+  {
+    "id": "The_Blue_Dream",
+    "name": "The Blue Dream",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
+      "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Power Charge on Kill"
+    ]
+  },
+  {
+    "id": "The_Blue_Nightmare",
+    "name": "The Blue Nightmare",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Lightning Damage as Extra Chaos Damage",
+      "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Block Spell Damage at 50% of its value"
+    ]
+  },
+  {
+    "id": "The_Front_Line",
+    "name": "The Front Line",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Veteran's Awareness"
+    ]
+  },
+  {
+    "id": "The_Golden_Rule",
+    "name": "The Golden Rule",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(30-40)% increased Armour while Bleeding",
+      "Bleeding you inflict is Reflected to you",
+      "+1% to Chaos Resistance per Poison on you",
+      "Poison you inflict is Reflected to you",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "The_Green_Dream",
+    "name": "The Green Dream",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
+      "Passives granting Cold Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Frenzy Charge on Kill"
+    ]
+  },
+  {
+    "id": "The_Green_Nightmare",
+    "name": "The Green Nightmare",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
+      "Passives granting Cold Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Suppress Spell Damage at 70% of its value"
+    ]
+  },
+  {
+    "id": "The_Interrogation",
+    "name": "The Interrogation",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Secrets of Suffering"
+    ]
+  },
+  {
+    "id": "The_Light_of_Meaning",
+    "name": "The Light of Meaning",
+    "baseType": "Prismatic Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Selected Variant: 1",
+      "Passive Skills in Radius also grant +4% to Chaos Resistance"
+    ]
+  },
+  {
+    "id": "The_Long_Winter",
+    "name": "The Long Winter",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With 40 Intelligence in Radius, 20% of Glacial Cascade Physical Damage",
+      "Converted to Cold Damage",
+      "With 40 Intelligence in Radius, Glacial Cascade has an additional Burst"
+    ]
+  },
+  {
+    "id": "The_Perandus_Pact",
+    "name": "The Perandus Pact",
+    "baseType": "Prismatic Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Necropolis",
+    "implicit": [],
+    "mods": [
+      "Selected Variant: 1",
+      "Passive Skills in Radius also grant +4% to Chaos Resistance"
+    ]
+  },
+  {
+    "id": "The_Red_Dream",
+    "name": "The Red Dream",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
+      "Passives granting Fire Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain an Endurance Charge on Kill"
+    ]
+  },
+  {
+    "id": "The_Red_Nightmare",
+    "name": "The Red Nightmare",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Gain (6-10)% of Fire Damage as Extra Chaos Damage",
+      "Passives granting Fire Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Block Attack Damage at 50% of its value"
+    ]
+  },
+  {
+    "id": "The_Siege",
+    "name": "The Siege",
+    "baseType": "Small Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds Kineticism"
+    ]
+  },
+  {
+    "id": "The_Vigil",
+    "name": "The Vigil",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-15)% increased Armour",
+      "With at least 40 Strength in Radius, Hits with Vigilant Strike Fortify you and Nearby Allies for 8 seconds"
+    ]
+  },
+  {
+    "id": "Thread_of_Hope",
+    "name": "Thread of Hope",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Only affects Passives in Massive Ring",
+      "Passive Skills in Radius can be Allocated without being connected to your tree",
+      "-(20-10)% to all Elemental Resistances"
+    ]
+  },
+  {
+    "id": "To_Dust",
+    "name": "To Dust",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-20)% reduced Skeleton Duration",
+      "Minions deal (8-12)% increased Damage",
+      "(7-10)% increased Skeleton Attack Speed",
+      "(7-10)% increased Skeleton Cast speed",
+      "(3-5)% increased Skeleton Movement Speed",
+      "Corrupted"
+    ]
+  },
+  {
+    "id": "Transcendent_Flesh",
+    "name": "Transcendent Flesh",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Strength per 1 Strength on Allocated Passives in Radius",
+      "3% increased Life Recovery Rate per 10 Strength on Allocated Passives in Radius",
+      "2% reduced Life Recovery Rate per 10 Strength on Unallocated Passives in Radius",
+      "+7% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Transcendent_Mind",
+    "name": "Transcendent Mind",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Intelligence per 1 Intelligence on Allocated Passives in Radius",
+      "+3% to Damage over Time Multiplier per 10 Intelligence on Unallocated Passives in Radius",
+      "3% increased Mana Recovery Rate per 10 Intelligence on Allocated Passives in Radius",
+      "2% reduced Mana Recovery Rate per 10 Intelligence on Unallocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Transcendent_Spirit",
+    "name": "Transcendent Spirit",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
+      "3% increased Movement Speed per 10 Dexterity on Allocated Passives in Radius",
+      "2% reduced Movement Speed per 10 Dexterity on Unallocated Passives in Radius",
+      "+125 to Accuracy Rating per 10 Dexterity on Unallocated Passives in Radius"
+    ]
+  },
+  {
+    "id": "Ulamans_Gaze",
+    "name": "Ulaman's Gaze",
+    "baseType": "Searching Eye Jewel",
+    "type": "Jewel",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-20) to Dexterity",
+      "Projectiles have 4% chance to be able to Chain when colliding with terrain per Searching Eye Jewel affecting you, up to a maximum of 20%"
+    ]
+  },
+  {
+    "id": "Unending_Hunger",
+    "name": "Unending Hunger",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions have (6-8)% increased Area of Effect of Area Skills",
+      "With at least 40 Intelligence in Radius, Raised Spectres have a 50% chance to gain Soul Eater for 20 seconds on Kill"
+    ]
+  },
+  {
+    "id": "Unnatural_Instinct",
+    "name": "Unnatural Instinct",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Allocated Small Passive Skills in Radius grant nothing",
+      "Grants all bonuses of Unallocated Small Passive Skills in Radius"
+    ]
+  },
+  {
+    "id": "Unstable_Payload",
+    "name": "Unstable Payload",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% Chance for Traps to Trigger an additional time"
+    ]
+  },
+  {
+    "id": "Vaal_Sentencing",
+    "name": "Vaal Sentencing",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(80-120)% increased Vaal Skill Critical Strike Chance"
+    ]
+  },
+  {
+    "id": "Violent_Dead",
+    "name": "Violent Dead",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Minions deal (10-15)% increased Damage",
+      "With at least 40 Intelligence in Radius, Raised",
+      "Zombies' Slam Attack has 100% increased Cooldown Recovery Speed",
+      "With at least 40 Intelligence in Radius, Raised Zombies' Slam",
+      "Attack deals 30% increased Damage"
+    ]
+  },
+  {
+    "id": "Voices",
+    "name": "Voices",
+    "baseType": "Large Cluster Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "Adds 3 Jewel Socket Passive Skills",
+      "Adds 7 Small Passive Skills which grant nothing"
+    ]
+  },
+  {
+    "id": "Volley_Fire",
+    "name": "Volley Fire",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% increased Projectile Damage",
+      "With at least 40 Dexterity in Radius, Barrage fires an additional 6 projectiles simultaneously on the first and final attacks"
+    ]
+  },
+  {
+    "id": "Warlords_Reach",
+    "name": "Warlord's Reach",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% increased Attack Damage",
+      "+0.2 metres to Melee Strike Range"
+    ]
+  },
+  {
+    "id": "Warriors_Tale",
+    "name": "Warrior's Tale",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": "Ancestor",
+    "implicit": [],
+    "mods": [
+      "100% increased effect of Tattoos in Radius"
+    ]
+  },
+  {
+    "id": "Weight_of_Sin",
+    "name": "Weight of Sin",
+    "baseType": "Viridian Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-20)% increased Chaos Damage",
+      "15% reduced Movement Speed"
+    ]
+  },
+  {
+    "id": "Weight_of_the_Empire",
+    "name": "Weight of the Empire",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% increased Global Physical Damage",
+      "With at least 40 Strength in Radius, Heavy Strike has a 20% chance to deal Double Damage"
+    ]
+  },
+  {
+    "id": "Wildfire",
+    "name": "Wildfire",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "With at least 40 Strength in Radius, Molten Strike Projectiles Chain on impacting ground",
+      "With at least 40 Strength in Radius, Molten Strike Projectiles Chain +1 time",
+      "With at least 40 Strength in Radius, Molten Strike fires 50% less Projectiles"
+    ]
+  },
+  {
+    "id": "Winter_Burial",
+    "name": "Winter Burial",
+    "baseType": "Crimson Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With at least 40 Strength in Radius, Glacial Hammer deals",
+      "Cold-only Splash Damage to surrounding targets",
+      "With at least 40 Strength in Radius, 25% of Glacial",
+      "Hammer Physical Damage converted to Cold Damage"
+    ]
+  },
+  {
+    "id": "Winters_Bounty",
+    "name": "Winter's Bounty",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of Frenzy Charges when Enemies die in it's Area",
+      "With at least 40 Intelligence in Radius, Cold Snap Cooldown can be bypassed by Power Charges instead of Frenzy Charges"
+    ]
+  },
+  {
+    "id": "Witchbane",
+    "name": "Witchbane",
+    "baseType": "Cobalt Jewel",
+    "type": "Jewel",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(5-15) to Intelligence",
+      "When you Kill an Enemy Cursed with a Non-Aura Hex, become Immune to",
+      "Curses for remaining Hex Duration"
+    ]
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "Arborix",
+    "name": "Arborix",
+    "baseType": "Assassin Bow",
+    "type": "Bow",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (80-100) to (200-225) Physical Damage",
+      "Grants Level 30 Dash Skill",
+      "Bow Attacks fire 2 additional Arrows if you haven't Cast Dash recently",
+      "(20-30)% increased Attack Speed if you haven't Cast Dash recently",
+      "(100-160)% increased Evasion Rating if you've Cast Dash recently",
+      "(20-30)% increased Movement Speed if you've Cast Dash recently",
+      "Travel Skills other than Dash are Disabled",
+      "Iron Reflexes"
+    ]
+  },
+  {
+    "id": "Chin_Sol",
+    "name": "Chin Sol",
+    "baseType": "Assassin Bow",
+    "type": "Bow",
+    "levelReq": 62,
+    "league": null,
+    "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
+    "mods": [
+      "+(10-20) to Dexterity",
+      "(100-140)% increased Physical Damage",
+      "Adds 25 to 50 Fire Damage",
+      "(10-14)% increased Attack Speed",
+      "50% More Damage with Arrow Hits at Close Range",
+      "Bow Knockback at Close Range"
+    ]
+  },
+  {
+    "id": "Darkscorn",
+    "name": "Darkscorn",
+    "baseType": "Assassin Bow",
+    "type": "Bow",
+    "levelReq": 62,
+    "league": "Legion",
+    "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
+    "mods": [
+      "(60-80)% increased Physical Damage",
+      "Adds (15-20) to (25-30) Physical Damage",
+      "20% increased Attack Speed",
+      "25% of Physical Damage Converted to Chaos Damage",
+      "(15-30)% increased Accuracy Rating",
+      "25% of Physical Damage from Hits taken as Chaos Damage",
+      "20% chance for Poisons inflicted with this Weapon to deal 300% more Damage"
+    ]
+  },
+  {
+    "id": "Deaths_Harp",
+    "name": "Death's Harp",
+    "baseType": "Death Bow",
+    "type": "Bow",
+    "levelReq": 32,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "(90-105)% increased Physical Damage",
+      "10% increased Attack Speed",
+      "+50% to Global Critical Strike Multiplier",
+      "Bow Attacks fire 2 additional Arrows"
+    ]
+  },
+  {
+    "id": "Deaths_Opus",
+    "name": "Death's Opus",
+    "baseType": "Death Bow",
+    "type": "Bow",
+    "levelReq": 44,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "(90-105)% increased Physical Damage",
+      "Adds (10-20) to (30-35) Physical Damage",
+      "10% increased Attack Speed",
+      "+50% to Global Critical Strike Multiplier",
+      "Bow Attacks fire 2 additional Arrows"
+    ]
+  },
+  {
+    "id": "Doomfletch",
+    "name": "Doomfletch",
+    "baseType": "Royal Bow",
+    "type": "Bow",
+    "levelReq": 28,
+    "league": null,
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "Adds (12-16) to (20-24) Physical Damage",
+      "(10-14)% increased Attack Speed",
+      "60% increased Mana Regeneration Rate",
+      "Gain 100% of Weapon Physical Damage as Extra Damage of each Element"
+    ]
+  },
+  {
+    "id": "Doomfletchs_Prism",
+    "name": "Doomfletch's Prism",
+    "baseType": "Royal Bow",
+    "type": "Bow",
+    "levelReq": 40,
+    "league": null,
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "Adds (12-16) to (20-24) Physical Damage",
+      "(10-14)% increased Attack Speed",
+      "60% increased Mana Regeneration Rate",
+      "Gain 100% of Weapon Physical Damage as Extra Damage of each Element"
+    ]
+  },
+  {
+    "id": "Hopeshredder",
+    "name": "Hopeshredder",
+    "baseType": "Ranger Bow",
+    "type": "Bow",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (130-150) to (270-300) Cold Damage",
+      "4% increased Movement Speed per Frenzy Charge",
+      "+(400-500) to Accuracy Rating",
+      "(15-25)% increased Attack Speed",
+      "12 to 14 Cold Damage per Frenzy Charge",
+      "2% chance to Avoid Elemental Damage when Hit per Frenzy Charge",
+      "0.5% of Attack Damage Leeched as Life per Frenzy Charge",
+      "200 Cold Damage taken per second per Frenzy Charge while moving"
+    ]
+  },
+  {
+    "id": "Infractem",
+    "name": "Infractem",
+    "baseType": "Decimation Bow",
+    "type": "Bow",
+    "levelReq": 53,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "(70-80)% increased Physical Damage",
+      "Adds (25-35) to (36-45) Physical Damage",
+      "+(20-30) to Dexterity",
+      "+(350-400) to Accuracy Rating",
+      "Arrows Pierce all Targets",
+      "10% increased Movement Speed",
+      "Cannot Leech Life"
+    ]
+  },
+  {
+    "id": "Iron_Commander",
+    "name": "Iron Commander",
+    "baseType": "Death Bow",
+    "type": "Bow",
+    "levelReq": 32,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "Adds (8-12) to (16-24) Physical Damage",
+      "(14-20)% increased Attack Speed",
+      "(14-20)% increased Totem Life",
+      "(14-20)% increased Totem Placement speed",
+      "Can have 1 additional Siege Ballista Totem per 200 Dexterity",
+      "Adds 1 to 3 Physical Damage to Attacks per 25 Dexterity"
+    ]
+  },
+  {
+    "id": "Lioneyes_Glare",
+    "name": "Lioneye's Glare",
+    "baseType": "Imperial Bow",
+    "type": "Bow",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "(180-200)% increased Physical Damage",
+      "Adds (7-14) to (24-34) Physical Damage",
+      "(10-20)% increased Attack Speed",
+      "+(80-100) to maximum Mana",
+      "Hits can't be Evaded",
+      "Far Shot"
+    ]
+  },
+  {
+    "id": "Nulls_Inclination",
+    "name": "Null's Inclination",
+    "baseType": "Ranger Bow",
+    "type": "Bow",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (50-80) to (130-180) Chaos Damage",
+      "(7-12)% increased Attack Speed",
+      "+(7-11)% to Chaos Resistance",
+      "Minions deal 2% increased Damage per 5 Dexterity",
+      "+212 Intelligence Requirement",
+      "Cast Socketed Minion Spells on Kill with this Weapon"
+    ]
+  },
+  {
+    "id": "Nuros_Harp",
+    "name": "Nuro's Harp",
+    "baseType": "Harbinger Bow",
+    "type": "Bow",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "No Physical Damage",
+      "Adds (180-210) to (240-280) Cold Damage",
+      "(10-15)% increased Attack Speed",
+      "(10-30)% increased Light Radius",
+      "15% chance to create Chilled Ground when you Freeze an Enemy",
+      "Create Consecrated Ground when you Shatter an Enemy",
+      "(30-50)% increased Effect of Chilled Ground",
+      "(30-50)% increased Effect of Consecrated Ground"
+    ]
+  },
+  {
+    "id": "Quill_Rain",
+    "name": "Quill Rain",
+    "baseType": "Short Bow",
+    "type": "Bow",
+    "levelReq": 5,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-20) to Dexterity",
+      "100% increased Physical Damage",
+      "100% increased Attack Speed",
+      "+(25-50) to Accuracy Rating",
+      "(50-100)% increased Projectile Speed",
+      "30% less Damage",
+      "Gain 2 Mana per Enemy Hit with Attacks"
+    ]
+  },
+  {
+    "id": "Reach_of_the_Council",
+    "name": "Reach of the Council",
+    "baseType": "Spine Bow",
+    "type": "Bow",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Greater Volley",
+      "(50-75)% increased Physical Damage",
+      "Adds (10-16) to (45-60) Physical Damage",
+      "(8-12)% increased Attack Speed",
+      "20% reduced Projectile Speed",
+      "Arrows fired from the first firing points always Pierce",
+      "Arrows fired from the second firing points Fork",
+      "Arrows fired from the third firing points Return to you",
+      "Arrows fired from the fourth firing points Chain +2 times"
+    ]
+  },
+  {
+    "id": "Replica_Infractem",
+    "name": "Replica Infractem",
+    "baseType": "Decimation Bow",
+    "type": "Bow",
+    "levelReq": 53,
+    "league": "Heist",
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "(70-80)% increased Physical Damage",
+      "Adds (25-35) to (36-45) Physical Damage",
+      "10% increased Movement Speed",
+      "+(350-400) to Accuracy Rating",
+      "Cannot Leech Mana",
+      "Projectiles from Attacks Fork",
+      "Projectiles from Attacks can Fork 1 additional time"
+    ]
+  },
+  {
+    "id": "Replica_Iron_Commander",
+    "name": "Replica Iron Commander",
+    "baseType": "Death Bow",
+    "type": "Bow",
+    "levelReq": 32,
+    "league": "Heist",
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "Adds (8-12) to (16-24) Physical Damage",
+      "(14-20)% increased Attack Speed",
+      "(14-20)% increased Totem Life",
+      "(14-20)% increased Totem Placement speed",
+      "Shrapnel Ballista has +1 to maximum number of Summoned Totems per 200 Strength",
+      "Adds 1 to 3 Physical Damage to Attacks per 25 Strength"
+    ]
+  },
+  {
+    "id": "Replica_Quill_Rain",
+    "name": "Replica Quill Rain",
+    "baseType": "Short Bow",
+    "type": "Bow",
+    "levelReq": 5,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 1 Arrow Nova",
+      "+(10-20) to Dexterity",
+      "100% increased Physical Damage",
+      "(25-30)% increased Attack Speed",
+      "Gain 2 Mana per Enemy Hit with Attacks",
+      "(50-100)% increased Projectile Speed",
+      "+(25-50) to Accuracy Rating"
+    ]
+  },
+  {
+    "id": "Replica_Windripper",
+    "name": "Replica Windripper",
+    "baseType": "Imperial Bow",
+    "type": "Bow",
+    "levelReq": 66,
+    "league": "Heist",
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "Adds (48-60) to (72-90) Cold Damage",
+      "Adds 1 to (120-150) Lightning Damage",
+      "(10-15)% increased Attack Speed",
+      "(30-40)% increased Critical Strike Chance",
+      "Enemies Frozen by you take 20% increased Damage",
+      "+(90-120) Energy Shield gained on Killing a Shocked Enemy"
+    ]
+  },
+  {
+    "id": "Roths_Reach",
+    "name": "Roth's Reach",
+    "baseType": "Recurve Bow",
+    "type": "Bow",
+    "levelReq": 18,
+    "league": null,
+    "implicit": ["+(15-25)% to Global Critical Strike Multiplier"],
+    "mods": [
+      "(60-80)% increased Physical Damage",
+      "Skills Chain +2 times",
+      "30% increased Projectile Speed",
+      "(60-80)% increased Elemental Damage with Attack Skills"
+    ]
+  },
+  {
+    "id": "Silverbough",
+    "name": "Silverbough",
+    "baseType": "Crude Bow",
+    "type": "Bow",
+    "levelReq": 36,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Gems",
+      "+1 to Level of Socketed Bow Gems",
+      "(80-100)% increased Physical Damage",
+      "Adds (15-25) to (50-60) Physical Damage",
+      "10% increased Attack Speed",
+      "+30 to Accuracy Rating",
+      "Gain 10 Mana per Enemy Killed"
+    ]
+  },
+  {
+    "id": "Silverbranch",
+    "name": "Silverbranch",
+    "baseType": "Crude Bow",
+    "type": "Bow",
+    "levelReq": 2,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Bow Gems",
+      "(80-100)% increased Physical Damage",
+      "10% increased Attack Speed",
+      "+30 to Accuracy Rating",
+      "Gain 10 Mana per Enemy Killed"
+    ]
+  },
+  {
+    "id": "Slivertongue",
+    "name": "Slivertongue",
+    "baseType": "Harbinger Bow",
+    "type": "Bow",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["(30-50)% increased Critical Strike Chance"],
+    "mods": [
+      "Adds (80-95) to (220-240) Physical Damage",
+      "(150-200)% increased Critical Strike Chance with arrows that Fork",
+      "Arrows that Pierce have +50% to Critical Strike Multiplier",
+      "Arrows Pierce all Targets after Forking"
+    ]
+  },
+  {
+    "id": "Storm_Cloud",
+    "name": "Storm Cloud",
+    "baseType": "Long Bow",
+    "type": "Bow",
+    "levelReq": 9,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "No Physical Damage",
+      "Adds 1 to 85 Lightning Damage",
+      "(36-50)% increased Attack Speed"
+    ]
+  },
+  {
+    "id": "The_Crimson_Storm",
+    "name": "The Crimson Storm",
+    "baseType": "Steelwood Bow",
+    "type": "Bow",
+    "levelReq": 57,
+    "league": "Betrayal",
+    "implicit": [],
+    "mods": [
+      "6% increased Movement Speed",
+      "(60-80)% increased Physical Damage",
+      "(25-35)% increased Critical Strike Chance",
+      "50% chance to inflict Bleeding on Critical Strike with Attacks",
+      "Enemies you inflict Bleeding on grant (60-100)% increased Flask Charges",
+      "Adds (100-120) to (150-165) Physical Damage against Bleeding Enemies",
+      "50% chance to Maim Enemies on Critical Strike with Attacks"
+    ]
+  },
+  {
+    "id": "The_Gluttonous_Tide",
+    "name": "The Gluttonous Tide",
+    "baseType": "Citadel Bow",
+    "type": "Bow",
+    "levelReq": 58,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(120-160)% increased Physical Damage",
+      "(16-20)% increased Attack Speed",
+      "Lose all Frenzy Charges on reaching Maximum Frenzy Charges to make the next Bow Attack you perform fire that many additional Arrows",
+      "+(30-50)% to Global Critical Strike Multiplier while you have a Frenzy Charge",
+      "(20-40)% chance to gain a Frenzy Charge for each enemy you hit with a Critical Strike"
+    ]
+  },
+  {
+    "id": "The_Tempest",
+    "name": "The Tempest",
+    "baseType": "Long Bow",
+    "type": "Bow",
+    "levelReq": 32,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "No Physical Damage",
+      "100% increased Lightning Damage",
+      "Adds 1 to 85 Lightning Damage",
+      "(36-50)% increased Attack Speed"
+    ]
+  },
+  {
+    "id": "Voltaxic_Rift",
+    "name": "Voltaxic Rift",
+    "baseType": "Spine Bow",
+    "type": "Bow",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 1 to (600-750) Lightning Damage",
+      "(10-15)% increased Attack Speed",
+      "100% of Lightning Damage Converted to Chaos Damage",
+      "Your Chaos Damage can Shock",
+      "Hits with this Weapon Shock Enemies as though dealing 300% more Damage",
+      "+40% to Maximum Effect of Shock"
+    ]
+  },
+  {
+    "id": "Widowhail",
+    "name": "Widowhail",
+    "baseType": "Crude Bow",
+    "type": "Bow",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-250)% increased bonuses gained from Equipped Quiver"
+    ]
+  },
+  {
+    "id": "Windripper",
+    "name": "Windripper",
+    "baseType": "Imperial Bow",
+    "type": "Bow",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "Adds (48-60) to (72-90) Cold Damage",
+      "Adds 1 to (120-150) Lightning Damage",
+      "(10-15)% increased Attack Speed",
+      "(30-40)% increased Critical Strike Chance",
+      "30% increased Rarity of Items Dropped by Slain Frozen Enemies",
+      "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
+    ]
+  },
+  {
+    "id": "Wing_of_the_Wyvern",
+    "name": "Wing of the Wyvern",
+    "baseType": "Imperial Bow",
+    "type": "Bow",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["(20-24)% increased Elemental Damage with Attack Skills"],
+    "mods": [
+      "Trigger a Socketed Spell when a Hit from this",
+      "Weapon Freezes a Target, with a 0.25 second Cooldown",
+      "Adds (164-204) to (250-300) Cold Damage",
+      "Adds (163-199) to (241-293) Chaos Damage",
+      "(20-30)% increased Attack Speed",
+      "Your Chaos Damage can Freeze",
+      "Battlemage"
+    ]
+  },
+  {
+    "id": "Xophs_Inception",
+    "name": "Xoph's Inception",
+    "baseType": "Citadel Bow",
+    "type": "Bow",
+    "levelReq": 23,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "(160-190)% increased Physical Damage",
+      "Gain (200-300) Life per Ignited Enemy Killed",
+      "Gain 20% of Physical Damage as Extra Fire Damage",
+      "10% chance to Ignite",
+      "Projectiles Pierce all Burning Enemies",
+      "Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced"
+    ]
+  },
+  {
+    "id": "Xophs_Nurture",
+    "name": "Xoph's Nurture",
+    "baseType": "Citadel Bow",
+    "type": "Bow",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Ignite Proliferation",
+      "(165-195)% increased Physical Damage",
+      "50% of Physical Damage Converted to Fire Damage",
+      "10% chance to Ignite",
+      "Recover (40-60) Life when you Ignite an Enemy"
+    ]
+  }
+]

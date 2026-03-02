@@ -1,0 +1,352 @@
+[
+  {
+    "id": "Advancing_Fortress",
+    "name": "Advancing Fortress",
+    "baseType": "Gut Ripper",
+    "type": "Claw",
+    "levelReq": 46,
+    "league": null,
+    "implicit": ["Grants 44 Life per Enemy Hit"],
+    "mods": [
+      "Socketed Gems are Supported by Level 12 Fortify",
+      "(100-120)% increased Physical Damage",
+      "+110 to Evasion Rating",
+      "+(30-50) to maximum Life",
+      "+35 to maximum Energy Shield",
+      "Reflects (71-90) Physical Damage to Melee Attackers",
+      "15% Chance to Block Attack Damage"
+    ]
+  },
+  {
+    "id": "Al_Dhih",
+    "name": "Al Dhih",
+    "baseType": "Timeworn Claw",
+    "type": "Claw",
+    "levelReq": 26,
+    "league": "Legion",
+    "implicit": ["Grants 19 Life per Enemy Hit"],
+    "mods": [
+      "(100-120)% increased Physical Damage",
+      "3% of Physical Attack Damage Leeched as Life",
+      "Enemies Taunted by your Warcries Explode on death, dealing 8% of their maximum Life as Chaos Damage",
+      "25% increased Warcry Buff Effect",
+      "Warcry Skills' Cooldown Time is 4 seconds"
+    ]
+  },
+  {
+    "id": "Allure",
+    "name": "Allure",
+    "baseType": "Vaal Claw",
+    "type": "Claw",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["2% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "(110-130)% increased Physical Damage",
+      "Adds (15-20) to (30-40) Physical Damage",
+      "(8-12)% increased Attack Speed",
+      "15% increased Movement Speed while Phasing",
+      "You gain Phasing for 10 seconds on using a Vaal Skill"
+    ]
+  },
+  {
+    "id": "Bloodseeker",
+    "name": "Bloodseeker",
+    "baseType": "Hellion's Paw",
+    "type": "Claw",
+    "levelReq": 62,
+    "league": null,
+    "implicit": ["1.6% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "(200-220)% increased Physical Damage",
+      "Adds 25 to 30 Physical Damage",
+      "5% increased Attack Speed",
+      "1.2% of Physical Attack Damage Leeched as Life",
+      "5% increased Movement Speed",
+      "Life Leech from Hits with this Weapon is instant"
+    ]
+  },
+  {
+    "id": "Cybils_Paw",
+    "name": "Cybil's Paw",
+    "baseType": "Thresher Claw",
+    "type": "Claw",
+    "levelReq": 37,
+    "league": null,
+    "implicit": ["Grants 25 Life per Enemy Hit"],
+    "mods": [
+      "(15-20)% increased Cast Speed",
+      "+(30-40) to maximum Mana",
+      "Gain (15-20) Life per Enemy Hit with Spells",
+      "8% increased Spell Damage per 5% Chance to Block Attack Damage"
+    ]
+  },
+  {
+    "id": "Essentia_Sanguis",
+    "name": "Essentia Sanguis",
+    "baseType": "Vaal Claw",
+    "type": "Claw",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["2% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "+8% Chance to Block Attack Damage while Dual Wielding Claws",
+      "Adds 1 to (600-700) Lightning Damage",
+      "(20-30)% increased Attack Speed",
+      "+(30-40) to maximum Energy Shield",
+      "Energy Shield Leech Effects from Attacks are not removed at Full Energy Shield",
+      "Ghost Reaver"
+    ]
+  },
+  {
+    "id": "Hand_of_Thought_and_Motion",
+    "name": "Hand of Thought and Motion",
+    "baseType": "Imperial Claw",
+    "type": "Claw",
+    "levelReq": 68,
+    "league": "Breach",
+    "implicit": ["Grants 46 Life per Enemy Hit"],
+    "mods": [
+      "(8-12)% increased Dexterity",
+      "(8-12)% increased Intelligence",
+      "Recover 1% of Life on Kill",
+      "Adds 1 to 12 Lightning Damage to Attacks with this Weapon per 10 Dexterity",
+      "5% increased Critical Strike Chance per 25 Intelligence"
+    ]
+  },
+  {
+    "id": "Hand_of_Wisdom_and_Action",
+    "name": "Hand of Wisdom and Action",
+    "baseType": "Imperial Claw",
+    "type": "Claw",
+    "levelReq": 68,
+    "league": "Breach",
+    "implicit": ["Grants 46 Life per Enemy Hit"],
+    "mods": [
+      "(8-12)% increased Dexterity",
+      "(8-12)% increased Intelligence",
+      "1% of Attack Damage Leeched as Life",
+      "Adds 1 to 12 Lightning Damage to Attacks with this Weapon per 10 Intelligence",
+      "1% increased Attack Speed per 25 Dexterity"
+    ]
+  },
+  {
+    "id": "Izaros_Dilemma",
+    "name": "Izaro's Dilemma",
+    "baseType": "Imperial Claw",
+    "type": "Claw",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["Grants 46 Life per Enemy Hit"],
+    "mods": [
+      "(40-60)% increased Physical Damage",
+      "Adds 20 to 50 Physical Damage",
+      "(10-15)% increased Attack Speed",
+      "+(300-400) to Accuracy Rating",
+      "100% increased Physical Damage while Frozen"
+    ]
+  },
+  {
+    "id": "Last_Resort",
+    "name": "Last Resort",
+    "baseType": "Nailed Fist",
+    "type": "Claw",
+    "levelReq": null,
+    "league": null,
+    "implicit": ["Gain 3 Life per Enemy Hit with Attacks"],
+    "mods": [
+      "25% increased Attack Speed when on Low Life",
+      "(80-100)% increased Physical Damage",
+      "Adds 2 to 10 Physical Damage",
+      "100% increased Claw Physical Damage when on Low Life",
+      "100% increased Accuracy Rating when on Low Life"
+    ]
+  },
+  {
+    "id": "Law_of_the_Wilds",
+    "name": "Law of the Wilds",
+    "baseType": "Hellion's Paw",
+    "type": "Claw",
+    "levelReq": 62,
+    "league": "Harvest",
+    "implicit": ["1.6% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "20% chance to Trigger Level 25 Summon Spectral Wolf on Critical Strike with this Weapon",
+      "(15-20)% increased Attack Speed",
+      "(22-28)% increased Critical Strike Chance",
+      "+(15-25)% to Global Critical Strike Multiplier"
+    ]
+  },
+  {
+    "id": "Mortem_Morsu",
+    "name": "Mortem Morsu",
+    "baseType": "Fright Claw",
+    "type": "Claw",
+    "levelReq": 34,
+    "league": null,
+    "implicit": ["Grants 20 Life per Enemy Hit"],
+    "mods": [
+      "(75-100)% increased Physical Damage",
+      "20% increased Attack Speed",
+      "25% increased Critical Strike Chance",
+      "+40% to Global Critical Strike Multiplier",
+      "(10-20)% of Physical Damage Converted to Chaos Damage",
+      "60% chance to Poison on Hit",
+      "25% reduced Enemy Stun Threshold with this Weapon"
+    ]
+  },
+  {
+    "id": "Ornament_of_the_East",
+    "name": "Ornament of the East",
+    "baseType": "Gut Ripper",
+    "type": "Claw",
+    "levelReq": 46,
+    "league": null,
+    "implicit": ["Grants 44 Life per Enemy Hit"],
+    "mods": [
+      "+1 to Level of Socketed Dexterity Gems",
+      "Socketed Gems are Supported by Level 15 Faster Attacks",
+      "(160-180)% increased Physical Damage",
+      "(10-15)% increased Attack Speed",
+      "25% increased Stun and Block Recovery",
+      "Hits can't be Evaded"
+    ]
+  },
+  {
+    "id": "Replica_Advancing_Fortress",
+    "name": "Replica Advancing Fortress",
+    "baseType": "Gut Ripper",
+    "type": "Claw",
+    "levelReq": 46,
+    "league": "Heist",
+    "implicit": ["Grants 44 Life per Enemy Hit"],
+    "mods": [
+      "Socketed Gems are Supported by Level 12 Cast when Damage Taken",
+      "15% Chance to Block Attack Damage",
+      "(100-120)% increased Physical Damage",
+      "+(30-50) to maximum Life",
+      "50% increased Defences from Equipped Shield",
+      "Adds 45 to 75 Fire Damage if you've Blocked Recently"
+    ]
+  },
+  {
+    "id": "Replica_Allure",
+    "name": "Replica Allure",
+    "baseType": "Vaal Claw",
+    "type": "Claw",
+    "levelReq": 66,
+    "league": "Heist",
+    "implicit": ["2% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "(110-130)% increased Physical Damage",
+      "Adds (15-20) to (30-40) Physical Damage",
+      "(8-12)% increased Attack Speed",
+      "Gain +50 Life when you Taunt an Enemy",
+      "You gain Onslaught for 1 seconds on Killing Taunted Enemies",
+      "Enemies Taunted by you take 10% increased Damage"
+    ]
+  },
+  {
+    "id": "Replica_Last_Resort",
+    "name": "Replica Last Resort",
+    "baseType": "Nailed Fist",
+    "type": "Claw",
+    "levelReq": null,
+    "league": "Heist",
+    "implicit": ["Grants 3 Life per Enemy Hit"],
+    "mods": [
+      "25% increased Attack Speed when on Low Life",
+      "(80-100)% increased Physical Damage",
+      "100% increased Accuracy Rating when on Low Life",
+      "200% increased Damage with Claws while on Low Life",
+      "Deal no Damage when not on Low Life"
+    ]
+  },
+  {
+    "id": "Rive",
+    "name": "Rive",
+    "baseType": "Terror Claw",
+    "type": "Claw",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["2% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "(60-80)% increased Physical Damage",
+      "Adds (25-35) to (50-65) Physical Damage",
+      "25% chance to cause Bleeding on Hit",
+      "2% increased Physical Damage over time per 10 Dexterity",
+      "1% increased Bleed Duration per 12 Intelligence",
+      "30% Chance to cause Bleeding Enemies to Flee on hit"
+    ]
+  },
+  {
+    "id": "The_Scourge",
+    "name": "The Scourge",
+    "baseType": "Terror Claw",
+    "type": "Claw",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["2% of Physical Attack Damage Leeched as Life"],
+    "mods": [
+      "Adds (35-50) to (100-125) Physical Damage",
+      "(10-15)% increased Attack Speed",
+      "Minions have (10-15)% increased Attack Speed",
+      "Increases and Reductions to Minion Damage also affect you at 150% of their value",
+      "Minions deal 70% increased Damage if you've Hit Recently"
+    ]
+  },
+  {
+    "id": "The_Wasp_Nest",
+    "name": "The Wasp Nest",
+    "baseType": "Throat Stabber",
+    "type": "Claw",
+    "levelReq": 60,
+    "league": null,
+    "implicit": ["Grants 40 Life per Enemy Hit"],
+    "mods": [
+      "(150-170)% increased Physical Damage",
+      "(20-25)% increased Attack Speed",
+      "(20-25)% increased Critical Strike Chance",
+      "+(330-350) to Accuracy Rating",
+      "20% chance to Poison on Hit",
+      "Attacks with this Weapon deal 80-120 added Chaos Damage against",
+      "Enemies affected by at least 5 Poisons"
+    ]
+  },
+  {
+    "id": "Touch_of_Anguish",
+    "name": "Touch of Anguish",
+    "baseType": "Imperial Claw",
+    "type": "Claw",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["Grants 46 Life per Enemy Hit"],
+    "mods": [
+      "Adds (40-50) to (130-150) Physical Damage",
+      "30% increased Cold Damage",
+      "(30-40)% increased Critical Strike Chance",
+      "20% chance to gain a Frenzy Charge on Killing a Frozen Enemy",
+      "Skills Chain an additional time while at maximum Frenzy Charges",
+      "10% chance to Freeze",
+      "Critical Strikes do not always Freeze"
+    ]
+  },
+  {
+    "id": "Wildslash",
+    "name": "Wildslash",
+    "baseType": "Awl",
+    "type": "Claw",
+    "levelReq": 12,
+    "league": null,
+    "implicit": ["Grants 7 Life per Enemy Hit"],
+    "mods": [
+      "+(10-15) to Strength",
+      "+(10-15) to Dexterity",
+      "15% reduced Accuracy Rating",
+      "Adds (2-6) to (16-22) Physical Damage",
+      "(10-15)% increased Attack Speed",
+      "20% increased Damage with Movement Skills",
+      "15% increased Attack Speed with Movement Skills"
+    ]
+  }
+]

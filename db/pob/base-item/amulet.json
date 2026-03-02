@@ -1,0 +1,551 @@
+[
+  {
+    "id": "Agate_Amulet",
+    "name": "Agate Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(16-24) to Strength and Intelligence",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Amber_Amulet",
+    "name": "Amber Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(20-30) to Strength",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Ashscale_Talisman",
+    "name": "Ashscale Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Fire Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Astrolabe_Amulet",
+    "name": "Astrolabe Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "Implicit Modifiers Cannot Be Changed\nHas Elder, Shaper and all Conqueror Influences",
+    "req": { "level": 69, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Fire Damage from Hits taken as Cold Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Fire Damage from Hits taken as Lightning Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Cold Damage from Hits taken as Fire Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Cold Damage from Hits taken as Lightning Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Lightning Damage from Hits taken as Cold Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman",
+    "name": "Avian Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Lightning Damage from Hits taken as Fire Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman_(Cold-To-Fire)",
+    "name": "Avian Twins Talisman (Cold-To-Fire)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Cold Damage from Hits taken as Lightning Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman_(Cold-To-Lightning)",
+    "name": "Avian Twins Talisman (Cold-To-Lightning)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Cold Damage from Hits taken as Fire Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman_(Fire-To-Cold)",
+    "name": "Avian Twins Talisman (Fire-To-Cold)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Fire Damage from Hits taken as Cold Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman_(Fire-To-Lightning)",
+    "name": "Avian Twins Talisman (Fire-To-Lightning)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Fire Damage from Hits taken as Lightning Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Avian_Twins_Talisman_(Lightning-To-Cold)",
+    "name": "Avian Twins Talisman (Lightning-To-Cold)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "50% of Lightning Damage from Hits taken as Cold Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Black_Maw_Talisman",
+    "name": "Black Maw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "Has 1 Socket",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Blue_Pearl_Amulet",
+    "name": "Blue Pearl Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "(48-56)% increased Mana Regeneration Rate",
+    "req": { "level": 77, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Bonespire_Talisman",
+    "name": "Bonespire Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased maximum Mana",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Breakrib_Talisman",
+    "name": "Breakrib Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Global Physical Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Chrysalis_Talisman",
+    "name": "Chrysalis Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Spell Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Citrine_Amulet",
+    "name": "Citrine Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(16-24) to Strength and Dexterity",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Clutching_Talisman",
+    "name": "Clutching Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(15-25)% increased Global Defences",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Coral_Amulet",
+    "name": "Coral Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "Regenerate (2-4) Life per second",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Deadhand_Talisman",
+    "name": "Deadhand Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(19-31)% increased Chaos Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Deep_One_Talisman",
+    "name": "Deep One Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Cold Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Fangjaw_Talisman",
+    "name": "Fangjaw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(8-12)% increased maximum Life",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Focused_Amulet",
+    "name": "Focused Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "-1 Prefix Modifier allowed\n-2 Suffix Modifiers allowed\nImplicit Modifiers Cannot Be Changed\n100% increased Explicit Modifier magnitudes",
+    "req": { "level": 24, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Gold_Amulet",
+    "name": "Gold Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "(12-20)% increased Rarity of Items found",
+    "req": { "level": 8, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Greatwolf_Talisman",
+    "name": "Greatwolf Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Hexclaw_Talisman",
+    "name": "Hexclaw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(40-50)% increased Global Critical Strike Chance",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Horned_Talisman",
+    "name": "Horned Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "Projectiles Pierce 2 additional Targets",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Jade_Amulet",
+    "name": "Jade Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(20-30) to Dexterity",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Jet_Amulet",
+    "name": "Jet Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(8-12)% to all Elemental Resistances",
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Lapis_Amulet",
+    "name": "Lapis Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(20-30) to Intelligence",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Lone_Antler_Talisman",
+    "name": "Lone Antler Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Lightning Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Longtooth_Talisman",
+    "name": "Longtooth Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(4-6)% additional Physical Damage Reduction",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Mandible_Talisman",
+    "name": "Mandible Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(6-10)% increased Attack and Cast Speed",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Marble_Amulet",
+    "name": "Marble Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "Regenerate (1.2-1.6)% of Life per second",
+    "req": { "level": 74, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Paw_Talisman",
+    "name": "Monkey Paw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "10% chance to gain a Power Charge on Kill",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Paw_Talisman",
+    "name": "Monkey Paw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "10% chance to gain a Frenzy Charge on Kill",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Paw_Talisman",
+    "name": "Monkey Paw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "10% chance to gain an Endurance Charge on Kill",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Paw_Talisman_(Frenzy)",
+    "name": "Monkey Paw Talisman (Frenzy)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "10% chance to gain a Frenzy Charge on Kill",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Paw_Talisman_(Power)",
+    "name": "Monkey Paw Talisman (Power)",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "10% chance to gain a Power Charge on Kill",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Monkey_Twins_Talisman",
+    "name": "Monkey Twins Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(5-8)% increased Area of Effect",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Onyx_Amulet",
+    "name": "Onyx Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(10-16) to all Attributes",
+    "req": { "level": 20, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Paua_Amulet",
+    "name": "Paua Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "(20-30)% increased Mana Regeneration Rate",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Primal_Skull_Talisman",
+    "name": "Primal Skull Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "Regenerate 2% of Life per second",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Rot_Head_Talisman",
+    "name": "Rot Head Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(30-40)% increased Fish Bite Sensitivity",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Rotfeather_Talisman",
+    "name": "Rotfeather Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(25-35)% increased Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Ruby_Amulet",
+    "name": "Ruby Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(20-30)% to Fire Resistance",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Seaglass_Amulet",
+    "name": "Seaglass Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "(10-15)% faster start of Energy Shield Recharge",
+    "req": { "level": 74, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Simplex_Amulet",
+    "name": "Simplex Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "-2 Prefix Modifiers allowed\n-1 Suffix Modifier allowed\nImplicit Modifiers Cannot Be Changed\n100% increased Explicit Modifier magnitudes",
+    "req": { "level": 24, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Spinefuse_Talisman",
+    "name": "Spinefuse Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "+(12-18)% to Damage over Time Multiplier",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Splitnewt_Talisman",
+    "name": "Splitnewt Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(4-6)% chance to Freeze, Shock and Ignite",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Three_Hands_Talisman",
+    "name": "Three Hands Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "Gain (6-12)% of Physical Damage as Extra Damage of a random Element",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Three_Rat_Talisman",
+    "name": "Three Rat Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(12-16)% increased Attributes",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Turquoise_Amulet",
+    "name": "Turquoise Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "+(16-24) to Dexterity and Intelligence",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Undying_Flesh_Talisman",
+    "name": "Undying Flesh Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "+1 to maximum number of Raised Zombies",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Unset_Amulet",
+    "name": "Unset Amulet",
+    "type": "Amulet",
+    "subType": null,
+    "implicit": "Has 1 Socket",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Wereclaw_Talisman",
+    "name": "Wereclaw Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "+(24-36)% to Global Critical Strike Multiplier",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Writhing_Talisman",
+    "name": "Writhing Talisman",
+    "type": "Amulet",
+    "subType": "Talisman",
+    "implicit": "(20-30)% increased Attack Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  }
+]

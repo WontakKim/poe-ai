@@ -1,0 +1,71 @@
+[
+  {
+    "id": "Grasping_Nightshade",
+    "name": "Grasping Nightshade",
+    "baseType": "Sporebloom Tincture",
+    "type": "Tincture",
+    "levelReq": 52,
+    "league": "Settlers of Kalguur",
+    "implicit": ["25% chance to Blind Enemies on Hit with Melee Weapons", "(25-35)% increased Effect of Blind from Melee Weapons"],
+    "mods": [
+      "Melee Weapon Hits Inflict (2-3) Withered Debuffs for 2 seconds",
+      "(20-30)% chance to inflict a Grasping Vine on Melee Weapon Hit"
+    ]
+  },
+  {
+    "id": "Mightblood_Ire",
+    "name": "Mightblood Ire",
+    "baseType": "Ironwood Tincture",
+    "type": "Tincture",
+    "levelReq": 18,
+    "league": "Settlers of Kalguur",
+    "implicit": ["40% reduced Enemy Stun Threshold with Melee Weapons", "(15-25)% increased Stun Duration with Melee Weapons"],
+    "mods": [
+      "Melee Strike Skills deal Splash Damage to surrounding targets",
+      "(25-15)% reduced Mana Burn rate"
+    ]
+  },
+  {
+    "id": "Sap_of_the_Seasons",
+    "name": "Sap of the Seasons",
+    "baseType": "Prismatic Tincture",
+    "type": "Tincture",
+    "levelReq": 18,
+    "league": "Settlers of Kalguur",
+    "implicit": ["(70-100)% increased Elemental Damage with Melee Weapons"],
+    "mods": [
+      "Melee Weapon Damage Penetrates 1% Elemental Resistance per Mana Burn, up to a maximum of 200%",
+      "(20-40)% increased Cooldown Recovery Rate",
+      "(35--35)% increased Mana Burn rate"
+    ]
+  },
+  {
+    "id": "The_Battle_Within",
+    "name": "The Battle Within",
+    "baseType": "Oakbranch Tincture",
+    "type": "Tincture",
+    "levelReq": 18,
+    "league": "Settlers of Kalguur",
+    "implicit": ["Gain 3 Rage on Melee Weapon Hit"],
+    "mods": [
+      "Does not inflict Mana Burn over time",
+      "Inflicts Mana Burn on you when you Hit an Enemy with a Melee Weapon",
+      "(1-5)% increased Rarity of Items found per Mana Burn, up to a maximum of 100%",
+      "Melee Weapon Attacks have Culling Strike"
+    ]
+  },
+  {
+    "id": "Wildfire_Phloem",
+    "name": "Wildfire Phloem",
+    "baseType": "Ashbark Tincture",
+    "type": "Tincture",
+    "levelReq": 32,
+    "league": "Settlers of Kalguur",
+    "implicit": ["25% chance to Ignite with Melee Weapons", "(60-90)% increased Damage with Ignite from Melee Weapons"],
+    "mods": [
+      "-1 Fire Damage taken from Hits per Mana Burn",
+      "(15-25)% chance to refresh Ignite Duration on Melee Weapon Hit",
+      "Cover Full Life Enemies in Ash for (4-10) seconds on Melee Weapon hit"
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Chain_Belt",
+    "name": "Chain Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "+(9-20) to maximum Energy Shield",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Cloth_Belt",
+    "name": "Cloth Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "(15-25)% increased Stun and Block Recovery",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Crystal_Belt",
+    "name": "Crystal Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "+(60-80) to maximum Energy Shield",
+    "req": { "level": 79, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Golden_Obi",
+    "name": "Golden Obi",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "(20-30)% increased Rarity of Items found",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Heavy_Belt",
+    "name": "Heavy Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "+(25-35) to Strength",
+    "req": { "level": 8, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Leather_Belt",
+    "name": "Leather Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "+(25-40) to maximum Life",
+    "req": { "level": 8, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Mechalarm_Belt",
+    "name": "Mechalarm Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "Trigger Level 20 Summon Taunting Contraption when you use a Flask",
+    "req": { "level": 56, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Mechanical_Belt",
+    "name": "Mechanical Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "Has 1 Socket",
+    "req": { "level": 56, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Micro-Distillery_Belt",
+    "name": "Micro-Distillery Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "Flasks applied to you have 30% increased Effect\nCan't use Flask in Fifth Slot",
+    "req": { "level": 24, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Rustic_Sash",
+    "name": "Rustic Sash",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "(12-24)% increased Global Physical Damage",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Studded_Belt",
+    "name": "Studded Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "(20-30)% increased Stun Duration on Enemies",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Stygian_Vise",
+    "name": "Stygian Vise",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "Has 1 Abyssal Socket",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Vanguard_Belt",
+    "name": "Vanguard Belt",
+    "type": "Belt",
+    "subType": null,
+    "implicit": "+(260-320) to Armour and Evasion Rating",
+    "req": { "level": 78, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  }
+]

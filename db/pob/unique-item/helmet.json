@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "Abyssus",
+    "name": "Abyssus",
+    "baseType": "Ezomyte Burgonet",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 40 to 60 Physical Damage to Attacks",
+      "+(20-25) to all Attributes",
+      "+(100-125)% to Melee Critical Strike Multiplier",
+      "(100-120)% increased Armour",
+      "(40-50)% increased Physical Damage taken"
+    ]
+  },
+  {
+    "id": "Ahns_Contempt",
+    "name": "Ahn's Contempt",
+    "baseType": "Praetor Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(15-20) to all Attributes",
+      "(60-140)% increased Armour and Energy Shield",
+      "+(60-70) to maximum Life",
+      "-1 to Maximum Power Charges",
+      "Gain (8-12)% of Physical Damage as Extra Chaos Damage while at maximum Power Charges",
+      "You take 50% reduced Extra Damage from Critical Strikes while you have no Power Charges"
+    ]
+  },
+  {
+    "id": "Akoyas_Gaze",
+    "name": "Akoya's Gaze",
+    "baseType": "Regicide Mask",
+    "type": "Helmet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+100 Strength Requirement",
+      "(20-25)% increased Warcry Speed",
+      "Life Leech from Exerted Attacks is instant",
+      "Non-Exerted Attacks deal no Damage"
+    ]
+  },
+  {
+    "id": "Alphas_Howl",
+    "name": "Alpha's Howl",
+    "baseType": "Sinner Tricorne",
+    "type": "Helmet",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Aura Gems",
+      "(80-100)% increased Evasion Rating",
+      "+(20-30)% to Cold Resistance",
+      "25% chance to Avoid being Chilled",
+      "Cannot be Frozen",
+      "16% increased Mana Reservation Efficiency of Skills"
+    ]
+  },
+  {
+    "id": "Ancient_Skull",
+    "name": "Ancient Skull",
+    "baseType": "Bone Helmet",
+    "type": "Helmet",
+    "levelReq": 73,
+    "league": "Ritual",
+    "implicit": ["Minions deal (15-20)% increased Damage"],
+    "mods": [
+      "(150-200)% increased Armour and Energy Shield",
+      "Minions have (20-40)% reduced maximum Life",
+      "Minions have (15-25)% increased Movement Speed",
+      "Minions have 50% increased Critical Strike Chance per Maximum Power Charge you have",
+      "Minions can hear the whispers for 5 seconds after they deal a Critical Strike"
+    ]
+  },
+  {
+    "id": "Asenaths_Chant",
+    "name": "Asenath's Chant",
+    "baseType": "Iron Circlet",
+    "type": "Helmet",
+    "levelReq": 45,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
+      "(10-15)% increased Attack Speed",
+      "(10-15)% increased Cast Speed",
+      "+(100-120) to maximum Energy Shield",
+      "30% increased Mana Regeneration Rate",
+      "5% increased Movement Speed",
+      "(30-40)% increased Stun and Block Recovery"
+    ]
+  },
+  {
+    "id": "Asenaths_Mark",
+    "name": "Asenath's Mark",
+    "baseType": "Iron Circlet",
+    "type": "Helmet",
+    "levelReq": 8,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown",
+      "(30-60)% increased Spell Damage",
+      "(10-15)% increased Attack Speed",
+      "+(30-50) to maximum Energy Shield",
+      "30% increased Mana Regeneration Rate"
+    ]
+  },
+  {
+    "id": "Assailum",
+    "name": "Assailum",
+    "baseType": "Sinner Tricorne",
+    "type": "Helmet",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Grants Level 30 Snipe Skill",
+      "Socketed Non-Channelling Bow Skills are Triggered by Snipe",
+      "+(350-500) to Accuracy Rating",
+      "+(350-500) to Evasion Rating",
+      "+2 to maximum Snipe Stages",
+      "(14-20)% chance to Suppress Spell Damage while Channelling"
+    ]
+  },
+  {
+    "id": "Black_Sun_Crest",
+    "name": "Black Sun Crest",
+    "baseType": "Lacquered Helmet",
+    "type": "Helmet",
+    "levelReq": 51,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Gems",
+      "(100-150)% increased Armour",
+      "40% reduced Light Radius",
+      "(5-15)% increased Dexterity",
+      "(5-15)% increased Strength",
+      "(5-15)% increased Intelligence"
+    ]
+  },
+  {
+    "id": "Blood_Price",
+    "name": "Blood Price",
+    "baseType": "Reaver Helmet",
+    "type": "Helmet",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "24% reduced maximum Life",
+      "Regenerate (200-250) Life per second",
+      "100% increased Stun and Block Recovery",
+      "Nearby Enemy Monsters have at least 8% of Life Reserved"
+    ]
+  },
+  {
+    "id": "Cadigans_Crown",
+    "name": "Cadigan's Crown",
+    "baseType": "Runic Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": "Expedition",
+    "implicit": [],
+    "mods": [
+      "Never deal Critical Strikes",
+      "Battlemage"
+    ]
+  },
+  {
+    "id": "Chitus_Apex",
+    "name": "Chitus' Apex",
+    "baseType": "Necromancer Circlet",
+    "type": "Helmet",
+    "levelReq": 54,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Strength",
+      "+(20-30) to maximum Mana",
+      "+10% to all Elemental Resistances",
+      "5% increased Experience gain",
+      "(10-20)% increased Elemental Damage"
+    ]
+  },
+  {
+    "id": "Cowl_of_the_Ceraunophile",
+    "name": "Cowl of the Ceraunophile",
+    "baseType": "Solaris Circlet",
+    "type": "Helmet",
+    "levelReq": 59,
+    "league": "Blight",
+    "implicit": [],
+    "mods": [
+      "Can have a second Enchantment Modifier",
+      "+(20-30) to all Attributes",
+      "(60-80)% increased Energy Shield",
+      "(50-55)% reduced Fire Resistance",
+      "(50-55)% reduced Cold Resistance",
+      "Lightning Resistance is 75%",
+      "This item can be anointed by Cassia"
+    ]
+  },
+  {
+    "id": "Cowl_of_the_Cryophile",
+    "name": "Cowl of the Cryophile",
+    "baseType": "Silken Hood",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Blight",
+    "implicit": [],
+    "mods": [
+      "Can have a second Enchantment Modifier",
+      "+(20-30) to all Attributes",
+      "(60-80)% increased Evasion Rating",
+      "(50-55)% reduced Fire Resistance",
+      "(50-55)% reduced Lightning Resistance",
+      "Cold Resistance is 75%",
+      "This item can be anointed by Cassia"
+    ]
+  },
+  {
+    "id": "Cowl_of_the_Thermophile",
+    "name": "Cowl of the Thermophile",
+    "baseType": "Ezomyte Burgonet",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Blight",
+    "implicit": [],
+    "mods": [
+      "Can have a second Enchantment Modifier",
+      "+(20-30) to all Attributes",
+      "(60-80)% increased Armour",
+      "(50-55)% reduced Cold Resistance",
+      "(50-55)% reduced Lightning Resistance",
+      "Fire Resistance is 75%",
+      "This item can be anointed by Cassia"
+    ]
+  },
+  {
+    "id": "Craiceanns_Chitin",
+    "name": "Craiceann's Chitin",
+    "baseType": "Magistrate Crown",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "+(4-6)% Chance to Block Spell Damage",
+      "(140-180)% increased Armour and Energy Shield",
+      "(4-7)% increased maximum Life",
+      "Cannot lose Crab Barriers if you have lost Crab Barriers Recently",
+      "+3% Chance to Block Attack Damage while you have at least 5 Crab Barriers",
+      "+5% Chance to Block Attack Damage while you have at least 10 Crab Barriers"
+    ]
+  },
+  {
+    "id": "Crest_of_Desire",
+    "name": "Crest of Desire",
+    "baseType": "Fluted Bascinet",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Has 1 Socket",
+      "+(5-8) to Level of Socketed Gems",
+      "+(30-50)% to Quality of Socketed Gems",
+      "Socketed Skills deal Double Damage",
+      "(100-150)% increased Armour and Evasion"
+    ]
+  },
+  {
+    "id": "Crown_of_Eyes",
+    "name": "Crown of Eyes",
+    "baseType": "Hubris Circlet",
+    "type": "Helmet",
+    "levelReq": 69,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(300-350) to Accuracy Rating",
+      "(120-150)% increased Energy Shield",
+      "-30% to Fire Resistance",
+      "(0.4-0.8)% of Attack Damage Leeched as Life",
+      "(0.2-0.4)% of Attack Damage Leeched as Mana",
+      "Increases and Reductions to Spell Damage also apply to Attacks at 150% of their value"
+    ]
+  },
+  {
+    "id": "Crown_of_the_Inward_Eye",
+    "name": "Crown of the Inward Eye",
+    "baseType": "Prophet Crown",
+    "type": "Helmet",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "333% increased Armour and Energy Shield",
+      "(9-21)% increased maximum Life, Mana and Global Energy Shield",
+      "Transfiguration of Soul",
+      "Transfiguration of Body",
+      "Transfiguration of Mind"
+    ]
+  },
+  {
+    "id": "Crown_of_the_Pale_King",
+    "name": "Crown of the Pale King",
+    "baseType": "Regicide Mask",
+    "type": "Helmet",
+    "levelReq": 52,
+    "league": "Tempest",
+    "implicit": [],
+    "mods": [
+      "(150-200)% increased Evasion and Energy Shield",
+      "+(60-80) to maximum Life",
+      "(0.4-0.8)% of Physical Attack Damage Leeched as Life",
+      "Reflects 100 to 150 Physical Damage to Melee Attackers",
+      "100% of Damage you Reflect to Enemies when Hit is leeched as Life"
+    ]
+  },
+  {
+    "id": "Crown_of_the_Tyrant",
+    "name": "Crown of the Tyrant",
+    "baseType": "Magistrate Crown",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Delve",
+    "implicit": [],
+    "mods": [
+      "Has 1 Socket",
+      "+(50-175) to maximum Life",
+      "Nearby Enemies have -10% to all Resistances",
+      "You and Nearby Allies have 64 to 96 added Fire Damage per Red Socket",
+      "You and Nearby Allies have 56 to 88 added Cold Damage per Green Socket",
+      "You and Nearby Allies have 16 to 144 added Lightning Damage per Blue Socket",
+      "You and Nearby Allies have 47 to 61 added Chaos Damage per White Socket"
+    ]
+  },
+  {
+    "id": "Crown_of_Thorns",
+    "name": "Crown of Thorns",
+    "baseType": "Vine Circlet",
+    "type": "Helmet",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(150-225) to maximum Energy Shield",
+      "Reflects 5 Physical Damage to Melee Attackers",
+      "+25 Physical Damage taken from Attack Hits",
+      "Pain Attunement"
+    ]
+  },
+  {
+    "id": "Curtain_Call",
+    "name": "Curtain Call",
+    "baseType": "Plague Mask",
+    "type": "Helmet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+23 to maximum Life",
+      "(15-10)% reduced Mine Throwing Speed",
+      "Mines have (40-50)% increased Detonation Speed",
+      "Skills which throw Mines throw up to 1 additional Mine if you have at least 800 Dexterity",
+      "Skills which throw Mines throw up to 1 additional Mine if you have at least 800 Intelligence"
+    ]
+  },
+  {
+    "id": "Deidbell",
+    "name": "Deidbell",
+    "baseType": "Gilded Sallet",
+    "type": "Helmet",
+    "levelReq": 33,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Strength",
+      "+(20-30) to Dexterity",
+      "+(200-300) to Armour",
+      "Cannot Leech when on Low Life",
+      "Skills which Exert an Attack have (20-40)% chance to not count that Attack"
+    ]
+  },
+  {
+    "id": "Deidbellow",
+    "name": "Deidbellow",
+    "baseType": "Gilded Sallet",
+    "type": "Helmet",
+    "levelReq": 33,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Strength",
+      "+(20-30) to Dexterity",
+      "+(200-300) to Armour",
+      "Adds 10-20 Physical Damage to Attacks",
+      "20% increased Melee Damage",
+      "Cannot Leech when on Low Life",
+      "If you've Warcried Recently, you and nearby allies have 20% increased Attack, Cast and Movement Speed"
+    ]
+  },
+  {
+    "id": "Devotos_Devotion",
+    "name": "Devoto's Devotion",
+    "baseType": "Nightmare Bascinet",
+    "type": "Helmet",
+    "levelReq": 67,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% reduced Physical Damage",
+      "+(50-65) to Dexterity",
+      "16% increased Attack Speed",
+      "(150-200)% increased Armour and Evasion",
+      "+(15-25)% to Chaos Resistance",
+      "20% increased Movement Speed",
+      "Mercury Footprints"
+    ]
+  },
+  {
+    "id": "Doedres_Scorn",
+    "name": "Doedre's Scorn",
+    "baseType": "Lunaris Circlet",
+    "type": "Helmet",
+    "levelReq": 39,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Curse Gems",
+      "+(100-120) to maximum Energy Shield",
+      "+(20-30) to Intelligence",
+      "Curse Skills have (30-50)% increased Skill Effect Duration",
+      "Adds 37 to 71 Chaos Damage for each Curse on the Enemy"
+    ]
+  },
+  {
+    "id": "Ebers_Unification",
+    "name": "Eber's Unification",
+    "baseType": "Hubris Circlet",
+    "type": "Helmet",
+    "levelReq": 69,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 10 Void Gaze when you use a Skill",
+      "+(50-80) to maximum Mana",
+      "(120-150)% increased Energy Shield",
+      "50% increased Stun and Block Recovery",
+      "Gain (5-8)% of Elemental Damage as Extra Chaos Damage"
+    ]
+  },
+  {
+    "id": "Echoes_of_Creation",
+    "name": "Echoes of Creation",
+    "baseType": "Royal Burgonet",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Warcry Skills have +1 Cooldown Use",
+      "(80-120)% increased Armour",
+      "+(50-70) to maximum Life",
+      "When you Attack, take (15-20)% of Life as Physical Damage for each Warcry Exerting the Attack",
+      "Skills deal (10-15)% more Damage for each Warcry Exerting them"
+    ]
+  },
+  {
+    "id": "ElAbins_Visage",
+    "name": "El'Abin's Visage",
+    "baseType": "Fencer Helm",
+    "type": "Helmet",
+    "levelReq": 43,
+    "league": "Crucible",
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Strength",
+      "+(20-30) to Dexterity",
+      "(80-120)% increased Armour and Evasion",
+      "(15-25)% increased Rarity of Items found",
+      "Has a Crucible Passive Skill Tree",
+      "Crucible Passive Skill Tree is removed if this Modifier is removed"
+    ]
+  },
+  {
+    "id": "Elevore",
+    "name": "Elevore",
+    "baseType": "Wolf Pelt",
+    "type": "Helmet",
+    "levelReq": 30,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-25)% chance to Suppress Spell Damage",
+      "(60-100)% increased Evasion Rating",
+      "(20-25)% chance to Avoid Elemental Ailments",
+      "Recover (100-200) Life when you Suppress Spell Damage"
+    ]
+  },
+  {
+    "id": "Eye_of_Malice",
+    "name": "Eye of Malice",
+    "baseType": "Callous Mask",
+    "type": "Helmet",
+    "levelReq": 45,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(400-500)% increased Evasion and Energy Shield",
+      "+(20-40)% to Fire Resistance",
+      "+(20-40)% to Cold Resistance",
+      "25% chance to inflict Cold Exposure on Hit",
+      "25% chance to inflict Fire Exposure on Hit",
+      "Nearby Enemies have 50% increased Fire and Cold Resistances"
+    ]
+  },
+  {
+    "id": "Ezomyte_Hold",
+    "name": "Ezomyte Hold",
+    "baseType": "Iron Hat",
+    "type": "Helmet",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "20% increased Global Physical Damage",
+      "+(15-25) to Armour",
+      "+(25-50) to maximum Life",
+      "Cannot Evade Enemy Attacks",
+      "Cannot be Stunned"
+    ]
+  },
+  {
+    "id": "Ezomyte_Peak",
+    "name": "Ezomyte Peak",
+    "baseType": "Iron Hat",
+    "type": "Helmet",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(75-100) to Armour",
+      "+(25-50) to maximum Life",
+      "(15-20)% increased Area of Effect",
+      "Unwavering Stance"
+    ]
+  },
+  {
+    "id": "Fairgraves_Tricorne",
+    "name": "Fairgraves' Tricorne",
+    "baseType": "Tricorne",
+    "type": "Helmet",
+    "levelReq": 12,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 15 to 25 Cold Damage to Attacks",
+      "70% increased Evasion Rating",
+      "+(20-30)% to Lightning Resistance",
+      "Cannot be Shocked",
+      "You can be Touched by Tormented Spirits"
+    ]
+  },
+  {
+    "id": "Faithguard",
+    "name": "Faithguard",
+    "baseType": "Runic Helm",
+    "type": "Helmet",
+    "levelReq": 25,
+    "league": "Expedition",
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Intelligence",
+      "(25-35)% increased Ward",
+      "(40-60)% faster Restoration of Ward",
+      "(15-25)% increased Light Radius",
+      "Increases and Reductions to Maximum Energy Shield instead apply to Ward"
+    ]
+  },
+  {
+    "id": "Farruls_Bite",
+    "name": "Farrul's Bite",
+    "baseType": "Harlequin Mask",
+    "type": "Helmet",
+    "levelReq": 57,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Aspect of the Cat Skill",
+      "(180-220)% increased Evasion and Energy Shield",
+      "+(25-35)% to Cold Resistance",
+      "+1% to Critical Strike Chance while affected by Aspect of the Cat",
+      "Critical Strikes have (10-20)% chance to Blind Enemies while you have Cat's Stealth",
+      "(40-50)% increased Damage with Hits and Ailments against Blinded Enemies"
+    ]
+  },
+  {
+    "id": "Fenumus_Toxins",
+    "name": "Fenumus' Toxins",
+    "baseType": "Necromancer Circlet",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "Adds (16-21) to (31-36) Chaos Damage to Spells",
+      "(220-250)% increased Energy Shield",
+      "10% chance to gain a Power Charge on hitting an Enemy affected by a Spider's Web",
+      "(6-10)% chance to Poison per Power Charge",
+      "(15-20)% increased Damage with Poison per Power Charge",
+      "Aspect of the Spider inflicts Spider's Webs and Hinder every 0.5 Seconds instead"
+    ]
+  },
+  {
+    "id": "Flamesight",
+    "name": "Flamesight",
+    "baseType": "Solaris Circlet",
+    "type": "Helmet",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(240-280)% increased Energy Shield",
+      "+(30-40)% to Fire Resistance",
+      "(30-40)% increased Elemental Damage",
+      "(25-50)% chance to Scorch Enemies",
+      "Cannot inflict Ignite"
+    ]
+  },
+  {
+    "id": "Fractal_Thoughts",
+    "name": "Fractal Thoughts",
+    "baseType": "Vaal Mask",
+    "type": "Helmet",
+    "levelReq": 62,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "(140-180)% increased Evasion and Energy Shield",
+      "+(25-40)% to Critical Strike Multiplier if Dexterity is higher than Intelligence",
+      "15% increased Dexterity if Strength is higher than Intelligence",
+      "1% increased Elemental Damage per 10 Dexterity",
+      "+2 to Maximum Life per 10 Intelligence"
+    ]
+  },
+  {
+    "id": "Frostferno",
+    "name": "Frostferno",
+    "baseType": "Leather Hood",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Fire Gems",
+      "+2 to Level of Socketed Cold Gems",
+      "Socketed Gems are Supported by Level 30 Cold to Fire",
+      "(450-500)% increased Evasion Rating",
+      "60% increased Mana Regeneration Rate",
+      "+(20-30)% to Fire and Cold Resistances"
+    ]
+  },
+  {
+    "id": "Galesight",
+    "name": "Galesight",
+    "baseType": "Solaris Circlet",
+    "type": "Helmet",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(240-280)% increased Energy Shield",
+      "+(30-40)% to Cold Resistance",
+      "(30-40)% increased Elemental Damage",
+      "(25-50)% chance to inflict Brittle",
+      "Cannot inflict Freeze or Chill"
+    ]
+  },
+  {
+    "id": "Geofris_Crest",
+    "name": "Geofri's Crest",
+    "baseType": "Great Crown",
+    "type": "Helmet",
+    "levelReq": 53,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(120-150)% increased Armour and Energy Shield",
+      "+(20-30)% to Fire Resistance",
+      "+(20-30)% to Cold Resistance",
+      "+(20-30)% to Lightning Resistance",
+      "+(20-30)% to Chaos Resistance",
+      "+1 to maximum number of Summoned Holy Relics"
+    ]
+  },
+  {
+    "id": "Geofris_Legacy",
+    "name": "Geofri's Legacy",
+    "baseType": "Great Crown",
+    "type": "Helmet",
+    "levelReq": 53,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Gems",
+      "(60-80)% increased Armour and Energy Shield",
+      "+(15-20)% to Fire Resistance",
+      "+(15-20)% to Cold Resistance",
+      "+(15-20)% to Lightning Resistance",
+      "+(20-30)% to Chaos Resistance",
+      "+1 to maximum number of Summoned Holy Relics",
+      "Summoned Holy Relics have (20-25)% reduced Cooldown Recovery Speed"
+    ]
+  },
+  {
+    "id": "Glimpse_of_Chaos",
+    "name": "Glimpse of Chaos",
+    "baseType": "Vaal Mask",
+    "type": "Helmet",
+    "levelReq": 62,
+    "league": "Ultimatum",
+    "implicit": ["Variant: Area of Effect"],
+    "mods": [
+      "Variant: Blind",
+      "Variant: Mana Cost + Reservation",
+      "Variant: Curse Effect",
+      "Variant: Skill Effect Duration",
+      "Variant: Crushed",
+      "Variant: +2 Gems",
+      "Variant: Minimum Charges",
+      "Variant: Cooldown Recovery",
+      "Variant: Aura Effect",
+      "Variant: Additional Projectile",
+      "Variant: Malediction",
+      "Variant: Quantity",
+      "(5-7)% increased Quantity of Items found",
+      "Can be modified while Corrupted",
+      "(30-40)% increased maximum Life and reduced Fire Resistance",
+      "(30-40)% increased maximum Mana and reduced Cold Resistance",
+      "(30-40)% increased Global maximum Energy Shield and reduced Lightning Resistance",
+      "Chaos Resistance is Zero"
+    ]
+  },
+  {
+    "id": "Goldrim",
+    "name": "Goldrim",
+    "baseType": "Leather Cap",
+    "type": "Helmet",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-50) to Evasion Rating",
+      "10% increased Rarity of Items found",
+      "+(30-40)% to all Elemental Resistances",
+      "Reflects 4 Physical Damage to Melee Attackers"
+    ]
+  },
+  {
+    "id": "Gorgons_Gaze",
+    "name": "Gorgon's Gaze",
+    "baseType": "Regicide Mask",
+    "type": "Helmet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Summon Petrification Statue Skill",
+      "(200-250)% increased Energy Shield",
+      "+(60-80) to maximum Life",
+      "(5-10)% increased Attack and Cast Speed",
+      "5% additional Physical Damage Reduction while moving",
+      "5% reduced Elemental Damage taken while stationary"
+    ]
+  },
+  {
+    "id": "Hale_Negator",
+    "name": "Hale Negator",
+    "baseType": "Mind Cage",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": "Delve",
+    "implicit": [],
+    "mods": [
+      "Has 2 Abyssal Sockets",
+      "(6-8)% increased maximum Life",
+      "+1 to Maximum Spirit Charges per Abyss Jewel affecting you",
+      "Gain a Spirit Charge every second",
+      "You lose all Spirit Charges when taking a Savage Hit",
+      "Recover (2-3)% of Life when you lose a Spirit Charge",
+      "Recover (2-3)% of Energy Shield when you lose a Spirit Charge"
+    ]
+  },
+  {
+    "id": "Heatshiver",
+    "name": "Heatshiver",
+    "baseType": "Leather Hood",
+    "type": "Helmet",
+    "levelReq": 20,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(80-100)% increased Evasion Rating",
+      "60% increased Mana Regeneration Rate",
+      "+(20-30)% to Fire Resistance",
+      "+(20-30)% to Cold Resistance",
+      "Gain 1% of Cold Damage as Extra Fire Damage per 1% Chill Effect on Enemy",
+      "Gain 30% of Cold Damage as Extra Fire Damage against Frozen Enemies"
+    ]
+  },
+  {
+    "id": "Heretics_Veil",
+    "name": "Heretic's Veil",
+    "baseType": "Deicide Mask",
+    "type": "Helmet",
+    "levelReq": 67,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(40-50) to maximum Energy Shield",
+      "(90-110)% increased Evasion and Energy Shield",
+      "+2 to Level of Socketed Curse Gems",
+      "Socketed Curse Gems are Supported by Level 22 Blasphemy",
+      "Socketed Curse Gems have 30% increased Reservation Efficiency"
+    ]
+  },
+  {
+    "id": "Honourhome",
+    "name": "Honourhome",
+    "baseType": "Soldier Helmet",
+    "type": "Helmet",
+    "levelReq": 12,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Adds 1 to 30 Lightning Damage to Spells and Attacks",
+      "(100-150)% increased Armour and Energy Shield",
+      "(10-20)% increased Rarity of Items found",
+      "(10-20)% reduced Mana Cost of Skills"
+    ]
+  },
+  {
+    "id": "Howlcrack",
+    "name": "Howlcrack",
+    "baseType": "Ezomyte Burgonet",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Mercenaries of Trarthus",
+    "implicit": [],
+    "mods": [
+      "+(30-40) to Strength",
+      "(100-160)% increased Armour",
+      "Non-instant Warcries ignore their Cooldown when used",
+      "Warcries cost +15% of Life",
+      "Warcry Skills have (15-25)% increased Area of Effect"
+    ]
+  },
+  {
+    "id": "Hrimnors_Resolve",
+    "name": "Hrimnor's Resolve",
+    "baseType": "Samnite Helmet",
+    "type": "Helmet",
+    "levelReq": 55,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(30-40)% increased Fire Damage",
+      "(100-120)% increased Armour",
+      "+(50-70) to maximum Life",
+      "+30% to Cold Resistance",
+      "Cannot be Frozen or Chilled if you've used a Fire Skill Recently"
+    ]
+  },
+  {
+    "id": "Indigon",
+    "name": "Indigon",
+    "baseType": "Hubris Circlet",
+    "type": "Helmet",
+    "levelReq": 69,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-180)% increased Energy Shield",
+      "(6-10)% increased maximum Mana",
+      "Recover (8-10)% of maximum Life when you use a Mana Flask",
+      "Non-instant Mana recovery from Flasks is also recovered as Life",
+      "(50-60)% increased Cost of Skills for each 200 total Mana Spent Recently",
+      "(20-25)% increased Spell Damage for each 200 total Mana you have Spent Recently, up to 2000%"
+    ]
+  },
+  {
+    "id": "Kaoms_Command",
+    "name": "Kaom's Command",
+    "baseType": "Siege Helmet",
+    "type": "Helmet",
+    "levelReq": 48,
+    "league": "Settlers of Kalguur",
+    "implicit": [],
+    "mods": [
+      "+(60-80) to maximum Life",
+      "(25-35)% increased Warcry Speed",
+      "Nearby corpses Explode when you Warcry, dealing (5-10)% of their Life as Physical Damage",
+      "Warcry Skills have (25-35)% increased Area of Effect"
+    ]
+  },
+  {
+    "id": "Kitavas_Thirst",
+    "name": "Kitava's Thirst",
+    "baseType": "Zealot Helmet",
+    "type": "Helmet",
+    "levelReq": 44,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "15% reduced Cast Speed",
+      "(70-80)% increased Armour and Energy Shield",
+      "+(30-50) to maximum Mana",
+      "50% chance to Trigger Socketed Spells when you Spend at least 100 Mana on an Upfront Cost to Use or Trigger a Skill, with a 0.1 second Cooldown"
+    ]
+  },
+  {
+    "id": "Leer_Cast",
+    "name": "Leer Cast",
+    "baseType": "Festival Mask",
+    "type": "Helmet",
+    "levelReq": 28,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "25% reduced Damage",
+      "+(60-100) to maximum Life",
+      "+(60-100) to maximum Mana",
+      "You and nearby allies gain 50% increased Damage"
+    ]
+  },
+  {
+    "id": "Lightpoacher",
+    "name": "Lightpoacher",
+    "baseType": "Great Crown",
+    "type": "Helmet",
+    "levelReq": 53,
+    "league": "Abyss",
+    "implicit": [],
+    "mods": [
+      "Has 2 Abyssal Sockets",
+      "Trigger Level 20 Spirit Burst when you Use a Skill while you have a Spirit Charge",
+      "+(10-15)% to all Elemental Resistances",
+      "+1 to Maximum Spirit Charges per Abyss Jewel affecting you",
+      "Gain a Spirit Charge on Kill",
+      "Gain 5% of Physical Damage as Extra Damage of each Element per Spirit Charge"
+    ]
+  },
+  {
+    "id": "Malachais_Awakening",
+    "name": "Malachai's Awakening",
+    "baseType": "Iron Mask",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(15-30)% increased Spell Damage",
+      "+20 to Strength",
+      "+10% to all Elemental Resistances",
+      "Adds (42-54) to (78-88) Cold Damage to Spells while no Life is Reserved",
+      "Adds (54-64) to (96-107) Fire Damage to Spells while no Life is Reserved",
+      "Adds (5-14) to (160-173) Lightning Damage to Spells while no Life is Reserved",
+      "Blood Magic"
+    ]
+  },
+  {
+    "id": "Malachais_Simula",
+    "name": "Malachai's Simula",
+    "baseType": "Iron Mask",
+    "type": "Helmet",
+    "levelReq": 17,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+20 to Strength",
+      "+(20-30)% to Lightning Resistance",
+      "Spells have a 20% chance to deal Double Damage",
+      "Blood Magic"
+    ]
+  },
+  {
+    "id": "Malachais_Vision",
+    "name": "Malachai's Vision",
+    "baseType": "Praetor Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (13-17) to (29-37) Chaos Damage",
+      "+(150-200) to maximum Energy Shield",
+      "+(32-40)% to Cold Resistance",
+      "+(15-20)% to Lightning Resistance",
+      "Regenerate 400 Energy Shield per second if all Equipped items are Corrupted",
+      "Regenerate 35 Mana per second if all Equipped Items are Corrupted"
+    ]
+  },
+  {
+    "id": "Mark_of_the_Red_Covenant",
+    "name": "Mark of the Red Covenant",
+    "baseType": "Tribal Circlet",
+    "type": "Helmet",
+    "levelReq": 26,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-50) to maximum Energy Shield",
+      "Summoned Raging Spirits deal (175-250)% increased Damage",
+      "75% reduced Maximum number of Summoned Raging Spirits",
+      "Summoned Raging Spirits' Hits always Ignite",
+      "Summoned Raging Spirits' Melee Strikes deal Fire-only Splash",
+      "Damage to Surrounding Targets"
+    ]
+  },
+  {
+    "id": "Martyrs_Crown",
+    "name": "Martyr's Crown",
+    "baseType": "Vine Circlet",
+    "type": "Helmet",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(170-210) to maximum Energy Shield",
+      "Reflects 5 Physical Damage to Melee Attackers",
+      "Take 5 Physical Damage when hit by Attacks",
+      "Pain Attunement"
+    ]
+  },
+  {
+    "id": "Mask_of_the_Spirit_Drinker",
+    "name": "Mask of the Spirit Drinker",
+    "baseType": "Magistrate Crown",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "(140-220)% increased Armour and Energy Shield",
+      "+(30-60) to maximum Energy Shield",
+      "+(80-100) to maximum Life",
+      "Cannot gain Energy Shield",
+      "Regenerate 50 Life per second if you have at least 500 Maximum Energy Shield",
+      "Regenerate 100 Life per second if you have at least 1000 Maximum Energy Shield",
+      "Regenerate 150 Life per second if you have at least 1500 Maximum Energy Shield",
+      "Your Energy Shield starts at zero"
+    ]
+  },
+  {
+    "id": "Mask_of_the_Stitched_Demon",
+    "name": "Mask of the Stitched Demon",
+    "baseType": "Magistrate Crown",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "+(40-50) to Intelligence",
+      "+(160-180) to maximum Energy Shield",
+      "Strength provides no bonus to Maximum Life",
+      "Intelligence provides no inherent bonus to Maximum Mana",
+      "+1 to Maximum Life per 2 Intelligence",
+      "Cannot gain Energy Shield",
+      "Regenerate 1% of Life per second per 500 Maximum Energy Shield",
+      "Your Energy Shield starts at zero"
+    ]
+  },
+  {
+    "id": "Mask_of_the_Tribunal",
+    "name": "Mask of the Tribunal",
+    "baseType": "Magistrate Crown",
+    "type": "Helmet",
+    "levelReq": 58,
+    "league": "Synthesis",
+    "implicit": [],
+    "mods": [
+      "+(25-30) to all Attributes",
+      "(150-200)% increased Armour and Energy Shield",
+      "Nearby Allies have 1% Chance to Block Attack Damage per 100 Strength you have",
+      "Nearby Allies have +(6-8)% to Critical Strike Multiplier per 100 Dexterity you have",
+      "Nearby Allies have (2-4)% increased Cast Speed per 100 Intelligence you have",
+      "2% increased Mana Reservation Efficiency of Skills per 250 total Attributes"
+    ]
+  },
+  {
+    "id": "Maw_of_Conquest",
+    "name": "Maw of Conquest",
+    "baseType": "Steel Circlet",
+    "type": "Helmet",
+    "levelReq": 48,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "(60-80)% increased Critical Strike Chance for Spells",
+      "(200-250)% increased Energy Shield",
+      "+(50-70) to maximum Life",
+      "Unaffected by Poison",
+      "(10-20)% of Damage taken Recouped as Life"
+    ]
+  },
+  {
+    "id": "Maw_of_Mischief",
+    "name": "Maw of Mischief",
+    "baseType": "Bone Helmet",
+    "type": "Helmet",
+    "levelReq": 73,
+    "league": "Heist",
+    "implicit": ["Minions deal (15-20)% increased Damage"],
+    "mods": [
+      "Grants Level 20 Death Wish Skill",
+      "+(45-65) to maximum Life",
+      "(30-20)% reduced Mana Cost of Minion Skills",
+      "Minions are Aggressive"
+    ]
+  },
+  {
+    "id": "Memory_Vault",
+    "name": "Memory Vault",
+    "baseType": "Praetor Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(130-160) to maximum Energy Shield",
+      "+(150-200) to maximum Mana",
+      "(30-40)% increased Mana Regeneration Rate",
+      "+(20-30)% to Fire Resistance",
+      "20% reduced Reservation Efficiency",
+      "1% increased Armour per 50 Reserved Mana"
+    ]
+  },
+  {
+    "id": "Mind_of_the_Council",
+    "name": "Mind of the Council",
+    "baseType": "Harlequin Mask",
+    "type": "Helmet",
+    "levelReq": 57,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(230-260)% increased Evasion and Energy Shield",
+      "+(15-20) to maximum Energy Shield",
+      "(20-30)% increased maximum Mana",
+      "10% chance to Shock",
+      "+20% chance to be Shocked",
+      "30% of Lightning Damage is taken from Mana before Life",
+      "Attack Skills have added Lightning Damage equal to 6% of maximum Mana",
+      "Lose 3% of Mana when you use an Attack Skill"
+    ]
+  },
+  {
+    "id": "Mindspiral",
+    "name": "Mindspiral",
+    "baseType": "Aventail Helmet",
+    "type": "Helmet",
+    "levelReq": 37,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(100-120) to maximum Mana",
+      "Gain (10-15)% of Maximum Mana as Extra Maximum Energy Shield",
+      "Enemies Cannot Leech Mana From You",
+      "(10-20)% of Damage taken Recouped as Mana",
+      "Cannot Leech Mana"
+    ]
+  },
+  {
+    "id": "Obscurantis",
+    "name": "Obscurantis",
+    "baseType": "Lion Pelt",
+    "type": "Helmet",
+    "levelReq": 70,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(800-1000) to Accuracy Rating",
+      "(100-120)% increased Evasion Rating",
+      "+(50-80) to maximum Life",
+      "1% increased Projectile Attack Damage per 200 Accuracy Rating"
+    ]
+  },
+  {
+    "id": "Plume_of_Pursuit",
+    "name": "Plume of Pursuit",
+    "baseType": "Bone Circlet",
+    "type": "Helmet",
+    "levelReq": 64,
+    "league": "Harvest",
+    "implicit": [],
+    "mods": [
+      "(30-20)% reduced Cast Speed",
+      "(80-130)% increased Energy Shield",
+      "Non-critical strikes deal 80% less Damage",
+      "Spell Skills always deal Critical Strikes on final Repeat",
+      "Spell Skills cannot deal Critical Strikes except on final Repeat"
+    ]
+  },
+  {
+    "id": "Rats_Nest",
+    "name": "Rat's Nest",
+    "baseType": "Ursine Pelt",
+    "type": "Helmet",
+    "levelReq": 55,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "15% increased Attack Speed",
+      "(60-75)% increased Global Critical Strike Chance",
+      "150% increased Evasion Rating",
+      "(20-25)% increased Rarity of Items found",
+      "10% increased Movement Speed",
+      "10% reduced Character Size"
+    ]
+  },
+  {
+    "id": "Ravenous_Passion",
+    "name": "Ravenous Passion",
+    "baseType": "Zealot Helmet",
+    "type": "Helmet",
+    "levelReq": 44,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-50) to Strength",
+      "(80-120)% Increased Armour and Energy Shield",
+      "Gain (7-10) Rage after Spending a total of 200 Mana",
+      "Rage grants Spell Damage instead of Attack Damage"
+    ]
+  },
+  {
+    "id": "Refuge_in_Isolation",
+    "name": "Refuge in Isolation",
+    "baseType": "Paladin Crown",
+    "type": "Helmet",
+    "levelReq": 78,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(350-650)% increased Armour",
+      "(-50--40)% to all Elemental Resistances",
+      "+(13-29)% to Chaos Resistance",
+      "(15-30)% of Elemental Damage from Hits taken as Physical Damage",
+      "Physical Damage of Enemies Hitting you is Unlucky"
+    ]
+  },
+  {
+    "id": "Replica_Abyssus",
+    "name": "Replica Abyssus",
+    "baseType": "Ezomyte Burgonet",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+(20-25) to all Attributes",
+      "Adds 40 to 75 Fire Damage to Attacks",
+      "Adds 30 to 65 Cold Damage to Attacks",
+      "Adds 10 to 130 Lightning Damage to Attacks",
+      "+(100-125)% to Melee Critical Strike Multiplier",
+      "(100-120)% increased Armour",
+      "(40-50)% increased Elemental Damage taken"
+    ]
+  },
+  {
+    "id": "Replica_Alphas_Howl",
+    "name": "Replica Alpha's Howl",
+    "baseType": "Sinner Tricorne",
+    "type": "Helmet",
+    "levelReq": 64,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+4 to Level of Socketed Herald Gems",
+      "(80-100)% increased Evasion Rating",
+      "+(20-30)% to Chaos Resistance",
+      "25% chance to Avoid being Poisoned",
+      "16% increased Mana Reservation Efficiency of Skills",
+      "You cannot be Hindered"
+    ]
+  },
+  {
+    "id": "Replica_Heatshiver",
+    "name": "Replica Heatshiver",
+    "baseType": "Leather Hood",
+    "type": "Helmet",
+    "levelReq": 20,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(80–100)% increased Evasion Rating",
+      "60% increased Mana Regeneration Rate",
+      "+(20–30)% to Cold Resistance",
+      "+(20–30)% to Lightning Resistance",
+      "Gain 1% of Lightning Damage as Extra Cold Damage per 2% Shock Effect on Enemy"
+    ]
+  },
+  {
+    "id": "Replica_Leer_Cast",
+    "name": "Replica Leer Cast",
+    "baseType": "Festival Mask",
+    "type": "Helmet",
+    "levelReq": 28,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+(60-100) to maximum Life",
+      "+(60-100) to maximum Mana",
+      "60% reduced Mana Regeneration Rate",
+      "You and nearby Allies have 30% increased Mana Regeneration Rate"
+    ]
+  },
+  {
+    "id": "Replica_Veil_of_the_Night",
+    "name": "Replica Veil of the Night",
+    "baseType": "Great Helmet",
+    "type": "Helmet",
+    "levelReq": 22,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(20-22)% increased Stun and Block Recovery",
+      "40% reduced Light Radius",
+      "Reflects 1 to (180-220) Lightning Damage to Attackers on Block",
+      "Defences are Zero",
+      "(18-22)% increased Elemental Resistances"
+    ]
+  },
+  {
+    "id": "Rime_Gaze",
+    "name": "Rime Gaze",
+    "baseType": "Mind Cage",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Concentrated Effect",
+      "+50% to Cold Damage over Time Multiplier",
+      "50% increased Energy Shield",
+      "50% reduced Energy Shield Recharge Rate",
+      "+(25-75) to maximum Mana"
+    ]
+  },
+  {
+    "id": "Sandstorm_Visage",
+    "name": "Sandstorm Visage",
+    "baseType": "Necromancer Circlet",
+    "type": "Helmet",
+    "levelReq": 54,
+    "league": "Sanctum",
+    "implicit": [],
+    "mods": [
+      "(8-10)% increased Cast Speed",
+      "(200-250)% increased Energy Shield",
+      "Ignore Stuns while Casting",
+      "Base Spell Critical Strike Chance of Spells is equal to that of Main Hand Weapon",
+      "Cannot deal Critical Strikes with Attacks"
+    ]
+  },
+  {
+    "id": "Saqawals_Flock",
+    "name": "Saqawal's Flock",
+    "baseType": "Silken Hood",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Twister when you gain Avian's Might or Avian's Flight",
+      "(60-80)% increased Evasion Rating",
+      "+(40-60) to maximum Life",
+      "+(30-40)% to Lightning Resistance",
+      "(10-15)% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Scolds_Bridle",
+    "name": "Scold's Bridle",
+    "baseType": "Mind Cage",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": "Torment",
+    "implicit": [],
+    "mods": [
+      "(80-100)% increased Spell Damage",
+      "15% reduced Cast Speed",
+      "+(30-60) to maximum Mana",
+      "Your Skills deal you 400% of Mana Spent on Upfront Skill Mana Costs as Physical Damage"
+    ]
+  },
+  {
+    "id": "Skullhead",
+    "name": "Skullhead",
+    "baseType": "Secutor Helm",
+    "type": "Helmet",
+    "levelReq": 36,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(60-80)% increased Armour and Evasion",
+      "+(10-20)% to all Elemental Resistances",
+      "Minions have +25% Chance to Block Attack Damage",
+      "Minions have +25% Chance to Block Spell Damage",
+      "Minions Recover 10% of their Life when they Block"
+    ]
+  },
+  {
+    "id": "Speakers_Wreath",
+    "name": "Speaker's Wreath",
+    "baseType": "Prophet Crown",
+    "type": "Helmet",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-40) to Dexterity",
+      "(10-15)% increased Skill Effect Duration",
+      "2% increased Minion Attack Speed per 50 Dexterity",
+      "2% increased Minion Movement Speed per 50 Dexterity",
+      "Minions' Hits can only Kill Ignited Enemies"
+    ]
+  },
+  {
+    "id": "Starkonjas_Head",
+    "name": "Starkonja's Head",
+    "baseType": "Silken Hood",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "50% reduced Damage when on Low Life",
+      "(100-130)% increased Evasion Rating",
+      "+(50-70) to Dexterity",
+      "10% increased Attack Speed",
+      "25% increased Global Critical Strike Chance",
+      "+(80-100) to maximum Life",
+      "150% increased Global Evasion Rating when on Low Life"
+    ]
+  },
+  {
+    "id": "Sudden_Dawn",
+    "name": "Sudden Dawn",
+    "baseType": "Steel Circlet",
+    "type": "Helmet",
+    "levelReq": 48,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(300-350)% increased Energy Shield",
+      "+(50-70) to maximum Mana",
+      "(10-20)% chance for Energy Shield Recharge to start when you Kill an Enemy",
+      "(30-40)% less Energy Shield Recharge Rate"
+    ]
+  },
+  {
+    "id": "The_Baron",
+    "name": "The Baron",
+    "baseType": "Close Helmet",
+    "type": "Helmet",
+    "levelReq": 26,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Minion Gems",
+      "Minions have (10-20)% increased maximum Life",
+      "Half of your Strength is added to your Minions",
+      "+1 to maximum number of Raised Zombies per 500 Strength",
+      "With 1000 or more Strength (1.5-2)% of Damage dealt by your Zombies is Leeched to you as Life"
+    ]
+  },
+  {
+    "id": "The_Brine_Crown",
+    "name": "The Brine Crown",
+    "baseType": "Prophet Crown",
+    "type": "Helmet",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(240-300)% increased Armour and Energy Shield",
+      "+(80-100) to maximum Life",
+      "+3% to maximum Cold Resistance",
+      "Cannot be Frozen",
+      "+1500 Armour while stationary",
+      "15% chance to create Chilled Ground when Hit with an Attack"
+    ]
+  },
+  {
+    "id": "The_Bringer_of_Rain",
+    "name": "The Bringer of Rain",
+    "baseType": "Nightmare Bascinet",
+    "type": "Helmet",
+    "levelReq": 67,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 30 Melee Physical Damage",
+      "Socketed Gems are Supported by Level 30 Faster Attacks",
+      "Socketed Gems are Supported by Level 30 Blind",
+      "6% Chance to Block Attack Damage",
+      "Adds 20 to 30 Physical Damage to Attacks",
+      "(200-300)% increased Armour and Evasion",
+      "+(200-300) to maximum Life",
+      "20% chance to gain an Endurance Charge when you Block",
+      "Can't use Chest armour",
+      "Extra gore"
+    ]
+  },
+  {
+    "id": "The_Broken_Crown",
+    "name": "The Broken Crown",
+    "baseType": "Prophet Crown",
+    "type": "Helmet",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are supported by Level 20 Cast on Death",
+      "20% increased Damage when on Low Life",
+      "+(10-15) to all Attributes",
+      "(60-100)% increased Armour and Energy Shield",
+      "20% reduced Mana Regeneration Rate",
+      "+(50-70) to maximum Energy Shield",
+      "+(43-61)% to Chaos Resistance"
+    ]
+  },
+  {
+    "id": "The_Dark_Monarch",
+    "name": "The Dark Monarch",
+    "baseType": "Lich's Circlet",
+    "type": "Helmet",
+    "levelReq": 80,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(50-100) to maximum Energy Shield",
+      "+1 to Level of all Minion Skill Gems",
+      "+(27-37)% to Chaos Resistance",
+      "50% reduced Light Radius",
+      "Maximum number of Summoned Spectral Wolves is Doubled",
+      "Cannot have Minions other than Summoned Spectral Wolves"
+    ]
+  },
+  {
+    "id": "The_Devourer_of_Minds",
+    "name": "The Devourer of Minds",
+    "baseType": "Pig-Faced Bascinet",
+    "type": "Helmet",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30–50) to Intelligence",
+      "(80–120)% increased Armour and Evasion",
+      "+1 to Level of all Minion Skill Gems",
+      "25% increased Light Radius",
+      "Minions have the same maximum number of Endurance, Frenzy and Power Charges as you",
+      "Minions count as having the same number of Endurance, Frenzy and Power Charges as you"
+    ]
+  },
+  {
+    "id": "The_Devouring_Diadem",
+    "name": "The Devouring Diadem",
+    "baseType": "Necromancer Circlet",
+    "type": "Helmet",
+    "levelReq": 54,
+    "league": "Betrayal",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems have 25% increased Reservation Efficiency",
+      "Trigger Level 15 Feast of Flesh every 5 seconds",
+      "(180-220)% increased Energy Shield",
+      "10% chance for Energy Shield Recharge to start when you use a Skill",
+      "Eldritch Battery",
+      "20% increased Damage if you have Consumed a corpse Recently"
+    ]
+  },
+  {
+    "id": "The_Fledgling",
+    "name": "The Fledgling",
+    "baseType": "Lacquered Helmet",
+    "type": "Helmet",
+    "levelReq": 51,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(150-200)% increased Armour and Evasion",
+      "(30-50)% increased Projectile Speed",
+      "(30-50)% increased Projectile Damage",
+      "Projectiles cannot collide with Enemies at Close Range",
+      "Far Shot"
+    ]
+  },
+  {
+    "id": "The_Formless_Flame",
+    "name": "The Formless Flame",
+    "baseType": "Royal Burgonet",
+    "type": "Helmet",
+    "levelReq": 48,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "(80-120)% increased Armour",
+      "-30% to Fire Resistance",
+      "-(100-200) Fire Damage taken from Hits",
+      "Armour is increased by Overcapped Fire Resistance"
+    ]
+  },
+  {
+    "id": "The_Formless_Inferno",
+    "name": "The Formless Inferno",
+    "baseType": "Royal Burgonet",
+    "type": "Helmet",
+    "levelReq": 65,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are supported by level 30 Infernal Legion",
+      "+(60-100) to maximum Life",
+      "-30% to Fire Resistance",
+      "Minion Life is increased by their Overcapped Fire Resistance"
+    ]
+  },
+  {
+    "id": "The_Gull",
+    "name": "The Gull",
+    "baseType": "Raven Mask",
+    "type": "Helmet",
+    "levelReq": 38,
+    "league": "Domination",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 1 Create Lesser Shrine when you Kill an Enemy",
+      "(120-150)% increased Evasion and Energy Shield",
+      "+(30-45) to maximum Energy Shield",
+      "+(60-80) to maximum Life",
+      "+(30-40)% to Cold Resistance",
+      "75% increased Effect of Shrine Buffs on you",
+      "50% increased Duration of Shrine Effects on you"
+    ]
+  },
+  {
+    "id": "The_Hallowed_Monarch",
+    "name": "The Hallowed Monarch",
+    "baseType": "Faithful Helmet",
+    "type": "Helmet",
+    "levelReq": 73,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-230)% increased Armour",
+      "+(25-35)% to all Elemental Resistances",
+      "50% increased Light Radius",
+      "Link Skills can target Damageable Minions",
+      "Your Linked Minions take (75-65)% less Damage",
+      "On Killing a Rare monster, a random Linked Minion gains its Modifiers for 60 seconds"
+    ]
+  },
+  {
+    "id": "The_Peregrine",
+    "name": "The Peregrine",
+    "baseType": "Visored Sallet",
+    "type": "Helmet",
+    "levelReq": 23,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+500 to Accuracy Rating",
+      "(40-60)% increased Armour and Evasion",
+      "(20-30)% increased Rarity of Items found",
+      "+30% to Lightning Resistance",
+      "0.4% of Attack Damage Leeched as Mana",
+      "10% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "The_Tempests_Binding",
+    "name": "The Tempest's Binding",
+    "baseType": "Callous Mask",
+    "type": "Helmet",
+    "levelReq": 45,
+    "league": "Harbinger",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 18 Ice Bite",
+      "Socketed Gems are Supported by Level 18 Innervate",
+      "Grants Summon Harbinger of Storms Skill",
+      "+(100-150) to Evasion Rating",
+      "+(40-60) to maximum Energy Shield",
+      "+(60-80) to maximum Life",
+      "+(10-15)% to all Elemental Resistances"
+    ]
+  },
+  {
+    "id": "The_Tempests_Liberation",
+    "name": "The Tempest's Liberation",
+    "baseType": "Callous Mask",
+    "type": "Helmet",
+    "levelReq": 60,
+    "league": "Harvest",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 18 Ice Bite",
+      "Socketed Gems are Supported by Level 18 Innervate",
+      "Grants Summon Greater Harbinger of Storms Skill",
+      "+(100-150) to Evasion Rating",
+      "+(40-60) to maximum Energy Shield",
+      "+(60-80) to maximum Life",
+      "+(10-15)% to all Elemental Resistances"
+    ]
+  },
+  {
+    "id": "The_Three_Dragons",
+    "name": "The Three Dragons",
+    "baseType": "Golden Mask",
+    "type": "Helmet",
+    "levelReq": 35,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(26-30)% to all Elemental Resistances",
+      "Your Fire Damage can Shock but not Ignite",
+      "Your Cold Damage can Ignite but not Freeze or Chill",
+      "Your Lightning Damage can Freeze but not Shock"
+    ]
+  },
+  {
+    "id": "The_Tricksters_Smile",
+    "name": "The Trickster's Smile",
+    "baseType": "Visored Sallet",
+    "type": "Helmet",
+    "levelReq": 23,
+    "league": "Affliction",
+    "implicit": [],
+    "mods": [
+      "(60-100)% increased Armour and Evasion",
+      "Reflects 100 Cold Damage to Melee Attackers",
+      "Reflects 100 Fire Damage to Melee Attackers",
+      "Reflects 100 Lightning Damage to Melee Attackers",
+      "When an Enemy Hit deals Elemental Damage to you, their Resistance to those Elements becomes zero for 4 seconds"
+    ]
+  },
+  {
+    "id": "The_Vertex",
+    "name": "The Vertex",
+    "baseType": "Vaal Mask",
+    "type": "Helmet",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Gems",
+      "(245-280)% increased Evasion and Energy Shield",
+      "+(30-40) to maximum Energy Shield",
+      "+(24-30)% to Chaos Resistance",
+      "Enemies cannot Leech Mana from You",
+      "Socketed Gems have 50% reduced Mana Cost"
+    ]
+  },
+  {
+    "id": "Thrillsteel",
+    "name": "Thrillsteel",
+    "baseType": "Barbute Helmet",
+    "type": "Helmet",
+    "levelReq": 18,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Onslaught"
+    ]
+  },
+  {
+    "id": "Thundersight",
+    "name": "Thundersight",
+    "baseType": "Solaris Circlet",
+    "type": "Helmet",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(240-280)% increased Energy Shield",
+      "+(30-40)% to Lightning Resistance",
+      "(30-40)% increased Elemental Damage",
+      "(25-50)% chance to Sap Enemies",
+      "Cannot inflict Shock"
+    ]
+  },
+  {
+    "id": "Usurpers_Penance",
+    "name": "Usurper's Penance",
+    "baseType": "Eternal Burgonet",
+    "type": "Helmet",
+    "levelReq": 69,
+    "league": "Expedition",
+    "implicit": [],
+    "mods": [
+      "(50-80)% increased Armour",
+      "Attacks have 15% chance to cause Bleeding",
+      "50% reduced Light Radius",
+      "+4% to Damage over Time Multiplier for Bleeding per Frenzy Charge",
+      "Bleeding you inflict deals Damage 4% faster per Frenzy Charge",
+      "(20-30)% chance to gain a Frenzy Charge on Critical Strike at Close Range"
+    ]
+  },
+  {
+    "id": "Veil_of_the_Night",
+    "name": "Veil of the Night",
+    "baseType": "Great Helmet",
+    "type": "Helmet",
+    "levelReq": 22,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-22)% increased Stun and Block Recovery",
+      "40% reduced Light Radius",
+      "Reflects 1 to (180-220) Lightning Damage to Attackers on Block",
+      "(18-22)% increased Global Defences",
+      "Elemental Resistances are Zero"
+    ]
+  },
+  {
+    "id": "Viridis_Veil",
+    "name": "Viridi's Veil",
+    "baseType": "Praetor Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": "Ritual",
+    "implicit": [],
+    "mods": [
+      "+(1-2) to Level of Socketed Gems",
+      "(120-160)% increased Armour and Energy Shield",
+      "+(15-25)% to all Elemental Resistances",
+      "Damage of Enemies Hitting you is Unlucky while you have a Magic Ring Equipped",
+      "You are Hexproof if you have a Magic Ring in right slot",
+      "Take no Extra Damage from Critical Strikes if you have a Magic Ring in left slot"
+    ]
+  },
+  {
+    "id": "Volls_Vision",
+    "name": "Voll's Vision",
+    "baseType": "Praetor Crown",
+    "type": "Helmet",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(260-300) to Armour",
+      "+(26-32)% to Fire Resistance",
+      "+(8-16)% to Chaos Resistance",
+      "20% increased Light Radius",
+      "(8-12)% increased Maximum Life if no Equipped Items are Corrupted",
+      "Regenerate 400 Life per second if no Equipped Items are Corrupted"
+    ]
+  },
+  {
+    "id": "Willclash",
+    "name": "Willclash",
+    "baseType": "Golden Mask",
+    "type": "Helmet",
+    "levelReq": 35,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(350-400)% increased Evasion and Energy Shield",
+      "+5% Chance to Block Spell Damage per Power Charge",
+      "(3-5)% increased Elemental Damage per Power Charge",
+      "Gain a Power Charge every Second if you haven't lost Power Charges Recently",
+      "Lose all Power Charges when you Block"
+    ]
+  },
+  {
+    "id": "Wilmas_Requital",
+    "name": "Wilma's Requital",
+    "baseType": "Solaris Circlet",
+    "type": "Helmet",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(300-500) to Accuracy Rating",
+      "(200-250)% increased Energy Shield",
+      "Increases and Reductions to Cast Speed apply to Attack Speed",
+      "(20-30)% increased Elemental Damage with Attack Skills",
+      "Ancestral Bond"
+    ]
+  },
+  {
+    "id": "Wraithlord",
+    "name": "Wraithlord",
+    "baseType": "Bone Circlet",
+    "type": "Helmet",
+    "levelReq": 34,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Has 4 Abyssal Sockets",
+      "+(1-2) to Level of all Minion Skill Gems",
+      "(120-150)% increased Energy Shield",
+      "+1 to maximum number of Spectres per Socketed Ghastly Eye Jewel",
+      "You cannot have Non-Spectre Minions"
+    ]
+  },
+  {
+    "id": "Wreath_of_Phrecia",
+    "name": "Wreath of Phrecia",
+    "baseType": "Iron Circlet",
+    "type": "Helmet",
+    "levelReq": 8,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "Has no Attribute Requirements",
+      "Increases and Reductions to Light Radius also apply to Area of Effect at 50% of their value",
+      "Increases and Reductions to Light Radius also apply to Damage",
+      "(15-25)% increased Light Radius",
+      "Deal no Chaos Damage"
+    ]
+  },
+  {
+    "id": "Ylfebans_Trickery",
+    "name": "Ylfeban's Trickery",
+    "baseType": "Hubris Circlet",
+    "type": "Helmet",
+    "levelReq": 69,
+    "league": "Tempest",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 10 Shock Ground when Hit",
+      "Adds 1 to (60-80) Lightning Damage to Spells and Attacks",
+      "(130-170)% increased Energy Shield",
+      "+(25-35)% to Lightning Resistance",
+      "Curse Enemies which Hit you with a random Hex, ignoring Curse Limit"
+    ]
+  }
+]

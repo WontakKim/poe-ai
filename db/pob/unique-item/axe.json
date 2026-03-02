@@ -1,0 +1,547 @@
+[
+  {
+    "id": "Actum",
+    "name": "Actum",
+    "baseType": "Butcher Axe",
+    "type": "One Handed Axe",
+    "levelReq": 63,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Variant: Pre 3.26.0",
+      "Variant: Current",
+      "Has no Sockets",
+      "(200-250)% increased Physical Damage",
+      "You have no Intelligence",
+      "Critical Strike Chance is (30-40)% for Hits with this Weapon"
+    ]
+  },
+  {
+    "id": "Atziris_Disfavour",
+    "name": "Atziri's Disfavour",
+    "baseType": "Vaal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 75,
+    "league": null,
+    "implicit": ["25% chance to Maim on Hit"],
+    "mods": [
+      "+30% to Quality of Socketed Support Gems",
+      "Adds (310-330) to (370-390) Physical Damage",
+      "(12-16)% increased Attack Speed",
+      "25% chance to cause Bleeding on Hit",
+      "+10 to Weapon Range"
+    ]
+  },
+  {
+    "id": "Debeons_Dirge",
+    "name": "Debeon's Dirge",
+    "baseType": "Despot Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 66,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (310-350) to (460-500) Cold Damage",
+      "15% increased Movement Speed if you've used a Warcry Recently",
+      "150% increased Elemental Damage if you've used a Warcry Recently",
+      "Warcries Knock Back and Interrupt Enemies in a smaller Area"
+    ]
+  },
+  {
+    "id": "Dreadarc",
+    "name": "Dreadarc",
+    "baseType": "Cleaver",
+    "type": "One Handed Axe",
+    "levelReq": 16,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (5-15) to (20-25) Physical Damage",
+      "Adds (5-15) to (20-25) Fire Damage",
+      "(7-10)% increased Attack Speed",
+      "+(15-25)% to Fire Resistance",
+      "5% increased Movement Speed",
+      "Curse Enemies with Flammability on Hit"
+    ]
+  },
+  {
+    "id": "Dreadsurge",
+    "name": "Dreadsurge",
+    "baseType": "Cleaver",
+    "type": "One Handed Axe",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (5-15) to (20-25) Physical Damage",
+      "Adds (223-250) to (264-280) Fire Damage",
+      "(7-10)% increased Attack Speed",
+      "+(15-25)% to Fire Resistance",
+      "5% increased Movement Speed",
+      "Hits ignore Enemy Monster Fire Resistance while you are Ignited"
+    ]
+  },
+  {
+    "id": "Dyadus",
+    "name": "Dyadus",
+    "baseType": "Infernal Axe",
+    "type": "One Handed Axe",
+    "levelReq": 69,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds (255-285) to (300-330) Fire Damage in Main Hand",
+      "Adds (255-285) to (300-330) Cold Damage in Off Hand",
+      "(10-15)% increased Attack Speed",
+      "25% chance to Ignite when in Main Hand",
+      "100% increased Damage with Ignite inflicted on Chilled Enemies",
+      "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
+    ]
+  },
+  {
+    "id": "Hezmanas_Bloodlust",
+    "name": "Hezmana's Bloodlust",
+    "baseType": "Vaal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 64,
+    "league": null,
+    "implicit": ["25% chance to Maim on Hit"],
+    "mods": [
+      "(100-125)% increased Physical Damage",
+      "Adds (7-10) to (15-25) Physical Damage",
+      "1% of Physical Attack Damage Leeched as Life",
+      "40% increased Attack Speed if you've taken a Savage Hit Recently",
+      "Attacks Cost Life instead of Mana"
+    ]
+  },
+  {
+    "id": "Jack,_the_Axe",
+    "name": "Jack, the Axe",
+    "baseType": "Vaal Hatchet",
+    "type": "One Handed Axe",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Thirst for Blood Skill",
+      "(130-150)% increased Physical Damage",
+      "Adds (11-14) to (18-23) Physical Damage",
+      "25% chance to cause Bleeding on Hit",
+      "+(25-35)% to Damage over Time Multiplier for Bleeding from Hits with this Weapon"
+    ]
+  },
+  {
+    "id": "Kaoms_Primacy",
+    "name": "Kaom's Primacy",
+    "baseType": "Karui Chopper",
+    "type": "Two Handed Axe",
+    "levelReq": 58,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "(100-140)% increased Physical Damage",
+      "Gain 20 Life per Enemy Killed",
+      "+(150-250) to Accuracy Rating",
+      "Culling Strike",
+      "Gain 5 Rage on Melee Hit",
+      "Every Rage also grants 1% of Physical Damage as Extra Fire Damage"
+    ]
+  },
+  {
+    "id": "Kingmaker",
+    "name": "Kingmaker",
+    "baseType": "Despot Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 66,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(300-360)% increased Physical Damage",
+      "(7-12)% increased Attack Speed",
+      "(30-40)% increased Critical Strike Chance",
+      "Nearby Allies have 30% increased Item Rarity",
+      "Nearby Allies have Culling Strike",
+      "Insufficient Mana doesn't prevent your Melee Attacks",
+      "Nearby Allies have +50% to Critical Strike Multiplier",
+      "Nearby Allies have +10 Fortification"
+    ]
+  },
+  {
+    "id": "Kitavas_Feast",
+    "name": "Kitava's Feast",
+    "baseType": "Void Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are supported by Level 30 Melee Splash",
+      "(200-240)% increased Physical Damage",
+      "1% of Physical Attack Damage Leeched as Life",
+      "1% of Physical Attack Damage Leeched as Mana",
+      "Recover 5% of Life on Kill",
+      "Enemies Killed by your Hits are destroyed"
+    ]
+  },
+  {
+    "id": "Limbsplit",
+    "name": "Limbsplit",
+    "baseType": "Woodsplitter",
+    "type": "Two Handed Axe",
+    "levelReq": 13,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Strength Gems",
+      "Trigger Level 1 Gore Shockwave on Melee Hit if you have at least 150 Strength",
+      "+(15-30) to Strength",
+      "(80-100)% increased Physical Damage",
+      "Adds 5 to 10 Physical Damage",
+      "Culling Strike"
+    ]
+  },
+  {
+    "id": "Moonbenders_Wing",
+    "name": "Moonbender's Wing",
+    "baseType": "Tomahawk",
+    "type": "One Handed Axe",
+    "levelReq": 39,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 15 Lightning Warp on Hit with this Weapon",
+      "(30-50)% increased Physical Damage",
+      "(30-50)% increased Critical Strike Chance",
+      "Hits with this Weapon gain (75-100)% of Physical Damage as Extra Cold or Lightning Damage"
+    ]
+  },
+  {
+    "id": "Ngamahus_Flame",
+    "name": "Ngamahu's Flame",
+    "baseType": "Abyssal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 55,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "20% chance to Trigger Level 16 Molten Burst on Melee Hit",
+      "(170-190)% increased Physical Damage",
+      "(8-12)% increased Attack Speed",
+      "60% of Physical Damage Converted to Fire Damage",
+      "Damage Penetrates 20% Fire Resistance"
+    ]
+  },
+  {
+    "id": "Reapers_Pursuit",
+    "name": "Reaper's Pursuit",
+    "baseType": "Shadow Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 33,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(100-125)% increased Physical Damage",
+      "(30-40)% increased Rarity of Items found",
+      "Gain 10 Life per Enemy Killed",
+      "15% increased Movement Speed when on Full Life",
+      "Culling Strike",
+      "Hits can't be Evaded"
+    ]
+  },
+  {
+    "id": "Relentless_Fury",
+    "name": "Relentless Fury",
+    "baseType": "Decorative Axe",
+    "type": "One Handed Axe",
+    "levelReq": 29,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(60-80)% increased Physical Damage",
+      "Adds (3-5) to (7-10) Physical Damage",
+      "2% of Physical Attack Damage Leeched as Life",
+      "Culling Strike",
+      "You gain Onslaught for 3 seconds on Culling Strike",
+      "100% chance to Avoid being Chilled during Onslaught"
+    ]
+  },
+  {
+    "id": "Replica_Harvest",
+    "name": "Replica Harvest",
+    "baseType": "Jasper Chopper",
+    "type": "Two Handed Axe",
+    "levelReq": 37,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(120-140)% increased Physical Damage",
+      "1.2% of Damage Leeched as Life on Critical Strike",
+      "3% increased Global Critical Strike Chance per Level",
+      "Gain Elusive on Critical Strike"
+    ]
+  },
+  {
+    "id": "Replica_Soul_Taker",
+    "name": "Replica Soul Taker",
+    "baseType": "Siege Axe",
+    "type": "One Handed Axe",
+    "levelReq": 59,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(100-140)% increased Physical Damage",
+      "Adds 10 to 20 Physical Damage",
+      "(60-80)% increased Critical Strike Chance",
+      "+(20-25)% to Cold Resistance",
+      "Your Physical Damage can Freeze",
+      "Eldritch Battery"
+    ]
+  },
+  {
+    "id": "Replica_Wings_of_Entropy",
+    "name": "Replica Wings of Entropy",
+    "baseType": "Ezomyte Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 62,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(7-10)% Chance to Block Spell Damage",
+      "+(8-12)% Chance to Block Attack Damage while Dual Wielding",
+      "(60-80)% increased Physical Damage",
+      "Counts as Dual Wielding",
+      "+(10-20)% to Off Hand Critical Strike Chance",
+      "(50-100)% more Main Hand attack speed"
+    ]
+  },
+  {
+    "id": "Rigwalds_Savagery",
+    "name": "Rigwald's Savagery",
+    "baseType": "Royal Axe",
+    "type": "One Handed Axe",
+    "levelReq": 67,
+    "league": "Talisman Standard, Talisman Hardcore",
+    "implicit": [],
+    "mods": [
+      "Adds (50-70) to (135-165) Physical Damage",
+      "40% increased Physical Attack Damage while Dual Wielding",
+      "(10-15)% increased Attack Speed",
+      "+10 to Maximum Rage while wielding a Sword"
+    ]
+  },
+  {
+    "id": "Sinvictas_Mettle",
+    "name": "Sinvicta's Mettle",
+    "baseType": "Ezomyte Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(140-152)% increased Physical Damage",
+      "(8-12)% increased Attack Speed",
+      "2% increased Area of Effect per 25 Rampage Kills",
+      "Gain a Frenzy Charge on every 50th Rampage Kill",
+      "Rampage"
+    ]
+  },
+  {
+    "id": "Soul_Taker",
+    "name": "Soul Taker",
+    "baseType": "Siege Axe",
+    "type": "One Handed Axe",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(140-180)% increased Physical Damage",
+      "Adds 30 to 40 Physical Damage",
+      "(25-35)% increased Attack Speed",
+      "+(20-25)% to Cold Resistance",
+      "Insufficient Mana doesn't prevent your Melee Attacks",
+      "Your Physical Damage can Chill"
+    ]
+  },
+  {
+    "id": "Starcaller",
+    "name": "Starcaller",
+    "baseType": "Abyssal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 55,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Starfall on Melee Critical Strike",
+      "+(10-20) to all Attributes",
+      "(120-180)% increased Physical Damage",
+      "(20-30)% increased Critical Strike Chance",
+      "(10-20)% increased Area of Effect",
+      "Gain (40-60)% of Weapon Physical Damage as Extra Damage of a Random Element"
+    ]
+  },
+  {
+    "id": "The_Blood_Reaper",
+    "name": "The Blood Reaper",
+    "baseType": "Headsman Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 45,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(180-200)% increased Physical Damage",
+      "+100 to maximum Life",
+      "Regenerate 20 Life per second",
+      "1% of Physical Attack Damage Leeched as Life",
+      "50% increased Mana Cost of Skills",
+      "50% chance to cause Bleeding on Hit"
+    ]
+  },
+  {
+    "id": "The_Cauteriser",
+    "name": "The Cauteriser",
+    "baseType": "Woodsplitter",
+    "type": "Two Handed Axe",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Strength Gems",
+      "Trigger Level 5 Gore Shockwave on Melee Hit if you have at least 150 Strength",
+      "+(15-30) to Strength",
+      "(80-100)% increased Physical Damage",
+      "Adds (35-45) to (80-90) Physical Damage",
+      "Gain 70% of Physical Damage as Extra Fire Damage",
+      "Culling Strike"
+    ]
+  },
+  {
+    "id": "The_Grey_Wind",
+    "name": "The Grey Wind",
+    "baseType": "Spectral Axe",
+    "type": "One Handed Axe",
+    "levelReq": 33,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(30-50)% increased Fire Damage",
+      "Attacks with this Weapon have Added Fire Damage equal to (8-12)% of Player's Maximum Life",
+      "Each Rage also grants +2% to Fire Damage Over Time Multiplier",
+      "Nearby Enemies have Fire Exposure while at maximum Rage",
+      "+(-5-5) to Maximum Rage"
+    ]
+  },
+  {
+    "id": "The_Gryphon",
+    "name": "The Gryphon",
+    "baseType": "Jade Hatchet",
+    "type": "One Handed Axe",
+    "levelReq": 32,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are supported by Level 2 Chance to Flee",
+      "(170-190)% increased Physical Damage",
+      "Adds (10-15) to (25-30) Physical Damage",
+      "+(10-15) to maximum Life",
+      "Gain (5-7) Life per Enemy Killed",
+      "10% increased Movement Speed",
+      "15% increased Movement Speed if you've Killed Recently"
+    ]
+  },
+  {
+    "id": "The_Harvest",
+    "name": "The Harvest",
+    "baseType": "Jasper Chopper",
+    "type": "Two Handed Axe",
+    "levelReq": 37,
+    "league": "Beyond",
+    "implicit": [],
+    "mods": [
+      "(120-140)% increased Physical Damage",
+      "1.2% of Damage Leeched as Life on Critical Strike",
+      "3% increased Global Critical Strike Chance per Level",
+      "Gain a Flask Charge when you deal a Critical Strike"
+    ]
+  },
+  {
+    "id": "The_Screaming_Eagle",
+    "name": "The Screaming Eagle",
+    "baseType": "Jade Hatchet",
+    "type": "One Handed Axe",
+    "levelReq": 6,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are supported by Level 2 Chance to Flee",
+      "Adds (10-15) to (25-30) Physical Damage",
+      "+(10-15) to maximum Life",
+      "Gain (5-7) Life per Enemy Killed",
+      "10% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Uul-Netols_Embrace",
+    "name": "Uul-Netol's Embrace",
+    "baseType": "Vaal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["25% chance to Maim on Hit"],
+    "mods": [
+      "Trigger Level 20 Bone Nova when you Hit a Bleeding Enemy",
+      "(280-320)% increased Physical Damage",
+      "(30-25)% reduced Attack Speed",
+      "Attacks have 25% chance to inflict Bleeding"
+    ]
+  },
+  {
+    "id": "Uul-Netols_Kiss",
+    "name": "Uul-Netol's Kiss",
+    "baseType": "Vaal Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["25% chance to Maim on Hit"],
+    "mods": [
+      "(230-270)% increased Physical Damage",
+      "15% reduced Attack Speed",
+      "Curse Enemies with Vulnerability on Hit",
+      "Exerted Attacks deal 200% increased Damage",
+      "Exerted Attacks Knock Enemies Back on Hit"
+    ]
+  },
+  {
+    "id": "Wideswing",
+    "name": "Wideswing",
+    "baseType": "Poleaxe",
+    "type": "Two Handed Axe",
+    "levelReq": 18,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Increased Area of Effect",
+      "+10 to Strength",
+      "(120-160)% increased Physical Damage",
+      "Gain 10 Mana per Enemy Killed",
+      "+(120-150) to Accuracy Rating",
+      "+2 to Weapon Range"
+    ]
+  },
+  {
+    "id": "Wings_of_Entropy",
+    "name": "Wings of Entropy",
+    "baseType": "Ezomyte Axe",
+    "type": "Two Handed Axe",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(7-10)% Chance to Block Spell Damage",
+      "+(8-12)% Chance to Block Attack Damage while Dual Wielding",
+      "(60-80)% increased Physical Damage",
+      "Adds (150-200) to (330-400) Fire Damage in Main Hand",
+      "Adds (151-199) to (331-401) Chaos Damage in Off Hand",
+      "Counts as Dual Wielding"
+    ]
+  }
+]

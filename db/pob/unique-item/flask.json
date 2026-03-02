@@ -1,0 +1,553 @@
+[
+  {
+    "id": "Atziris_Promise",
+    "name": "Atziri's Promise",
+    "baseType": "Amethyst Flask",
+    "type": "Flask",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
+      "2% of Chaos Damage Leeched as Life during Effect",
+      "Gain (5-8)% of Physical Damage as Extra Chaos Damage during effect"
+    ]
+  },
+  {
+    "id": "Blood_of_the_Karui",
+    "name": "Blood of the Karui",
+    "baseType": "Sanctified Life Flask",
+    "type": "Flask",
+    "levelReq": 50,
+    "league": "Domination, Nemesis",
+    "implicit": [],
+    "mods": [
+      "50% increased Life Recovered",
+      "(50-35)% reduced Recovery rate",
+      "Recover Full Life at the end of the Effect"
+    ]
+  },
+  {
+    "id": "Bottled_Faith",
+    "name": "Bottled Faith",
+    "baseType": "Sulphur Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Synthesis",
+    "implicit": ["Creates Consecrated Ground on Use"],
+    "mods": [
+      "(30-15)% reduced Duration",
+      "Consecrated Ground created by this Flask has Tripled Radius",
+      "Consecrated Ground created during Effect applies (7-10)% increased Damage taken to Enemies",
+      "(100-150)% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect"
+    ]
+  },
+  {
+    "id": "Cinderswallow_Urn",
+    "name": "Cinderswallow Urn",
+    "baseType": "Silver Flask",
+    "type": "Flask",
+    "levelReq": 48,
+    "league": "Betrayal",
+    "implicit": [],
+    "mods": [
+      "+(10-20) to maximum Charges",
+      "Recharges 5 Charges when you Consume an Ignited corpse",
+      "Enemies Ignited by you during Effect take (7-10)% increased Damage",
+      "Recover (1-3)% of Energy Shield when you Kill an Enemy during Effect"
+    ]
+  },
+  {
+    "id": "Coralitos_Signature",
+    "name": "Coralito's Signature",
+    "baseType": "Diamond Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Take (200-300) Chaos Damage per Second during Effect",
+      "25% chance to Poison on Hit during Effect",
+      "Your Critical Strikes do not deal extra Damage during Effect",
+      "+(20-30)% to Damage over Time Multiplier for Poison from Critical Strikes during Effect"
+    ]
+  },
+  {
+    "id": "Coruscating_Elixir",
+    "name": "Coruscating Elixir",
+    "baseType": "Ruby Flask",
+    "type": "Flask",
+    "levelReq": 18,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "25% increased Duration",
+      "Chaos Damage taken does not bypass Energy Shield during effect",
+      "Removes all but one Life on use",
+      "Removed life is Regenerated as Energy Shield over 2 seconds"
+    ]
+  },
+  {
+    "id": "Divination_Distillate",
+    "name": "Divination Distillate",
+    "baseType": "Large Hybrid Flask",
+    "type": "Flask",
+    "levelReq": 30,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(30-50)% increased Rarity of Items found during Effect",
+      "25% increased Light Radius during Effect",
+      "+10% to Elemental Resistances during Effect"
+    ]
+  },
+  {
+    "id": "Doedres_Elixir",
+    "name": "Doedre's Elixir",
+    "baseType": "Greater Mana Flask",
+    "type": "Flask",
+    "levelReq": 12,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(300-250)% increased Charges per use",
+      "Removes 80% of your maximum Energy Shield on use",
+      "You take 50% of your maximum Life as Chaos Damage on use",
+      "Gain (1-3) Endurance Charge on use",
+      "Gain (1-3) Frenzy Charge on use",
+      "Gain (1-3) Power Charge on use"
+    ]
+  },
+  {
+    "id": "Dying_Sun",
+    "name": "Dying Sun",
+    "baseType": "Ruby Flask",
+    "type": "Flask",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-125)% increased Charges per use",
+      "(60-40)% less duration",
+      "(10-20)% increased Area of Effect during Effect",
+      "Skills fire 2 additional Projectiles during Effect"
+    ]
+  },
+  {
+    "id": "Elixir_of_the_Unbroken_Circle",
+    "name": "Elixir of the Unbroken Circle",
+    "baseType": "Iron Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Expedition",
+    "implicit": ["Restores Ward on use"],
+    "mods": [
+      "(50-80)% increased Duration",
+      "Recover 4% of Life per Endurance Charge on use",
+      "Lose all Endurance Charges on use",
+      "Gain 1 Endurance Charge per Second during Effect"
+    ]
+  },
+  {
+    "id": "Forbidden_Taste",
+    "name": "Forbidden Taste",
+    "baseType": "Quartz Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Recover (75-100)% of Life on use",
+      "25% of Maximum Life taken as Chaos Damage per second"
+    ]
+  },
+  {
+    "id": "Kiaras_Determination",
+    "name": "Kiara's Determination",
+    "baseType": "Silver Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Immunity to Freeze, Chill, Curses and Stuns during Effect",
+      "(80-60)% reduced Duration"
+    ]
+  },
+  {
+    "id": "Laviangas_Spirit",
+    "name": "Lavianga's Spirit",
+    "baseType": "Sanctified Mana Flask",
+    "type": "Flask",
+    "levelReq": 50,
+    "league": "Domination, Nemesis",
+    "implicit": [],
+    "mods": [
+      "(30-50)% increased Amount Recovered",
+      "100% increased Recovery rate",
+      "Skills Cost no Mana during Effect"
+    ]
+  },
+  {
+    "id": "Lions_Roar",
+    "name": "Lion's Roar",
+    "baseType": "Granite Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Knocks Back Enemies in an Area when you use a Flask",
+      "75% chance to cause Enemies to Flee on use",
+      "Adds Knockback to Melee Attacks during Effect",
+      "(7-10)% more Melee Physical Damage during effect"
+    ]
+  },
+  {
+    "id": "Olroths_Resolve",
+    "name": "Olroth's Resolve",
+    "baseType": "Iron Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Expedition",
+    "implicit": ["Restores Ward on use"],
+    "mods": [
+      "(50-40)% increased Charges per use",
+      "Ward does not Break during Effect",
+      "85% less Ward during Effect"
+    ]
+  },
+  {
+    "id": "Oriaths_End",
+    "name": "Oriath's End",
+    "baseType": "Bismuth Flask",
+    "type": "Flask",
+    "levelReq": 56,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-40)% increased Charge Recovery",
+      "Enemies you Kill during Effect have a (20-30)% chance to Explode, dealing a tenth of their maximum Life as Damage of a Random Element"
+    ]
+  },
+  {
+    "id": "Progenesis",
+    "name": "Progenesis",
+    "baseType": "Amethyst Flask",
+    "type": "Flask",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(10-20)% reduced Charges per use",
+      "(-35-35)% increased Duration",
+      "When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead"
+    ]
+  },
+  {
+    "id": "Replica_Laviangas_Spirit",
+    "name": "Replica Lavianga's Spirit",
+    "baseType": "Sanctified Mana Flask",
+    "type": "Flask",
+    "levelReq": 50,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(30-50)% increased Amount Recovered",
+      "50% reduced Recovery rate",
+      "(5-15)% increased Attack Speed during Effect",
+      "(5-15)% increased Cast Speed during Effect",
+      "10% increased Mana Cost of Skills during Effect"
+    ]
+  },
+  {
+    "id": "Replica_Rumis_Concoction",
+    "name": "Replica Rumi's Concoction",
+    "baseType": "Granite Flask",
+    "type": "Flask",
+    "levelReq": 68,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "90% reduced Duration",
+      "Gain 1 Endurance Charge on use",
+      "Petrified during Effect",
+      "+(35-50)% Chance to Block Attack Damage during Effect",
+      "+(20-30)% Chance to Block Spell Damage during Effect"
+    ]
+  },
+  {
+    "id": "Replica_Sorrow_of_the_Divine",
+    "name": "Replica Sorrow of the Divine",
+    "baseType": "Sulphur Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Heist",
+    "implicit": ["Creates Consecrated Ground on Use"],
+    "mods": [
+      "Life Recovery from Flasks also applies to Energy Shield during Effect",
+      "(25-50)% increased Duration",
+      "Eldritch Battery during Effect"
+    ]
+  },
+  {
+    "id": "Replica_Witchfire_Brew",
+    "name": "Replica Witchfire Brew",
+    "baseType": "Stibnite Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Creates a Smoke Cloud on Use",
+      "(-10–10)% reduced Charges per use",
+      "Grants Level 21 Vulnerability Curse Aura during Effect"
+    ]
+  },
+  {
+    "id": "Rotgut",
+    "name": "Rotgut",
+    "baseType": "Quicksilver Flask",
+    "type": "Flask",
+    "levelReq": 40,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "50% chance to gain a Flask Charge when you deal a Critical Strike",
+      "(30-50)% increased Duration",
+      "Consumes Frenzy Charges on use",
+      "Gain Onslaught for 3 seconds per Frenzy Charge on use"
+    ]
+  },
+  {
+    "id": "Rumis_Concoction",
+    "name": "Rumi's Concoction",
+    "baseType": "Granite Flask",
+    "type": "Flask",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% Chance to Block Attack Damage during Effect",
+      "(4-6)% Chance to Block Spell Damage during Effect"
+    ]
+  },
+  {
+    "id": "Sins_Rebirth",
+    "name": "Sin's Rebirth",
+    "baseType": "Stibnite Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": ["Creates a Smoke Cloud on Use"],
+    "mods": [
+      "Grants Immunity to Ignite for 4 seconds if used while Ignited",
+      "Removes all Burning when used",
+      "Unholy Might during Effect"
+    ]
+  },
+  {
+    "id": "Soul_Catcher",
+    "name": "Soul Catcher",
+    "baseType": "Quartz Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "Cannot gain Mana during effect",
+      "(60-80)% increased Critical Strike Chance with Vaal Skills during effect",
+      "(60-80)% increased Damage with Vaal Skills during effect",
+      "Vaal Skills used during effect have 10% reduced Soul Gain Prevention Duration"
+    ]
+  },
+  {
+    "id": "Soul_Ripper",
+    "name": "Soul Ripper",
+    "baseType": "Quartz Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "+(-40-90) maximum Charges",
+      "Loses all Charges when you enter a new area",
+      "Consumes Maximum Charges to use",
+      "Gain Vaal Souls equal to Charges Consumed when used"
+    ]
+  },
+  {
+    "id": "Starlight_Chalice",
+    "name": "Starlight Chalice",
+    "baseType": "Iron Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Expedition",
+    "implicit": ["Restores Ward on use"],
+    "mods": [
+      "(20-30)% increased Charge Recovery",
+      "Inflict Fire, Cold and Lightning Exposure on nearby Enemies when used",
+      "(20-30)% increased Effect of Non-Damaging Ailments you inflict during Effect"
+    ]
+  },
+  {
+    "id": "Taste_of_Hate",
+    "name": "Taste of Hate",
+    "baseType": "Sapphire Flask",
+    "type": "Flask",
+    "levelReq": 18,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(20-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
+      "Gain (10-15)% of Physical Damage as Extra Cold Damage during effect",
+      "30% chance to Avoid being Chilled during Effect",
+      "30% chance to Avoid being Frozen during Effect"
+    ]
+  },
+  {
+    "id": "The_Overflowing_Chalice",
+    "name": "The Overflowing Chalice",
+    "baseType": "Sulphur Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": ["Creates Consecrated Ground on Use"],
+    "mods": [
+      "(40-60)% increased Charge Recovery",
+      "(50-100)% increased Charges gained by Other Flasks during Effect",
+      "Gains no Charges during Effect of any Overflowing Chalice Flask"
+    ]
+  },
+  {
+    "id": "The_Sorrow_of_the_Divine",
+    "name": "The Sorrow of the Divine",
+    "baseType": "Sulphur Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Legion",
+    "implicit": ["Creates Consecrated Ground on Use"],
+    "mods": [
+      "Life Recovery from Flasks also applies to Energy Shield during Effect",
+      "(25-50)% increased Duration",
+      "Zealot's Oath during Effect"
+    ]
+  },
+  {
+    "id": "The_Wise_Oak",
+    "name": "The Wise Oak",
+    "baseType": "Bismuth Flask",
+    "type": "Flask",
+    "levelReq": 8,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "During Effect, 6% reduced Damage taken of each Element for which your Uncapped Elemental Resistance is lowest",
+      "During Effect, Damage Penetrates (5-8)% Resistance of each Element for which your Uncapped Elemental Resistance is highest"
+    ]
+  },
+  {
+    "id": "The_Writhing_Jar",
+    "name": "The Writhing Jar",
+    "baseType": "Hallowed Hybrid Flask",
+    "type": "Flask",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(-10--20)% increased Charges per use",
+      "(75-65)% reduced Amount Recovered",
+      "Instant Recovery",
+      "2 Enemy Writhing Worms escape the Flask when used",
+      "Writhing Worms are destroyed when Hit"
+    ]
+  },
+  {
+    "id": "Vessel_of_Vinktar",
+    "name": "Vessel of Vinktar",
+    "baseType": "Topaz Flask",
+    "type": "Flask",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-125)% increased Charges per use",
+      "Shocks nearby Enemies during Effect, causing 10% increased Damage taken",
+      "You are Shocked during Effect, causing 50% increased Damage taken",
+      "Adds (10-15) to (55-65) Lightning Damage to Attacks during Effect",
+      "20% of Lightning Damage Leeched as Life during Effect"
+    ]
+  },
+  {
+    "id": "Voranas_Preparation",
+    "name": "Vorana's Preparation",
+    "baseType": "Iron Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": "Expedition",
+    "implicit": ["Restores Ward on use"],
+    "mods": [
+      "(10--10)% increased Charges per use",
+      "Debilitate nearby Enemies for 2 Seconds when Effect ends",
+      "Effect is removed when Ward Breaks",
+      "Culling Strike during Effect"
+    ]
+  },
+  {
+    "id": "Wellwater_Phylactery",
+    "name": "Wellwater Phylactery",
+    "baseType": "Colossal Mana Flask",
+    "type": "Flask",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(200-300)% increased Charges per use",
+      "(150-200)% increased Amount Recovered",
+      "(60-40)% less Duration",
+      "Removes (10-15)% of Life when Used",
+      "Starts Energy Shield Recharge when Used",
+      "Energy Shield Recharge is not delayed by Damage during Effect"
+    ]
+  },
+  {
+    "id": "Wine_of_the_Prophet",
+    "name": "Wine of the Prophet",
+    "baseType": "Gold Flask",
+    "type": "Flask",
+    "levelReq": 27,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+60 to Maximum Charges",
+      "(20-100)% increased Charges per Use",
+      "Grants a random Divination buff for 20 seconds when used"
+    ]
+  },
+  {
+    "id": "Witchfire_Brew",
+    "name": "Witchfire Brew",
+    "baseType": "Stibnite Flask",
+    "type": "Flask",
+    "levelReq": 48,
+    "league": null,
+    "implicit": ["Creates a Smoke Cloud on Use"],
+    "mods": [
+      "(10--10)% increased Charges per use",
+      "Grants Level 21 Despair Curse Aura during Effect"
+    ]
+  },
+  {
+    "id": "Zerphis_Last_Breath",
+    "name": "Zerphi's Last Breath",
+    "baseType": "Grand Mana Flask",
+    "type": "Flask",
+    "levelReq": 18,
+    "league": "Perandus",
+    "implicit": [],
+    "mods": [
+      "50% increased Charges per use",
+      "Grants Last Breath when you Use a Skill during Effect, for (450-600)% of Mana Cost"
+    ]
+  }
+]

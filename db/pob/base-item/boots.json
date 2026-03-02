@@ -1,0 +1,812 @@
+[
+  {
+    "id": "Ambush_Boots",
+    "name": "Ambush Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 47, "str": null, "dex": 45, "int": 45 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 85, "evasionMax": 95, "energyShieldMin": 18, "energyShieldMax": 20 }
+  },
+  {
+    "id": "Ancient_Greaves",
+    "name": "Ancient Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 46, "str": 82, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 151, "armourMax": 174 }
+  },
+  {
+    "id": "Antique_Greaves",
+    "name": "Antique Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 37, "str": 67, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 122, "armourMax": 144 }
+  },
+  {
+    "id": "Arcanist_Slippers",
+    "name": "Arcanist Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 61, "str": null, "dex": null, "int": 119 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 47, "energyShieldMax": 55 }
+  },
+  {
+    "id": "Assassins_Boots",
+    "name": "Assassin's Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 63, "str": null, "dex": 62, "int": 62 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 121, "evasionMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Basemetal_Treads",
+    "name": "Basemetal Treads",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": "30% increased Stun and Block Recovery\n20% reduced Stun Threshold",
+    "req": { "level": 20, "str": 39, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 68, "armourMax": 78 }
+  },
+  {
+    "id": "Brimstone_Treads",
+    "name": "Brimstone Treads",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": "50% increased Stun and Block Recovery\n20% reduced Stun Threshold",
+    "req": { "level": 80, "str": 124, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 236, "armourMax": 271 }
+  },
+  {
+    "id": "Bronzescale_Boots",
+    "name": "Bronzescale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 30, "str": 30, "dex": 30, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 55, "armourMax": 63, "evasionMin": 55, "evasionMax": 63 }
+  },
+  {
+    "id": "Carnal_Boots",
+    "name": "Carnal Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 55, "str": null, "dex": 52, "int": 52 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 99, "evasionMax": 117, "energyShieldMin": 20, "energyShieldMax": 24 }
+  },
+  {
+    "id": "Chain_Boots",
+    "name": "Chain Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 5, "str": 8, "dex": null, "int": 8 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 11, "armourMax": 15, "energyShieldMin": 3, "energyShieldMax": 5 }
+  },
+  {
+    "id": "Chimerascale_Boots",
+    "name": "Chimerascale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": 85, "dex": 85, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 176, "armourMax": 203, "evasionMin": 176, "evasionMax": 203 }
+  },
+  {
+    "id": "Clasped_Boots",
+    "name": "Clasped Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": 27, "int": 27 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 50, "evasionMax": 57, "energyShieldMin": 11, "energyShieldMax": 12 }
+  },
+  {
+    "id": "Cloudwhisper_Boots",
+    "name": "Cloudwhisper Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": "1 to (5-6) Added Attack Lightning Damage per 200 Accuracy Rating\n25% less Accuracy Rating",
+    "req": { "level": 20, "str": null, "dex": 39, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 68, "evasionMax": 78 }
+  },
+  {
+    "id": "Conjurer_Boots",
+    "name": "Conjurer Boots",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 53, "str": null, "dex": null, "int": 94 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 36, "energyShieldMax": 42 }
+  },
+  {
+    "id": "Crusader_Boots",
+    "name": "Crusader Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 64, "str": 62, "dex": null, "int": 62 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 121, "armourMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Darksteel_Treads",
+    "name": "Darksteel Treads",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": "40% increased Stun and Block Recovery\n20% reduced Stun Threshold",
+    "req": { "level": 50, "str": 89, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 164, "armourMax": 189 }
+  },
+  {
+    "id": "Deerskin_Boots",
+    "name": "Deerskin Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 22, "str": null, "dex": 42, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 74, "evasionMax": 92 }
+  },
+  {
+    "id": "Dragonscale_Boots",
+    "name": "Dragonscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 65, "str": 62, "dex": 62, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 121, "armourMax": 139, "evasionMin": 121, "evasionMax": 139 }
+  },
+  {
+    "id": "Dreamquest_Slippers",
+    "name": "Dreamquest Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": "10% reduced Movement Speed\n(45-50)% increased Cooldown Recovery Rate of Movement Skills",
+    "req": { "level": 80, "str": null, "dex": null, "int": 124 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 50, "energyShieldMax": 57 }
+  },
+  {
+    "id": "Duskwalk_Slippers",
+    "name": "Duskwalk Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": "10% reduced Movement Speed\n(45-50)% increased Cooldown Recovery Rate of Movement Skills",
+    "req": { "level": 20, "str": null, "dex": null, "int": 39 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 15, "energyShieldMax": 18 }
+  },
+  {
+    "id": "Eelskin_Boots",
+    "name": "Eelskin Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 39, "str": null, "dex": 70, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 129, "evasionMax": 148 }
+  },
+  {
+    "id": "Fugitive_Boots",
+    "name": "Fugitive Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": "+(13-17)% to Chaos Resistance",
+    "req": { "level": 70, "str": null, "dex": 56, "int": 76 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 112, "evasionMax": 129, "energyShieldMin": 32, "energyShieldMax": 37 }
+  },
+  {
+    "id": "Goathide_Boots",
+    "name": "Goathide Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 12, "str": null, "dex": 26, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 42, "evasionMax": 54 }
+  },
+  {
+    "id": "Golden_Caligae",
+    "name": "Golden Caligae",
+    "type": "Boots",
+    "subType": null,
+    "implicit": "+(8-16)% to all Elemental Resistances",
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": {  }
+  },
+  {
+    "id": "Goliath_Greaves",
+    "name": "Goliath Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 54, "str": 95, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 177, "armourMax": 209 }
+  },
+  {
+    "id": "Harpyskin_Boots",
+    "name": "Harpyskin Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 153, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 307, "evasionMax": 353 }
+  },
+  {
+    "id": "Hydrascale_Boots",
+    "name": "Hydrascale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 59, "str": 56, "dex": 56, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 106, "armourMax": 122, "evasionMin": 106, "evasionMax": 122 }
+  },
+  {
+    "id": "Infiltrator_Boots",
+    "name": "Infiltrator Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 85, "int": 85 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 176, "evasionMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
+  },
+  {
+    "id": "Iron_Greaves",
+    "name": "Iron Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": null, "str": 8, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 6, "armourMax": 9 }
+  },
+  {
+    "id": "Ironscale_Boots",
+    "name": "Ironscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 18, "str": 19, "dex": 19, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 34, "armourMax": 44, "evasionMin": 34, "evasionMax": 44 }
+  },
+  {
+    "id": "Leatherscale_Boots",
+    "name": "Leatherscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 6, "str": 9, "dex": 9, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 12, "armourMax": 17, "evasionMin": 12, "evasionMax": 17 }
+  },
+  {
+    "id": "Legion_Boots",
+    "name": "Legion Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 58, "str": 54, "dex": null, "int": 54 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 104, "armourMax": 120, "energyShieldMin": 21, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Leviathan_Greaves",
+    "name": "Leviathan Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 84, "str": 177, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 359, "armourMax": 413 }
+  },
+  {
+    "id": "Martyr_Boots",
+    "name": "Martyr Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": 85, "dex": null, "int": 85 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 176, "armourMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
+  },
+  {
+    "id": "Mesh_Boots",
+    "name": "Mesh Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 28, "str": 28, "dex": null, "int": 28 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 51, "armourMax": 64, "energyShieldMin": 11, "energyShieldMax": 14 }
+  },
+  {
+    "id": "Murder_Boots",
+    "name": "Murder Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 69, "str": null, "dex": 82, "int": 42 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 185, "evasionMax": 213, "energyShieldMin": 18, "energyShieldMax": 21 }
+  },
+  {
+    "id": "Nightwind_Slippers",
+    "name": "Nightwind Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": "10% reduced Movement Speed\n(45-50)% increased Cooldown Recovery Rate of Movement Skills",
+    "req": { "level": 50, "str": null, "dex": null, "int": 89 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 34, "energyShieldMax": 39 }
+  },
+  {
+    "id": "Nubuck_Boots",
+    "name": "Nubuck Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 34, "str": null, "dex": 62, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 113, "evasionMax": 126 }
+  },
+  {
+    "id": "Paladin_Boots",
+    "name": "Paladin Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": 98, "dex": null, "int": 98 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 205, "armourMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
+  },
+  {
+    "id": "Phantom_Boots",
+    "name": "Phantom Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 98, "int": 98 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 205, "evasionMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
+  },
+  {
+    "id": "Plated_Greaves",
+    "name": "Plated Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 23, "str": 44, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 77, "armourMax": 96 }
+  },
+  {
+    "id": "Precursor_Greaves",
+    "name": "Precursor Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 78, "str": 153, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 307, "armourMax": 353 }
+  },
+  {
+    "id": "Rawhide_Boots",
+    "name": "Rawhide Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 11, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 13, "evasionMax": 18 }
+  },
+  {
+    "id": "Reinforced_Greaves",
+    "name": "Reinforced Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 33, "str": 61, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 109, "armourMax": 120 }
+  },
+  {
+    "id": "Ringmail_Boots",
+    "name": "Ringmail Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 13, "str": 15, "dex": null, "int": 15 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 25, "armourMax": 32, "energyShieldMin": 6, "energyShieldMax": 8 }
+  },
+  {
+    "id": "Riveted_Boots",
+    "name": "Riveted Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 36, "str": 35, "dex": null, "int": 35 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 65, "armourMax": 71, "energyShieldMin": 14, "energyShieldMax": 15 }
+  },
+  {
+    "id": "Runic_Greaves",
+    "name": "Runic Greaves",
+    "type": "Boots",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 24, "str": 20, "dex": 20, "int": 20 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 24, "wardMax": 28 }
+  },
+  {
+    "id": "Runic_Sabatons",
+    "name": "Runic Sabatons",
+    "type": "Boots",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 69, "str": 46, "dex": 46, "int": 46 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 102, "wardMax": 117 }
+  },
+  {
+    "id": "Runic_Sollerets",
+    "name": "Runic Sollerets",
+    "type": "Boots",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 48, "str": 37, "dex": 37, "int": 37 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 62, "wardMax": 71 }
+  },
+  {
+    "id": "Sage_Slippers",
+    "name": "Sage Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": null, "int": 153 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 62, "energyShieldMax": 71 }
+  },
+  {
+    "id": "Samite_Slippers",
+    "name": "Samite Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 44, "str": null, "dex": null, "int": 79 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 30, "energyShieldMax": 35 }
+  },
+  {
+    "id": "Satin_Slippers",
+    "name": "Satin Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 38, "str": null, "dex": null, "int": 69 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 26, "energyShieldMax": 30 }
+  },
+  {
+    "id": "Scholar_Boots",
+    "name": "Scholar Boots",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 32, "str": null, "dex": null, "int": 59 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 23, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Serpentscale_Boots",
+    "name": "Serpentscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 42, "str": 40, "dex": 40, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 76, "armourMax": 90, "evasionMin": 76, "evasionMax": 90 }
+  },
+  {
+    "id": "Shackled_Boots",
+    "name": "Shackled Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 34, "str": null, "dex": 34, "int": 34 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 62, "evasionMax": 71, "energyShieldMin": 13, "energyShieldMax": 15 }
+  },
+  {
+    "id": "Shagreen_Boots",
+    "name": "Shagreen Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 55, "str": null, "dex": 97, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 180, "evasionMax": 216 }
+  },
+  {
+    "id": "Sharkskin_Boots",
+    "name": "Sharkskin Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 44, "str": null, "dex": 79, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 145, "evasionMax": 171 }
+  },
+  {
+    "id": "Silk_Slippers",
+    "name": "Silk Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 22, "str": null, "dex": null, "int": 42 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 17, "energyShieldMax": 21 }
+  },
+  {
+    "id": "Slink_Boots",
+    "name": "Slink Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 69, "str": null, "dex": 120, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 246, "evasionMax": 283 }
+  },
+  {
+    "id": "Soldier_Boots",
+    "name": "Soldier Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 49, "str": 47, "dex": null, "int": 47 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 88, "armourMax": 99, "energyShieldMin": 18, "energyShieldMax": 20 }
+  },
+  {
+    "id": "Sorcerer_Boots",
+    "name": "Sorcerer Boots",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 67, "str": null, "dex": null, "int": 123 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 51, "energyShieldMax": 59 }
+  },
+  {
+    "id": "Stealth_Boots",
+    "name": "Stealth Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 62, "str": null, "dex": 117, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 220, "evasionMax": 253 }
+  },
+  {
+    "id": "Steel_Greaves",
+    "name": "Steel Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 9, "str": 21, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 32, "armourMax": 42 }
+  },
+  {
+    "id": "Steelscale_Boots",
+    "name": "Steelscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 36, "str": 35, "dex": 35, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 65, "armourMax": 75, "evasionMin": 65, "evasionMax": 75 }
+  },
+  {
+    "id": "Stormrider_Boots",
+    "name": "Stormrider Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": "1 to (5-6) Added Attack Lightning Damage per 200 Accuracy Rating\n25% less Accuracy Rating",
+    "req": { "level": 80, "str": null, "dex": 124, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 236, "evasionMax": 271 }
+  },
+  {
+    "id": "Strapped_Boots",
+    "name": "Strapped Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 16, "str": null, "dex": 18, "int": 18 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 30, "evasionMax": 39, "energyShieldMin": 7, "energyShieldMax": 9 }
+  },
+  {
+    "id": "Titan_Greaves",
+    "name": "Titan Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 68, "str": 120, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 241, "armourMax": 278 }
+  },
+  {
+    "id": "Trapper_Boots",
+    "name": "Trapper Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 41, "str": null, "dex": 40, "int": 40 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 74, "evasionMax": 85, "energyShieldMin": 16, "energyShieldMax": 18 }
+  },
+  {
+    "id": "Two-Toned_Boots_(Armour/Energy_Shield)",
+    "name": "Two-Toned Boots (Armour/Energy Shield)",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": "+(8-12)% to Fire and Lightning Resistances",
+    "req": { "level": 70, "str": 62, "dex": null, "int": 62 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 126, "armourMax": 145, "energyShieldMin": 26, "energyShieldMax": 30 }
+  },
+  {
+    "id": "Two-Toned_Boots_(Armour/Evasion)",
+    "name": "Two-Toned Boots (Armour/Evasion)",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": "+(8-12)% to Fire and Cold Resistances",
+    "req": { "level": 70, "str": 62, "dex": 62, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 126, "armourMax": 145, "evasionMin": 126, "evasionMax": 145 }
+  },
+  {
+    "id": "Two-Toned_Boots_(Evasion/Energy_Shield)",
+    "name": "Two-Toned Boots (Evasion/Energy Shield)",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": "+(8-12)% to Cold and Lightning Resistances",
+    "req": { "level": 70, "str": null, "dex": 62, "int": 62 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 126, "evasionMax": 145, "energyShieldMin": 26, "energyShieldMax": 30 }
+  },
+  {
+    "id": "Vaal_Greaves",
+    "name": "Vaal Greaves",
+    "type": "Boots",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 62, "str": 117, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 220, "armourMax": 253 }
+  },
+  {
+    "id": "Velour_Boots",
+    "name": "Velour Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 177, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 359, "evasionMax": 413 }
+  },
+  {
+    "id": "Velvet_Slippers",
+    "name": "Velvet Slippers",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 9, "str": null, "dex": null, "int": 21 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 8, "energyShieldMax": 11 }
+  },
+  {
+    "id": "Warlock_Boots",
+    "name": "Warlock Boots",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": null, "int": 177 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 72, "energyShieldMax": 83 }
+  },
+  {
+    "id": "Windbreak_Boots",
+    "name": "Windbreak Boots",
+    "type": "Boots",
+    "subType": "Evasion",
+    "implicit": "1 to (5-6) Added Attack Lightning Damage per 200 Accuracy Rating\n25% less Accuracy Rating",
+    "req": { "level": 50, "str": null, "dex": 89, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 164, "evasionMax": 189 }
+  },
+  {
+    "id": "Wool_Shoes",
+    "name": "Wool Shoes",
+    "type": "Boots",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": 11 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 5, "energyShieldMax": 7 }
+  },
+  {
+    "id": "Wrapped_Boots",
+    "name": "Wrapped Boots",
+    "type": "Boots",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 6, "str": null, "dex": 9, "int": 9 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 12, "evasionMax": 17, "energyShieldMin": 4, "energyShieldMax": 5 }
+  },
+  {
+    "id": "Wyrmscale_Boots",
+    "name": "Wyrmscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 51, "str": 48, "dex": 48, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 92, "armourMax": 103, "evasionMin": 92, "evasionMax": 103 }
+  },
+  {
+    "id": "Wyvernscale_Boots",
+    "name": "Wyvernscale Boots",
+    "type": "Boots",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": 98, "dex": 98, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 205, "armourMax": 236, "evasionMin": 205, "evasionMax": 236 }
+  },
+  {
+    "id": "Zealot_Boots",
+    "name": "Zealot Boots",
+    "type": "Boots",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 40, "str": 39, "dex": null, "int": 39 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 73, "armourMax": 87, "energyShieldMin": 15, "energyShieldMax": 18 }
+  }
+]

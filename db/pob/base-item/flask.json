@@ -1,0 +1,482 @@
+[
+  {
+    "id": "Amethyst_Flask",
+    "name": "Amethyst Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6.5, "chargesUsed": 35, "chargesMax": 65, "buff": ["+35% to Chaos Resistance"] }
+  },
+  {
+    "id": "Aquamarine_Flask",
+    "name": "Aquamarine Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": "Creates Chilled Ground on Use",
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["60% reduced Effect of Freeze on you"] }
+  },
+  {
+    "id": "Basalt_Flask",
+    "name": "Basalt Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": "Taunts nearby Enemies on use",
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Armour"] }
+  },
+  {
+    "id": "Bismuth_Flask",
+    "name": "Bismuth Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 8, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8.5, "chargesUsed": 15, "chargesMax": 40, "buff": ["+35% to all Elemental Resistances"] }
+  },
+  {
+    "id": "Colossal_Hybrid_Flask",
+    "name": "Colossal Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 40, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 690, "mana": 200, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Colossal_Life_Flask",
+    "name": "Colossal Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 30, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1000, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
+  },
+  {
+    "id": "Colossal_Mana_Flask",
+    "name": "Colossal Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 30, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 350, "duration": 5, "chargesUsed": 8, "chargesMax": 38 }
+  },
+  {
+    "id": "Corundum_Flask",
+    "name": "Corundum Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 7.5, "chargesUsed": 20, "chargesMax": 50, "buff": ["30% increased Stun Threshold", "Cannot be Stunned if you've been Stunned during Effect"] }
+  },
+  {
+    "id": "Diamond_Flask",
+    "name": "Diamond Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 20, "chargesMax": 40, "buff": ["100% increased Global Critical Strike Chance"] }
+  },
+  {
+    "id": "Divine_Life_Flask",
+    "name": "Divine Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 2400, "duration": 3.5, "chargesUsed": 15, "chargesMax": 45 }
+  },
+  {
+    "id": "Divine_Mana_Flask",
+    "name": "Divine Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 1400, "duration": 5, "chargesUsed": 8, "chargesMax": 42 }
+  },
+  {
+    "id": "Eternal_Life_Flask",
+    "name": "Eternal Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 65, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 2080, "duration": 2, "chargesUsed": 15, "chargesMax": 45 }
+  },
+  {
+    "id": "Eternal_Mana_Flask",
+    "name": "Eternal Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 65, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 1800, "duration": 7, "chargesUsed": 8, "chargesMax": 42 }
+  },
+  {
+    "id": "Giant_Life_Flask",
+    "name": "Giant Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 24, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 830, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
+  },
+  {
+    "id": "Giant_Mana_Flask",
+    "name": "Giant Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 24, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 250, "duration": 5, "chargesUsed": 8, "chargesMax": 36 }
+  },
+  {
+    "id": "Gold_Flask",
+    "name": "Gold Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 5, "chargesUsed": 60, "chargesMax": 80, "buff": ["30% increased Rarity of Items found"] }
+  },
+  {
+    "id": "Grand_Life_Flask",
+    "name": "Grand Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 640, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
+  },
+  {
+    "id": "Grand_Mana_Flask",
+    "name": "Grand Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 170, "duration": 4.5, "chargesUsed": 7, "chargesMax": 30 }
+  },
+  {
+    "id": "Granite_Flask",
+    "name": "Granite Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Armour"] }
+  },
+  {
+    "id": "Greater_Life_Flask",
+    "name": "Greater Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 360, "duration": 3.5, "chargesUsed": 10, "chargesMax": 32 }
+  },
+  {
+    "id": "Greater_Mana_Flask",
+    "name": "Greater Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 120, "duration": 4, "chargesUsed": 9, "chargesMax": 36 }
+  },
+  {
+    "id": "Hallowed_Hybrid_Flask",
+    "name": "Hallowed Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1740, "mana": 480, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Hallowed_Life_Flask",
+    "name": "Hallowed Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 42, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1990, "duration": 4, "chargesUsed": 10, "chargesMax": 30 }
+  },
+  {
+    "id": "Hallowed_Mana_Flask",
+    "name": "Hallowed Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 42, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 700, "duration": 6, "chargesUsed": 6, "chargesMax": 30 }
+  },
+  {
+    "id": "Iron_Flask",
+    "name": "Iron Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": "Restores Ward on use",
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 4, "chargesUsed": 40, "chargesMax": 60, "buff": ["+200 to Ward"] }
+  },
+  {
+    "id": "Jade_Flask",
+    "name": "Jade Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+1500 to Evasion Rating"] }
+  },
+  {
+    "id": "Large_Hybrid_Flask",
+    "name": "Large Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 30, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 510, "mana": 140, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Large_Life_Flask",
+    "name": "Large Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 6, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 250, "duration": 3.5, "chargesUsed": 9, "chargesMax": 30 }
+  },
+  {
+    "id": "Large_Mana_Flask",
+    "name": "Large Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 6, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 90, "duration": 4, "chargesUsed": 8, "chargesMax": 35 }
+  },
+  {
+    "id": "Medium_Hybrid_Flask",
+    "name": "Medium Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 20, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 230, "mana": 100, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Medium_Life_Flask",
+    "name": "Medium Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 3, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 150, "duration": 3.5, "chargesUsed": 8, "chargesMax": 28 }
+  },
+  {
+    "id": "Medium_Mana_Flask",
+    "name": "Medium Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 3, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 70, "duration": 3.5, "chargesUsed": 7, "chargesMax": 30 }
+  },
+  {
+    "id": "Quartz_Flask",
+    "name": "Quartz Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["+10% chance to Suppress Spell Damage", "Phasing"] }
+  },
+  {
+    "id": "Quicksilver_Flask",
+    "name": "Quicksilver Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 4, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 30, "chargesMax": 60, "buff": ["40% increased Movement Speed"] }
+  },
+  {
+    "id": "Ruby_Flask",
+    "name": "Ruby Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Fire Resistance", "+40% to Fire Resistance"] }
+  },
+  {
+    "id": "Sacred_Hybrid_Flask",
+    "name": "Sacred Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 50, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1440, "mana": 400, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Sacred_Life_Flask",
+    "name": "Sacred Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 36, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1200, "duration": 3, "chargesUsed": 10, "chargesMax": 25 }
+  },
+  {
+    "id": "Sacred_Mana_Flask",
+    "name": "Sacred Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 36, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 480, "duration": 5.5, "chargesUsed": 7, "chargesMax": 35 }
+  },
+  {
+    "id": "Sanctified_Life_Flask",
+    "name": "Sanctified Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": 50, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 1460, "duration": 1.5, "chargesUsed": 15, "chargesMax": 30 }
+  },
+  {
+    "id": "Sanctified_Mana_Flask",
+    "name": "Sanctified Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": 50, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 1100, "duration": 6.5, "chargesUsed": 7, "chargesMax": 35 }
+  },
+  {
+    "id": "Sapphire_Flask",
+    "name": "Sapphire Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Cold Resistance", "+40% to Cold Resistance"] }
+  },
+  {
+    "id": "Silver_Flask",
+    "name": "Silver Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 6, "chargesUsed": 40, "chargesMax": 60, "buff": ["Onslaught"] }
+  },
+  {
+    "id": "Small_Hybrid_Flask",
+    "name": "Small Hybrid Flask",
+    "type": "Flask",
+    "subType": "Hybrid",
+    "implicit": null,
+    "req": { "level": 10, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 100, "mana": 70, "duration": 5, "chargesUsed": 20, "chargesMax": 40 }
+  },
+  {
+    "id": "Small_Life_Flask",
+    "name": "Small Life Flask",
+    "type": "Flask",
+    "subType": "Life",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "life": 70, "duration": 3, "chargesUsed": 7, "chargesMax": 21 }
+  },
+  {
+    "id": "Small_Mana_Flask",
+    "name": "Small Mana Flask",
+    "type": "Flask",
+    "subType": "Mana",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "mana": 50, "duration": 3, "chargesUsed": 6, "chargesMax": 24 }
+  },
+  {
+    "id": "Stibnite_Flask",
+    "name": "Stibnite Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": "Creates a Smoke Cloud on Use",
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["20% more Evasion Rating"] }
+  },
+  {
+    "id": "Sulphur_Flask",
+    "name": "Sulphur Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": "Creates Consecrated Ground on Use",
+    "req": { "level": 27, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 40, "chargesMax": 60, "buff": ["40% increased Damage"] }
+  },
+  {
+    "id": "Topaz_Flask",
+    "name": "Topaz Flask",
+    "type": "Flask",
+    "subType": "Utility",
+    "implicit": null,
+    "req": { "level": 18, "str": null, "dex": null, "int": null },
+    "socketLimit": null,
+    "flask": { "duration": 8, "chargesUsed": 20, "chargesMax": 50, "buff": ["+5% to maximum Lightning Resistance", "+40% to Lightning Resistance"] }
+  }
+]

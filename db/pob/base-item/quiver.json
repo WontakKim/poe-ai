@@ -1,0 +1,254 @@
+[
+  {
+    "id": "Artillery_Quiver",
+    "name": "Artillery Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Totem Placement speed",
+    "req": { "level": 74, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Blazing_Arrow_Quiver",
+    "name": "Blazing Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds (12-15) to (24-27) Fire Damage to Attacks",
+    "req": { "level": 45, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Blunt_Arrow_Quiver",
+    "name": "Blunt Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(25-35)% increased Stun Duration on Enemies",
+    "req": { "level": 16, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Blunt_Arrow_Quiver",
+    "name": "Blunt Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds (7-9) to (13-16) Physical Damage to Attacks",
+    "req": { "level": 31, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Broadhead_Arrow_Quiver",
+    "name": "Broadhead Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "6 to 12 Added Physical Damage with Bow Attacks",
+    "req": { "level": 28, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Broadhead_Arrow_Quiver",
+    "name": "Broadhead Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(8-10)% increased Attack Speed",
+    "req": { "level": 49, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Conductive_Quiver",
+    "name": "Conductive Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 1 to 5 Lightning Damage to Attacks",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Cured_Quiver",
+    "name": "Cured Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 2 to 4 Fire Damage to Attacks",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Feathered_Arrow_Quiver",
+    "name": "Feathered Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Projectile Speed",
+    "req": { "level": 20, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Fire_Arrow_Quiver",
+    "name": "Fire Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "4 to 8 Added Fire Damage with Bow Attacks",
+    "req": { "level": 22, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Fire_Arrow_Quiver",
+    "name": "Fire Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 3 to 5 Fire Damage to Attacks",
+    "req": { "level": 9, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Heavy_Arrow_Quiver",
+    "name": "Heavy Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds (12-15) to (24-27) Physical Damage to Attacks",
+    "req": { "level": 61, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Heavy_Quiver",
+    "name": "Heavy Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 1 to 4 Physical Damage to Attacks",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Light_Quiver",
+    "name": "Light Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "+(30-40) to Dexterity",
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Ornate_Quiver",
+    "name": "Ornate Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Has 1 Socket",
+    "req": { "level": 45, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Penetrating_Arrow_Quiver",
+    "name": "Penetrating Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Arrows Pierce an additional Target",
+    "req": { "level": 36, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Penetrating_Arrow_Quiver",
+    "name": "Penetrating Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Arrows Pierce an additional Target",
+    "req": { "level": 25, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Primal_Arrow_Quiver",
+    "name": "Primal Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Elemental Damage with Attack Skills",
+    "req": { "level": 66, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Rugged_Quiver",
+    "name": "Rugged Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 2 to 3 Cold Damage to Attacks",
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Serrated_Arrow_Quiver",
+    "name": "Serrated Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "1 to 4 Added Physical Damage with Bow Attacks",
+    "req": { "level": 5, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Serrated_Arrow_Quiver",
+    "name": "Serrated Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Adds 1 to 4 Physical Damage to Attacks",
+    "req": { "level": 4, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Sharktooth_Arrow_Quiver",
+    "name": "Sharktooth Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Gain (3-4) Life per Enemy Hit with Attacks",
+    "req": { "level": 10, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Sharktooth_Arrow_Quiver",
+    "name": "Sharktooth Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Gain (6-8) Life per Enemy Hit with Attacks",
+    "req": { "level": 14, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Spike-Point_Arrow_Quiver",
+    "name": "Spike-Point Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Global Critical Strike Chance",
+    "req": { "level": 45, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Spike-Point_Arrow_Quiver",
+    "name": "Spike-Point Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Critical Strike Chance with Bows",
+    "req": { "level": 40, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Two-Point_Arrow_Quiver",
+    "name": "Two-Point Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Global Accuracy Rating",
+    "req": { "level": 4, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Two-Point_Arrow_Quiver",
+    "name": "Two-Point Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "(20-30)% increased Global Accuracy Rating",
+    "req": { "level": 36, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Vile_Arrow_Quiver",
+    "name": "Vile Arrow Quiver",
+    "type": "Quiver",
+    "subType": null,
+    "implicit": "Gain (10-15)% of Physical Damage as Extra Chaos Damage",
+    "req": { "level": 55, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  }
+]

@@ -1,0 +1,840 @@
+[
+  {
+    "id": "Anarchic_Spiritblade",
+    "name": "Anarchic Spiritblade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "100% of Physical Damage from Hits with this Weapon is Converted to a random Element",
+    "req": { "level": 70, "str": 121, "dex": 121, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 34, "physMax": 63, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Ancient_Sword",
+    "name": "Ancient Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+165 to Accuracy Rating",
+    "req": { "level": 24, "str": 44, "dex": 44, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 33, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Antique_Rapier",
+    "name": "Antique Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 26, "str": null, "dex": 89, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 46, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
+  },
+  {
+    "id": "Apex_Rapier",
+    "name": "Apex Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+35% to Global Critical Strike Multiplier",
+    "req": { "level": 55, "str": null, "dex": 176, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 67, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
+  },
+  {
+    "id": "Banishing_Blade",
+    "name": "Banishing Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "Attack Critical Strikes ignore Enemy Monster Elemental Resistances",
+    "req": { "level": 70, "str": 130, "dex": 130, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 55, "physMax": 102, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Baselard",
+    "name": "Baselard",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 41, "str": 72, "dex": 72, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 37, "physMax": 53, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Basket_Rapier",
+    "name": "Basket Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 17, "str": null, "dex": 62, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 11, "physMax": 25, "critChance": 5.5, "attackRate": 1.55, "range": 14 }
+  },
+  {
+    "id": "Bastard_Sword",
+    "name": "Bastard Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "60% increased Global Accuracy Rating",
+    "req": { "level": 12, "str": 21, "dex": 30, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 17, "physMax": 29, "critChance": 5, "attackRate": 1.45, "range": 13 }
+  },
+  {
+    "id": "Battered_Foil",
+    "name": "Battered Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 12, "str": null, "dex": 47, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 11, "physMax": 20, "critChance": 6, "attackRate": 1.5, "range": 14 }
+  },
+  {
+    "id": "Battle_Sword",
+    "name": "Battle Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 44, "str": 83, "dex": 70, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 38, "physMax": 70, "critChance": 5, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Blasting_Blade",
+    "name": "Blasting Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "Attack Critical Strikes ignore Enemy Monster Elemental Resistances",
+    "req": { "level": 50, "str": 86, "dex": 86, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 47, "physMax": 87, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Broad_Sword",
+    "name": "Broad Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 15, "str": 30, "dex": 30, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 21, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Burnished_Foil",
+    "name": "Burnished Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 40, "str": null, "dex": 131, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 25, "physMax": 46, "critChance": 6, "attackRate": 1.4, "range": 14 }
+  },
+  {
+    "id": "Butcher_Sword",
+    "name": "Butcher Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+250 to Accuracy Rating",
+    "req": { "level": 36, "str": 69, "dex": 58, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 34, "physMax": 79, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Capricious_Spiritblade",
+    "name": "Capricious Spiritblade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "100% of Physical Damage from Hits with this Weapon is Converted to a random Element",
+    "req": { "level": 50, "str": 94, "dex": 94, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 51, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Charans_Sword",
+    "name": "Charan's Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": null, "str": 9, "dex": 9, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 5, "physMax": 11, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Copper_Sword",
+    "name": "Copper Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+45 to Accuracy Rating",
+    "req": { "level": 5, "str": 14, "dex": 14, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 6, "physMax": 14, "critChance": 5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Corroded_Blade",
+    "name": "Corroded Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": null, "str": 11, "dex": 11, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 8, "physMax": 16, "critChance": 5, "attackRate": 1.45, "range": 13 }
+  },
+  {
+    "id": "Corsair_Sword",
+    "name": "Corsair Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 58, "str": 81, "dex": 117, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 80, "critChance": 5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Courtesan_Sword",
+    "name": "Courtesan Sword",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "15% chance to cause Bleeding on Hit",
+    "req": { "level": 57, "str": null, "dex": 190, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 60, "critChance": 6, "attackRate": 1.55, "range": 14 }
+  },
+  {
+    "id": "Curved_Blade",
+    "name": "Curved Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+40% to Global Critical Strike Multiplier",
+    "req": { "level": 35, "str": 62, "dex": 73, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 41, "physMax": 68, "critChance": 6, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Cutlass",
+    "name": "Cutlass",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 38, "str": 55, "dex": 79, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 53, "critChance": 5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Dragonbone_Rapier",
+    "name": "Dragonbone Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 58, "str": null, "dex": 185, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 75, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
+  },
+  {
+    "id": "Dragoon_Sword",
+    "name": "Dragoon Sword",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "20% chance to cause Bleeding on Hit",
+    "req": { "level": 72, "str": null, "dex": 220, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 32, "physMax": 66, "critChance": 6, "attackRate": 1.5, "range": 14 }
+  },
+  {
+    "id": "Dusk_Blade",
+    "name": "Dusk Blade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 32, "str": 57, "dex": 57, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 54, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Elder_Sword",
+    "name": "Elder Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+330 to Accuracy Rating",
+    "req": { "level": 47, "str": 81, "dex": 81, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 36, "physMax": 66, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Elegant_Foil",
+    "name": "Elegant Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 30, "str": null, "dex": 101, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 33, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Elegant_Sword",
+    "name": "Elegant Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+190 to Accuracy Rating",
+    "req": { "level": 28, "str": 46, "dex": 55, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 33, "critChance": 5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Energy_Blade_One_Handed",
+    "name": "Energy Blade One Handed",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 0, "physMax": 0, "critChance": 7, "attackRate": 1.7, "range": 11 }
+  },
+  {
+    "id": "Energy_Blade_Two_Handed",
+    "name": "Energy Blade Two Handed",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 0, "physMax": 0, "critChance": 7, "attackRate": 1.6, "range": 13 }
+  },
+  {
+    "id": "Engraved_Greatsword",
+    "name": "Engraved Greatsword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "60% increased Global Accuracy Rating",
+    "req": { "level": 48, "str": 91, "dex": 76, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 49, "physMax": 102, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Estoc",
+    "name": "Estoc",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 43, "str": null, "dex": 140, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 50, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
+  },
+  {
+    "id": "Etched_Greatsword",
+    "name": "Etched Greatsword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "60% increased Global Accuracy Rating",
+    "req": { "level": 22, "str": 45, "dex": 38, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 23, "physMax": 48, "critChance": 5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Eternal_Sword",
+    "name": "Eternal Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+475 to Accuracy Rating",
+    "req": { "level": 66, "str": 104, "dex": 122, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 41, "physMax": 68, "critChance": 5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Exquisite_Blade",
+    "name": "Exquisite Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+50% to Global Critical Strike Multiplier",
+    "req": { "level": 70, "str": 119, "dex": 131, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 67, "physMax": 112, "critChance": 5.7, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Ezomyte_Blade",
+    "name": "Ezomyte Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 61, "str": 113, "dex": 113, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 62, "physMax": 115, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Fancy_Foil",
+    "name": "Fancy Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 52, "str": null, "dex": 167, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 28, "physMax": 51, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Fickle_Spiritblade",
+    "name": "Fickle Spiritblade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "100% of Physical Damage from Hits with this Weapon is Converted to a random Element",
+    "req": { "level": 30, "str": 54, "dex": 54, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 33, "critChance": 6.5, "attackRate": 1.6, "range": 11 }
+  },
+  {
+    "id": "Footman_Sword",
+    "name": "Footman Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "60% increased Global Accuracy Rating",
+    "req": { "level": 40, "str": 57, "dex": 83, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 39, "physMax": 65, "critChance": 5, "attackRate": 1.45, "range": 13 }
+  },
+  {
+    "id": "Gemstone_Sword",
+    "name": "Gemstone Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+400 to Accuracy Rating",
+    "req": { "level": 56, "str": 96, "dex": 96, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 39, "physMax": 83, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Gladius",
+    "name": "Gladius",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 60, "str": 113, "dex": 113, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 54, "physMax": 78, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Graceful_Sword",
+    "name": "Graceful Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+350 to Accuracy Rating",
+    "req": { "level": 50, "str": 78, "dex": 94, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 34, "physMax": 55, "critChance": 5, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Grappler",
+    "name": "Grappler",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "15% chance to Maim on Hit",
+    "req": { "level": 55, "str": 99, "dex": 99, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 44, "physMax": 94, "critChance": 5, "attackRate": 1.15, "range": 11 }
+  },
+  {
+    "id": "Harpy_Rapier",
+    "name": "Harpy Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+35% to Global Critical Strike Multiplier",
+    "req": { "level": 70, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 31, "physMax": 72, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
+  },
+  {
+    "id": "Headmans_Sword",
+    "name": "Headman's Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+400 to Accuracy Rating",
+    "req": { "level": 57, "str": 106, "dex": 89, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 55, "physMax": 128, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Highland_Blade",
+    "name": "Highland Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+305 to Accuracy Rating",
+    "req": { "level": 44, "str": 77, "dex": 77, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 45, "physMax": 84, "critChance": 5, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Hook_Sword",
+    "name": "Hook Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "15% chance to Maim on Hit",
+    "req": { "level": 34, "str": 64, "dex": 64, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 28, "physMax": 60, "critChance": 5, "attackRate": 1.15, "range": 11 }
+  },
+  {
+    "id": "Infernal_Sword",
+    "name": "Infernal Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "30% increased Elemental Damage with Attack Skills",
+    "req": { "level": 67, "str": 113, "dex": 113, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 62, "physMax": 129, "critChance": 5, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Jagged_Foil",
+    "name": "Jagged Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 22, "str": null, "dex": 77, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 12, "physMax": 29, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Jewelled_Foil",
+    "name": "Jewelled Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 68, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 32, "physMax": 60, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Keyblade",
+    "name": "Keyblade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": 8, "dex": 8, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 1, "physMax": 1, "critChance": 5, "attackRate": 1.2, "range": 13 }
+  },
+  {
+    "id": "Legion_Sword",
+    "name": "Legion Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 62, "str": 122, "dex": 104, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 53, "physMax": 98, "critChance": 5, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Lion_Sword",
+    "name": "Lion Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+50 to Strength and Dexterity",
+    "req": { "level": 65, "str": 104, "dex": 122, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 69, "physMax": 115, "critChance": 5, "attackRate": 1.45, "range": 13 }
+  },
+  {
+    "id": "Lithe_Blade",
+    "name": "Lithe Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+40% to Global Critical Strike Multiplier",
+    "req": { "level": 56, "str": 96, "dex": 113, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 63, "physMax": 104, "critChance": 6, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Longsword",
+    "name": "Longsword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+60 to Accuracy Rating",
+    "req": { "level": 8, "str": 20, "dex": 17, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 11, "physMax": 26, "critChance": 5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Midnight_Blade",
+    "name": "Midnight Blade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 68, "str": 113, "dex": 113, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 35, "physMax": 99, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Ornate_Sword",
+    "name": "Ornate Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+185 to Accuracy Rating",
+    "req": { "level": 27, "str": 45, "dex": 54, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 30, "physMax": 50, "critChance": 5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Pecoraro",
+    "name": "Pecoraro",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 62, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 69, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
+  },
+  {
+    "id": "Primeval_Rapier",
+    "name": "Primeval Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 49, "str": null, "dex": 158, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 18, "physMax": 73, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
+  },
+  {
+    "id": "Random_One_Hand_Sword",
+    "name": "Random One Hand Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": 3
+  },
+  {
+    "id": "Random_Two_Hand_Sword",
+    "name": "Random Two Hand Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": 6
+  },
+  {
+    "id": "Reaver_Sword",
+    "name": "Reaver Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "60% increased Global Accuracy Rating",
+    "req": { "level": 59, "str": 82, "dex": 119, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 62, "physMax": 104, "critChance": 5, "attackRate": 1.5, "range": 13 }
+  },
+  {
+    "id": "Rebuking_Blade",
+    "name": "Rebuking Blade",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "Attack Critical Strikes ignore Enemy Monster Elemental Resistances",
+    "req": { "level": 30, "str": 54, "dex": 54, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 30, "physMax": 56, "critChance": 6.5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Rusted_Spike",
+    "name": "Rusted Spike",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": null, "str": null, "dex": 20, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 5, "physMax": 11, "critChance": 5.5, "attackRate": 1.55, "range": 14 }
+  },
+  {
+    "id": "Rusted_Sword",
+    "name": "Rusted Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": null, "str": 8, "dex": 8, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 4, "physMax": 9, "critChance": 5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Sabre",
+    "name": "Sabre",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 10, "str": 18, "dex": 26, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 5, "physMax": 22, "critChance": 5, "attackRate": 1.55, "range": 11 }
+  },
+  {
+    "id": "Serrated_Foil",
+    "name": "Serrated Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 46, "str": null, "dex": 149, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 49, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Smallsword",
+    "name": "Smallsword",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "15% chance to cause Bleeding on Hit",
+    "req": { "level": 36, "str": null, "dex": 124, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 40, "critChance": 6, "attackRate": 1.55, "range": 14 }
+  },
+  {
+    "id": "Spectral_Sword",
+    "name": "Spectral Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "45% increased Global Accuracy Rating",
+    "req": { "level": 32, "str": 57, "dex": 57, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 31, "physMax": 65, "critChance": 5, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Spiraled_Foil",
+    "name": "Spiraled Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 64, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 64, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Tempered_Foil",
+    "name": "Tempered Foil",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 60, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 35, "physMax": 65, "critChance": 6, "attackRate": 1.4, "range": 14 }
+  },
+  {
+    "id": "Thorn_Rapier",
+    "name": "Thorn Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+35% to Global Critical Strike Multiplier",
+    "req": { "level": 34, "str": null, "dex": 113, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 44, "critChance": 5.7, "attackRate": 1.4, "range": 14 }
+  },
+  {
+    "id": "Tiger_Hook",
+    "name": "Tiger Hook",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "20% chance to Maim on Hit",
+    "req": { "level": 70, "str": 119, "dex": 119, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 37, "physMax": 80, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Tiger_Sword",
+    "name": "Tiger Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+360 to Accuracy Rating",
+    "req": { "level": 51, "str": 80, "dex": 96, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 54, "physMax": 89, "critChance": 5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Twilight_Blade",
+    "name": "Twilight Blade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 53, "str": 91, "dex": 91, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 86, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Two-Handed_Sword",
+    "name": "Two-Handed Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+120 to Accuracy Rating",
+    "req": { "level": 17, "str": 33, "dex": 33, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 20, "physMax": 38, "critChance": 5, "attackRate": 1.4, "range": 13 }
+  },
+  {
+    "id": "Vaal_Blade",
+    "name": "Vaal Blade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+460 to Accuracy Rating",
+    "req": { "level": 64, "str": 113, "dex": 113, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 46, "physMax": 86, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Vaal_Greatsword",
+    "name": "Vaal Greatsword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "+470 to Accuracy Rating",
+    "req": { "level": 63, "str": 122, "dex": 104, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 68, "physMax": 142, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Vaal_Rapier",
+    "name": "Vaal Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 66, "str": null, "dex": 212, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 22, "physMax": 87, "critChance": 6.5, "attackRate": 1.3, "range": 14 }
+  },
+  {
+    "id": "Variscite_Blade",
+    "name": "Variscite Blade",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "+240 to Accuracy Rating",
+    "req": { "level": 35, "str": 62, "dex": 62, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 25, "physMax": 53, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "War_Sword",
+    "name": "War Sword",
+    "type": "One Handed Sword",
+    "subType": null,
+    "implicit": "40% increased Global Accuracy Rating",
+    "req": { "level": 20, "str": 41, "dex": 35, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 16, "physMax": 30, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Whalebone_Rapier",
+    "name": "Whalebone Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 7, "str": null, "dex": 32, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 4, "physMax": 17, "critChance": 5.5, "attackRate": 1.6, "range": 14 }
+  },
+  {
+    "id": "Wraith_Sword",
+    "name": "Wraith Sword",
+    "type": "Two Handed Sword",
+    "subType": null,
+    "implicit": "45% increased Global Accuracy Rating",
+    "req": { "level": 54, "str": 93, "dex": 93, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 52, "physMax": 109, "critChance": 5, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Wyrmbone_Rapier",
+    "name": "Wyrmbone Rapier",
+    "type": "One Handed Sword",
+    "subType": "Thrusting",
+    "implicit": "+25% to Global Critical Strike Multiplier",
+    "req": { "level": 37, "str": null, "dex": 122, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 51, "critChance": 5.5, "attackRate": 1.5, "range": 14 }
+  }
+]

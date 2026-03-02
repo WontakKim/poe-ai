@@ -1,0 +1,812 @@
+[
+  {
+    "id": "Abyssal_Sceptre",
+    "name": "Abyssal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "30% increased Elemental Damage",
+    "req": { "level": 53, "str": 83, "dex": null, "int": 99 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 45, "physMax": 67, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Alternating_Sceptre",
+    "name": "Alternating Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Secrets of Suffering",
+    "req": { "level": 70, "str": 95, "dex": null, "int": 131 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 41, "physMax": 61, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Ancestral_Club",
+    "name": "Ancestral Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 56, "str": 179, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 48, "physMax": 80, "critChance": 5, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Auric_Mace",
+    "name": "Auric Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 66, "str": 212, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 65, "physMax": 82, "critChance": 5, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Barbed_Club",
+    "name": "Barbed Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 38, "str": 125, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 33, "physMax": 42, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Battle_Hammer",
+    "name": "Battle Hammer",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 44, "str": 143, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 25, "physMax": 59, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Behemoth_Mace",
+    "name": "Behemoth Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "6% increased Attack Speed",
+    "req": { "level": 70, "str": 220, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 49, "physMax": 74, "critChance": 5, "attackRate": 1.35, "range": 11 }
+  },
+  {
+    "id": "Bladed_Mace",
+    "name": "Bladed Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 24, "str": 83, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 19, "physMax": 32, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Blood_Sceptre",
+    "name": "Blood Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "24% increased Elemental Damage",
+    "req": { "level": 47, "str": 81, "dex": null, "int": 81 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 55, "critChance": 7, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Blunt_Force_Condenser",
+    "name": "Blunt Force Condenser",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "Warcries Exert 1 additional Attack",
+    "req": { "level": 30, "str": 101, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 39, "physMax": 64, "critChance": 5, "attackRate": 1.15, "range": 13 }
+  },
+  {
+    "id": "Boom_Mace",
+    "name": "Boom Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "Trigger Level 20 Fiery Impact on Melee Hit with this Weapon",
+    "req": { "level": 70, "str": 218, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 39, "physMax": 81, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Brass_Maul",
+    "name": "Brass Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 27, "str": 92, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 40, "physMax": 60, "critChance": 5, "attackRate": 1.2, "range": 13 }
+  },
+  {
+    "id": "Bronze_Sceptre",
+    "name": "Bronze Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "12% increased Elemental Damage",
+    "req": { "level": 10, "str": 22, "dex": null, "int": 22 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 29, "critChance": 7, "attackRate": 1.1, "range": 11 }
+  },
+  {
+    "id": "Carnal_Sceptre",
+    "name": "Carnal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "32% increased Elemental Damage",
+    "req": { "level": 66, "str": 113, "dex": null, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 41, "physMax": 95, "critChance": 7, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Ceremonial_Mace",
+    "name": "Ceremonial Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 28, "str": 95, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 32, "physMax": 40, "critChance": 5, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Colossus_Mallet",
+    "name": "Colossus Mallet",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Area Damage",
+    "req": { "level": 59, "str": 188, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 65, "physMax": 135, "critChance": 5.5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Coronal_Maul",
+    "name": "Coronal Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "20% increased Area of Effect",
+    "req": { "level": 69, "str": 220, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 91, "physMax": 136, "critChance": 5, "attackRate": 1.2, "range": 13 }
+  },
+  {
+    "id": "Crack_Mace",
+    "name": "Crack Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "Trigger Level 15 Fiery Impact on Melee Hit with this Weapon",
+    "req": { "level": 50, "str": 161, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 31, "physMax": 64, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Crushing_Force_Magnifier",
+    "name": "Crushing Force Magnifier",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "Warcries Exert 1 additional Attack",
+    "req": { "level": 50, "str": 161, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 62, "physMax": 103, "critChance": 5, "attackRate": 1.15, "range": 13 }
+  },
+  {
+    "id": "Crystal_Sceptre",
+    "name": "Crystal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "30% increased Elemental Damage",
+    "req": { "level": 41, "str": 59, "dex": null, "int": 85 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 35, "physMax": 52, "critChance": 8, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Darkwood_Sceptre",
+    "name": "Darkwood Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "12% increased Elemental Damage",
+    "req": { "level": 5, "str": 14, "dex": null, "int": 14 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 11, "physMax": 17, "critChance": 7, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Dragon_Mace",
+    "name": "Dragon Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "4% increased Attack Speed",
+    "req": { "level": 55, "str": 184, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 44, "physMax": 66, "critChance": 5, "attackRate": 1.35, "range": 11 }
+  },
+  {
+    "id": "Dread_Maul",
+    "name": "Dread Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 54, "str": 173, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 77, "physMax": 104, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Dream_Mace",
+    "name": "Dream Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 32, "str": 107, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 43, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Driftwood_Club",
+    "name": "Driftwood Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": null, "str": 14, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 6, "physMax": 8, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Driftwood_Maul",
+    "name": "Driftwood Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": null, "str": 20, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 10, "physMax": 16, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Driftwood_Sceptre",
+    "name": "Driftwood Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "10% increased Elemental Damage",
+    "req": { "level": null, "str": 8, "dex": null, "int": 8 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 8, "physMax": 11, "critChance": 7, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Flanged_Mace",
+    "name": "Flanged Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 47, "str": 152, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 38, "physMax": 63, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Flare_Mace",
+    "name": "Flare Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "Trigger Level 10 Fiery Impact on Melee Hit with this Weapon",
+    "req": { "level": 30, "str": 101, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 20, "physMax": 41, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Fright_Maul",
+    "name": "Fright Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 32, "str": 107, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 46, "physMax": 62, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Gavel",
+    "name": "Gavel",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 60, "str": 212, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 54, "physMax": 101, "critChance": 5, "attackRate": 1.15, "range": 11 }
+  },
+  {
+    "id": "Great_Mallet",
+    "name": "Great Mallet",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 40, "str": 131, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 43, "physMax": 88, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Grinning_Fetish",
+    "name": "Grinning Fetish",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "18% increased Elemental Damage",
+    "req": { "level": 35, "str": 62, "dex": null, "int": 62 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 24, "physMax": 36, "critChance": 7, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Horned_Sceptre",
+    "name": "Horned Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Damage Penetrates 4% Elemental Resistances",
+    "req": { "level": 36, "str": 66, "dex": null, "int": 66 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 50, "critChance": 7, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Impact_Force_Propagator",
+    "name": "Impact Force Propagator",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "Warcries Exert 2 additional Attacks",
+    "req": { "level": 70, "str": 220, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 81, "physMax": 135, "critChance": 5, "attackRate": 1.15, "range": 13 }
+  },
+  {
+    "id": "Imperial_Maul",
+    "name": "Imperial Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "10% increased Strength",
+    "req": { "level": 65, "str": 212, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 102, "physMax": 153, "critChance": 5, "attackRate": 1.1, "range": 13 }
+  },
+  {
+    "id": "Iron_Sceptre",
+    "name": "Iron Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "14% increased Elemental Damage",
+    "req": { "level": 20, "str": 38, "dex": null, "int": 38 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 27, "physMax": 40, "critChance": 7, "attackRate": 1.1, "range": 11 }
+  },
+  {
+    "id": "Jagged_Maul",
+    "name": "Jagged Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 22, "str": 77, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 27, "physMax": 49, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Karui_Maul",
+    "name": "Karui Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "45% increased Stun Duration on Enemies",
+    "req": { "level": 57, "str": 182, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 112, "physMax": 168, "critChance": 5, "attackRate": 1, "range": 13 }
+  },
+  {
+    "id": "Karui_Sceptre",
+    "name": "Karui Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "26% increased Elemental Damage",
+    "req": { "level": 56, "str": 96, "dex": null, "int": 96 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 37, "physMax": 55, "critChance": 7, "attackRate": 1.5, "range": 11 }
+  },
+  {
+    "id": "Lead_Sceptre",
+    "name": "Lead Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "22% increased Elemental Damage",
+    "req": { "level": 44, "str": 77, "dex": null, "int": 77 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 38, "physMax": 57, "critChance": 7, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Legion_Hammer",
+    "name": "Legion Hammer",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 62, "str": 212, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 35, "physMax": 81, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Mallet",
+    "name": "Mallet",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 12, "str": 47, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 16, "physMax": 33, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Meatgrinder",
+    "name": "Meatgrinder",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "5% chance to deal Double Damage",
+    "req": { "level": 63, "str": 212, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 74, "physMax": 138, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Morning_Star",
+    "name": "Morning Star",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "15% increased Area of Effect",
+    "req": { "level": 34, "str": 118, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 45, "physMax": 68, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Nightmare_Mace",
+    "name": "Nightmare Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 68, "str": 212, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 38, "physMax": 80, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Ochre_Sceptre",
+    "name": "Ochre Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "16% increased Elemental Damage",
+    "req": { "level": 24, "str": 44, "dex": null, "int": 44 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 24, "physMax": 45, "critChance": 7, "attackRate": 1.15, "range": 11 }
+  },
+  {
+    "id": "Opal_Sceptre",
+    "name": "Opal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "40% increased Elemental Damage",
+    "req": { "level": 60, "str": 95, "dex": null, "int": 131 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 49, "physMax": 73, "critChance": 8, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Ornate_Mace",
+    "name": "Ornate Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 50, "str": 161, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 53, "physMax": 67, "critChance": 5, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Oscillating_Sceptre",
+    "name": "Oscillating Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Elemental Overload",
+    "req": { "level": 30, "str": 44, "dex": null, "int": 64 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 23, "physMax": 34, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Pernach",
+    "name": "Pernach",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 64, "str": 212, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 49, "physMax": 82, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Petrified_Club",
+    "name": "Petrified Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 35, "str": 116, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 31, "physMax": 51, "critChance": 5, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Phantom_Mace",
+    "name": "Phantom Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 53, "str": 170, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 33, "physMax": 69, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Piledriver",
+    "name": "Piledriver",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "20% reduced Enemy Stun Threshold",
+    "req": { "level": 61, "str": 212, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 77, "physMax": 115, "critChance": 5, "attackRate": 1.35, "range": 13 }
+  },
+  {
+    "id": "Plated_Maul",
+    "name": "Plated Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 51, "str": 164, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 72, "physMax": 108, "critChance": 5, "attackRate": 1.2, "range": 13 }
+  },
+  {
+    "id": "Platinum_Sceptre",
+    "name": "Platinum Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "30% increased Elemental Damage",
+    "req": { "level": 62, "str": 113, "dex": null, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 51, "physMax": 76, "critChance": 7, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Quartz_Sceptre",
+    "name": "Quartz Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "20% increased Elemental Damage",
+    "req": { "level": 15, "str": 25, "dex": null, "int": 35 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 32, "critChance": 8, "attackRate": 1.1, "range": 11 }
+  },
+  {
+    "id": "Ritual_Sceptre",
+    "name": "Ritual Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "16% increased Elemental Damage",
+    "req": { "level": 28, "str": 51, "dex": null, "int": 51 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 21, "physMax": 50, "critChance": 7, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Rock_Breaker",
+    "name": "Rock Breaker",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 41, "str": 134, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 37, "physMax": 69, "critChance": 5, "attackRate": 1.15, "range": 11 }
+  },
+  {
+    "id": "Royal_Sceptre",
+    "name": "Royal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "24% increased Elemental Damage",
+    "req": { "level": 50, "str": 86, "dex": null, "int": 86 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 34, "physMax": 80, "critChance": 7, "attackRate": 1.2, "range": 11 }
+  },
+  {
+    "id": "Sambar_Sceptre",
+    "name": "Sambar Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Damage Penetrates 6% Elemental Resistances",
+    "req": { "level": 70, "str": 121, "dex": null, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 42, "physMax": 78, "critChance": 7, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Sekhem",
+    "name": "Sekhem",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "18% increased Elemental Damage",
+    "req": { "level": 38, "str": 67, "dex": null, "int": 67 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 30, "physMax": 55, "critChance": 7, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Shadow_Sceptre",
+    "name": "Shadow Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "22% increased Elemental Damage",
+    "req": { "level": 32, "str": 52, "dex": null, "int": 62 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 29, "physMax": 44, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Sledgehammer",
+    "name": "Sledgehammer",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "45% increased Stun Duration on Enemies",
+    "req": { "level": 17, "str": 62, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 25, "physMax": 38, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Solar_Maul",
+    "name": "Solar Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "15% increased Area of Effect",
+    "req": { "level": 56, "str": 187, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 75, "physMax": 113, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Spiked_Club",
+    "name": "Spiked Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 10, "str": 41, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 16, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Spiny_Maul",
+    "name": "Spiny Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 48, "str": 155, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 55, "physMax": 103, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Stabilising_Sceptre",
+    "name": "Stabilising Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Elemental Equilibrium",
+    "req": { "level": 50, "str": 71, "dex": null, "int": 102 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 35, "physMax": 52, "critChance": 7.6, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Stag_Sceptre",
+    "name": "Stag Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "Damage Penetrates 4% Elemental Resistances",
+    "req": { "level": 55, "str": 98, "dex": null, "int": 98 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 39, "physMax": 72, "critChance": 7, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Steelhead",
+    "name": "Steelhead",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "45% increased Stun Duration on Enemies",
+    "req": { "level": 44, "str": 143, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 54, "physMax": 81, "critChance": 5, "attackRate": 1.3, "range": 13 }
+  },
+  {
+    "id": "Stone_Hammer",
+    "name": "Stone Hammer",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "15% reduced Enemy Stun Threshold",
+    "req": { "level": 15, "str": 56, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 15, "physMax": 27, "critChance": 5, "attackRate": 1.3, "range": 11 }
+  },
+  {
+    "id": "Tenderizer",
+    "name": "Tenderizer",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 58, "str": 185, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 49, "physMax": 62, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Terror_Maul",
+    "name": "Terror Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "25% chance to double Stun Duration",
+    "req": { "level": 67, "str": 212, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 101, "physMax": 137, "critChance": 6, "attackRate": 1.15, "range": 13 }
+  },
+  {
+    "id": "Totemic_Maul",
+    "name": "Totemic Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 36, "str": 119, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 57, "physMax": 85, "critChance": 5, "attackRate": 1.1, "range": 13 }
+  },
+  {
+    "id": "Tribal_Club",
+    "name": "Tribal Club",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 5, "str": 26, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 8, "physMax": 13, "critChance": 5, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Tribal_Maul",
+    "name": "Tribal Maul",
+    "type": "Two Handed Mace",
+    "subType": null,
+    "implicit": "30% increased Stun Duration on Enemies",
+    "req": { "level": 8, "str": 35, "dex": null, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 17, "physMax": 25, "critChance": 5, "attackRate": 1.25, "range": 13 }
+  },
+  {
+    "id": "Tyrants_Sekhem",
+    "name": "Tyrant's Sekhem",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "26% increased Elemental Damage",
+    "req": { "level": 58, "str": 99, "dex": null, "int": 99 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 43, "physMax": 80, "critChance": 7, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "Vaal_Sceptre",
+    "name": "Vaal Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "32% increased Elemental Damage",
+    "req": { "level": 64, "str": 113, "dex": null, "int": 113 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 37, "physMax": 70, "critChance": 7, "attackRate": 1.4, "range": 11 }
+  },
+  {
+    "id": "Void_Sceptre",
+    "name": "Void Sceptre",
+    "type": "Sceptre",
+    "subType": null,
+    "implicit": "40% increased Elemental Damage",
+    "req": { "level": 68, "str": 104, "dex": null, "int": 122 },
+    "socketLimit": 3,
+    "weapon": { "physMin": 50, "physMax": 76, "critChance": 7.3, "attackRate": 1.25, "range": 11 }
+  },
+  {
+    "id": "War_Hammer",
+    "name": "War Hammer",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "10% reduced Enemy Stun Threshold",
+    "req": { "level": 20, "str": 71, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 13, "physMax": 31, "critChance": 5, "attackRate": 1.45, "range": 11 }
+  },
+  {
+    "id": "Wyrm_Mace",
+    "name": "Wyrm Mace",
+    "type": "One Handed Mace",
+    "subType": null,
+    "implicit": "4% increased Attack Speed",
+    "req": { "level": 34, "str": 118, "dex": null, "int": null },
+    "socketLimit": 3,
+    "weapon": { "physMin": 28, "physMax": 42, "critChance": 5, "attackRate": 1.35, "range": 11 }
+  }
+]

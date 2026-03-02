@@ -1,0 +1,1299 @@
+[
+  {
+    "id": "Aegis_Aurora",
+    "name": "Aegis Aurora",
+    "baseType": "Champion Kite Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(300-400)% increased Armour and Energy Shield",
+      "+10% to all Elemental Resistances",
+      "+5% to maximum Cold Resistance",
+      "+6% Chance to Block",
+      "Recover Energy Shield equal to 2% of Armour when you Block",
+      "(10-20)% increased Elemental Damage with Attack Skills"
+    ]
+  },
+  {
+    "id": "Ahns_Heritage",
+    "name": "Ahn's Heritage",
+    "baseType": "Colossal Tower Shield",
+    "type": "Shield",
+    "levelReq": 67,
+    "league": null,
+    "implicit": ["+(10-20) to maximum Life"],
+    "mods": [
+      "(50-100)% increased Armour",
+      "+(60-80) to maximum Life",
+      "-1 to Maximum Endurance Charges",
+      "-10% to maximum Chance to Block Attack Damage",
+      "+6% Chance to Block",
+      "+2% to all maximum Resistances while you have no Endurance Charges",
+      "You have Onslaught while at maximum Endurance Charges"
+    ]
+  },
+  {
+    "id": "Apeps_Slumber",
+    "name": "Apep's Slumber",
+    "baseType": "Vaal Spirit Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": "Incursion",
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "Adds (50-55) to (72-80) Chaos Damage",
+      "+(80-100) to maximum Energy Shield",
+      "+25% chance to be Poisoned",
+      "+3% to all maximum Resistances while Poisoned",
+      "Regenerate 80 Energy Shield per Second per Poison on you, up to 400 per second",
+      "Poisons on you expire 50% slower"
+    ]
+  },
+  {
+    "id": "Apeps_Supremacy",
+    "name": "Apep's Supremacy",
+    "baseType": "Vaal Spirit Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": "Incursion",
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "Adds (50-55) to (72-80) Chaos Damage",
+      "+(130-150) to maximum Energy Shield",
+      "(30-50)% faster start of Energy Shield Recharge",
+      "You take Chaos Damage instead of Physical Damage from Bleeding",
+      "+25% chance to be Poisoned",
+      "+3% to all maximum Resistances while Poisoned",
+      "Poisons on you expire 50% slower"
+    ]
+  },
+  {
+    "id": "Atziris_Mirror",
+    "name": "Atziri's Mirror",
+    "baseType": "Golden Buckler",
+    "type": "Shield",
+    "levelReq": 54,
+    "league": null,
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "+(40-60) to Intelligence",
+      "(180-200)% increased Evasion Rating",
+      "+(20-30) to all Elemental Resistances",
+      "50% reduced Duration of Curses on you",
+      "Hex Reflection",
+      "+10% Chance to Block Attack Damage while not Cursed",
+      "+20% Chance to Block Spell Damage while Cursed"
+    ]
+  },
+  {
+    "id": "Atziris_Reflection",
+    "name": "Atziri's Reflection",
+    "baseType": "Golden Buckler",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "+(40-60) to Intelligence",
+      "(180-200)% increased Evasion Rating",
+      "+(180-200) to maximum Energy Shield",
+      "+(20-30)% to all Elemental Resistances",
+      "Hex Reflection",
+      "Unaffected by Curses",
+      "(15-20)% increased Effect of your Curses"
+    ]
+  },
+  {
+    "id": "Azadi_Crest",
+    "name": "Azadi Crest",
+    "baseType": "Lacquered Buckler",
+    "type": "Shield",
+    "levelReq": 60,
+    "league": "Mercenaries of Trarthus",
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "+(1-100) to maximum Life",
+      "+(1-10)% Chance to Block",
+      "(1-10)% chance to avoid Projectiles",
+      "Your Lucky or Unlucky effects use the best or",
+      "worst from three rolls instead of two"
+    ]
+  },
+  {
+    "id": "Bitter_Instinct",
+    "name": "Bitter Instinct",
+    "baseType": "Spiny Round Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["60% increased Block Recovery"],
+    "mods": [
+      "(170-250)% increased Armour and Evasion",
+      "Reflects (200-300) Physical Damage to Melee Attackers",
+      "Retaliation Skills deal (50-100)% increased Damage",
+      "Damaging Retaliation Skills become Usable every 4 seconds",
+      "Retaliation Skills become Usable for (50-100)% longer"
+    ]
+  },
+  {
+    "id": "Bitterbind_Point",
+    "name": "Bitterbind Point",
+    "baseType": "Titanium Spirit Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": "Betrayal",
+    "implicit": [],
+    "mods": [
+      "(180-220)% increased Energy Shield",
+      "Spectres have (50-100)% increased maximum Life",
+      "Gain Arcane Surge when you deal a Critical Strike",
+      "Your Raised Spectres also gain Arcane Surge when you do",
+      "(50-100)% increased Critical Strike Chance for Spells per Raised Spectre",
+      "Raised Spectres have (30-50)% increased Area of Effect"
+    ]
+  },
+  {
+    "id": "Brinerot_Flag",
+    "name": "Brinerot Flag",
+    "baseType": "Tarnished Spirit Shield",
+    "type": "Shield",
+    "levelReq": 23,
+    "league": "Warbands",
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "+3 to Level of Socketed Warcry Gems",
+      "(8-12)% increased Cast Speed",
+      "+(70-90) to maximum Energy Shield",
+      "(20-40)% increased Mana Regeneration Rate",
+      "Warcries grant Arcane Surge to you and Allies, with 10% increased effect per 5 power, up to 50%"
+    ]
+  },
+  {
+    "id": "Broken_Faith",
+    "name": "Broken Faith",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": "Warbands",
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "0.4% of Chaos Damage Leeched as Life",
+      "-10% Chance to Block",
+      "100% increased Global Armour while you have no Energy Shield",
+      "You have Unholy Might while you have no Energy Shield",
+      "Create Profane Ground instead of Consecrated Ground"
+    ]
+  },
+  {
+    "id": "Chalice_of_Horrors",
+    "name": "Chalice of Horrors",
+    "baseType": "War Buckler",
+    "type": "Shield",
+    "levelReq": 29,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+3 to Level of Socketed Curse Gems",
+      "(30-50)% increased Evasion Rating",
+      "+(50-70) to maximum Energy Shield",
+      "100% Chance to Cause Monster to Flee on Block",
+      "+20% Chance to Block Attack Damage from Cursed Enemies",
+      "Inflict Decay on Enemies you Curse with Hex Skills, dealing 700 Chaos Damage per Second for 8 Seconds"
+    ]
+  },
+  {
+    "id": "Chernobogs_Pillar",
+    "name": "Chernobog's Pillar",
+    "baseType": "Ebony Tower Shield",
+    "type": "Shield",
+    "levelReq": 61,
+    "league": null,
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
+      "(120-150)% increased Armour",
+      "+(60-80) to maximum Life",
+      "+(35-50)% to Fire Resistance",
+      "25% of Physical Damage Converted to Fire Damage",
+      "25% chance to Curse Non-Cursed Enemies with Enfeeble on Hit"
+    ]
+  },
+  {
+    "id": "Cowards_Wail",
+    "name": "Cowards' Wail",
+    "baseType": "Ezomyte Tower Shield",
+    "type": "Shield",
+    "levelReq": 64,
+    "league": null,
+    "implicit": ["+(30-40) to maximum Life"],
+    "mods": [
+      "(120-240)% increased Armour",
+      "+(5-10)% Chance to Block",
+      "Totems which would be killed by Enemies become Spectral Totems for 8 seconds instead",
+      "Skills used by Spectral Totems deal (40-50)% less Damage",
+      "Maximum (3-5) Spectral Totems",
+      "Unwavering Stance"
+    ]
+  },
+  {
+    "id": "Crest_of_Perandus",
+    "name": "Crest of Perandus",
+    "baseType": "Pine Buckler",
+    "type": "Shield",
+    "levelReq": 8,
+    "league": null,
+    "implicit": ["3% increased Movement Speed"],
+    "mods": [
+      "+(60-80) to maximum Life",
+      "Regenerate (5-7.5) Life per second",
+      "+30% to Lightning Resistance",
+      "0.6% of Physical Attack Damage Leeched as Life",
+      "+5% Chance to Block"
+    ]
+  },
+  {
+    "id": "Daressos_Courage",
+    "name": "Daresso's Courage",
+    "baseType": "Baroque Round Shield",
+    "type": "Shield",
+    "levelReq": 54,
+    "league": null,
+    "implicit": ["120% increased Block Recovery"],
+    "mods": [
+      "+30% Chance to Block Spell Damage while on Low Life",
+      "(200-250)% increased Armour and Evasion",
+      "+(20-30)% to all Elemental Resistances",
+      "+100% Chance to Block Attack Damage if you have Blocked Spell Damage Recently",
+      "+100% Chance to Block Spell Damage if you have Blocked Attack Damage Recently"
+    ]
+  },
+  {
+    "id": "Dawnbreaker",
+    "name": "Dawnbreaker",
+    "baseType": "Colossal Tower Shield",
+    "type": "Shield",
+    "levelReq": 67,
+    "league": null,
+    "implicit": ["+(10-20) to maximum Life"],
+    "mods": [
+      "(150-250)% increased Armour",
+      "+(20-25)% Chance to Block",
+      "-1% Chance to Block Attack Damage for every 200 Fire Damage taken from Hits Recently",
+      "(10-20)% of Cold Damage taken as Fire Damage",
+      "(10-20)% of Lightning Damage taken as Fire Damage",
+      "(10-20)% of Physical Damage taken as Fire Damage",
+      "Scorch Enemies in Close Range when you Block"
+    ]
+  },
+  {
+    "id": "Emperors_Vigilance",
+    "name": "Emperor's Vigilance",
+    "baseType": "Steel Kite Shield",
+    "type": "Shield",
+    "levelReq": 46,
+    "league": "Harvest",
+    "implicit": [],
+    "mods": [
+      "(16-22)% Chance to Block Spell Damage",
+      "1000% increased Armour and Energy Shield",
+      "Damage taken from Blocked Hits cannot bypass Energy Shield",
+      "Damage taken from Unblocked hits always bypasses Energy Shield",
+      "Glancing Blows"
+    ]
+  },
+  {
+    "id": "Eshs_Mirror",
+    "name": "Esh's Mirror",
+    "baseType": "Vaal Spirit Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": "Breach",
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "+(20-30) to Intelligence",
+      "(170-230)% increased Energy Shield",
+      "+(35-40)% to Lightning Resistance",
+      "Shocks you inflict spread to other Enemies within 1.5 metres",
+      "Adds 1 to 10 Lightning Damage for each Shocked Enemy you've Killed Recently"
+    ]
+  },
+  {
+    "id": "Eshs_Visage",
+    "name": "Esh's Visage",
+    "baseType": "Vaal Spirit Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": "Breach",
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "(240-260)% increased Energy Shield",
+      "+(70-100) to maximum Life",
+      "+(30-40)% to Lightning Resistance",
+      "+(17-29)% to Chaos Resistance",
+      "Chaos Damage does not bypass Energy Shield while not on Low Life",
+      "Reflect Shocks applied to you to all Nearby Enemies"
+    ]
+  },
+  {
+    "id": "Font_of_Thunder",
+    "name": "Font of Thunder",
+    "baseType": "Mirrored Spiked Shield",
+    "type": "Shield",
+    "levelReq": 66,
+    "league": "Heist",
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "(400-500)% increased Evasion and Energy Shield",
+      "(25-40)% increased Mana Regeneration Rate",
+      "+50% chance to be Shocked",
+      "40% of Cold Damage taken as Lightning Damage",
+      "40% of Fire Damage taken as Lightning Damage"
+    ]
+  },
+  {
+    "id": "Glitterdisc",
+    "name": "Glitterdisc",
+    "baseType": "Burnished Spiked Shield",
+    "type": "Shield",
+    "levelReq": 27,
+    "league": null,
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "(120-140)% increased Evasion and Energy Shield",
+      "+(20-30) to maximum Energy Shield",
+      "+(30-50) to maximum Life",
+      "10% increased Rarity of Items found",
+      "25% chance to Avoid Fire Damage from Hits",
+      "You always Ignite while Burning"
+    ]
+  },
+  {
+    "id": "Great_Old_Ones_Ward",
+    "name": "Great Old One's Ward",
+    "baseType": "Corrugated Buckler",
+    "type": "Shield",
+    "levelReq": 46,
+    "league": null,
+    "implicit": ["3% increased Movement Speed"],
+    "mods": [
+      "(8-12)% Chance to Block Spell Damage",
+      "Adds (8-12) to (15-20) Physical Damage to Attacks",
+      "(6-10)% increased Attack Speed",
+      "+(50-70) to maximum Life"
+    ]
+  },
+  {
+    "id": "Invictus_Solaris",
+    "name": "Invictus Solaris",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Triggers Level 20 Fire Aegis when Equipped",
+      "(200-250)% increased Armour and Energy Shield",
+      "+(60-80) to maximum Life",
+      "Cannot be Ignited"
+    ]
+  },
+  {
+    "id": "Jaws_of_Agony",
+    "name": "Jaws of Agony",
+    "baseType": "Supreme Spiked Shield",
+    "type": "Shield",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "Grants Level 25 Bear Trap Skill",
+      "(18-28)% increased Trap Damage",
+      "(15-25)% increased Global Physical Damage",
+      "+(60-80) to maximum Life",
+      "-(14-18) Physical Damage taken from Attack Hits",
+      "25% chance to gain a Power Charge when you Throw a Trap"
+    ]
+  },
+  {
+    "id": "Kaltenhalt",
+    "name": "Kaltenhalt",
+    "baseType": "Painted Buckler",
+    "type": "Shield",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "(60-100)% increased Evasion Rating",
+      "+5% to maximum Cold Resistance",
+      "+50% to Cold Resistance",
+      "Gain (10-15)% of Physical Damage as Extra Cold Damage",
+      "Reflects (25-50) Cold Damage to Melee Attackers",
+      "+5% Chance to Block"
+    ]
+  },
+  {
+    "id": "Kaltensoul",
+    "name": "Kaltensoul",
+    "baseType": "Painted Buckler",
+    "type": "Shield",
+    "levelReq": 16,
+    "league": null,
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "(60-100)% increased Evasion Rating",
+      "+5% to maximum Cold Resistance",
+      "+50% to Cold Resistance",
+      "Gain (10-15)% of Physical Damage as Extra Cold Damage",
+      "Reflects (25-50) Cold Damage to Melee Attackers",
+      "+5% Chance to Block",
+      "20% of Fire Damage from Hits taken as Cold Damage"
+    ]
+  },
+  {
+    "id": "Kiloavas_Bluster",
+    "name": "Kiloava's Bluster",
+    "baseType": "Ironwood Buckler",
+    "type": "Shield",
+    "levelReq": 57,
+    "league": null,
+    "implicit": ["3% increased Movement Speed"],
+    "mods": [
+      "(100-150)% increased Evasion Rating",
+      "(15-25)% chance to Avoid Elemental Ailments",
+      "+(3-8)% Chance to Block",
+      "(30-40)% chance for Elemental Resistances to count as being 90% against Enemy Hits"
+    ]
+  },
+  {
+    "id": "Kongmings_Stratagem",
+    "name": "Kongming's Stratagem",
+    "baseType": "Ancient Spirit Shield",
+    "type": "Shield",
+    "levelReq": 45,
+    "league": null,
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "Trigger Level 20 Fog of War when your Trap is triggered",
+      "+(20-30) to Intelligence",
+      "(250-300)% increased Energy Shield",
+      "(30-50)% increased Fire Damage with Hits and Ailments against Blinded Enemies",
+      "30% reduced Spell Damage taken from Blinded Enemies",
+      "No Chance to Block"
+    ]
+  },
+  {
+    "id": "Lepers_Alms",
+    "name": "Leper's Alms",
+    "baseType": "Mirrored Spiked Shield",
+    "type": "Shield",
+    "levelReq": 66,
+    "league": null,
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "(500-600)% increased Evasion and Energy Shield",
+      "+(60-80) to maximum Life",
+      "40% increased Duration of Ailments on Enemies",
+      "+(3-4)% Chance to Block",
+      "Shared Suffering"
+    ]
+  },
+  {
+    "id": "Light_of_Lunaris",
+    "name": "Light of Lunaris",
+    "baseType": "Jingling Spirit Shield",
+    "type": "Shield",
+    "levelReq": 28,
+    "league": null,
+    "implicit": ["(10-15)% increased Spell Damage"],
+    "mods": [
+      "Adds (35-39) to (54-60) Cold Damage to Spells",
+      "(60-80)% increased Critical Strike Chance for Spells",
+      "(475-600)% increased Energy Shield",
+      "+(6-10)% Chance to Block",
+      "+1% to Critical Strike Multiplier per 1% Chance to Block Attack Damage",
+      "+25% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently"
+    ]
+  },
+  {
+    "id": "Lioneyes_Remorse",
+    "name": "Lioneye's Remorse",
+    "baseType": "Pinnacle Tower Shield",
+    "type": "Shield",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "(180-220)% increased Armour",
+      "20% increased Stun and Block Recovery",
+      "+(160-180) to maximum Life",
+      "5% reduced Movement Speed",
+      "-25 Physical Damage taken from Projectile Attacks",
+      "+5% Chance to Block"
+    ]
+  },
+  {
+    "id": "Lycosidae",
+    "name": "Lycosidae",
+    "baseType": "Rawhide Tower Shield",
+    "type": "Shield",
+    "levelReq": 11,
+    "league": null,
+    "implicit": ["+(10-20) to maximum Life"],
+    "mods": [
+      "+(120-160) to Armour",
+      "+(30-40) to maximum Life",
+      "Your hits can't be Evaded",
+      "+(3-5)% Chance to Block",
+      "Adds 250 to 300 Cold Damage to Retaliation Skills"
+    ]
+  },
+  {
+    "id": "Magna_Eclipsis",
+    "name": "Magna Eclipsis",
+    "baseType": "Pinnacle Tower Shield",
+    "type": "Shield",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Triggers Level 20 Elemental Aegis when Equipped",
+      "(180-220)% increased Armour",
+      "+(60-80) to maximum Life",
+      "+(80-100) to Evasion Rating and Energy Shield"
+    ]
+  },
+  {
+    "id": "Mahuxotls_Machination",
+    "name": "Mahuxotl's Machination",
+    "baseType": "Steel Kite Shield",
+    "type": "Shield",
+    "levelReq": 46,
+    "league": "Ultimatum",
+    "implicit": [],
+    "mods": [
+      "Corrupted Soul",
+      "Divine Flesh",
+      "Eternal Youth",
+      "Everlasting Sacrifice",
+      "Immortal Ambition",
+      "Vaal Pact"
+    ]
+  },
+  {
+    "id": "Malachais_Loop",
+    "name": "Malachai's Loop",
+    "baseType": "Harmonic Spirit Shield",
+    "type": "Shield",
+    "levelReq": 65,
+    "league": null,
+    "implicit": ["(10-15)% increased Spell Damage"],
+    "mods": [
+      "(210-250)% increased Energy Shield",
+      "+2 to Maximum Power Charges",
+      "20% chance to gain a Power Charge on Hit",
+      "(12-16)% increased Spell Damage per Power Charge",
+      "Lose all Power Charges on reaching Maximum Power Charges",
+      "Shocks you when you reach Maximum Power Charges"
+    ]
+  },
+  {
+    "id": "Maligaros_Lens",
+    "name": "Maligaro's Lens",
+    "baseType": "Compound Spiked Shield",
+    "type": "Shield",
+    "levelReq": 45,
+    "league": null,
+    "implicit": ["+3% chance to Suppress Spell Damage"],
+    "mods": [
+      "(10-15)% increased Attack Speed",
+      "(10-20)% increased maximum Life",
+      "-50% to all Elemental Resistances",
+      "10% increased Area of Effect",
+      "Nearby allies Recover 1% of your Maximum Life when you Die"
+    ]
+  },
+  {
+    "id": "Manastorm",
+    "name": "Manastorm",
+    "baseType": "Lacewood Spirit Shield",
+    "type": "Shield",
+    "levelReq": 56,
+    "league": null,
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "+(1-100) to maximum Mana",
+      "(1-100)% Increased Mana Regeneration Rate",
+      "Gain (1-100) Mana per Enemy Killed",
+      "(1-100)% Increased Mana Recovery from Flasks",
+      "When you Cast a Spell, Sacrifice all Mana to gain Added Maximum Lightning Damage",
+      "equal to 50% of Sacrificed Mana for 4 seconds"
+    ]
+  },
+  {
+    "id": "Matua_Tupuna",
+    "name": "Matua Tupuna",
+    "baseType": "Tarnished Spirit Shield",
+    "type": "Shield",
+    "levelReq": 23,
+    "league": null,
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "+2 to Level of Socketed Minion Gems",
+      "(40-80)% increased Energy Shield",
+      "+(15-25) to maximum Mana",
+      "20% increased effect of Non-Curse Auras from your Skills on your Minions",
+      "20% increased effect of Non-Curse Auras from your Skills",
+      "Spreads Tar when you Block"
+    ]
+  },
+  {
+    "id": "Mistwall",
+    "name": "Mistwall",
+    "baseType": "Lacquered Buckler",
+    "type": "Shield",
+    "levelReq": 60,
+    "league": null,
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "(120-150)% increased Evasion Rating",
+      "10% increased Movement Speed",
+      "+(10-20)% to Fire and Cold Resistances",
+      "+(8-15)% chance to Avoid Elemental Damage from Hits while Phasing",
+      "You are at Maximum Chance to Block Attack Damage if you have not Blocked Recently",
+      "You have Phasing if you have Blocked Recently"
+    ]
+  },
+  {
+    "id": "Mutewind_Pennant",
+    "name": "Mutewind Pennant",
+    "baseType": "Enameled Buckler",
+    "type": "Shield",
+    "levelReq": 42,
+    "league": "Warbands",
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "(80-100)% Increased Evasion Rating",
+      "+(20-40)% to Cold Resistance",
+      "10% increased Area of Effect",
+      "Gain Onslaught for 4 seconds when you Warcry",
+      "25% increased Warcry Buff Effect",
+      "Call to Arms"
+    ]
+  },
+  {
+    "id": "Perepiteia",
+    "name": "Perepiteia",
+    "baseType": "Ezomyte Spiked Shield",
+    "type": "Shield",
+    "levelReq": 62,
+    "league": "Synthesis",
+    "implicit": ["+3% chance to Suppress Spell Damage"],
+    "mods": [
+      "+(1-3) to Level of Socketed Lightning Gems",
+      "Triggers Level 20 Lightning Aegis when Equipped",
+      "(1-20)% increased Attack Speed",
+      "(1-20)% increased Cast Speed",
+      "(300-400)% increased Evasion and Energy Shield",
+      "+(1-75) to maximum Mana",
+      "(1-20)% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Prism_Guardian",
+    "name": "Prism Guardian",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "+2 to Level of Socketed Aura Gems",
+      "Socketed Gems Cost and Reserve Life instead of Mana",
+      "Socketed Gems have 30% increased Reservation Efficiency",
+      "+(20-30) to Dexterity",
+      "+25% to all Elemental Resistances"
+    ]
+  },
+  {
+    "id": "Qotras_Regulator",
+    "name": "Qotra's Regulator",
+    "baseType": "Sovereign Spiked Shield",
+    "type": "Shield",
+    "levelReq": 54,
+    "league": "Ritual",
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "(160-220)% increased Evasion and Energy Shield",
+      "+(40-60)% to Damage over Time Multiplier if you've dealt a Critical Strike in the past 8 seconds",
+      "(2-2.5)% of Life Regenerated per Second if you've dealt a Critical Strike in the past 8 seconds",
+      "Lose (10-15)% of Energy Shield when you deal a Critical Strike",
+      "Lose (10-15)% of Life when you deal a Critical Strike"
+    ]
+  },
+  {
+    "id": "Rathpith_Globe",
+    "name": "Rathpith Globe",
+    "baseType": "Titanium Spirit Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "+(10-15)% Chance to Block Spell Damage",
+      "(120-160)% increased Energy Shield",
+      "10% increased maximum Life",
+      "Sacrifice 10% of your Life when you Use or Trigger a Spell Skill",
+      "5% increased Critical Strike Chance for Spells per 100 Player Maximum Life",
+      "5% increased Spell Damage per 100 Player Maximum Life"
+    ]
+  },
+  {
+    "id": "Redblade_Banner",
+    "name": "Redblade Banner",
+    "baseType": "Painted Tower Shield",
+    "type": "Shield",
+    "levelReq": 35,
+    "league": "Warbands",
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "(80-100)% increased Armour",
+      "+(50-60) to maximum Life",
+      "20% increased Taunt Duration",
+      "+5% Chance to Block",
+      "50% increased Warcry Cooldown Recovery Rate",
+      "Warcries have infinite Power"
+    ]
+  },
+  {
+    "id": "Replica_Mistwall",
+    "name": "Replica Mistwall",
+    "baseType": "Lacquered Buckler",
+    "type": "Shield",
+    "levelReq": 60,
+    "league": "Heist",
+    "implicit": ["6% increased Movement Speed"],
+    "mods": [
+      "(120-150)% increased Evasion Rating",
+      "10% increased Movement Speed",
+      "+(10-20)% to Fire and Cold Resistances",
+      "You are at Maximum Chance to Block Spell Damage if you have not Blocked Recently",
+      "+(8-15)% chance to Avoid Physical Damage from Hits while Phasing",
+      "You have Phasing if you have Blocked Recently"
+    ]
+  },
+  {
+    "id": "Replica_Tukohamas_Fortress",
+    "name": "Replica Tukohama's Fortress",
+    "baseType": "Ebony Tower Shield",
+    "type": "Shield",
+    "levelReq": 61,
+    "league": "Heist",
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "+(80-100) to maximum Life",
+      "You can Cast an additional Brand",
+      "20% increased Critical Strike Chance per Brand",
+      "40% increased Brand Damage",
+      "Blood Magic"
+    ]
+  },
+  {
+    "id": "Replica_Victarios_Charity",
+    "name": "Replica Victario's Charity",
+    "baseType": "Laminated Kite Shield",
+    "type": "Shield",
+    "levelReq": 50,
+    "league": "Heist",
+    "implicit": ["+8% to all Elemental Resistances"],
+    "mods": [
+      "+(50-70) to maximum Life",
+      "+(20-30)% to Lightning Resistance",
+      "+11% to Chaos Resistance",
+      "10% increased effect of Non-Curse Auras from your Skills",
+      "5% chance to grant an Endurance Charge to nearby Allies on Hit",
+      "10% chance to grant a Frenzy Charge to nearby Allies on Kill"
+    ]
+  },
+  {
+    "id": "Rise_of_the_Phoenix",
+    "name": "Rise of the Phoenix",
+    "baseType": "Mosaic Kite Shield",
+    "type": "Shield",
+    "levelReq": 65,
+    "league": null,
+    "implicit": ["+8% to all Elemental Resistances"],
+    "mods": [
+      "(240-300)% increased Armour and Energy Shield",
+      "Regenerate (100-200) Life per second",
+      "+5% to maximum Fire Resistance",
+      "+(20-25)% to Fire Resistance",
+      "+25% to Fire Resistance while on Low Life",
+      "10% increased Movement Speed when on Low Life",
+      "Cannot be Ignited while on Low Life"
+    ]
+  },
+  {
+    "id": "Saffells_Frame",
+    "name": "Saffell's Frame",
+    "baseType": "Branded Kite Shield",
+    "type": "Shield",
+    "levelReq": 59,
+    "league": null,
+    "implicit": ["+4% to all Elemental Resistances"],
+    "mods": [
+      "(20-30)% Chance to Block Spell Damage",
+      "(20-30)% increased Spell Damage",
+      "+(20-30)% to all Elemental Resistances",
+      "+4% to all maximum Resistances",
+      "Cannot Block Attack Damage"
+    ]
+  },
+  {
+    "id": "Sentaris_Answer",
+    "name": "Sentari's Answer",
+    "baseType": "Brass Spirit Shield",
+    "type": "Shield",
+    "levelReq": 33,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% Chance to Block Spell Damage",
+      "+(20-30) to Intelligence",
+      "+5% Chance to Block",
+      "Curse Enemies with Punishment when you Block their Melee Damage, ignoring Curse Limit",
+      "Curse Enemies with Temporal Chains when you Block their Projectile Attack Damage, ignoring Curse Limit",
+      "Curse Enemies with Elemental Weakness when you Block their Spell Damage, ignoring Curse Limit"
+    ]
+  },
+  {
+    "id": "Shattershard",
+    "name": "Shattershard",
+    "baseType": "Crimson Round Shield",
+    "type": "Shield",
+    "levelReq": 49,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Shield Shatter when you Block",
+      "(120-150)% increased Armour and Evasion",
+      "+(80-100) to maximum Life",
+      "+(8-12)% Chance to Block"
+    ]
+  },
+  {
+    "id": "Springleaf",
+    "name": "Springleaf",
+    "baseType": "Plank Kite Shield",
+    "type": "Shield",
+    "levelReq": 7,
+    "league": null,
+    "implicit": ["+4% to all Elemental Resistances"],
+    "mods": [
+      "(80-120)% increased Armour and Energy Shield",
+      "Regenerate (30-50) Life per Second",
+      "80% reduced Freeze Duration on you",
+      "Regenerate 100 Life per Second while on Low Life"
+    ]
+  },
+  {
+    "id": "Svalinn",
+    "name": "Svalinn",
+    "baseType": "Girded Tower Shield",
+    "type": "Shield",
+    "levelReq": 51,
+    "league": "Settlers of Kalguur",
+    "implicit": ["+(10-20) to maximum Life"],
+    "mods": [
+      "(10-15)% Chance to Block Spell Damage",
+      "+(100-150) to Ward",
+      "-10% to maximum Chance to Block Attack Damage",
+      "-10% to maximum Chance to Block Spell Damage",
+      "Chance to Block is Lucky",
+      "Trigger a Socketed Elemental Spell on Block, with a 0.25 second Cooldown"
+    ]
+  },
+  {
+    "id": "The_Anticipation",
+    "name": "The Anticipation",
+    "baseType": "Ezomyte Tower Shield",
+    "type": "Shield",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["+(30-40) to maximum Life"],
+    "mods": [
+      "100% increased Armour",
+      "+(50-70) to maximum Life",
+      "+6% Chance to Block",
+      "+(1500-3000) Armour if you've Blocked Recently",
+      "Permanently Intimidate Enemies on Block"
+    ]
+  },
+  {
+    "id": "The_Deep_Ones_Hide",
+    "name": "The Deep One's Hide",
+    "baseType": "Studded Round Shield",
+    "type": "Shield",
+    "levelReq": 20,
+    "league": null,
+    "implicit": ["60% increased Block Recovery"],
+    "mods": [
+      "Adds 4 to 8 Physical Damage to Attacks",
+      "Adds 12 to 15 Cold Damage to Attacks",
+      "(90-130)% increased Armour and Evasion",
+      "+(30-50)% to Fire Resistance",
+      "Curse Enemies with Vulnerability on Block"
+    ]
+  },
+  {
+    "id": "The_Eternal_Apple",
+    "name": "The Eternal Apple",
+    "baseType": "Chiming Spirit Shield",
+    "type": "Shield",
+    "levelReq": 49,
+    "league": null,
+    "implicit": ["(10-15)% increased Spell Damage"],
+    "mods": [
+      "Trigger a Socketed Warcry Skill on losing Endurance Charges, with a 0.25 second Cooldown",
+      "+(60-80) to maximum Life",
+      "+(17-23)% to Chaos Resistance",
+      "You lose all Endurance Charges on reaching maximum Endurance Charges",
+      "Cannot Block",
+      "50% increased Warcry Cooldown Recovery Rate"
+    ]
+  },
+  {
+    "id": "The_Flawed_Refuge",
+    "name": "The Flawed Refuge",
+    "baseType": "Maple Round Shield",
+    "type": "Shield",
+    "levelReq": 39,
+    "league": "Affliction",
+    "implicit": ["180% increased Block Recovery"],
+    "mods": [
+      "(100–150)% increased Armour and Evasion",
+      "+15% Chance to Block",
+      "You take 100% of Elemental Damage from Blocked Hits",
+      "40% of Elemental Damage from Hits taken as Physical Damage"
+    ]
+  },
+  {
+    "id": "The_Ghastly_Theatre",
+    "name": "The Ghastly Theatre",
+    "baseType": "Teak Round Shield",
+    "type": "Shield",
+    "levelReq": 58,
+    "league": "Heist",
+    "implicit": ["180% increased Block Recovery"],
+    "mods": [
+      "+2 to Level of Socketed Support Gems",
+      "Triggers Level 20 Physical Aegis when Equipped",
+      "(300-400)% increased Armour and Evasion",
+      "Bleeding cannot be inflicted on you",
+      "(8-15)% increased Attack and Cast Speed while Physical Aegis is depleted",
+      "(50-70)% increased Critical Strike Chance while Physical Aegis is depleted",
+      "Nearby Enemies are Blinded while Physical Aegis is not depleted"
+    ]
+  },
+  {
+    "id": "The_Immortal_Will",
+    "name": "The Immortal Will",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": "Harvest",
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "Grants Summon Greater Harbinger of Focus Skill",
+      "+(60-80) to maximum Life",
+      "+(10-15)% to all Elemental Resistances",
+      "(30-50) Mana gained when you Block",
+      "+5% Chance to Block",
+      "Channelling Skills deal (50-70)% increased Damage"
+    ]
+  },
+  {
+    "id": "The_Oak",
+    "name": "The Oak",
+    "baseType": "Plank Kite Shield",
+    "type": "Shield",
+    "levelReq": 40,
+    "league": null,
+    "implicit": ["+4% to all Elemental Resistances"],
+    "mods": [
+      "(80-120)% increased Armour and Energy Shield",
+      "+(100-150) to maximum Life",
+      "80% reduced Freeze Duration on you",
+      "Regenerate 3% of Life per Second",
+      "Regenerate 3% of Life per Second while on Low Life"
+    ]
+  },
+  {
+    "id": "The_Oppressor",
+    "name": "The Oppressor",
+    "baseType": "Elegant Round Shield",
+    "type": "Shield",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["120% increased Block Recovery"],
+    "mods": [
+      "-10% to amount of Suppressed Spell Damage Prevented",
+      "+(26-32)% chance to Suppress Spell Damage",
+      "(200-250)% increased Armour and Evasion",
+      "+(9-13)% Chance to Block",
+      "You take 20% of Damage from Blocked Hits"
+    ]
+  },
+  {
+    "id": "The_Scales_of_Justice",
+    "name": "The Scales of Justice",
+    "baseType": "Chiming Spirit Shield",
+    "type": "Shield",
+    "levelReq": 49,
+    "league": null,
+    "implicit": ["(10-15)% increased Spell Damage"],
+    "mods": [
+      "Has no Energy Shield",
+      "+(40-70) to maximum Life",
+      "+(40-70) to maximum Mana",
+      "(3-4) to (7-8) added Fire Damage per 100 of Maximum Life or Maximum Mana, whichever is lower",
+      "Unaffected by Ignite or Shock if Maximum Life and Maximum Mana are within 500"
+    ]
+  },
+  {
+    "id": "The_Squire",
+    "name": "The Squire",
+    "baseType": "Elegant Round Shield",
+    "type": "Shield",
+    "levelReq": 70,
+    "league": null,
+    "implicit": ["120% increased Block Recovery"],
+    "mods": [
+      "Has 3 Sockets",
+      "All Sockets are White",
+      "+(5-8)% to Quality of Socketed Support Gems",
+      "Socketed Support Gems can also Support Skills from your Main Hand",
+      "(100-150)% increased Armour and Evasion",
+      "+(3-5)% Chance to Block"
+    ]
+  },
+  {
+    "id": "The_Surrender",
+    "name": "The Surrender",
+    "baseType": "Ezomyte Tower Shield",
+    "type": "Shield",
+    "levelReq": 64,
+    "league": "Breach",
+    "implicit": ["+(30-40) to maximum Life"],
+    "mods": [
+      "(165-205)% increased Armour",
+      "+(65-80) to maximum Life",
+      "Recover (250-500) Life when you Block",
+      "+6% Chance to Block"
+    ]
+  },
+  {
+    "id": "The_Unshattered_Will",
+    "name": "The Unshattered Will",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": "Harbinger",
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "Grants Summon Harbinger of Focus Skill",
+      "+(60-80) to maximum Life",
+      "+(10-15)% to all Elemental Resistances",
+      "(30-50) Mana gained when you Block",
+      "+5% Chance to Block",
+      "Channelling Skills deal (50-70)% increased Damage"
+    ]
+  },
+  {
+    "id": "Thirst_for_Horrors",
+    "name": "Thirst for Horrors",
+    "baseType": "War Buckler",
+    "type": "Shield",
+    "levelReq": 29,
+    "league": null,
+    "implicit": ["9% increased Movement Speed"],
+    "mods": [
+      "+1 to Level of Socketed Curse Gems",
+      "(30-50)% increased Evasion Rating",
+      "+(50-70) to maximum Energy Shield",
+      "+(40-50) to maximum Life",
+      "+5% Chance to Block",
+      "10% Chance to Cause Monster to Flee on Block",
+      "1% of Damage Leeched as Life against Cursed Enemies",
+      "Curse Skills have 100% increased Skill Effect Duration"
+    ]
+  },
+  {
+    "id": "Thousand_Teeth_Temu",
+    "name": "Thousand Teeth Temu",
+    "baseType": "Vaal Buckler",
+    "type": "Shield",
+    "levelReq": 63,
+    "league": null,
+    "implicit": ["3% increased Movement Speed"],
+    "mods": [
+      "(100-120)% increased Evasion Rating",
+      "+(70-90) to maximum Life",
+      "0.4% of Physical Attack Damage Leeched as Life",
+      "+10% Chance to Block",
+      "Reflects 1000 to 10000 Physical Damage to Attackers on Block"
+    ]
+  },
+  {
+    "id": "Titucius_Span",
+    "name": "Titucius' Span",
+    "baseType": "Reinforced Tower Shield",
+    "type": "Shield",
+    "levelReq": 30,
+    "league": null,
+    "implicit": ["+(10-20) to maximum Life"],
+    "mods": [
+      "(60-80)% increased Armour",
+      "+(30-50) to maximum Life",
+      "-(50-80) Physical Damage taken from Projectile Attacks",
+      "200% increased Armour against Projectiles",
+      "+25% Chance to Block Projectile Attack Damage"
+    ]
+  },
+  {
+    "id": "Trolltimber_Spire",
+    "name": "Trolltimber Spire",
+    "baseType": "Cedar Tower Shield",
+    "type": "Shield",
+    "levelReq": 17,
+    "league": "Tempest",
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "(130-150)% increased Armour",
+      "+(40-60) to maximum Life",
+      "15% increased Area of Effect for Skills used by Totems",
+      "0.5% of Damage dealt by your Totems is Leeched to you as Life",
+      "You and your Totems Regenerate 0.5% of Life per second for each Summoned Totem"
+    ]
+  },
+  {
+    "id": "Tukohamas_Fortress",
+    "name": "Tukohama's Fortress",
+    "baseType": "Ebony Tower Shield",
+    "type": "Shield",
+    "levelReq": 61,
+    "league": null,
+    "implicit": ["+(20-30) to maximum Life"],
+    "mods": [
+      "40% increased Totem Damage",
+      "+(80-100) to maximum Life",
+      "+1 to maximum number of Summoned Totems",
+      "+300 Armour per Summoned Totem",
+      "Blood Magic"
+    ]
+  },
+  {
+    "id": "Unyielding_Flame",
+    "name": "Unyielding Flame",
+    "baseType": "Archon Kite Shield",
+    "type": "Shield",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["+12% to all Elemental Resistances"],
+    "mods": [
+      "Trigger Commandment of Inferno on Critical Strike",
+      "(50-70)% increased Global Critical Strike Chance",
+      "+(60-80) to maximum Life",
+      "+(20-30)% to Fire Resistance",
+      "(8-12)% increased Attack Speed if you've dealt a Critical Strike Recently",
+      "(8-12)% increased Cast Speed if you've dealt a Critical Strike Recently"
+    ]
+  },
+  {
+    "id": "Victarios_Charity",
+    "name": "Victario's Charity",
+    "baseType": "Laminated Kite Shield",
+    "type": "Shield",
+    "levelReq": 50,
+    "league": null,
+    "implicit": ["+8% to all Elemental Resistances"],
+    "mods": [
+      "+(50-70) to maximum Life",
+      "+(20-30)% to Lightning Resistance",
+      "+11% to Chaos Resistance",
+      "20% increased Area of Effect of Aura Skills",
+      "10% chance to grant a Power Charge to nearby Allies on Kill",
+      "5% chance to grant a Frenzy Charge to nearby Allies on Hit"
+    ]
+  },
+  {
+    "id": "Vix_Lunaris",
+    "name": "Vix Lunaris",
+    "baseType": "Cardinal Round Shield",
+    "type": "Shield",
+    "levelReq": 66,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Gems",
+      "Triggers Level 20 Cold Aegis when Equipped",
+      "(200-250)% increased Armour and Evasion",
+      "+(60-80) to maximum Life",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "id": "Whakatutuki_o_Matua",
+    "name": "Whakatutuki o Matua",
+    "baseType": "Tarnished Spirit Shield",
+    "type": "Shield",
+    "levelReq": 63,
+    "league": null,
+    "implicit": ["(5-10)% increased Spell Damage"],
+    "mods": [
+      "+3 to Level of Socketed Minion Gems",
+      "+(40-80) to maximum Energy Shield",
+      "(40-80)% increased Energy Shield",
+      "+(15-25) to maximum Mana",
+      "20% increased effect of Non-Curse Auras from your Skills on your Minions",
+      "20% increased effect of Non-Curse Auras from your Skills",
+      "Spreads Tar when you Block",
+      "If you have Blocked Recently, you and nearby Allies Regenerate 5% of Life per second"
+    ]
+  },
+  {
+    "id": "Wheel_of_the_Stormsail",
+    "name": "Wheel of the Stormsail",
+    "baseType": "Rotted Round Shield",
+    "type": "Shield",
+    "levelReq": 5,
+    "league": null,
+    "implicit": ["60% increased Block Recovery"],
+    "mods": [
+      "+(20-40) to Armour",
+      "+(20-40) to Evasion Rating",
+      "(30-40)% increased Rarity of Items found",
+      "+(50-75)% to Lightning Resistance",
+      "100% increased Duration of Curses on you"
+    ]
+  },
+  {
+    "id": "Zeels_Amplifier",
+    "name": "Zeel's Amplifier",
+    "baseType": "Polished Spiked Shield",
+    "type": "Shield",
+    "levelReq": 49,
+    "league": null,
+    "implicit": ["+5% chance to Suppress Spell Damage"],
+    "mods": [
+      "(40-50)% increased Spell Damage",
+      "+(60-80) to maximum Energy Shield",
+      "+(50-70) to maximum Life",
+      "1% increased Area of Effect per Enemy killed recently, up to 50%",
+      "You have Zealot's Oath if you haven't been hit recently"
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "Assassin_Bow",
+    "name": "Assassin Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "+(15-25)% to Global Critical Strike Multiplier",
+    "req": { "level": 62, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 43, "physMax": 130, "critChance": 6.7, "attackRate": 1.25, "range": 120 }
+  },
+  {
+    "id": "Bone_Bow",
+    "name": "Bone Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 23, "str": null, "dex": 80, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 15, "physMax": 45, "critChance": 6.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Citadel_Bow",
+    "name": "Citadel Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 58, "str": null, "dex": 185, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 36, "physMax": 144, "critChance": 6, "attackRate": 1.25, "range": 120 }
+  },
+  {
+    "id": "Composite_Bow",
+    "name": "Composite Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 14, "str": null, "dex": 53, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 16, "physMax": 34, "critChance": 6, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Compound_Bow",
+    "name": "Compound Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 41, "str": null, "dex": 134, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 37, "physMax": 76, "critChance": 6, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Crude_Bow",
+    "name": "Crude Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 14, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 5, "physMax": 13, "critChance": 5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Death_Bow",
+    "name": "Death Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(30-50)% increased Critical Strike Chance",
+    "req": { "level": 32, "str": null, "dex": 107, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 28, "physMax": 73, "critChance": 5, "attackRate": 1.2, "range": 120 }
+  },
+  {
+    "id": "Decimation_Bow",
+    "name": "Decimation Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(30-50)% increased Critical Strike Chance",
+    "req": { "level": 53, "str": null, "dex": 170, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 44, "physMax": 116, "critChance": 5, "attackRate": 1.2, "range": 120 }
+  },
+  {
+    "id": "Decurve_Bow",
+    "name": "Decurve Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 38, "str": null, "dex": 125, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 24, "physMax": 96, "critChance": 6, "attackRate": 1.25, "range": 120 }
+  },
+  {
+    "id": "Ethereal_Bow",
+    "name": "Ethereal Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 14, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 5, "physMax": 9, "critChance": 6, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Foundry_Bow",
+    "name": "Foundry Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "Adds (80-97) to (126-144) Fire Damage",
+    "req": { "level": 50, "str": null, "dex": 161, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 13, "physMax": 20, "critChance": 5.5, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Grove_Bow",
+    "name": "Grove Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 35, "str": null, "dex": 116, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 20, "physMax": 61, "critChance": 5, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Harbinger_Bow",
+    "name": "Harbinger Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(30-50)% increased Critical Strike Chance",
+    "req": { "level": 68, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 50, "physMax": 133, "critChance": 5, "attackRate": 1.2, "range": 120 }
+  },
+  {
+    "id": "Hedron_Bow",
+    "name": "Hedron Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "Adds (46-55) to (69-83) Fire Damage",
+    "req": { "level": 30, "str": null, "dex": 101, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 9, "physMax": 13, "critChance": 5.5, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Highborn_Bow",
+    "name": "Highborn Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(20-24)% increased Elemental Damage with Attack Skills",
+    "req": { "level": 50, "str": null, "dex": 161, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 24, "physMax": 94, "critChance": 5, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Imperial_Bow",
+    "name": "Imperial Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(20-24)% increased Elemental Damage with Attack Skills",
+    "req": { "level": 66, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 29, "physMax": 117, "critChance": 5, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Ivory_Bow",
+    "name": "Ivory Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 47, "str": null, "dex": 152, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 29, "physMax": 86, "critChance": 6.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Long_Bow",
+    "name": "Long Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 9, "str": null, "dex": 38, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 8, "physMax": 33, "critChance": 6, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Maraketh_Bow",
+    "name": "Maraketh Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "10% increased Movement Speed",
+    "req": { "level": 71, "str": null, "dex": 222, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 61, "physMax": 92, "critChance": 5.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Ranger_Bow",
+    "name": "Ranger Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 56, "physMax": 117, "critChance": 6, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Recurve_Bow",
+    "name": "Recurve Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "+(15-25)% to Global Critical Strike Multiplier",
+    "req": { "level": 18, "str": null, "dex": 65, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 15, "physMax": 45, "critChance": 6.7, "attackRate": 1.25, "range": 120 }
+  },
+  {
+    "id": "Reflex_Bow",
+    "name": "Reflex Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "6% increased Movement Speed",
+    "req": { "level": 36, "str": null, "dex": 124, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 37, "physMax": 56, "critChance": 5.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Royal_Bow",
+    "name": "Royal Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "(20-24)% increased Elemental Damage with Attack Skills",
+    "req": { "level": 28, "str": null, "dex": 95, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 14, "physMax": 56, "critChance": 5, "attackRate": 1.45, "range": 120 }
+  },
+  {
+    "id": "Short_Bow",
+    "name": "Short Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 5, "str": null, "dex": 26, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 6, "physMax": 16, "critChance": 5, "attackRate": 1.5, "range": 120 }
+  },
+  {
+    "id": "Sniper_Bow",
+    "name": "Sniper Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "+(15-25)% to Global Critical Strike Multiplier",
+    "req": { "level": 44, "str": null, "dex": 143, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 32, "physMax": 96, "critChance": 6.7, "attackRate": 1.25, "range": 120 }
+  },
+  {
+    "id": "Solarine_Bow",
+    "name": "Solarine Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "Adds (121-133) to (184-197) Fire Damage",
+    "req": { "level": 70, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 16, "physMax": 24, "critChance": 5.5, "attackRate": 1.3, "range": 120 }
+  },
+  {
+    "id": "Spine_Bow",
+    "name": "Spine Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 64, "str": null, "dex": 212, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 38, "physMax": 115, "critChance": 6.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Steelwood_Bow",
+    "name": "Steelwood Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": "6% increased Movement Speed",
+    "req": { "level": 57, "str": null, "dex": 190, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 58, "physMax": 86, "critChance": 5.5, "attackRate": 1.4, "range": 120 }
+  },
+  {
+    "id": "Thicket_Bow",
+    "name": "Thicket Bow",
+    "type": "Bow",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": 56, "str": null, "dex": 179, "int": null },
+    "socketLimit": 6,
+    "weapon": { "physMin": 32, "physMax": 96, "critChance": 5, "attackRate": 1.5, "range": 120 }
+  }
+]

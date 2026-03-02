@@ -1,0 +1,802 @@
+[
+  {
+    "id": "Aetherwind_Gloves",
+    "name": "Aetherwind Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": "30% reduced maximum Mana\n(25-30)% chance when you pay a Skill's Cost to gain that much Mana",
+    "req": { "level": 40, "str": null, "dex": null, "int": 59 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 28, "energyShieldMax": 32 }
+  },
+  {
+    "id": "Ambush_Mitts",
+    "name": "Ambush Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 45, "str": null, "dex": 35, "int": 35 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 81, "evasionMax": 91, "energyShieldMin": 17, "energyShieldMax": 19 }
+  },
+  {
+    "id": "Ancient_Gauntlets",
+    "name": "Ancient Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 47, "str": 68, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 154, "armourMax": 173 }
+  },
+  {
+    "id": "Antique_Gauntlets",
+    "name": "Antique Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 39, "str": 58, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 129, "armourMax": 154 }
+  },
+  {
+    "id": "Apothecarys_Gloves",
+    "name": "Apothecary's Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": "(14-18)% increased Damage over Time",
+    "req": { "level": 70, "str": 46, "dex": null, "int": 59 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 108, "armourMax": 124, "energyShieldMin": 29, "energyShieldMax": 33 }
+  },
+  {
+    "id": "Apprentice_Gloves",
+    "name": "Apprentice Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": "30% reduced Cooldown Recovery Rate for throwing Traps\nTrap Skills have (15-20)% increased Skill Effect Duration",
+    "req": { "level": 40, "str": null, "dex": 59, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 132, "evasionMax": 152 }
+  },
+  {
+    "id": "Arcanist_Gloves",
+    "name": "Arcanist Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 60, "str": null, "dex": null, "int": 95 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 45, "energyShieldMax": 52 }
+  },
+  {
+    "id": "Assassins_Mitts",
+    "name": "Assassin's Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 58, "str": null, "dex": 45, "int": 45 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 104, "evasionMax": 123, "energyShieldMin": 21, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Bronze_Gauntlets",
+    "name": "Bronze Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 23, "str": 36, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 77, "armourMax": 96 }
+  },
+  {
+    "id": "Bronzescale_Gauntlets",
+    "name": "Bronzescale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 27, "str": 22, "dex": 22, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 50, "armourMax": 62, "evasionMin": 50, "evasionMax": 62 }
+  },
+  {
+    "id": "Carnal_Mitts",
+    "name": "Carnal Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 50, "str": null, "dex": 39, "int": 39 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 90, "evasionMax": 101, "energyShieldMin": 19, "energyShieldMax": 21 }
+  },
+  {
+    "id": "Chain_Gloves",
+    "name": "Chain Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 7, "str": 8, "dex": null, "int": 8 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 14, "armourMax": 20, "energyShieldMin": 4, "energyShieldMax": 6 }
+  },
+  {
+    "id": "Chimerascale_Gauntlets",
+    "name": "Chimerascale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": 70, "dex": 70, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 176, "armourMax": 203, "evasionMin": 176, "evasionMax": 203 }
+  },
+  {
+    "id": "Clasped_Mitts",
+    "name": "Clasped Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 31, "str": null, "dex": 25, "int": 25 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 57, "evasionMax": 65, "energyShieldMin": 12, "energyShieldMax": 14 }
+  },
+  {
+    "id": "Conjurer_Gloves",
+    "name": "Conjurer Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 55, "str": null, "dex": null, "int": 79 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 37, "energyShieldMax": 44 }
+  },
+  {
+    "id": "Crusader_Gloves",
+    "name": "Crusader Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 66, "str": 51, "dex": null, "int": 51 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 121, "armourMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Deerskin_Gloves",
+    "name": "Deerskin Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 21, "str": null, "dex": 33, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 71, "evasionMax": 88 }
+  },
+  {
+    "id": "Dragonscale_Gauntlets",
+    "name": "Dragonscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 67, "str": 51, "dex": 51, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 121, "armourMax": 139, "evasionMin": 121, "evasionMax": 139 }
+  },
+  {
+    "id": "Eelskin_Gloves",
+    "name": "Eelskin Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 38, "str": null, "dex": 56, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 125, "evasionMax": 148 }
+  },
+  {
+    "id": "Embroidered_Gloves",
+    "name": "Embroidered Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 36, "str": null, "dex": null, "int": 54 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Fingerless_Silk_Gloves",
+    "name": "Fingerless Silk Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": "(12-16)% increased Spell Damage",
+    "req": { "level": 70, "str": null, "dex": null, "int": 95 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 45, "energyShieldMax": 52 }
+  },
+  {
+    "id": "Fishscale_Gauntlets",
+    "name": "Fishscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": null, "str": 5, "dex": 5, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 9, "armourMax": 12, "evasionMin": 9, "evasionMax": 12 }
+  },
+  {
+    "id": "Goathide_Gloves",
+    "name": "Goathide Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 9, "str": null, "dex": 17, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 32, "evasionMax": 42 }
+  },
+  {
+    "id": "Golden_Bracers",
+    "name": "Golden Bracers",
+    "type": "Gloves",
+    "subType": null,
+    "implicit": "+(20-30) to maximum Life",
+    "req": { "level": 12, "str": null, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": {  }
+  },
+  {
+    "id": "Goliath_Gauntlets",
+    "name": "Goliath Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 53, "str": 77, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 174, "armourMax": 200 }
+  },
+  {
+    "id": "Gripped_Gloves",
+    "name": "Gripped Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": "(14-18)% increased Projectile Attack Damage",
+    "req": { "level": 70, "str": null, "dex": 95, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 220, "evasionMax": 253 }
+  },
+  {
+    "id": "Guarding_Gauntlets",
+    "name": "Guarding Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": "+(4-5)% Chance to Block Attack Damage\nYou take 10% of Damage from Blocked Hits",
+    "req": { "level": 40, "str": 59, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 132, "armourMax": 152 }
+  },
+  {
+    "id": "Harpyskin_Gloves",
+    "name": "Harpyskin Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 125, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 307, "evasionMax": 353 }
+  },
+  {
+    "id": "Hydrascale_Gauntlets",
+    "name": "Hydrascale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 59, "str": 45, "dex": 45, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 106, "armourMax": 122, "evasionMin": 106, "evasionMax": 122 }
+  },
+  {
+    "id": "Infiltrator_Mitts",
+    "name": "Infiltrator Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": 70, "int": 70 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 176, "evasionMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
+  },
+  {
+    "id": "Iron_Gauntlets",
+    "name": "Iron Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": null, "str": 6, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 6, "armourMax": 9 }
+  },
+  {
+    "id": "Ironscale_Gauntlets",
+    "name": "Ironscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 15, "str": 14, "dex": 14, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 28, "armourMax": 37, "evasionMin": 28, "evasionMax": 37 }
+  },
+  {
+    "id": "Legion_Gloves",
+    "name": "Legion Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 57, "str": 44, "dex": null, "int": 44 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 103, "armourMax": 121, "energyShieldMin": 21, "energyShieldMax": 25 }
+  },
+  {
+    "id": "Leviathan_Gauntlets",
+    "name": "Leviathan Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 84, "str": 144, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 359, "armourMax": 413 }
+  },
+  {
+    "id": "Leyline_Gloves",
+    "name": "Leyline Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": "30% reduced maximum Mana\n(25-30)% chance when you pay a Skill's Cost to gain that much Mana",
+    "req": { "level": 10, "str": null, "dex": null, "int": 18 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 9, "energyShieldMax": 10 }
+  },
+  {
+    "id": "Martyr_Gloves",
+    "name": "Martyr Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": 70, "dex": null, "int": 70 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 176, "armourMax": 203, "energyShieldMin": 35, "energyShieldMax": 41 }
+  },
+  {
+    "id": "Mesh_Gloves",
+    "name": "Mesh Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 32, "str": 26, "dex": null, "int": 26 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 58, "armourMax": 67, "energyShieldMin": 12, "energyShieldMax": 14 }
+  },
+  {
+    "id": "Murder_Mitts",
+    "name": "Murder Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 67, "str": null, "dex": 51, "int": 51 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 121, "evasionMax": 139, "energyShieldMin": 25, "energyShieldMax": 28 }
+  },
+  {
+    "id": "Nexus_Gloves",
+    "name": "Nexus Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": "30% reduced maximum Mana\n(25-30)% chance when you pay a Skill's Cost to gain that much Mana",
+    "req": { "level": 70, "str": null, "dex": null, "int": 101 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 47, "energyShieldMax": 54 }
+  },
+  {
+    "id": "Nubuck_Gloves",
+    "name": "Nubuck Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 33, "str": null, "dex": 50, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 109, "evasionMax": 122 }
+  },
+  {
+    "id": "Paladin_Gloves",
+    "name": "Paladin Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": 80, "dex": null, "int": 80 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 205, "armourMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
+  },
+  {
+    "id": "Phantom_Mitts",
+    "name": "Phantom Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 80, "int": 80 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 205, "evasionMax": 236, "energyShieldMin": 41, "energyShieldMax": 47 }
+  },
+  {
+    "id": "Plated_Gauntlets",
+    "name": "Plated Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 11, "str": 20, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 39, "armourMax": 50 }
+  },
+  {
+    "id": "Precursor_Gauntlets",
+    "name": "Precursor Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 78, "str": 125, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 307, "armourMax": 353 }
+  },
+  {
+    "id": "Preserving_Gauntlets",
+    "name": "Preserving Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": "+(3-4)% Chance to Block Attack Damage\nYou take 10% of Damage from Blocked Hits",
+    "req": { "level": 16, "str": 18, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 35, "armourMax": 41 }
+  },
+  {
+    "id": "Rawhide_Gloves",
+    "name": "Rawhide Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": 9, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 13, "evasionMax": 18 }
+  },
+  {
+    "id": "Ringmail_Gloves",
+    "name": "Ringmail Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 19, "str": 16, "dex": null, "int": 16 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 35, "armourMax": 46, "energyShieldMin": 8, "energyShieldMax": 10 }
+  },
+  {
+    "id": "Riveted_Gloves",
+    "name": "Riveted Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 37, "str": 29, "dex": null, "int": 29 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 67, "armourMax": 77, "energyShieldMin": 14, "energyShieldMax": 16 }
+  },
+  {
+    "id": "Runic_Gages",
+    "name": "Runic Gages",
+    "type": "Gloves",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 48, "str": 31, "dex": 31, "int": 31 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 62, "wardMax": 71 }
+  },
+  {
+    "id": "Runic_Gauntlets",
+    "name": "Runic Gauntlets",
+    "type": "Gloves",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 69, "str": 38, "dex": 38, "int": 38 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 102, "wardMax": 117 }
+  },
+  {
+    "id": "Runic_Gloves",
+    "name": "Runic Gloves",
+    "type": "Gloves",
+    "subType": "Ward",
+    "implicit": null,
+    "req": { "level": 24, "str": 16, "dex": 16, "int": 16 },
+    "socketLimit": 4,
+    "armour": { "wardMin": 24, "wardMax": 28 }
+  },
+  {
+    "id": "Sage_Gloves",
+    "name": "Sage Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 78, "str": null, "dex": null, "int": 125 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 62, "energyShieldMax": 71 }
+  },
+  {
+    "id": "Samite_Gloves",
+    "name": "Samite Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 47, "str": null, "dex": null, "int": 68 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 32, "energyShieldMax": 37 }
+  },
+  {
+    "id": "Satin_Gloves",
+    "name": "Satin Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 41, "str": null, "dex": null, "int": 60 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 28, "energyShieldMax": 33 }
+  },
+  {
+    "id": "Serpentscale_Gauntlets",
+    "name": "Serpentscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 43, "str": 34, "dex": 34, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 78, "armourMax": 87, "evasionMin": 78, "evasionMax": 87 }
+  },
+  {
+    "id": "Shagreen_Gloves",
+    "name": "Shagreen Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 54, "str": null, "dex": 78, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 177, "evasionMax": 212 }
+  },
+  {
+    "id": "Sharkskin_Gloves",
+    "name": "Sharkskin Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 45, "str": null, "dex": 66, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 148, "evasionMax": 163 }
+  },
+  {
+    "id": "Silk_Gloves",
+    "name": "Silk Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 25, "str": null, "dex": null, "int": 39 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 18, "energyShieldMax": 23 }
+  },
+  {
+    "id": "Slink_Gloves",
+    "name": "Slink Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 70, "str": null, "dex": 95, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 242, "evasionMax": 278 }
+  },
+  {
+    "id": "Soldier_Gloves",
+    "name": "Soldier Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 51, "str": 40, "dex": null, "int": 40 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 92, "armourMax": 103, "energyShieldMin": 19, "energyShieldMax": 21 }
+  },
+  {
+    "id": "Sorcerer_Gloves",
+    "name": "Sorcerer Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 69, "str": null, "dex": null, "int": 97 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 49, "energyShieldMax": 57 }
+  },
+  {
+    "id": "Spiked_Gloves",
+    "name": "Spiked Gloves",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": "(16-20)% increased Melee Damage",
+    "req": { "level": 70, "str": 95, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 220, "armourMax": 253 }
+  },
+  {
+    "id": "Stealth_Gloves",
+    "name": "Stealth Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 62, "str": null, "dex": 97, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 231, "evasionMax": 265 }
+  },
+  {
+    "id": "Steel_Gauntlets",
+    "name": "Steel Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 35, "str": 52, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 116, "armourMax": 127 }
+  },
+  {
+    "id": "Steelscale_Gauntlets",
+    "name": "Steelscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 36, "str": 29, "dex": 29, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 65, "armourMax": 75, "evasionMin": 65, "evasionMax": 75 }
+  },
+  {
+    "id": "Strapped_Mitts",
+    "name": "Strapped Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 16, "str": null, "dex": 14, "int": 14 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 30, "evasionMax": 39, "energyShieldMin": 7, "energyShieldMax": 9 }
+  },
+  {
+    "id": "Thwarting_Gauntlets",
+    "name": "Thwarting Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": "+(5-6)% Chance to Block Attack Damage\nYou take 10% of Damage from Blocked Hits",
+    "req": { "level": 70, "str": 101, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 236, "armourMax": 271 }
+  },
+  {
+    "id": "Tinker_Gloves",
+    "name": "Tinker Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": "30% reduced Cooldown Recovery Rate for throwing Traps\nTrap Skills have (10-15)% increased Skill Effect Duration",
+    "req": { "level": 10, "str": null, "dex": 18, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 35, "evasionMax": 41 }
+  },
+  {
+    "id": "Titan_Gauntlets",
+    "name": "Titan Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 69, "str": 98, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 242, "armourMax": 278 }
+  },
+  {
+    "id": "Trapper_Mitts",
+    "name": "Trapper Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 36, "str": null, "dex": 29, "int": 29 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 65, "evasionMax": 77, "energyShieldMin": 14, "energyShieldMax": 16 }
+  },
+  {
+    "id": "Trapsetter_Gloves",
+    "name": "Trapsetter Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": "30% reduced Cooldown Recovery Rate for throwing Traps\nTrap Skills have (20-25)% increased Skill Effect Duration",
+    "req": { "level": 70, "str": null, "dex": 101, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 236, "evasionMax": 271 }
+  },
+  {
+    "id": "Vaal_Gauntlets",
+    "name": "Vaal Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour",
+    "implicit": null,
+    "req": { "level": 63, "str": 100, "dex": null, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 232, "armourMax": 266 }
+  },
+  {
+    "id": "Velour_Gloves",
+    "name": "Velour Gloves",
+    "type": "Gloves",
+    "subType": "Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": 144, "int": null },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 359, "evasionMax": 413 }
+  },
+  {
+    "id": "Velvet_Gloves",
+    "name": "Velvet Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 12, "str": null, "dex": null, "int": 21 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 10, "energyShieldMax": 13 }
+  },
+  {
+    "id": "Warlock_Gloves",
+    "name": "Warlock Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": 84, "str": null, "dex": null, "int": 144 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 72, "energyShieldMax": 83 }
+  },
+  {
+    "id": "Wool_Gloves",
+    "name": "Wool Gloves",
+    "type": "Gloves",
+    "subType": "Energy Shield",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": 9 },
+    "socketLimit": 4,
+    "armour": { "energyShieldMin": 5, "energyShieldMax": 7 }
+  },
+  {
+    "id": "Wrapped_Mitts",
+    "name": "Wrapped Mitts",
+    "type": "Gloves",
+    "subType": "Evasion/Energy Shield",
+    "implicit": null,
+    "req": { "level": 5, "str": null, "dex": 6, "int": 6 },
+    "socketLimit": 4,
+    "armour": { "evasionMin": 11, "evasionMax": 15, "energyShieldMin": 3, "energyShieldMax": 5 }
+  },
+  {
+    "id": "Wyrmscale_Gauntlets",
+    "name": "Wyrmscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 49, "str": 38, "dex": 38, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 88, "armourMax": 104, "evasionMin": 88, "evasionMax": 104 }
+  },
+  {
+    "id": "Wyvernscale_Gauntlets",
+    "name": "Wyvernscale Gauntlets",
+    "type": "Gloves",
+    "subType": "Armour/Evasion",
+    "implicit": null,
+    "req": { "level": 84, "str": 80, "dex": 80, "int": null },
+    "socketLimit": 4,
+    "armour": { "armourMin": 205, "armourMax": 236, "evasionMin": 205, "evasionMax": 236 }
+  },
+  {
+    "id": "Zealot_Gloves",
+    "name": "Zealot Gloves",
+    "type": "Gloves",
+    "subType": "Armour/Energy Shield",
+    "implicit": null,
+    "req": { "level": 43, "str": 34, "dex": null, "int": 34 },
+    "socketLimit": 4,
+    "armour": { "armourMin": 78, "armourMax": 92, "energyShieldMin": 16, "energyShieldMax": 19 }
+  }
+]

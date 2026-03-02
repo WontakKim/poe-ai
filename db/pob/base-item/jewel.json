@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Cobalt_Jewel",
+    "name": "Cobalt Jewel",
+    "type": "Jewel",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Corvine_Charm",
+    "name": "Corvine Charm",
+    "type": "Jewel",
+    "subType": "Charm",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Crimson_Jewel",
+    "name": "Crimson Jewel",
+    "type": "Jewel",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Ghastly_Eye_Jewel",
+    "name": "Ghastly Eye Jewel",
+    "type": "Jewel",
+    "subType": "Abyss",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Hypnotic_Eye_Jewel",
+    "name": "Hypnotic Eye Jewel",
+    "type": "Jewel",
+    "subType": "Abyss",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Large_Cluster_Jewel",
+    "name": "Large Cluster Jewel",
+    "type": "Jewel",
+    "subType": "Cluster",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Lupine_Charm",
+    "name": "Lupine Charm",
+    "type": "Jewel",
+    "subType": "Charm",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Medium_Cluster_Jewel",
+    "name": "Medium Cluster Jewel",
+    "type": "Jewel",
+    "subType": "Cluster",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Murderous_Eye_Jewel",
+    "name": "Murderous Eye Jewel",
+    "type": "Jewel",
+    "subType": "Abyss",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Prismatic_Jewel",
+    "name": "Prismatic Jewel",
+    "type": "Jewel",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Searching_Eye_Jewel",
+    "name": "Searching Eye Jewel",
+    "type": "Jewel",
+    "subType": "Abyss",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Small_Cluster_Jewel",
+    "name": "Small Cluster Jewel",
+    "type": "Jewel",
+    "subType": "Cluster",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Timeless_Jewel",
+    "name": "Timeless Jewel",
+    "type": "Jewel",
+    "subType": "Timeless",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Ursine_Charm",
+    "name": "Ursine Charm",
+    "type": "Jewel",
+    "subType": "Charm",
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  },
+  {
+    "id": "Viridian_Jewel",
+    "name": "Viridian Jewel",
+    "type": "Jewel",
+    "subType": null,
+    "implicit": null,
+    "req": { "level": null, "str": null, "dex": null, "int": null },
+    "socketLimit": null
+  }
+]

@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "Ambus_Charge",
+    "name": "Ambu's Charge",
+    "baseType": "Crusader Chainmail",
+    "type": "Body Armour",
+    "levelReq": 43,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(180-220)% increased Armour and Energy Shield",
+      "+(60-80) to maximum Life",
+      "+15% to all Elemental Resistances",
+      "Gain up to maximum Endurance Charges when you take a Critical Strike",
+      "Your nearby party members maximum Endurance Charges is equal to yours"
+    ]
+  },
+  {
+    "id": "Ashrend",
+    "name": "Ashrend",
+    "baseType": "Buckskin Tunic",
+    "type": "Body Armour",
+    "levelReq": 17,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(80-100)% increased Evasion Rating",
+      "+(40-50)% to Fire Resistance",
+      "Cannot be Ignited",
+      "(75-150)% increased Physical Damage with Ranged Weapons",
+      "-(30-60) Physical Damage taken from Attack Hits"
+    ]
+  },
+  {
+    "id": "Atziris_Splendour",
+    "name": "Atziri's Splendour",
+    "baseType": "Sacrificial Garb",
+    "type": "Body Armour",
+    "levelReq": 72,
+    "league": null,
+    "implicit": ["+1 to Level of all Vaal Skill Gems"],
+    "mods": [
+      "(270-340)% increased Armour, Evasion and Energy Shield",
+      "+(20-24)% to all Elemental Resistances",
+      "Gain 100 Life per Enemy Killed",
+      "Gain 100 Mana per Enemy Killed"
+    ]
+  },
+  {
+    "id": "Belly_of_the_Beast",
+    "name": "Belly of the Beast",
+    "baseType": "Full Wyrmscale",
+    "type": "Body Armour",
+    "levelReq": 46,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-200)% increased Armour",
+      "(30-40)% increased maximum Life",
+      "+(10-15)% to all Elemental Resistances",
+      "50% increased Flask Life Recovery rate",
+      "Extra Gore"
+    ]
+  },
+  {
+    "id": "Bloodbond",
+    "name": "Bloodbond",
+    "baseType": "Bone Armour",
+    "type": "Body Armour",
+    "levelReq": 35,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Grants Level 15 Blood Offering Skill",
+      "(100-120)% increased Evasion and Energy Shield",
+      "(15-25)% increased maximum Life",
+      "Minions have (20-30)% increased maximum Life",
+      "Regenerate 1% of Life per second",
+      "Minions have (12-15)% chance to Suppress Spell Damage"
+    ]
+  },
+  {
+    "id": "Blunderbore",
+    "name": "Blunderbore",
+    "baseType": "Astral Plate",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": "Heist",
+    "implicit": ["+(8-12)% to all Elemental Resistances"],
+    "mods": [
+      "+(500-700) Strength Requirement",
+      "(80-120)% increased Armour",
+      "(50-75)% increased Effect of Shrine Buffs on you",
+      "You have Lesser Brutal Shrine Buff",
+      "You have Lesser Massive Shrine Buff"
+    ]
+  },
+  {
+    "id": "Bramblejack",
+    "name": "Bramblejack",
+    "baseType": "Plate Vest",
+    "type": "Body Armour",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-60) to maximum Life",
+      "-(10-15) Physical Damage taken from Attacks",
+      "1000% of Melee Physical Damage taken reflected to Attacker"
+    ]
+  },
+  {
+    "id": "Briskwrap",
+    "name": "Briskwrap",
+    "baseType": "Sun Leather",
+    "type": "Body Armour",
+    "levelReq": 32,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "15% increased Dexterity",
+      "+(120-180) to Evasion Rating",
+      "+(30-40)% to Cold Resistance",
+      "(60-100)% increased Mana Recovery from Flasks",
+      "1% increased Damage per 15 Dexterity"
+    ]
+  },
+  {
+    "id": "Bronns_Lithe",
+    "name": "Bronn's Lithe",
+    "baseType": "Cutthroat's Garb",
+    "type": "Body Armour",
+    "levelReq": 53,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+5 to Level of Socketed Movement Gems",
+      "10% increased Attack Speed",
+      "(60-100)% increased Damage with Movement Skills",
+      "(200-250)% increased Evasion Rating",
+      "10% increased Movement Speed"
+    ]
+  },
+  {
+    "id": "Carcass_Jack",
+    "name": "Carcass Jack",
+    "baseType": "Varnished Coat",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(120-150)% increased Evasion and Energy Shield",
+      "+(50-70) to maximum Life",
+      "+(9-12)% to all Elemental Resistances",
+      "(40-50)% increased Area of Effect",
+      "(40-50)% increased Area Damage",
+      "Extra gore"
+    ]
+  },
+  {
+    "id": "Chains_of_Command",
+    "name": "Chains of Command",
+    "baseType": "Saintly Chainmail",
+    "type": "Body Armour",
+    "levelReq": 70,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Animate Guardian's Weapon when Animated Guardian Kills an Enemy",
+      "10% chance to Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy",
+      "(150-190)% increased Armour and Energy Shield",
+      "+(60-90) to maximum Life",
+      "Animated Guardian deals 5% increased Damage per Animated Weapon",
+      "Animated Minions' Melee Attacks deal Splash Damage to surrounding targets",
+      "Animated Minions' Melee Attacks deal 50% less Damage to surrounding targets",
+      "You cannot have Non-Animated, Non-Manifested Minions"
+    ]
+  },
+  {
+    "id": "Cherrubims_Maleficence",
+    "name": "Cherrubim's Maleficence",
+    "baseType": "Triumphant Lamellar",
+    "type": "Body Armour",
+    "levelReq": 69,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(50-80)% increased Chaos Damage",
+      "(160-200)% increased Armour and Evasion",
+      "+(70-100) to maximum Life",
+      "100% increased total Recovery per second from Life Leech"
+    ]
+  },
+  {
+    "id": "Cloak_of_Defiance",
+    "name": "Cloak of Defiance",
+    "baseType": "Lacquered Garb",
+    "type": "Body Armour",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(300-400)% increased Evasion and Energy Shield",
+      "+(100-150) to maximum Mana",
+      "Regenerate 1% of Mana per second",
+      "Mind Over Matter"
+    ]
+  },
+  {
+    "id": "Cloak_of_Flame",
+    "name": "Cloak of Flame",
+    "baseType": "Scholar's Robe",
+    "type": "Body Armour",
+    "levelReq": 18,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(50-75)% to Fire Resistance",
+      "(40-75)% increased Ignite Duration on Enemies",
+      "Reflects 100 Fire Damage to Melee Attackers",
+      "40% of Physical Damage taken as Fire Damage"
+    ]
+  },
+  {
+    "id": "Cloak_of_Tawmr_Isley",
+    "name": "Cloak of Tawm'r Isley",
+    "baseType": "Savant's Robe",
+    "type": "Body Armour",
+    "levelReq": 56,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Minion Gems are Supported by Level 16 Life Leech",
+      "(150-200)% increased Energy Shield",
+      "Minions cannot be Blinded",
+      "Minions have 15% chance to Blind Enemies on hit",
+      "Found Magic Items drop Identified"
+    ]
+  },
+  {
+    "id": "Cospris_Will",
+    "name": "Cospri's Will",
+    "baseType": "Assassin's Garb",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": null,
+    "implicit": ["3% increased Movement Speed"],
+    "mods": [
+      "(150-200)% increased Evasion Rating",
+      "+(31-53)% to Chaos Resistance",
+      "You can apply an additional Curse",
+      "Your Hexes can affect Hexproof Enemies",
+      "Always Poison on Hit against Cursed Enemies"
+    ]
+  },
+  {
+    "id": "Craiceanns_Carapace",
+    "name": "Craiceann's Carapace",
+    "baseType": "Golden Plate",
+    "type": "Body Armour",
+    "levelReq": 56,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Aspect of the Crab Skill",
+      "(200-250)% increased Armour",
+      "+(100-120) to maximum Life",
+      "+(25-30)% to Fire and Cold Resistances",
+      "Bleeding cannot be inflicted on you",
+      "+5 to Maximum number of Crab Barriers"
+    ]
+  },
+  {
+    "id": "Crystal_Vault",
+    "name": "Crystal Vault",
+    "baseType": "Latticed Ringmail",
+    "type": "Body Armour",
+    "levelReq": 49,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-40) to Strength",
+      "+(30-40) to Intelligence",
+      "(140-160)% increased Armour and Energy Shield",
+      "+(50-75)% to Cold Resistance",
+      "Cannot be Chilled",
+      "20% of Physical Damage from Hits taken as Cold Damage",
+      "30% of Fire Damage from Hits taken as Cold Damage",
+      "(15-20)% increased Effect of Cold Ailments"
+    ]
+  },
+  {
+    "id": "Daressos_Defiance",
+    "name": "Daresso's Defiance",
+    "baseType": "Full Dragonscale",
+    "type": "Body Armour",
+    "levelReq": 63,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(180-220)% increased Armour and Evasion",
+      "+(60-90) to maximum Life",
+      "2% of Attack Damage Leeched as Life",
+      "You lose all Endurance Charges when Hit",
+      "You gain an Endurance Charge on Kill",
+      "You gain Onslaught for 5 seconds per Endurance Charge when Hit",
+      "100% increased Onslaught Effect"
+    ]
+  },
+  {
+    "id": "Deaths_Oath",
+    "name": "Death's Oath",
+    "baseType": "Astral Plate",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": null,
+    "implicit": ["+(8-12)% to all Elemental Resistances"],
+    "mods": [
+      "Trigger Level 20 Death Aura when Equipped",
+      "+(40-50) to all Attributes",
+      "(10-15)% increased Attack Speed",
+      "(180-220)% increased Armour",
+      "+(60-70) to maximum Life",
+      "1% of Attack Damage Leeched as Life",
+      "You take 450 Chaos Damage per second for 3 seconds on Kill",
+      "Gore Footprints"
+    ]
+  },
+  {
+    "id": "Dendrobate",
+    "name": "Dendrobate",
+    "baseType": "Sentinel Jacket",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 10 Chance to Poison",
+      "(130-150)% increased Evasion and Energy Shield",
+      "+40 to maximum Energy Shield",
+      "+(15-25)% to all Elemental Resistances",
+      "(75-100)% increased Damage with Poison if you have at least 300 Dexterity",
+      "(15-25)% increased Poison Duration if you have at least 150 Intelligence"
+    ]
+  },
+  {
+    "id": "Diallas_Malefaction",
+    "name": "Dialla's Malefaction",
+    "baseType": "Sage's Robe",
+    "type": "Body Armour",
+    "levelReq": 37,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Gems can be Socketed in this Item ignoring Socket Colour",
+      "Gems Socketed in Red Sockets have +2 to Level",
+      "Gems Socketed in Green Sockets have +30% to Quality",
+      "Gems Socketed in Blue Sockets gain 100% increased Experience",
+      "Has no Attribute Requirements"
+    ]
+  },
+  {
+    "id": "Doedres_Skin",
+    "name": "Doedre's Skin",
+    "baseType": "Widowsilk Robe",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Blasphemy",
+      "Grants Level 20 Summon Doedre's Effigy Skill",
+      "Socketed Hex Curse Skills are Triggered by Doedre's Effigy when Summoned",
+      "Hexes from Socketed Skills can apply 5 additional Curses",
+      "20% less Effect of your Curses",
+      "+(30-40) to Intelligence",
+      "(130-150)% increased Energy Shield"
+    ]
+  },
+  {
+    "id": "Doppelgänger_Guise",
+    "name": "Doppelgänger Guise",
+    "baseType": "Sadist Garb",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": "Ritual",
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Unhinge Skill",
+      "(40-60)% more Critical Strike Chance while Insane",
+      "Enemies Killed by your Hits are destroyed while Insane",
+      "(30-40)% less Physical and Chaos Damage Taken while Sane",
+      "Regenerate 10% Life over one second when Hit while Sane"
+    ]
+  },
+  {
+    "id": "Doryanis_Prototype",
+    "name": "Doryani's Prototype",
+    "baseType": "Saint's Hauberk",
+    "type": "Body Armour",
+    "levelReq": 67,
+    "league": "Harvest",
+    "implicit": [],
+    "mods": [
+      "(150-200)% increased Armour and Energy Shield",
+      "+(60-90) to maximum Life",
+      "Deal no Non-Lightning Damage",
+      "Armour also applies to Lightning Damage taken from Hits",
+      "Lightning Resistance does not affect Lightning Damage taken",
+      "Nearby Enemies have Lightning Resistance equal to yours"
+    ]
+  },
+  {
+    "id": "Expeditions_End",
+    "name": "Expedition's End",
+    "baseType": "Sentinel Jacket",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(100-150)% increased Evasion and Energy Shield",
+      "(5-10)% increased maximum Life",
+      "All Damage can Freeze",
+      "Freeze Chilled Enemies as though dealing (50-100)% more Damage",
+      "Nearby Enemies are Chilled"
+    ]
+  },
+  {
+    "id": "Farruls_Fur",
+    "name": "Farrul's Fur",
+    "baseType": "Triumphant Lamellar",
+    "type": "Body Armour",
+    "levelReq": 69,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "(100-150)% increased Armour and Evasion",
+      "+(80-100) to maximum Life",
+      "Aspect of the Cat has no Reservation",
+      "+2.00 seconds to Cat's Stealth Duration",
+      "Gain up to your maximum number of Frenzy and Power Charges when you gain Cat's Stealth",
+      "You have Phasing while you have Cat's Stealth"
+    ]
+  },
+  {
+    "id": "Fenumus_Shroud",
+    "name": "Fenumus' Shroud",
+    "baseType": "Widowsilk Robe",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "+(30-40) to Intelligence",
+      "(120-140)% increased Energy Shield",
+      "Regenerate (80-100) Energy Shield per second",
+      "Enemies affected by your Spider's Webs deal 10% reduced Damage",
+      "Enemies affected by your Spider's Webs have -10% to All Resistances",
+      "(50-70)% increased Aspect of the Spider Area of Effect"
+    ]
+  },
+  {
+    "id": "Fleshcrafter",
+    "name": "Fleshcrafter",
+    "baseType": "Necromancer Silks",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": "Harvest",
+    "implicit": [],
+    "mods": [
+      "(100-150)% increased Energy Shield",
+      "Minions Convert 2% of their Maximum Life to Maximum Energy Shield per 1% Chaos Resistance they have",
+      "Chaos Damage taken does not bypass Minions' Energy Shield",
+      "Minions have (50-100)% faster start of Energy Shield Recharge",
+      "While Minions have Energy Shield, their Hits Ignore Monster Elemental Resistances"
+    ]
+  },
+  {
+    "id": "Foxs_Fortune",
+    "name": "Fox's Fortune",
+    "baseType": "Wild Leather",
+    "type": "Body Armour",
+    "levelReq": 25,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "Adds 5 to 12 Physical Damage to Attacks",
+      "+1500 to Evasion Rating while on Full Life",
+      "+(400-500) to Evasion Rating",
+      "(120-150)% increased Evasion Rating",
+      "10% increased Movement Speed",
+      "Enemies are Unlucky when Damaging you while you are on Full Life"
+    ]
+  },
+  {
+    "id": "Foxshade",
+    "name": "Foxshade",
+    "baseType": "Wild Leather",
+    "type": "Body Armour",
+    "levelReq": 25,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+1000 to Evasion Rating while on Full Life",
+      "(50-70)% increased Evasion Rating",
+      "30% increased Movement Speed when on Full Life",
+      "Damage of Enemies Hitting you is Unlucky while you are on Full Life"
+    ]
+  },
+  {
+    "id": "Garb_of_the_Ephemeral",
+    "name": "Garb of the Ephemeral",
+    "baseType": "Savant's Robe",
+    "type": "Body Armour",
+    "levelReq": 56,
+    "league": "Synthesis",
+    "implicit": [],
+    "mods": [
+      "{fractured}(180-230)% increased Energy Shield",
+      "+600 Strength and Intelligence Requirement",
+      "Gain a Divine Charge on Hit",
+      "+10 to maximum Divine Charges",
+      "You gain Divinity for 10 seconds on reaching maximum Divine Charges",
+      "Lose all Divine Charges when you gain Divinity",
+      "Nearby Allies' Action Speed cannot be modified to below base value",
+      "Nearby Enemies cannot deal Critical Strikes"
+    ]
+  },
+  {
+    "id": "Geofris_Sanctuary",
+    "name": "Geofri's Sanctuary",
+    "baseType": "Elegant Ringmail",
+    "type": "Body Armour",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(50-75)% increased Armour and Energy Shield",
+      "+(30-40) to maximum Energy Shield",
+      "+(50-70) to maximum Life",
+      "+(14-18)% to all Elemental Resistances",
+      "+2 maximum Energy Shield per 5 Strength",
+      "Zealot's Oath"
+    ]
+  },
+  {
+    "id": "Ghostwrithe",
+    "name": "Ghostwrithe",
+    "baseType": "Silken Vest",
+    "type": "Body Armour",
+    "levelReq": 11,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(100-200) to maximum Energy Shield",
+      "+(50-100) to maximum Life",
+      "+50% to Chaos Resistance",
+      "50% of Maximum Life Converted to Energy Shield"
+    ]
+  },
+  {
+    "id": "Greeds_Embrace",
+    "name": "Greed's Embrace",
+    "baseType": "Golden Plate",
+    "type": "Body Armour",
+    "levelReq": 56,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "100% increased Rarity of Items found",
+      "-10% to Fire Resistance",
+      "+(20-30)% to Cold Resistance",
+      "(-20--10)% to Lightning Resistance",
+      "20% reduced Movement Speed",
+      "30% reduced Strength Requirement"
+    ]
+  },
+  {
+    "id": "Gruthkuls_Pelt",
+    "name": "Gruthkul's Pelt",
+    "baseType": "Wyrmscale Doublet",
+    "type": "Body Armour",
+    "levelReq": 38,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "100% increased Global Physical Damage",
+      "(300-400)% increased Armour and Evasion Rating",
+      "+(240-300) to maximum Life",
+      "Regenerate 10% of Life per second",
+      "15% increased Character Size",
+      "Spell Skills deal no Damage",
+      "Your Spells are disabled"
+    ]
+  },
+  {
+    "id": "Hyrris_Ire",
+    "name": "Hyrri's Ire",
+    "baseType": "Zodiac Leather",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(40-50) to Dexterity",
+      "(140-220)% increased Evasion Rating",
+      "25% increased Chill Duration on Enemies",
+      "Adds (100-145) to (160-200) Cold Damage to Bow Attacks",
+      "30% chance to Suppress Spell Damage"
+    ]
+  },
+  {
+    "id": "Icetomb",
+    "name": "Icetomb",
+    "baseType": "Latticed Ringmail",
+    "type": "Body Armour",
+    "levelReq": 39,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30-40) to Strength",
+      "+(30-40) to Intelligence",
+      "(140-160)% increased Armour and Energy Shield",
+      "+(50-75)% to Cold Resistance",
+      "Cannot be Chilled",
+      "20% chance to Freeze Enemies for 1 second when they Hit you"
+    ]
+  },
+  {
+    "id": "Incandescent_Heart",
+    "name": "Incandescent Heart",
+    "baseType": "Saintly Chainmail",
+    "type": "Body Armour",
+    "levelReq": 70,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(220-240)% increased Armour and Energy Shield",
+      "+(80-90) to maximum Life",
+      "(0.8-1)% of Attack Damage Leeched as Life",
+      "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
+      "25% of Elemental Damage from Hits taken as Chaos Damage",
+      "(20-30)% increased Light Radius",
+      "Light Radius is based on Energy Shield instead of Life"
+    ]
+  },
+  {
+    "id": "Infernal_Mantle",
+    "name": "Infernal Mantle",
+    "baseType": "Widowsilk Robe",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+3 to Level of Socketed Fire Gems",
+      "100% increased Global Critical Strike Chance",
+      "(120-160)% increased Energy Shield",
+      "15% of Fire Damage Converted to Chaos Damage",
+      "100% increased Spell Damage taken when on Low Mana"
+    ]
+  },
+  {
+    "id": "Inpulsas_Broken_Heart",
+    "name": "Inpulsa's Broken Heart",
+    "baseType": "Sadist Garb",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(60-80) to maximum Life",
+      "(20-50)% increased Damage if you have Shocked an Enemy Recently",
+      "(15-25)% increased Effect of Shock",
+      "Shocked Enemies you Kill Explode, dealing 5% of",
+      "their Life as Lightning Damage which cannot Shock",
+      "Unaffected by Shock"
+    ]
+  },
+  {
+    "id": "Iron_Heart",
+    "name": "Iron Heart",
+    "baseType": "Crusader Plate",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(8-12)% Chance to Block Attack Damage",
+      "(80-100)% increased Armour",
+      "10% reduced Movement Speed",
+      "Cannot Block Spell Damage",
+      "Strength's Damage Bonus instead grants 3% increased Melee Physical Damage per 10 Strength"
+    ]
+  },
+  {
+    "id": "Kaoms_Heart",
+    "name": "Kaom's Heart",
+    "baseType": "Glorious Plate",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Has no Sockets",
+      "+1000 to maximum Life"
+    ]
+  },
+  {
+    "id": "Kingsguard",
+    "name": "Kingsguard",
+    "baseType": "Conquest Chainmail",
+    "type": "Body Armour",
+    "levelReq": 61,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(150-170)% increased Armour and Energy Shield",
+      "+(60-90) to maximum Life",
+      "+(50-70) to maximum Mana",
+      "30% increased Endurance Charge Duration",
+      "Gain 100 Life when you lose an Endurance Charge"
+    ]
+  },
+  {
+    "id": "Kintsugi",
+    "name": "Kintsugi",
+    "baseType": "Exquisite Leather",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(160-220)% increased Evasion Rating",
+      "+30% to Fire Resistance",
+      "35% less Damage taken if you have not been Hit Recently",
+      "100% increased Evasion Rating if you have been Hit Recently"
+    ]
+  },
+  {
+    "id": "Lightbane_Raiment",
+    "name": "Lightbane Raiment",
+    "baseType": "Ornate Ringmail",
+    "type": "Body Armour",
+    "levelReq": 47,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(120-140)% increased Armour and Energy Shield",
+      "30% of Physical Damage Converted to Chaos Damage",
+      "Reflects 30 Chaos Damage to Melee Attackers",
+      "25% reduced Light Radius",
+      "100% chance to create Desecrated Ground when you Block"
+    ]
+  },
+  {
+    "id": "Lightning_Coil",
+    "name": "Lightning Coil",
+    "baseType": "Desert Brigandine",
+    "type": "Body Armour",
+    "levelReq": 60,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 1 to (20-30) Lightning Damage to Attacks",
+      "(90-120)% increased Armour and Evasion",
+      "+(60-80) to maximum Life",
+      "-60% to Lightning Resistance",
+      "50% of Physical Damage from Hits taken as Lightning Damage"
+    ]
+  },
+  {
+    "id": "Lioneyes_Vision",
+    "name": "Lioneye's Vision",
+    "baseType": "Crusader Plate",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 15 Pierce",
+      "(200-250)% increased Armour",
+      "+(60-100) to maximum Life",
+      "0.4% of Physical Attack Damage Leeched as Mana",
+      "+160 Dexterity Requirement",
+      "Enemy Projectiles Pierce you"
+    ]
+  },
+  {
+    "id": "Loreweave",
+    "name": "Loreweave",
+    "baseType": "Elegant Ringmail",
+    "type": "Body Armour",
+    "levelReq": 64,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Has 6 Sockets",
+      "+(8-24) to all Attributes",
+      "Adds (4-10) to (14-36) Physical Damage to Attacks",
+      "(20-60)% increased Global Critical Strike Chance",
+      "+(15-50) to maximum Energy Shield",
+      "+(20-60) to maximum Life",
+      "+(20-50) to maximum Mana",
+      "(6-30)% increased Rarity of Items found",
+      "(15-50)% increased Elemental Damage",
+      "Your Maximum Resistances are (76-78)%"
+    ]
+  },
+  {
+    "id": "Perfidy",
+    "name": "Perfidy",
+    "baseType": "Glorious Plate",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": "Delirium",
+    "implicit": [],
+    "mods": [
+      "(25-40)% increased Melee Damage",
+      "+(60-90) to maximum Life",
+      "Having a placed Banner does not prevent you gaining Valour"
+    ]
+  },
+  {
+    "id": "Pragmatism",
+    "name": "Pragmatism",
+    "baseType": "Colosseum Plate",
+    "type": "Body Armour",
+    "levelReq": 49,
+    "league": "Affliction",
+    "implicit": [],
+    "mods": [
+      "+12 to Level of Socketed Skill Gems",
+      "(80-120)% increased Armour",
+      "+(60-100) to maximum Mana",
+      "-2 to Level of Socketed Skill Gems per Socketed Gem"
+    ]
+  },
+  {
+    "id": "Queen_of_the_Forest",
+    "name": "Queen of the Forest",
+    "baseType": "Destiny Leather",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(200-240)% increased Evasion Rating",
+      "+(60-70) to maximum Life",
+      "+(6-10)% to Fire Resistance",
+      "+(26-40)% to Cold Resistance",
+      "+(11-25)% to Lightning Resistance",
+      "25% reduced Movement Speed",
+      "1% increased Movement Speed per 600 Evasion Rating, up to 75%",
+      "-(50-40) Physical Damage taken from Hits by Animals"
+    ]
+  },
+  {
+    "id": "Replica_Ambus_Charge",
+    "name": "Replica Ambu's Charge",
+    "baseType": "Crusader Chainmail",
+    "type": "Body Armour",
+    "levelReq": 43,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(180-220)% increased Armour and Energy Shield",
+      "+(60-80) to maximum Life",
+      "+15% to all Elemental Resistances",
+      "Share Endurance Charges with nearby party members",
+      "Gain an Endurance Charge when you are Hit",
+      "Lose 2% of Life per second if you have been Hit Recently"
+    ]
+  },
+  {
+    "id": "Replica_Covenant",
+    "name": "Replica Covenant",
+    "baseType": "Spidersilk Robe",
+    "type": "Body Armour",
+    "levelReq": 49,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 29 Added Cold Damage",
+      "+(20-30) to Intelligence",
+      "(210-250)% increased Energy Shield",
+      "10% increased maximum Life",
+      "Skills gain a Base Energy Shield Cost equal to 200% of Base Mana Cost"
+    ]
+  },
+  {
+    "id": "Replica_Eternity_Shroud",
+    "name": "Replica Eternity Shroud",
+    "baseType": "Blood Raiment",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Shade Form when Hit",
+      "(100-150)% increased Evasion and Energy Shield",
+      "+(70-100) to maximum Life",
+      "+(17-23)% to Chaos Resistance",
+      "Gain (3-5)% of Physical Damage as Extra Chaos Damage per Elder Item Equipped",
+      "Hits ignore Enemy Monster Chaos Resistance if all Equipped Items are Elder Items"
+    ]
+  },
+  {
+    "id": "Replica_Farruls_Fur",
+    "name": "Replica Farrul's Fur",
+    "baseType": "Triumphant Lamellar",
+    "type": "Body Armour",
+    "levelReq": 69,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(100-150)% increased Armour and Evasion",
+      "+(80-100) to maximum Life",
+      "+2.00 seconds to Cat's Agility Duration",
+      "Aspect of the Cat has no Reservation",
+      "Gain up to your maximum number of Frenzy and Endurance Charges when you gain Cat's Agility",
+      "You have Onslaught while you have Cat's Agility"
+    ]
+  },
+  {
+    "id": "Replica_Hyrris_Ire",
+    "name": "Replica Hyrri's Ire",
+    "baseType": "Zodiac Leather",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+30% chance to Suppress Spell Damage",
+      "+(40–50) to Intelligence",
+      "(140–220)% increased Evasion Rating",
+      "25% increased Shock Duration on Enemies",
+      "(12–18) to (231–347) Added Lightning Damage with Wand Attacks"
+    ]
+  },
+  {
+    "id": "Replica_Kaoms_Heart",
+    "name": "Replica Kaom's Heart",
+    "baseType": "Glorious Plate",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Has no Sockets",
+      "(30-40)% increased Lightning Damage",
+      "+500 to maximum Mana"
+    ]
+  },
+  {
+    "id": "Replica_Loreweave",
+    "name": "Replica Loreweave",
+    "baseType": "Elegant Ringmail",
+    "type": "Body Armour",
+    "levelReq": 64,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "Has 6 Sockets",
+      "+(8-24) to all Attributes",
+      "Adds (4-10) to (14-36) Physical Damage to Attacks",
+      "(120-160)% increased Global Critical Strike Chance",
+      "+(150-200) to maximum Energy Shield",
+      "+(120-160) to maximum Life",
+      "+(120-160) to maximum Mana",
+      "(6-30)% increased Rarity of Items found",
+      "(15-50)% increased Elemental Damage",
+      "Your Maximum Resistances are (70-72)%"
+    ]
+  },
+  {
+    "id": "Replica_Perfect_Form",
+    "name": "Replica Perfect Form",
+    "baseType": "Zodiac Leather",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "(150-200)% increased Evasion Rating",
+      "-30% to Cold Resistance",
+      "+20% chance to Block Attack Damage",
+      "Evasion Rating is increased by Overcapped Cold Resistance",
+      "Versatile Combatant"
+    ]
+  },
+  {
+    "id": "Replica_Restless_Ward",
+    "name": "Replica Restless Ward",
+    "baseType": "Carnal Armour",
+    "type": "Body Armour",
+    "levelReq": 71,
+    "league": "Heist",
+    "implicit": ["+(20-25) to maximum Mana"],
+    "mods": [
+      "(220-250)% increased Evasion and Energy Shield",
+      "+(60-80) to maximum Life",
+      "6% increased Movement Speed per Frenzy Charge",
+      "-2 to Maximum Endurance Charges",
+      "-2 to Maximum Frenzy Charges",
+      "Regenerate (100-140) Life per second per Endurance Charge"
+    ]
+  },
+  {
+    "id": "Replica_Shroud_of_the_Lightless",
+    "name": "Replica Shroud of the Lightless",
+    "baseType": "Carnal Armour",
+    "type": "Body Armour",
+    "levelReq": 71,
+    "league": "Heist",
+    "implicit": ["+(20-25) to maximum Mana"],
+    "mods": [
+      "Has 6 Abyssal Sockets"
+    ]
+  },
+  {
+    "id": "Rigwalds_Hunt",
+    "name": "Rigwald's Hunt",
+    "baseType": "General's Brigandine",
+    "type": "Body Armour",
+    "levelReq": 66,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(160-200)% increased Armour and Evasion",
+      "Minions have (20-30)% increased Movement Speed",
+      "Minions have 1% chance to deal Double Damage per Fortification on you",
+      "(30-40)% increased Fortification Duration",
+      "Minions have (6-12)% increased Attack Speed",
+      "Increases and Reductions to Minion Maximum Life also apply to you at 15% of their value"
+    ]
+  },
+  {
+    "id": "Rotting_Legion",
+    "name": "Rotting Legion",
+    "baseType": "Loricated Ringmail",
+    "type": "Body Armour",
+    "levelReq": 58,
+    "league": "Blight",
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 1 Meat Shield",
+      "(100-140)% increased Armour and Energy Shield",
+      "+(50-80) to maximum Life",
+      "(5-8)% increased Damage per Raised Zombie",
+      "1% less Elemental Damage taken per Raised Zombie"
+    ]
+  },
+  {
+    "id": "Saqawals_Nest",
+    "name": "Saqawal's Nest",
+    "baseType": "Blood Raiment",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Bestiary",
+    "implicit": [],
+    "mods": [
+      "+(25-75) to all Attributes",
+      "+(30-40)% to Lightning Resistance",
+      "(12-20)% increased Mana Reservation Efficiency of Skills",
+      "100% increased Aspect of the Avian Buff Effect",
+      "Aspect of the Avian also grants Avian's Might and Avian's Flight to nearby Allies",
+      "+(120-150) to Evasion Rating and Energy Shield"
+    ]
+  },
+  {
+    "id": "Servant_of_Decay",
+    "name": "Servant of Decay",
+    "baseType": "Torturer Garb",
+    "type": "Body Armour",
+    "levelReq": 78,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Summon Void Spawn every 4 seconds",
+      "(150-200)% increased Energy Shield",
+      "+(23-37)% to Chaos Resistance",
+      "(4-6)% of Damage from Hits is taken from Void Spawns' Life before you per Void Spawn",
+      "Gain (4-6)% of Non-Chaos Damage as Extra Chaos Damage per Summoned Void Spawn"
+    ]
+  },
+  {
+    "id": "Seven_Teachings",
+    "name": "Seven Teachings",
+    "baseType": "Waxed Garb",
+    "type": "Body Armour",
+    "levelReq": 77,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger a Socketed Spell on Unarmed Melee Critical Strike, with a 0.25 second Cooldown",
+      "(1-7)% more Attack Speed with Unarmed Melee Attacks",
+      "(100-777)% increased Evasion and Energy Shield",
+      "(1-7)% increased Movement Speed",
+      "+(0.1-0.7) metres to Melee Strike Range with Unarmed Attacks",
+      "+(1-7)% to Unarmed Melee Attack Critical Strike Chance",
+      "+(10-77)% to Critical Strike Multiplier with Unarmed Melee Attack"
+    ]
+  },
+  {
+    "id": "Shadowstitch",
+    "name": "Shadowstitch",
+    "baseType": "Sacrificial Garb",
+    "type": "Body Armour",
+    "levelReq": 72,
+    "league": "Incursion",
+    "implicit": [],
+    "mods": [
+      "Has an additional Implicit Mod",
+      "+(20-30) to all Attributes",
+      "(250-350)% increased Armour, Evasion and Energy Shield",
+      "Recover (3-5)% of Life on Kill",
+      "Recover (3-5)% of Energy Shield on Kill",
+      "-(6-4)% to all Resistances for each Corrupted Item Equipped",
+      "8% increased Maximum Energy Shield for each Corrupted Item Equipped",
+      "6% increased Maximum Life for each Corrupted Item Equipped"
+    ]
+  },
+  {
+    "id": "Shavronnes_Wrappings",
+    "name": "Shavronne's Wrappings",
+    "baseType": "Occultist's Vestment",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": null,
+    "implicit": ["(3-10)% increased Spell Damage"],
+    "mods": [
+      "(100-150)% increased Energy Shield",
+      "10% faster start of Energy Shield Recharge",
+      "+(30-40)% to Lightning Resistance",
+      "Reflects 1 to 250 Lightning Damage to Melee Attackers",
+      "Chaos Damage does not bypass Energy Shield"
+    ]
+  },
+  {
+    "id": "Shroud_of_the_Lightless",
+    "name": "Shroud of the Lightless",
+    "baseType": "Carnal Armour",
+    "type": "Body Armour",
+    "levelReq": 71,
+    "league": "Abyss",
+    "implicit": ["+(20-25) to maximum Mana"],
+    "mods": [
+      "Has 1 Abyssal Socket",
+      "20% chance to Trigger Level 20 Shade Form when you Use a Socketed Skill",
+      "(160-180)% increased Evasion and Energy Shield",
+      "3% increased Maximum Life per Abyss Jewel affecting you",
+      "3% increased Maximum Mana per Abyss Jewel affecting you",
+      "Penetrate 4% Elemental Resistances per Abyss Jewel affecting you"
+    ]
+  },
+  {
+    "id": "Skin_of_the_Loyal",
+    "name": "Skin of the Loyal",
+    "baseType": "Simple Robe",
+    "type": "Body Armour",
+    "levelReq": null,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "Sockets cannot be modified",
+      "+1 to Level of Socketed Gems",
+      "100% increased Global Defences"
+    ]
+  },
+  {
+    "id": "Solaris_Lorica",
+    "name": "Solaris Lorica",
+    "baseType": "Copper Plate",
+    "type": "Body Armour",
+    "levelReq": 17,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(10-20) to Strength",
+      "(60-80)% increased Armour",
+      "25% reduced Chaos Damage taken over time",
+      "25% increased Light Radius",
+      "Chaos Damage taken does not bypass Energy Shield",
+      "-(30-40) Chaos Damage taken"
+    ]
+  },
+  {
+    "id": "Soul_Mantle",
+    "name": "Soul Mantle",
+    "baseType": "Spidersilk Robe",
+    "type": "Body Armour",
+    "levelReq": 49,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 20 Spell Totem",
+      "(20-25)% increased Spell Damage",
+      "(100-120)% increased Energy Shield",
+      "(20-30)% increased Totem Life",
+      "Inflicts a random Hex on you when your Totems die"
+    ]
+  },
+  {
+    "id": "Sporeguard",
+    "name": "Sporeguard",
+    "baseType": "Saint's Hauberk",
+    "type": "Body Armour",
+    "levelReq": 67,
+    "league": "Blight",
+    "implicit": [],
+    "mods": [
+      "Trigger Level 10 Contaminate when you Kill an Enemy",
+      "(200-250)% increased Armour and Energy Shield",
+      "(7-10)% increased maximum Life",
+      "+(29-43)% to Chaos Resistance",
+      "Enemies on Fungal Ground you Kill Explode, dealing 10% of their Life as Chaos Damage",
+      "You have Fungal Ground around you while stationary",
+      "This item can be anointed by Cassia"
+    ]
+  },
+  {
+    "id": "Stasis_Prison",
+    "name": "Stasis Prison",
+    "baseType": "Carnal Armour",
+    "type": "Body Armour",
+    "levelReq": 71,
+    "league": null,
+    "implicit": ["+(20-25) to maximum Mana"],
+    "mods": [
+      "(140-160)% increased Evasion and Energy Shield",
+      "+(80-100) to maximum Life",
+      "Temporal Rift has no Reservation",
+      "(80-100)% of Damage taken Recouped as Life",
+      "Debuffs on you Expire (80-100)% faster"
+    ]
+  },
+  {
+    "id": "Tabula_Rasa",
+    "name": "Tabula Rasa",
+    "baseType": "Simple Robe",
+    "type": "Body Armour",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": []
+  },
+  {
+    "id": "The_Admiral",
+    "name": "The Admiral",
+    "baseType": "Varnished Coat",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": "Heist",
+    "implicit": [],
+    "mods": [
+      "+(30-40) to Intelligence",
+      "(120-200)% increased Evasion and Energy Shield",
+      "+(10-20)% to all Elemental Resistances",
+      "(10-25)% chance to Freeze, Shock and Ignite",
+      "Elemental Damage you Deal with Hits is Resisted by lowest Elemental Resistance instead"
+    ]
+  },
+  {
+    "id": "The_Apostate",
+    "name": "The Apostate",
+    "baseType": "Cabalist Regalia",
+    "type": "Body Armour",
+    "levelReq": 35,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(30–50) to Strength",
+      "+(20–30)% to all Elemental Resistances",
+      "Gain Maximum Life instead of Maximum Energy Shield from Equipped Armour Items"
+    ]
+  },
+  {
+    "id": "The_Beast_Fur_Shawl",
+    "name": "The Beast Fur Shawl",
+    "baseType": "Vaal Regalia",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "40% increased Spell Damage",
+      "(120-160)% increased Energy Shield",
+      "(50-100)% increased Energy Shield Recovery rate",
+      "10% increased Area of Effect",
+      "10% increased Damage taken"
+    ]
+  },
+  {
+    "id": "The_Brass_Dome",
+    "name": "The Brass Dome",
+    "baseType": "Gladiator Plate",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(350-400)% increased Armour",
+      "Take no Extra Damage from Critical Strikes",
+      "+(1-5)% to all maximum Elemental Resistances",
+      "Strength provides no bonus to Maximum Life"
+    ]
+  },
+  {
+    "id": "The_Coming_Calamity",
+    "name": "The Coming Calamity",
+    "baseType": "Destroyer Regalia",
+    "type": "Body Armour",
+    "levelReq": 53,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+2 to Level of Socketed Herald Gems",
+      "(80-100)% increased Energy Shield",
+      "35% chance to avoid being Stunned for each Herald Buff affecting you",
+      "Mana Reservation of Herald Skills is always 45%"
+    ]
+  },
+  {
+    "id": "The_Covenant",
+    "name": "The Covenant",
+    "baseType": "Spidersilk Robe",
+    "type": "Body Armour",
+    "levelReq": 49,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 29 Added Chaos Damage",
+      "+(20-30) to Intelligence",
+      "(210-250)% increased Energy Shield",
+      "10% increased maximum Life",
+      "Skills gain a Base Life Cost equal to 100% of Base Mana Cost"
+    ]
+  },
+  {
+    "id": "The_Eternity_Shroud",
+    "name": "The Eternity Shroud",
+    "baseType": "Blood Raiment",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Trigger Level 20 Glimpse of Eternity when Hit",
+      "(100-150)% increased Evasion and Energy Shield",
+      "+(70-100) to maximum Life",
+      "+(17-23)% to Chaos Resistance",
+      "Gain (3-5)% of Elemental Damage as Extra Chaos Damage per Shaper Item Equipped",
+      "Hits ignore Enemy Monster Chaos Resistance if all Equipped Items are Shaper Items"
+    ]
+  },
+  {
+    "id": "The_Fourth_Vow",
+    "name": "The Fourth Vow",
+    "baseType": "Devout Chainmail",
+    "type": "Body Armour",
+    "levelReq": 55,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Physical Damage taken bypasses Energy Shield",
+      "(150-250)% increased Armour and Energy Shield",
+      "+(17-29)% to Chaos Resistance",
+      "Regenerate 3% of Life per second",
+      "Armour also applies to Chaos Damage taken from Hits"
+    ]
+  },
+  {
+    "id": "The_Iron_Fortress",
+    "name": "The Iron Fortress",
+    "baseType": "Crusader Plate",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1% Chance to Block Attack Damage per 50 Strength",
+      "Chance to Block Spell Damage is Unlucky",
+      "+(60-120) to Strength",
+      "(80-100)% increased Armour",
+      "10% reduced Movement Speed",
+      "Strength's Damage Bonus instead grants 3% increased Melee Physical Damage per 10 Strength"
+    ]
+  },
+  {
+    "id": "The_Ivory_Tower",
+    "name": "The Ivory Tower",
+    "baseType": "Saint's Hauberk",
+    "type": "Body Armour",
+    "levelReq": 67,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+(40-70) to Intelligence",
+      "+30 to maximum Energy Shield per 100 Reserved Life",
+      "+(80-100) to maximum Mana",
+      "Regenerate 2% of Energy Shield per second",
+      "Chaos Damage is taken from Mana before Life"
+    ]
+  },
+  {
+    "id": "The_Perfect_Form",
+    "name": "The Perfect Form",
+    "baseType": "Zodiac Leather",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "+50% chance to Suppress Spell Damage",
+      "(150-200)% increased Evasion Rating",
+      "-30% to Cold Resistance",
+      "Evasion Rating is increased by Overcapped Cold Resistance",
+      "Acrobatics"
+    ]
+  },
+  {
+    "id": "The_Rat_Cage",
+    "name": "The Rat Cage",
+    "baseType": "Sharkskin Tunic",
+    "type": "Body Armour",
+    "levelReq": 56,
+    "league": "Torment",
+    "implicit": [],
+    "mods": [
+      "(100-120)% increased Evasion Rating",
+      "+(200-300) to maximum Life",
+      "15% increased Movement Speed",
+      "100% of Fire Damage from Hits taken as Physical Damage"
+    ]
+  },
+  {
+    "id": "The_Restless_Ward",
+    "name": "The Restless Ward",
+    "baseType": "Carnal Armour",
+    "type": "Body Armour",
+    "levelReq": 71,
+    "league": null,
+    "implicit": ["+(20-25) to maximum Mana"],
+    "mods": [
+      "(220-250)% increased Evasion and Energy Shield",
+      "+(60-80) to maximum Life",
+      "4% increased Movement Speed per Frenzy Charge",
+      "Regenerate 75 Life per second per Endurance Charge",
+      "(100-200)% increased Endurance, Frenzy and Power Charge Duration"
+    ]
+  },
+  {
+    "id": "The_Snowblind_Grace",
+    "name": "The Snowblind Grace",
+    "baseType": "Zodiac Leather",
+    "type": "Body Armour",
+    "levelReq": 65,
+    "league": "Breach",
+    "implicit": [],
+    "mods": [
+      "(10-15)% increased Dexterity",
+      "(80-100)% increased Evasion Rating",
+      "+(40-60) to maximum Life",
+      "50% increased Arctic Armour Buff Effect",
+      "Arctic Armour has no Reservation"
+    ]
+  },
+  {
+    "id": "Thousand_Ribbons",
+    "name": "Thousand Ribbons",
+    "baseType": "Simple Robe",
+    "type": "Body Armour",
+    "levelReq": null,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Socketed Gems are Supported by Level 5 Elemental Proliferation",
+      "Adds (2-4) to (5-9) Fire Damage to Spells and Attacks",
+      "Adds (2-4) to (5-9) Cold Damage to Spells and Attacks",
+      "Adds 1 to (4-12) Lightning Damage to Spells and Attacks",
+      "+(30-60) to Evasion Rating",
+      "+(30-60) to maximum Energy Shield",
+      "+(25-50) to maximum Life",
+      "+(25-50) to maximum Mana",
+      "+(15-30)% to Fire Resistance",
+      "+(15-30)% to Cold Resistance",
+      "+(15-30)% to Lightning Resistance"
+    ]
+  },
+  {
+    "id": "Tinkerskin",
+    "name": "Tinkerskin",
+    "baseType": "Sadist Garb",
+    "type": "Body Armour",
+    "levelReq": 68,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(140-170)% increased Evasion and Energy Shield",
+      "+(60-90) to maximum Life",
+      "(10-15)% increased Cooldown Recovery Rate for throwing Traps",
+      "15% chance to gain a Frenzy Charge when your Trap is triggered by an Enemy",
+      "30% chance to gain Phasing for 4 seconds when your Trap is triggered by an Enemy",
+      "Recover 100 Life when your Trap is triggered by an Enemy",
+      "Recover 50 Energy Shield when your Trap is triggered by an Enemy"
+    ]
+  },
+  {
+    "id": "Utulas_Hunger",
+    "name": "Utula's Hunger",
+    "baseType": "Majestic Plate",
+    "type": "Body Armour",
+    "levelReq": 53,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(60-100)% increased Armour",
+      "Recover (1-3)% of Life on Kill",
+      "(30-40)% Increased Stun and Block Recovery",
+      "+(700-1000) to maximum Life if there are no Life Modifiers on other Equipped items"
+    ]
+  },
+  {
+    "id": "Victarios_Influence",
+    "name": "Victario's Influence",
+    "baseType": "Lacquered Garb",
+    "type": "Body Armour",
+    "levelReq": 52,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "+1 to Level of Socketed Aura Gems",
+      "Socketed Gems are Supported by Level 30 Generosity",
+      "Socketed Gems have 45% increased Reservation Efficiency",
+      "(120-150)% increased Evasion and Energy Shield",
+      "(20-40)% increased Area of Effect of Aura Skills",
+      "(10-15)% increased effect of Non-Curse Auras from your Skills"
+    ]
+  },
+  {
+    "id": "Vipers_Scales",
+    "name": "Viper's Scales",
+    "baseType": "Full Scale Armour",
+    "type": "Body Armour",
+    "levelReq": 28,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(80-100)% increased Armour and Evasion",
+      "+(30-40) to maximum Life",
+      "+(15-25)% to Cold Resistance",
+      "5% increased Movement Speed",
+      "20% chance to Poison on Hit with Attacks",
+      "Cannot be Poisoned"
+    ]
+  },
+  {
+    "id": "Vis_Mortis",
+    "name": "Vis Mortis",
+    "baseType": "Necromancer Silks",
+    "type": "Body Armour",
+    "levelReq": 59,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "(200-220)% increased Energy Shield",
+      "+(20-30) to maximum Mana",
+      "Minions have 20% reduced maximum Life",
+      "Minions deal 15% increased Damage",
+      "Minions gain (15-20)% of Elemental Damage as Extra Chaos Damage"
+    ]
+  },
+  {
+    "id": "Volls_Protector",
+    "name": "Voll's Protector",
+    "baseType": "Holy Chainmail",
+    "type": "Body Armour",
+    "levelReq": 35,
+    "league": "Legion",
+    "implicit": [],
+    "mods": [
+      "(100-150)% increased Armour and Energy Shield",
+      "50% reduced maximum Mana",
+      "Gain a Power Charge for each Enemy you hit with a Critical Strike",
+      "Inner Conviction"
+    ]
+  },
+  {
+    "id": "Wall_of_Brambles",
+    "name": "Wall of Brambles",
+    "baseType": "Plate Vest",
+    "type": "Body Armour",
+    "levelReq": 30,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 2 to 4 Physical Damage to Attacks",
+      "+2000 to Armour",
+      "+(12-20) to maximum Life",
+      "-2 Physical Damage taken from Attacks",
+      "40% of Melee Physical Damage taken reflected to Attacker"
+    ]
+  },
+  {
+    "id": "Wildwrap",
+    "name": "Wildwrap",
+    "baseType": "Strapped Leather",
+    "type": "Body Armour",
+    "levelReq": 57,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "10% increased Attack Speed",
+      "+(600-700) to Evasion Rating",
+      "+(30-40)% to Cold Resistance",
+      "5% increased Movement Speed",
+      "(20-25)% increased Mana Recovery from Flasks",
+      "15% increased Dexterity",
+      "1% increased Damage per 15 Dexterity"
+    ]
+  },
+  {
+    "id": "Yriels_Fostering",
+    "name": "Yriel's Fostering",
+    "baseType": "Exquisite Leather",
+    "type": "Body Armour",
+    "levelReq": 62,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Grants Level 20 Summon Bestial Ursa Skill",
+      "+(300-400) to Accuracy Rating",
+      "(130-150)% increased Evasion Rating",
+      "+(90-100) to maximum Life",
+      "Projectile Attack Skills have (40-60)% increased Critical Strike Chance",
+      "Projectiles from Attacks have 100% chance to inflict Bleeding on Hit while you have a Bestial Minion",
+      "Adds (23-31)-(37-47) Physical Damage to Attacks while you have a Bestial Minion"
+    ]
+  },
+  {
+    "id": "Zahndethus_Cassock",
+    "name": "Zahndethus' Cassock",
+    "baseType": "Sage's Robe",
+    "type": "Body Armour",
+    "levelReq": 37,
+    "league": null,
+    "implicit": [],
+    "mods": [
+      "Adds 1 to 40 Lightning Damage to Attacks",
+      "(125-150)% increased Energy Shield",
+      "+(40-50)% to Chaos Resistance",
+      "25% increased Light Radius",
+      "100% chance to create Consecrated Ground when you Block"
+    ]
+  }
+]
