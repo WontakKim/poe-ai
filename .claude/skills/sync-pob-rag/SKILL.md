@@ -39,7 +39,7 @@ Phase 3: Sync References (4 agents parallel)   ← skip if ref up to date
 Phase 4: Write vendor/pob/source.json          ← skip if ref skipped or partial fail
     ▼
 Phase 5: Ingest DB (sequential + independent)   ← skip if DB up to date
-    │ base-item → unique-item (sequential), skill-gem (independent)
+    │ base-item → unique-item (sequential), skill-gem + passive-tree (independent)
     ▼
 Phase 6: Report
     ▼
@@ -52,7 +52,7 @@ Output Result JSON
 
 **Non-blocking failures** (log and continue):
 - Phase 3: individual reference sync agent fails
-- Phase 5: individual ingest agent fails (unique-item depends on base-item; skill-gem is independent)
+- Phase 5: individual ingest agent fails (unique-item depends on base-item; skill-gem and passive-tree are independent)
 
 ## Workflow
 
@@ -102,10 +102,10 @@ Determine the current game version, PoB commit hash, and which phases need to ru
    fi
    ```
 
-4. **Check DB ingest status** (`db/pob/{base-item,unique-item,skill-gem}/source.json`):
+4. **Check DB ingest status** (`db/pob/{base-item,unique-item,skill-gem,passive-tree}/source.json`):
    ```bash
    DB_UP_TO_DATE=true
-   for db_source in db/pob/base-item/source.json db/pob/unique-item/source.json db/pob/skill-gem/source.json; do
+   for db_source in db/pob/base-item/source.json db/pob/unique-item/source.json db/pob/skill-gem/source.json db/pob/passive-tree/source.json; do
      if [ ! -f "$db_source" ]; then
        DB_UP_TO_DATE=false
        break
@@ -194,6 +194,7 @@ Run ingest agents via the Agent tool. Do NOT run scripts directly — raw stdout
 **Dependency graph**:
 - base-item → unique-item (sequential: unique-item depends on base-item output)
 - skill-gem is **independent** — runs regardless of base-item/unique-item success
+- passive-tree is **independent** — runs regardless of other ingest results
 
 ```
 Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
@@ -201,7 +202,8 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
                     ▼
                Agent (haiku) → db/pob/unique-item/*.json
 
-               Agent (haiku) → db/pob/skill-gem/*.json     ← independent
+               Agent (haiku) → db/pob/skill-gem/*.json       ← independent
+               Agent (haiku) → db/pob/passive-tree/*.json    ← independent
 ```
 
 **Important**: Use the `VERSION`, `POB_COMMIT`, `POB_VERSION` variables from Phase 2 directly. Do NOT re-read `vendor/pob/source.json` — it may not exist if Phase 3-4 were skipped or failed.
@@ -268,6 +270,26 @@ Orchestrator ── Agent (haiku) → db/pob/base-item/*.json
 
 6. Validate skill-gem result.
 
+7. **Passive tree ingest** — launch 1 agent via the Agent tool (independent of other ingests):
+
+   | `subagent_type` | Output |
+   |-----------------|--------|
+   | `pob-ingest-passive-tree` | `db/pob/passive-tree/*.json` |
+
+   Agent `prompt`:
+   ```
+   INPUT:
+   - pob_path: vendor/pob/origin
+   - output_dir: db/pob/passive-tree
+   - gameVersion: {VERSION}
+   - pobCommit: {POB_COMMIT}
+   - pobVersion: {POB_VERSION}
+
+   Execute the workflow.
+   ```
+
+8. Validate passive-tree result.
+
 ### Phase 6: Report
 
 Produce the final result summarizing all phases.
@@ -308,7 +330,8 @@ Produce the final result summarizing all phases.
     "skipped": false,
     "base_item": "success | failed",
     "unique_item": "success | failed | skipped",
-    "skill_gem": "success | failed"
+    "skill_gem": "success | failed",
+    "passive_tree": "success | failed"
   },
   "error": null
 }
@@ -328,7 +351,8 @@ Produce the final result summarizing all phases.
     "skipped": false,
     "base_item": "success",
     "unique_item": "success",
-    "skill_gem": "success"
+    "skill_gem": "success",
+    "passive_tree": "success"
   },
   "error": null
 }
@@ -345,6 +369,7 @@ Produce the final result summarizing all phases.
 | Base-item ingest fails | **Non-blocking.** Log error, skip unique-item ingest. |
 | Unique-item ingest fails | **Non-blocking.** Log error. |
 | Skill-gem ingest fails | **Non-blocking.** Log error. |
+| Passive-tree ingest fails | **Non-blocking.** Log error. |
 
 ## Important Notes
 
