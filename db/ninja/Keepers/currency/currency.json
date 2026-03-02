@@ -1,86 +1,195 @@
 [
   {
     "id": "abrasive-catalyst",
+    "ninjaId": 123,
     "name": "Abrasive Catalyst",
-    "chaosValue": 2.07,
-    "volume": 214.0,
-    "trend": 120.4,
+    "chaosValue": 2.04,
+    "volume": 204.5,
+    "trend": 86.19,
     "sparkline": [
-      -25.08,
-      29.63,
-      70.76,
-      64.19,
-      55.27,
-      93.62,
-      120.4
-    ]
+      -35.67,
+      6.50,
+      56.26,
+      36.51,
+      32.46,
+      64.81,
+      86.19
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 558,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.14,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "accelerating-catalyst",
+    "ninjaId": 147,
     "name": "Accelerating Catalyst",
-    "chaosValue": 5.85,
-    "volume": 72.17,
-    "trend": 66.44,
+    "chaosValue": 7.35,
+    "volume": 114.0,
+    "trend": 313.9,
     "sparkline": [
-      -71.56,
-      -57.60,
-      15.81,
-      -32.51,
-      16.10,
-      20.07,
-      66.44
-    ]
+      -42.33,
+      10.64,
+      93.55,
+      25.07,
+      146.2,
+      175.9,
+      313.9
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 311,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.21,
+          "volume": 783,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "alch",
+    "ninjaId": 4,
     "name": "Orb of Alchemy",
-    "chaosValue": 0.05155,
-    "volume": 307.3,
-    "trend": 2.38,
+    "chaosValue": 0.04364,
+    "volume": 259.0,
+    "trend": 1.00,
     "sparkline": [
-      6.19,
-      9.49,
-      -5.13,
-      55.07,
-      134.2,
-      25.07,
-      2.38
-    ]
+      23.54,
+      24.48,
+      11.90,
+      84.98,
+      168.4,
+      67.98,
+      1.00
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.5,
+          "volume": 48,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.13,
+          "volume": 408,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.12,
+          "volume": 492,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "alt",
+    "ninjaId": 6,
     "name": "Orb of Alteration",
-    "chaosValue": 0.06660,
-    "volume": 1057,
-    "trend": -17.48,
+    "chaosValue": 0.06462,
+    "volume": 1234,
+    "trend": -17.80,
     "sparkline": [
-      18.16,
-      38.51,
-      37.03,
-      -0.60,
-      -28.52,
-      -7.63,
-      -17.48
-    ]
+      19.58,
+      45.16,
+      45.18,
+      -0.75,
+      -27.09,
+      -4.38,
+      -17.80
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.25,
+          "volume": 41,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.17,
+          "volume": 581,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.17,
+          "volume": 792,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "ancient-orb",
+    "ninjaId": 78,
     "name": "Ancient Orb",
-    "chaosValue": 5.67,
-    "volume": 2431,
-    "trend": 65.42,
+    "chaosValue": 5.31,
+    "volume": 3004,
+    "trend": 66.94,
     "sparkline": [
-      8.70,
-      25.55,
-      27.06,
-      36.53,
-      36.25,
-      88.14,
-      65.42
-    ]
+      19.29,
+      37.43,
+      40.75,
+      45.97,
+      48.58,
+      110.2,
+      66.94
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 3,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 4,
+          "volume": 143,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5.85,
+          "volume": 430,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "ancient-shard",
+    "ninjaId": null,
     "name": "ancient-shard",
     "chaosValue": 4,
     "volume": 1.33,
@@ -90,29 +199,58 @@
       null,
       -38.33,
       -50,
-      -41.84,
+      -27.40,
       -91.67,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "annul",
+    "ninjaId": 73,
     "name": "Orb of Annulment",
-    "chaosValue": 1.91,
-    "volume": 1693,
-    "trend": 27.99,
+    "chaosValue": 2.28,
+    "volume": 2701,
+    "trend": 60.58,
     "sparkline": [
-      -15.76,
-      12.40,
-      5.17,
-      12.64,
-      35.44,
-      65.60,
-      27.99
-    ]
+      -14.09,
+      20.22,
+      11.04,
+      19.90,
+      41.39,
+      140.2,
+      60.58
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 4.2,
+          "volume": 249,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3.07,
+          "volume": 443,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "annulment-shard",
+    "ninjaId": 79,
     "name": "Annulment Shard",
     "chaosValue": 0.1,
     "volume": 0.1667,
@@ -122,1712 +260,3600 @@
       null,
       null,
       0,
-      82.31,
-      600,
+      -51.75,
+      520.0,
       -90.0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "aug",
+    "ninjaId": 20,
     "name": "Orb of Augmentation",
-    "chaosValue": 0.01764,
-    "volume": 57.17,
-    "trend": -36.31,
+    "chaosValue": 0.02825,
+    "volume": 159.5,
+    "trend": -17.08,
     "sparkline": [
-      -32.71,
-      -30.45,
-      -19.84,
-      -65.78,
-      -58.06,
-      -57.40,
-      -36.31
-    ]
+      -47.65,
+      -59.30,
+      -27.49,
+      -70.95,
+      -67.35,
+      -68.89,
+      -17.08
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 33,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.1,
+          "volume": 403,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.09,
+          "volume": 451,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "augmentation-implant",
+    "ninjaId": 262,
     "name": "Augmentation Implant",
-    "chaosValue": 0.07729,
-    "volume": 2.67,
-    "trend": 21.46,
+    "chaosValue": 0.07647,
+    "volume": 2.17,
+    "trend": -1.68,
     "sparkline": [
-      20.52,
-      30.30,
-      49.21,
-      19.08,
-      -1.22,
-      -0.91,
-      21.46
-    ]
+      0.49,
+      10.06,
+      28.02,
+      -2.76,
+      -18.54,
+      -22.15,
+      -1.68
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "awakeners-orb",
+    "ninjaId": 116,
     "name": "Awakener's Orb",
-    "chaosValue": 2204,
-    "volume": 18737,
-    "trend": 28.66,
+    "chaosValue": 2050,
+    "volume": 17766,
+    "trend": 25.90,
     "sparkline": [
-      -0.98,
-      -4.23,
-      -14.45,
-      -6.57,
-      -10.68,
-      -9.10,
-      28.66
-    ]
+      4.64,
+      -1.27,
+      -9.03,
+      -3.75,
+      -5.67,
+      -3.63,
+      25.90
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 138.98,
+          "volume": 147,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 288.62,
+          "volume": 240,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "bauble",
+    "ninjaId": 19,
     "name": "Glassblower's Bauble",
-    "chaosValue": 0.7445,
-    "volume": 372.3,
-    "trend": 6.73,
+    "chaosValue": 0.7789,
+    "volume": 364.0,
+    "trend": 163.4,
     "sparkline": [
-      35.06,
-      97.19,
-      169.1,
-      103.6,
-      50.03,
-      485.6,
-      6.73
-    ]
+      -6.50,
+      22.23,
+      26.46,
+      25.08,
+      46.56,
+      109.5,
+      163.4
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 48,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1.82,
+          "volume": 366,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.82,
+          "volume": 575,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "blessed",
+    "ninjaId": 18,
     "name": "Blessed Orb",
-    "chaosValue": 0.2270,
-    "volume": 23.00,
-    "trend": 127.6,
+    "chaosValue": 0.2281,
+    "volume": 25.17,
+    "trend": 179.7,
     "sparkline": [
-      -29.39,
-      -19.52,
-      -21.10,
-      19.91,
-      142.8,
-      136.9,
-      127.6
-    ]
+      -14.55,
+      0.09,
+      -4.71,
+      42.78,
+      223.4,
+      190.0,
+      179.7
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 10,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.3,
+          "volume": 317,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.22,
+          "volume": 334,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "blighted-scouting-report",
+    "ninjaId": 200,
     "name": "Blighted Scouting Report",
-    "chaosValue": 1.07,
-    "volume": 2.67,
-    "trend": -14.67,
+    "chaosValue": 0.6154,
+    "volume": 1.33,
+    "trend": -46.00,
     "sparkline": [
-      17.87,
-      26.42,
-      -74.04,
-      73.19,
-      -69.01,
-      -7.41,
-      -14.67
-    ]
+      26.37,
+      27.77,
+      -71.52,
+      66.21,
+      -68.28,
+      8.42,
+      -46.00
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "chance",
+    "ninjaId": 16,
     "name": "Orb of Chance",
-    "chaosValue": 0.1369,
-    "volume": 794.7,
-    "trend": 139.5,
+    "chaosValue": 0.1224,
+    "volume": 946.7,
+    "trend": 123.8,
     "sparkline": [
-      5.74,
-      12.45,
-      21.95,
-      37.86,
-      32.70,
-      82.86,
-      139.5
-    ]
+      10.78,
+      16.36,
+      30.06,
+      44.89,
+      39.21,
+      94.34,
+      123.8
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.48,
+          "volume": 50,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.13,
+          "volume": 487,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.08,
+          "volume": 682,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "chaos",
+    "ninjaId": 1,
     "name": "Chaos Orb",
     "chaosValue": 1,
-    "volume": 234838,
-    "trend": -26.03,
+    "volume": 254544,
+    "trend": -26.56,
     "sparkline": [
-      4.76,
-      5.36,
-      5.80,
-      -2.17,
-      -11.14,
-      -18.26,
-      -26.03
-    ]
+      3.83,
+      4.09,
+      4.69,
+      -3.23,
+      -12.43,
+      -19.00,
+      -26.56
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "chisel",
+    "ninjaId": 10,
     "name": "Cartographer's Chisel",
-    "chaosValue": 2.02,
-    "volume": 7582,
-    "trend": 132.9,
+    "chaosValue": 1.69,
+    "volume": 7913,
+    "trend": 97.36,
     "sparkline": [
-      0.87,
-      3.07,
-      8.63,
-      190.1,
-      126.4,
-      106.7,
-      132.9
-    ]
+      2.01,
+      3.32,
+      12.13,
+      191.3,
+      128.4,
+      104.0,
+      97.36
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.4,
+          "volume": 312,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.71,
+          "volume": 513,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "chrome",
+    "ninjaId": 17,
     "name": "Chromatic Orb",
-    "chaosValue": 0.1708,
-    "volume": 2714,
-    "trend": 35.94,
+    "chaosValue": 0.1714,
+    "volume": 2826,
+    "trend": 99.65,
     "sparkline": [
-      -3.98,
-      21.74,
-      1.00,
-      4.47,
-      48.09,
-      63.76,
-      35.94
-    ]
+      43.82,
+      70.72,
+      49.68,
+      53.27,
+      124.0,
+      131.5,
+      99.65
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.17,
+          "volume": 71,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.16,
+          "volume": 689,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.1,
+          "volume": 787,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "comprehensive-scouting-report",
+    "ninjaId": 196,
     "name": "Comprehensive Scouting Report",
-    "chaosValue": 26.99,
-    "volume": 863.8,
-    "trend": -51.45,
+    "chaosValue": 146.1,
+    "volume": 4457,
+    "trend": 61.25,
     "sparkline": [
-      -26.07,
-      -24.96,
-      -43.32,
-      -34.66,
-      -6.28,
-      -14.27,
-      -51.45
-    ]
+      -63.41,
+      18.40,
+      42.08,
+      3.75,
+      -18.74,
+      112.2,
+      61.25
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.71,
+          "volume": 629,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 4.71,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "crusaders-exalted-orb",
+    "ninjaId": 117,
     "name": "Crusader's Exalted Orb",
-    "chaosValue": 744.5,
-    "volume": 372.3,
-    "trend": -41.67,
+    "chaosValue": 742.8,
+    "volume": 371.4,
+    "trend": -30.00,
     "sparkline": [
-      -48.86,
-      -53.82,
-      -43.29,
-      -50.85,
-      -48.38,
-      -50.78,
-      -41.67
-    ]
+      -36.77,
+      -44.39,
+      -32.19,
+      -44.69,
+      -40.21,
+      -36.04,
+      -30.00
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 47.66,
+          "volume": 56,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 124.87,
+          "volume": 149,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "delirious-scouting-report",
+    "ninjaId": 198,
     "name": "Delirious Scouting Report",
     "chaosValue": 1,
     "volume": 2.33,
-    "trend": -54.24,
+    "trend": -59.47,
     "sparkline": [
-      22.99,
-      -20.34,
-      -67.18,
-      -55.23,
-      -38.22,
-      -26.36,
-      -54.24
-    ]
+      7.19,
+      -29.44,
+      -74.75,
+      -59.78,
+      -38.19,
+      -43.01,
+      -59.47
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "divine",
+    "ninjaId": 3,
     "name": "Divine Orb",
-    "chaosValue": 372.3,
-    "volume": 234838,
-    "trend": 35.16,
+    "chaosValue": 371.4,
+    "volume": 254544,
+    "trend": 36.14,
     "sparkline": [
-      -4.52,
-      -5.10,
-      -5.50,
-      2.23,
-      12.91,
-      22.37,
-      35.16
-    ]
+      -3.67,
+      -3.95,
+      -4.49,
+      3.36,
+      14.55,
+      23.54,
+      36.14
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 55.3,
+          "volume": 12,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 141.69,
+          "volume": 207,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 157.36,
+          "volume": 245,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "elders-exalted-orb",
+    "ninjaId": 253,
     "name": "Elder's Exalted Orb",
-    "chaosValue": 38.10,
-    "volume": 330.2,
-    "trend": -22.75,
+    "chaosValue": 36.31,
+    "volume": 296.5,
+    "trend": -39.07,
     "sparkline": [
-      -6.39,
-      7.16,
-      4.57,
-      4.95,
-      10.09,
-      67.84,
-      -22.75
-    ]
+      -20.31,
+      -7.60,
+      -17.04,
+      -11.13,
+      -7.25,
+      39.49,
+      -39.07
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 32.66,
+          "volume": 127,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 28.82,
+          "volume": 193,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "eldritch-chaos-orb",
+    "ninjaId": 190,
     "name": "Eldritch Chaos Orb",
-    "chaosValue": 48.53,
-    "volume": 4343,
-    "trend": -31.15,
+    "chaosValue": 48.38,
+    "volume": 4209,
+    "trend": -21.68,
     "sparkline": [
-      -10.83,
-      -22.50,
-      -4.55,
-      -9.39,
-      -19.42,
-      -23.52,
-      -31.15
-    ]
+      -2.08,
+      -13.87,
+      3.82,
+      0.52,
+      -6.54,
+      -9.96,
+      -21.68
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 20.57,
+          "volume": 95,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 27.79,
+          "volume": 368,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "eldritch-exalted-orb",
+    "ninjaId": 191,
     "name": "Eldritch Exalted Orb",
-    "chaosValue": 12.72,
-    "volume": 127.2,
-    "trend": 10.10,
+    "chaosValue": 12.14,
+    "volume": 101.2,
+    "trend": -15.48,
     "sparkline": [
-      25.80,
-      8.29,
-      9.68,
-      27.12,
-      58.00,
-      5.76,
-      10.10
-    ]
+      -0.61,
+      -10.71,
+      -11.90,
+      2.19,
+      23.49,
+      -10.27,
+      -15.48
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 9.18,
+          "volume": 100,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 11,
+          "volume": 238,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "eldritch-orb-of-annulment",
+    "ninjaId": 192,
     "name": "Eldritch Orb of Annulment",
-    "chaosValue": 63.62,
-    "volume": 1675,
-    "trend": -20.55,
+    "chaosValue": 25.33,
+    "volume": 654.3,
+    "trend": 8.86,
     "sparkline": [
-      4.86,
-      -6.20,
-      22.99,
-      7.38,
-      -26.35,
-      -27.39,
-      -20.55
-    ]
+      -4.67,
+      -7.72,
+      -5.35,
+      1.72,
+      22.15,
+      -5.32,
+      8.86
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 12.25,
+          "volume": 97,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 18.03,
+          "volume": 208,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "engineers",
+    "ninjaId": 77,
     "name": "Engineer's Orb",
     "chaosValue": 0.2846,
-    "volume": 41.50,
-    "trend": 14.10,
+    "volume": 41.83,
+    "trend": 14.59,
     "sparkline": [
-      -19.26,
-      -61.74,
-      -13.46,
-      -68.54,
-      -40.07,
-      -25.17,
-      14.10
-    ]
+      -25.89,
+      -69.02,
+      -16.50,
+      -68.35,
+      -32.01,
+      -26.54,
+      14.59
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.7,
+          "volume": 22,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.3,
+          "volume": 57,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "enkindling-orb",
+    "ninjaId": 172,
     "name": "Enkindling Orb",
     "chaosValue": 0.5518,
     "volume": 60.33,
-    "trend": 196.8,
+    "trend": 228.4,
     "sparkline": [
-      41.05,
-      60.50,
-      57.12,
-      48.10,
-      -19.09,
-      21.97,
-      196.8
-    ]
+      56.13,
+      70.22,
+      83.98,
+      72.34,
+      -11.28,
+      50.83,
+      228.4
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 7,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.56,
+          "volume": 494,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.27,
+          "volume": 519,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "exalted",
+    "ninjaId": 2,
     "name": "Exalted Orb",
-    "chaosValue": 20.72,
-    "volume": 6762,
-    "trend": -22.70,
+    "chaosValue": 30.44,
+    "volume": 13185,
+    "trend": -29.74,
     "sparkline": [
-      -3.87,
-      -19.37,
-      -16.34,
-      -30.93,
-      -28.51,
-      -26.81,
-      -22.70
-    ]
+      0.79,
+      -8.91,
+      -27.83,
+      -44.95,
+      -36.27,
+      -45.36,
+      -29.74
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 4.9,
+          "volume": 14,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 13.71,
+          "volume": 251,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 15.71,
+          "volume": 495,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "exalted-implant",
+    "ninjaId": 264,
     "name": "Exalted Implant",
-    "chaosValue": 4.39,
-    "volume": 107.5,
-    "trend": -24.06,
+    "chaosValue": 3.59,
+    "volume": 90.83,
+    "trend": -31.30,
     "sparkline": [
-      -27.09,
-      -17.25,
-      -36.79,
-      3.63,
-      19.32,
-      -51.17,
-      -24.06
-    ]
+      -22.83,
+      -13.48,
+      -25.66,
+      17.74,
+      30.48,
+      -43.53,
+      -31.30
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "exalted-shard",
+    "ninjaId": 80,
     "name": "Exalted Shard",
     "chaosValue": 0.25,
-    "volume": 2.67,
-    "trend": -67.45,
+    "volume": 2.83,
+    "trend": -61.61,
     "sparkline": [
-      -61.48,
-      -56.54,
-      -48.54,
-      -58.61,
-      -65.60,
-      -67.31,
-      -67.45
-    ]
+      -54.17,
+      -48.73,
+      -38.43,
+      -53.60,
+      -59.28,
+      -61.46,
+      -61.61
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "exceptional-eldritch-ember",
+    "ninjaId": 183,
     "name": "Exceptional Eldritch Ember",
-    "chaosValue": 617.8,
-    "volume": 4839,
-    "trend": 24.79,
+    "chaosValue": 607.0,
+    "volume": 9409,
+    "trend": 33.12,
     "sparkline": [
-      -6.96,
-      -15.47,
-      16.98,
-      11.83,
-      16.05,
-      21.84,
-      24.79
-    ]
+      2.78,
+      -9.66,
+      27.95,
+      22.05,
+      25.67,
+      34.13,
+      33.12
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 12.14,
+          "volume": 79,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 33.1,
+          "volume": 108,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "exceptional-eldritch-ichor",
+    "ninjaId": 187,
     "name": "Exceptional Eldritch Ichor",
-    "chaosValue": 280.2,
-    "volume": 934.0,
-    "trend": 57.09,
+    "chaosValue": 563.5,
+    "volume": 2724,
+    "trend": 85.48,
     "sparkline": [
-      -4.78,
-      25.04,
-      35.49,
-      36.60,
-      56.12,
-      39.88,
-      57.09
-    ]
+      45.04,
+      52.87,
+      75.65,
+      91.37,
+      106.8,
+      92.28,
+      85.48
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 13.91,
+          "volume": 76,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 31.02,
+          "volume": 108,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "explorers-scouting-report",
+    "ninjaId": 202,
     "name": "Explorer's Scouting Report",
     "chaosValue": 2.22,
-    "volume": 2178,
-    "trend": -34.72,
+    "volume": 2246,
+    "trend": -37.03,
     "sparkline": [
-      -6.76,
-      10.96,
-      -13.10,
-      -53.95,
-      -40.76,
-      -40.74,
-      -34.72
-    ]
+      -9.95,
+      8.07,
+      -16.95,
+      -55.20,
+      -42.37,
+      -40.25,
+      -37.03
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.71,
+          "volume": 729,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3.5,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "fertile-catalyst",
+    "ninjaId": 125,
     "name": "Fertile Catalyst",
-    "chaosValue": 48.15,
-    "volume": 2720,
-    "trend": 48.94,
+    "chaosValue": 51.66,
+    "volume": 3151,
+    "trend": 55.69,
     "sparkline": [
-      -1.20,
-      -19.10,
-      -4.22,
-      -0.29,
-      8.89,
-      35.12,
-      48.94
-    ]
+      -5.02,
+      -22.42,
+      -6.20,
+      0.13,
+      6.93,
+      29.40,
+      55.69
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.68,
+          "volume": 475,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "foulborn-exalted-orb",
+    "ninjaId": 268,
     "name": "Foulborn Exalted Orb",
-    "chaosValue": 1308,
-    "volume": 15697,
-    "trend": 9.88,
+    "chaosValue": 1298,
+    "volume": 17518,
+    "trend": 8.11,
     "sparkline": [
-      22.17,
-      10.02,
-      1.23,
-      3.90,
-      -17.30,
-      4.08,
-      9.88
-    ]
+      19.72,
+      7.11,
+      0.34,
+      3.63,
+      -17.61,
+      6.88,
+      8.11
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "foulborn-orb-of-augmentation",
+    "ninjaId": 266,
     "name": "Foulborn Orb of Augmentation",
-    "chaosValue": 0.7081,
-    "volume": 124.5,
-    "trend": -74.36,
+    "chaosValue": 0.5697,
+    "volume": 99.50,
+    "trend": -77.81,
     "sparkline": [
-      -42.98,
-      -38.89,
-      -41.99,
-      -26.57,
-      -70.91,
-      -67.76,
-      -74.36
-    ]
+      -39.79,
+      -31.68,
+      -32.16,
+      -44.88,
+      -55.45,
+      -63.99,
+      -77.81
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "foulborn-regal-orb",
+    "ninjaId": 267,
     "name": "Foulborn Regal Orb",
-    "chaosValue": 4.60,
-    "volume": 169.3,
-    "trend": -69.05,
+    "chaosValue": 2.88,
+    "volume": 137.2,
+    "trend": -79.76,
     "sparkline": [
-      -4.10,
-      -25.45,
-      -49.78,
-      -73.44,
-      -67.50,
-      -67.07,
-      -69.05
-    ]
+      -1.26,
+      -23.15,
+      -49.25,
+      -71.58,
+      -66.41,
+      -66.55,
+      -79.76
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "fracturing-orb",
+    "ninjaId": 230,
     "name": "Fracturing Orb",
-    "chaosValue": 1729,
-    "volume": 55902,
-    "trend": 23.85,
+    "chaosValue": 1809,
+    "volume": 67536,
+    "trend": 32.44,
     "sparkline": [
-      9.49,
-      19.27,
-      21.77,
-      19.76,
-      9.39,
-      18.69,
-      23.85
-    ]
+      13.08,
+      21.49,
+      23.97,
+      22.19,
+      11.65,
+      20.70,
+      32.44
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 486.21,
+          "volume": 63,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 650.96,
+          "volume": 269,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "fracturing-shard",
+    "ninjaId": 231,
     "name": "Fracturing Shard",
-    "chaosValue": 46.62,
-    "volume": 4468,
-    "trend": 33.47,
+    "chaosValue": 47.18,
+    "volume": 4576,
+    "trend": 32.98,
     "sparkline": [
-      0.49,
-      19.25,
-      30.30,
-      29.39,
-      16.63,
-      -0.18,
-      33.47
-    ]
+      -1.25,
+      17.63,
+      29.61,
+      28.85,
+      12.67,
+      6.48,
+      32.98
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 23.03,
+          "volume": 84,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 27.44,
+          "volume": 174,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "fusing",
+    "ninjaId": 5,
     "name": "Orb of Fusing",
-    "chaosValue": 0.2806,
-    "volume": 3422,
-    "trend": 59.71,
+    "chaosValue": 0.2586,
+    "volume": 3861,
+    "trend": 63.20,
     "sparkline": [
-      14.85,
-      10.34,
-      4.03,
-      11.94,
-      51.35,
-      30.66,
-      59.71
-    ]
+      31.53,
+      17.67,
+      18.08,
+      27.76,
+      66.32,
+      51.69,
+      63.20
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.42,
+          "volume": 60,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.4,
+          "volume": 553,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.18,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "gcp",
+    "ninjaId": 15,
     "name": "Gemcutter's Prism",
-    "chaosValue": 2.88,
-    "volume": 3175,
-    "trend": 97.15,
+    "chaosValue": 2.62,
+    "volume": 3278,
+    "trend": 70.84,
     "sparkline": [
-      25.31,
-      10.92,
-      43.10,
-      20.96,
-      47.36,
-      79.89,
-      97.15
-    ]
+      20.11,
+      8.90,
+      34.94,
+      16.61,
+      41.14,
+      69.82,
+      70.84
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 30,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1.79,
+          "volume": 313,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.11,
+          "volume": 672,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "grand-eldritch-ember",
+    "ninjaId": 182,
     "name": "Grand Eldritch Ember",
-    "chaosValue": 4.65,
-    "volume": 1845,
-    "trend": -9.58,
+    "chaosValue": 4.20,
+    "volume": 1567,
+    "trend": -25.03,
     "sparkline": [
-      21.23,
-      26.91,
-      28.33,
-      18.27,
-      1.86,
-      -23.72,
-      -9.58
-    ]
+      13.28,
+      16.80,
+      18.34,
+      9.73,
+      -8.42,
+      -25.59,
+      -25.03
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.38,
+          "volume": 153,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 4.06,
+          "volume": 434,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "grand-eldritch-ichor",
+    "ninjaId": 186,
     "name": "Grand Eldritch Ichor",
-    "chaosValue": 7.27,
-    "volume": 2730,
-    "trend": -28.91,
+    "chaosValue": 6.63,
+    "volume": 2971,
+    "trend": -26.86,
     "sparkline": [
-      3.17,
-      -49.41,
-      -38.24,
-      -42.91,
-      -3.71,
-      -29.53,
-      -28.91
-    ]
+      20.26,
+      -42.65,
+      -30.58,
+      -25.89,
+      13.15,
+      -22.57,
+      -26.86
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.91,
+          "volume": 174,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.97,
+          "volume": 453,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "greater-eldritch-ember",
+    "ninjaId": 181,
     "name": "Greater Eldritch Ember",
-    "chaosValue": 0.3771,
-    "volume": 94.83,
-    "trend": -36.72,
+    "chaosValue": 0.3818,
+    "volume": 120.0,
+    "trend": -45.18,
     "sparkline": [
-      -32.22,
-      -41.03,
-      -19.09,
-      -32.04,
-      -28.56,
-      -10.61,
-      -36.72
-    ]
+      -42.60,
+      -50.55,
+      -31.38,
+      -46.15,
+      -38.60,
+      -23.57,
+      -45.18
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.29,
+          "volume": 173,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.07,
+          "volume": 291,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "greater-eldritch-ichor",
+    "ninjaId": 185,
     "name": "Greater Eldritch Ichor",
-    "chaosValue": 0.3004,
-    "volume": 111.5,
-    "trend": 136.0,
+    "chaosValue": 0.2900,
+    "volume": 112.2,
+    "trend": 115.8,
     "sparkline": [
-      49.93,
-      -3.77,
-      96.57,
-      182.0,
-      132.7,
-      331.5,
-      136.0
-    ]
+      40.50,
+      -7.69,
+      94.37,
+      161.0,
+      131.2,
+      291.6,
+      115.8
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.78,
+          "volume": 175,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.89,
+          "volume": 387,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "harbingers-orb",
+    "ninjaId": 76,
     "name": "Harbinger's Orb",
-    "chaosValue": 1.86,
-    "volume": 157.3,
-    "trend": 237.8,
+    "chaosValue": 2.48,
+    "volume": 123.8,
+    "trend": -88.34,
     "sparkline": [
-      -21.34,
-      25.25,
-      22.66,
-      21.30,
-      92.88,
-      380.5,
-      237.8
-    ]
+      0,
+      null,
+      -43.58,
+      -86.90,
+      null,
+      -61.14,
+      -88.34
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.77,
+          "volume": 76,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 131,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "hinekoras-lock",
+    "ninjaId": 234,
     "name": "Hinekora's Lock",
-    "chaosValue": 96816,
-    "volume": 451808,
-    "trend": 14.81,
+    "chaosValue": 97391,
+    "volume": 454490,
+    "trend": 16.64,
     "sparkline": [
-      -2.69,
-      0.02,
-      5.36,
-      5.71,
-      11.00,
-      13.56,
-      14.81
-    ]
+      -1.94,
+      1.08,
+      6.39,
+      6.41,
+      12.07,
+      14.58,
+      16.64
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 3000,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 2968.35,
+          "volume": 78,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 4977.35,
+          "volume": 177,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "hunters-exalted-orb",
+    "ninjaId": 119,
     "name": "Hunter's Exalted Orb",
-    "chaosValue": 223.3,
-    "volume": 111.7,
-    "trend": -27.27,
+    "chaosValue": 267.5,
+    "volume": 178.3,
+    "trend": -18.74,
     "sparkline": [
-      1.12,
-      -6.10,
-      -19.72,
-      -30.27,
-      -9.97,
-      -32.81,
-      -27.27
-    ]
+      -2.94,
+      -12.84,
+      -26.26,
+      -29.87,
+      -23.43,
+      -37.43,
+      -18.74
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 170.81,
+          "volume": 62,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 339.59,
+          "volume": 178,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "imbued-catalyst",
+    "ninjaId": 122,
     "name": "Imbued Catalyst",
     "chaosValue": 0.5,
-    "volume": 9.67,
-    "trend": -64.97,
+    "volume": 42.83,
+    "trend": -50.81,
     "sparkline": [
-      -54.54,
-      -25.05,
-      -21.66,
-      -22.09,
-      -17.28,
-      -40.65,
-      -64.97
-    ]
+      -36.64,
+      4.09,
+      20.51,
+      14.10,
+      13.26,
+      -19.77,
+      -50.81
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 580,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.14,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "influenced-scouting-report",
+    "ninjaId": 201,
     "name": "Influenced Scouting Report",
-    "chaosValue": 1.88,
-    "volume": 309.2,
-    "trend": -23.41,
+    "chaosValue": 1.95,
+    "volume": 394.3,
+    "trend": -25.58,
     "sparkline": [
-      1.50,
-      -6.42,
-      -21.48,
-      -80.03,
-      -52.46,
-      -57.02,
-      -23.41
-    ]
+      -6.26,
+      -12.43,
+      -25.95,
+      -69.10,
+      -51.12,
+      -58.43,
+      -25.58
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 4,
+          "volume": 700,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "instilling-orb",
+    "ninjaId": 173,
     "name": "Instilling Orb",
-    "chaosValue": 0.02784,
-    "volume": 23.83,
-    "trend": -68.89,
+    "chaosValue": 0.04780,
+    "volume": 27.00,
+    "trend": -35.27,
     "sparkline": [
-      -11.02,
-      -7.90,
-      -2.21,
-      -54.47,
-      -18.15,
-      37.56,
-      -68.89
-    ]
+      10.70,
+      14.30,
+      15.26,
+      -44.72,
+      4.85,
+      85.91,
+      -35.27
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 25,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.65,
+          "volume": 565,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.23,
+          "volume": 750,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "intrinsic-catalyst",
+    "ninjaId": 127,
     "name": "Intrinsic Catalyst",
-    "chaosValue": 3.96,
-    "volume": 750.0,
-    "trend": 76.24,
+    "chaosValue": 3.88,
+    "volume": 842.7,
+    "trend": 71.02,
     "sparkline": [
-      0.31,
-      -23.63,
-      -15.59,
-      -10.72,
-      5.72,
-      66.95,
-      76.24
-    ]
+      0.00,
+      -25.16,
+      -15.97,
+      -9.56,
+      5.47,
+      71.45,
+      71.02
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.64,
+          "volume": 654,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "jewellers",
+    "ninjaId": 11,
     "name": "Jeweller's Orb",
-    "chaosValue": 0.06699,
-    "volume": 625.3,
-    "trend": 46.76,
+    "chaosValue": 0.05727,
+    "volume": 600.2,
+    "trend": -2.96,
     "sparkline": [
-      -20.83,
-      -20.67,
-      -27.37,
-      -17.10,
-      6.42,
-      20.90,
-      46.76
-    ]
+      -33.22,
+      -38.92,
+      -47.15,
+      -33.16,
+      -15.48,
+      -9.88,
+      -2.96
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.8,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.14,
+          "volume": 611,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.08,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "lesser-eldritch-ember",
+    "ninjaId": 180,
     "name": "Lesser Eldritch Ember",
-    "chaosValue": 0.5897,
-    "volume": 248.2,
-    "trend": 74.26,
+    "chaosValue": 0.2727,
+    "volume": 124.5,
+    "trend": -15.94,
     "sparkline": [
-      0.88,
-      10.00,
-      10.00,
-      47.81,
-      63.65,
-      72.62,
-      74.26
-    ]
+      -68.84,
+      -64.93,
+      -66.43,
+      -44.31,
+      -55.04,
+      -30.91,
+      -15.94
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.87,
+          "volume": 385,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.34,
+          "volume": 761,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "lesser-eldritch-ichor",
+    "ninjaId": 184,
     "name": "Lesser Eldritch Ichor",
-    "chaosValue": 0.2476,
-    "volume": 80.50,
-    "trend": 96.42,
+    "chaosValue": 0.2551,
+    "volume": 98.83,
+    "trend": 115.2,
     "sparkline": [
-      -3.33,
-      -6.36,
-      4.70,
-      59.99,
-      15.89,
-      82.50,
-      96.42
-    ]
+      1.55,
+      3.05,
+      11.53,
+      75.72,
+      21.02,
+      103.7,
+      115.2
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.95,
+          "volume": 318,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.32,
+          "volume": 653,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-chisel-of-avarice",
+    "ninjaId": 249,
     "name": "Maven's Chisel of Avarice",
-    "chaosValue": 56.62,
-    "volume": 2916,
-    "trend": 2.68,
+    "chaosValue": 44.13,
+    "volume": 2317,
+    "trend": 7.11,
     "sparkline": [
-      87.19,
-      56.35,
-      41.45,
-      24.59,
-      38.49,
-      38.42,
-      2.68
-    ]
+      30.71,
+      29.67,
+      8.28,
+      -10.55,
+      -17.31,
+      -19.30,
+      7.11
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 6.29,
+          "volume": 126,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 15.86,
+          "volume": 293,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-chisel-of-divination",
+    "ninjaId": 247,
     "name": "Maven's Chisel of Divination",
-    "chaosValue": 7.94,
-    "volume": 190.5,
-    "trend": -22.63,
+    "chaosValue": 9.35,
+    "volume": 364.7,
+    "trend": -5.89,
     "sparkline": [
-      35.85,
-      -30.48,
-      -26.65,
-      6.03,
-      -17.79,
-      -15.24,
-      -22.63
-    ]
+      46.62,
+      -30.05,
+      -22.07,
+      14.72,
+      -17.36,
+      -13.01,
+      -5.89
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3,
+          "volume": 118,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5.94,
+          "volume": 273,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-chisel-of-procurement",
+    "ninjaId": 245,
     "name": "Maven's Chisel of Procurement",
-    "chaosValue": 16.92,
-    "volume": 62.04,
-    "trend": 36.36,
+    "chaosValue": 5.03,
+    "volume": 120.8,
+    "trend": 209.2,
     "sparkline": [
-      0,
-      -0.49,
-      -7.62,
-      -50.05,
-      2.59,
-      -6.38,
-      36.36
-    ]
+      20.15,
+      -20.53,
+      -26.43,
+      16.99,
+      57.52,
+      155.4,
+      209.2
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.26,
+          "volume": 164,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2,
+          "volume": 239,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-chisel-of-proliferation",
+    "ninjaId": 246,
     "name": "Maven's Chisel of Proliferation",
-    "chaosValue": 15.89,
-    "volume": 601.2,
-    "trend": -16.76,
+    "chaosValue": 18.46,
+    "volume": 824.5,
+    "trend": -4.02,
     "sparkline": [
-      42.39,
-      17.43,
-      -22.27,
-      -24.03,
-      -28.17,
-      -5.86,
-      -16.76
-    ]
+      44.11,
+      18.67,
+      -23.55,
+      -20.41,
+      -27.41,
+      -3.07,
+      -4.02
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 9.79,
+          "volume": 155,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 19.29,
+          "volume": 325,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-chisel-of-scarabs",
+    "ninjaId": 248,
     "name": "Maven's Chisel of Scarabs",
-    "chaosValue": 27.98,
-    "volume": 1166,
-    "trend": 11.00,
+    "chaosValue": 28.34,
+    "volume": 1228,
+    "trend": 12.94,
     "sparkline": [
-      6.76,
-      33.81,
-      21.35,
-      10.55,
-      13.76,
-      -6.21,
-      11.00
-    ]
+      8.60,
+      34.06,
+      20.52,
+      8.12,
+      17.52,
+      -8.44,
+      12.94
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 10.99,
+          "volume": 145,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 20.71,
+          "volume": 258,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mavens-orb",
+    "ninjaId": 189,
     "name": "Orb of Dominance",
-    "chaosValue": 1468,
-    "volume": 17372,
-    "trend": -13.37,
+    "chaosValue": 1465,
+    "volume": 17333,
+    "trend": -28.56,
     "sparkline": [
-      2.64,
-      33.87,
-      -3.58,
-      -18.73,
-      -13.38,
-      -10.40,
-      -13.37
-    ]
+      -12.95,
+      8.18,
+      -24.37,
+      -32.90,
+      -28.03,
+      -27.33,
+      -28.56
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 93.94,
+          "volume": 110,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 287.12,
+          "volume": 179,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mirror",
+    "ninjaId": 22,
     "name": "Mirror of Kalandra",
-    "chaosValue": 490496,
-    "volume": 2207234,
-    "trend": 30.81,
+    "chaosValue": 488951,
+    "volume": 2363262,
+    "trend": 29.75,
     "sparkline": [
-      -0.87,
-      0.68,
-      8.67,
-      7.81,
-      11.94,
-      14.25,
-      30.81
-    ]
+      -1.77,
+      0.01,
+      8.27,
+      6.94,
+      11.37,
+      13.44,
+      29.75
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 29482.74,
+          "volume": 48,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 60195.78,
+          "volume": 69,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "mirror-shard",
+    "ninjaId": 81,
     "name": "Mirror Shard",
-    "chaosValue": 24690,
-    "volume": 777728,
-    "trend": 32.35,
+    "chaosValue": 24963,
+    "volume": 773846,
+    "trend": 34.36,
     "sparkline": [
-      -0.11,
-      1.65,
-      11.36,
-      9.24,
-      12.40,
-      14.88,
-      32.35
-    ]
+      0.03,
+      2.04,
+      11.83,
+      9.77,
+      13.00,
+      14.58,
+      34.36
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2399.94,
+          "volume": 39,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3254.08,
+          "volume": 112,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "noxious-catalyst",
+    "ninjaId": 146,
     "name": "Noxious Catalyst",
-    "chaosValue": 2.74,
-    "volume": 172.5,
-    "trend": 92.42,
+    "chaosValue": 2.82,
+    "volume": 184.0,
+    "trend": 331.3,
     "sparkline": [
-      -39.44,
-      -6.72,
-      10.64,
-      -11.84,
-      9.55,
-      -40.06,
-      92.42
-    ]
+      40.54,
+      82.08,
+      139.9,
+      93.03,
+      136.1,
+      36.05,
+      331.3
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 581,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.01,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "operatives-scouting-report",
+    "ninjaId": 199,
     "name": "Operative's Scouting Report",
-    "chaosValue": 3.81,
-    "volume": 74.33,
-    "trend": 375.6,
+    "chaosValue": 4.02,
+    "volume": 57.00,
+    "trend": 383.5,
     "sparkline": [
-      328.7,
-      400.6,
-      55.08,
-      64.45,
-      176.6,
-      72.59,
-      375.6
-    ]
+      222.2,
+      648.2,
+      70.15,
+      94.00,
+      108.4,
+      96.62,
+      383.5
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2,
+          "volume": 619,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3,
+          "volume": 795,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-binding",
+    "ninjaId": 74,
     "name": "Orb of Binding",
     "chaosValue": 0.001590,
     "volume": 0.1667,
     "trend": -86.33,
     "sparkline": [
-      431.0,
-      370.0,
-      165.9,
+      482.7,
+      347.2,
+      111.4,
       268.8,
-      43.27,
-      21.30,
+      34.32,
+      28.46,
       -86.33
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "orb-of-conflict",
+    "ninjaId": 188,
     "name": "Orb of Conflict",
-    "chaosValue": 476.8,
-    "volume": 9058,
-    "trend": 40.34,
+    "chaosValue": 456.7,
+    "volume": 9285,
+    "trend": 21.01,
     "sparkline": [
-      34.79,
-      32.07,
-      47.46,
-      62.20,
-      44.36,
-      35.49,
-      40.34
-    ]
+      17.94,
+      17.39,
+      32.51,
+      43.60,
+      29.55,
+      21.84,
+      21.01
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 28.18,
+          "volume": 115,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 72.17,
+          "volume": 458,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-horizons",
+    "ninjaId": 75,
     "name": "Orb of Horizons",
-    "chaosValue": 0.09991,
-    "volume": 73.50,
-    "trend": 301.6,
+    "chaosValue": 0.1126,
+    "volume": 72.83,
+    "trend": 200.8,
     "sparkline": [
-      385.2,
-      295.3,
-      294.9,
-      265.3,
-      449.2,
-      309.3,
-      301.6
-    ]
+      215.4,
+      205.8,
+      149.4,
+      165.4,
+      278.9,
+      176.1,
+      200.8
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.43,
+          "volume": 278,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.2,
+          "volume": 418,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-intention",
+    "ninjaId": 256,
     "name": "Orb of Intention",
-    "chaosValue": 15.91,
-    "volume": 145.8,
-    "trend": 136.6,
+    "chaosValue": 16.15,
+    "volume": 148.0,
+    "trend": 112.4,
     "sparkline": [
-      109.6,
-      104.9,
-      66.08,
-      33.68,
-      99.12,
-      176.2,
-      136.6
-    ]
+      90.39,
+      90.82,
+      38.99,
+      30.17,
+      77.37,
+      142.7,
+      112.4
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 9,
+          "volume": 71,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 17.57,
+          "volume": 123,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-remembrance",
+    "ninjaId": 254,
     "name": "Orb of Remembrance",
-    "chaosValue": 532.7,
-    "volume": 5150,
-    "trend": 144.5,
+    "chaosValue": 584.5,
+    "volume": 5943,
+    "trend": 171.8,
     "sparkline": [
-      -1.41,
-      18.97,
-      54.78,
-      117.3,
-      96.44,
-      106.0,
-      144.5
-    ]
+      1.93,
+      13.33,
+      53.78,
+      123.6,
+      94.80,
+      110.5,
+      171.8
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 78.11,
+          "volume": 57,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 168.71,
+          "volume": 165,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-unmaking",
+    "ninjaId": 141,
     "name": "Orb of Unmaking",
-    "chaosValue": 0.1838,
-    "volume": 448.5,
-    "trend": -8.34,
+    "chaosValue": 0.1851,
+    "volume": 486.0,
+    "trend": 1.85,
     "sparkline": [
-      7.93,
-      11.87,
-      42.99,
-      -8.34,
-      44.18,
-      156.5,
-      -8.34
-    ]
+      16.47,
+      26.01,
+      54.88,
+      6.77,
+      64.81,
+      174.1,
+      1.85
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.87,
+          "volume": 273,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.53,
+          "volume": 646,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "orb-of-unravelling",
+    "ninjaId": 255,
     "name": "Orb of Unravelling",
-    "chaosValue": 87,
-    "volume": 101.5,
-    "trend": 273.6,
+    "chaosValue": 165.1,
+    "volume": 247.6,
+    "trend": 77.78,
     "sparkline": [
-      -18.95,
-      -17.99,
-      -21.21,
-      -5.62,
-      12.21,
-      28.57,
-      273.6
-    ]
+      0,
+      100,
+      81.82,
+      100,
+      null,
+      300,
+      77.78
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 230.46,
+          "volume": 67,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 179.91,
+          "volume": 173,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "portal",
+    "ninjaId": 24,
     "name": "Portal Scroll",
-    "chaosValue": 0.01395,
-    "volume": 33.67,
-    "trend": -9.58,
+    "chaosValue": 0.01324,
+    "volume": 41.67,
+    "trend": 9.34,
     "sparkline": [
-      -21.56,
-      -22.22,
-      -45.92,
-      -51.27,
-      -56.89,
-      -9.21,
-      -9.58
-    ]
+      -0.45,
+      -4.41,
+      -31.63,
+      -37.31,
+      -44.28,
+      14.81,
+      9.34
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 16,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.07,
+          "volume": 252,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.05,
+          "volume": 354,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "primal-lifeforce",
+    "ninjaId": 212,
     "name": "Primal Crystallised Lifeforce",
-    "chaosValue": 0.04214,
-    "volume": 8128,
-    "trend": -10.63,
+    "chaosValue": 0.04109,
+    "volume": 8852,
+    "trend": -5.91,
     "sparkline": [
-      -4.33,
-      -4.08,
-      3.94,
-      -8.64,
-      -4.09,
-      -11.35,
-      -10.63
-    ]
+      2.98,
+      3.11,
+      12.07,
+      -0.95,
+      3.64,
+      -6.70,
+      -5.91
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.02,
+          "volume": 342,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.02,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "prismatic-catalyst",
+    "ninjaId": 126,
     "name": "Prismatic Catalyst",
-    "chaosValue": 39.86,
-    "volume": 1256,
-    "trend": 12.73,
+    "chaosValue": 39.45,
+    "volume": 1085,
+    "trend": 22.45,
     "sparkline": [
-      -7.89,
-      -21.04,
-      -13.20,
-      -6.18,
-      -3.95,
-      14.02,
-      12.73
-    ]
+      0.62,
+      -13.07,
+      -2.96,
+      3.47,
+      6.01,
+      27.34,
+      22.45
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 4.06,
+          "volume": 184,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 10,
+          "volume": 517,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "redeemers-exalted-orb",
+    "ninjaId": 118,
     "name": "Redeemer's Exalted Orb",
-    "chaosValue": 651.5,
-    "volume": 434.3,
-    "trend": 75.00,
+    "chaosValue": 495.2,
+    "volume": 495.2,
+    "trend": 33.33,
     "sparkline": [
       0,
       0,
-      -12.50,
+      -16.67,
       0,
-      -12.50,
-      22.32,
-      75.00
-    ]
+      -16.67,
+      22.92,
+      33.33
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 52,
+          "volume": 75,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 63.56,
+          "volume": 155,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "reflecting-mist",
+    "ninjaId": 250,
     "name": "Reflecting Mist",
-    "chaosValue": 7276,
-    "volume": 26679,
-    "trend": 13.42,
+    "chaosValue": 7196,
+    "volume": 28785,
+    "trend": 4.20,
     "sparkline": [
-      5.90,
-      2.72,
-      5.90,
-      10.64,
-      18.37,
-      11.21,
-      13.42
-    ]
+      -1.62,
+      -4.83,
+      -1.76,
+      3.24,
+      9.33,
+      3.78,
+      4.20
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 326,
+          "volume": 119,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 705.86,
+          "volume": 345,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "regal",
+    "ninjaId": 7,
     "name": "Regal Orb",
-    "chaosValue": 0.5578,
-    "volume": 186.1,
-    "trend": 42.43,
+    "chaosValue": 0.1038,
+    "volume": 77.67,
+    "trend": -33.71,
     "sparkline": [
-      0,
-      4.45,
-      4.64,
-      null,
-      4.54,
-      25.02,
-      42.43
-    ]
+      -30.77,
+      -68.08,
+      -53.90,
+      -53.09,
+      -10.02,
+      -17.27,
+      -33.71
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 28,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.79,
+          "volume": 316,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.52,
+          "volume": 395,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "regal-implant",
+    "ninjaId": 263,
     "name": "Regal Implant",
-    "chaosValue": 0.4113,
-    "volume": 8.50,
-    "trend": 94.86,
+    "chaosValue": 0.4382,
+    "volume": 6.50,
+    "trend": 66.94,
     "sparkline": [
-      105.1,
-      -28.73,
-      39.70,
-      20.35,
-      12.02,
-      1.42,
-      94.86
-    ]
+      61.15,
+      -40.70,
+      8.68,
+      -26.27,
+      -7.82,
+      -31.20,
+      66.94
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "regret",
+    "ninjaId": 9,
     "name": "Orb of Regret",
-    "chaosValue": 6.05,
-    "volume": 12347,
-    "trend": 89.49,
+    "chaosValue": 3.29,
+    "volume": 7631,
+    "trend": 38.60,
     "sparkline": [
-      55.48,
-      23.43,
-      22.41,
-      5.80,
-      61.95,
-      50.19,
-      89.49
-    ]
+      -8.43,
+      -18.45,
+      -8.17,
+      -8.54,
+      28.78,
+      49.11,
+      38.60
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 56,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1.09,
+          "volume": 345,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.75,
+          "volume": 387,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "rogues-marker",
+    "ninjaId": 137,
     "name": "Rogue's Marker",
-    "chaosValue": 0.0001875,
-    "volume": 29.33,
-    "trend": -28.80,
+    "chaosValue": 0.0001899,
+    "volume": 50.50,
+    "trend": -18.91,
     "sparkline": [
-      70.24,
-      59.44,
-      -1.34,
-      3.98,
-      -14.35,
-      -27.60,
-      -28.80
-    ]
+      87.13,
+      74.33,
+      5.27,
+      11.55,
+      3.04,
+      -22.79,
+      -18.91
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.01,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0,
+          "volume": 199,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0,
+          "volume": 259,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "sacred-lifeforce",
+    "ninjaId": 213,
     "name": "Sacred Crystallised Lifeforce",
-    "chaosValue": 284.2,
-    "volume": 4405,
-    "trend": -17.29,
+    "chaosValue": 270.1,
+    "volume": 4457,
+    "trend": -23.88,
     "sparkline": [
-      -22.68,
-      -16.80,
-      -20.54,
-      -16.91,
-      -3.69,
-      21.05,
-      -17.29
-    ]
+      -25.78,
+      -21.61,
+      -21.11,
+      -19.32,
+      -5.88,
+      21.00,
+      -23.88
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 38.84,
+          "volume": 61,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 36,
+          "volume": 93,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "sacred-orb",
+    "ninjaId": 159,
     "name": "Sacred Orb",
-    "chaosValue": 44.68,
-    "volume": 685.2,
-    "trend": 26.83,
+    "chaosValue": 47.81,
+    "volume": 796.8,
+    "trend": 52.88,
     "sparkline": [
-      -4.74,
-      -5.94,
-      1.29,
-      2.99,
-      4.57,
-      11.38,
-      26.83
-    ]
+      6.56,
+      6.97,
+      13.28,
+      29.64,
+      17.28,
+      28.38,
+      52.88
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 11.29,
+          "volume": 109,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 22.66,
+          "volume": 178,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "scour",
+    "ninjaId": 14,
     "name": "Orb of Scouring",
-    "chaosValue": 0.8590,
-    "volume": 4343,
-    "trend": -6.52,
+    "chaosValue": 0.7144,
+    "volume": 4385,
+    "trend": 0.40,
     "sparkline": [
-      66.58,
-      32.69,
-      6.48,
-      15.42,
-      32.28,
-      10.18,
-      -6.52
-    ]
+      19.04,
+      -12.21,
+      -12.20,
+      21.52,
+      37.11,
+      34.36,
+      0.40
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.96,
+          "volume": 52,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.49,
+          "volume": 433,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.38,
+          "volume": 503,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "scrap",
+    "ninjaId": 26,
     "name": "Armourer's Scrap",
-    "chaosValue": 0.06472,
-    "volume": 131.7,
-    "trend": -14.58,
+    "chaosValue": 0.06348,
+    "volume": 133.8,
+    "trend": 21.93,
     "sparkline": [
-      -30.24,
-      -40.23,
-      11.76,
-      -8.82,
-      -16.38,
-      -5.78,
-      -14.58
-    ]
+      6.36,
+      -9.65,
+      65.87,
+      40.18,
+      16.07,
+      43.88,
+      21.93
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 57,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.19,
+          "volume": 359,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.13,
+          "volume": 427,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "shapers-exalted-orb",
+    "ninjaId": 252,
     "name": "Shaper's Exalted Orb",
-    "chaosValue": 81.42,
-    "volume": 488.5,
-    "trend": 4.47,
+    "chaosValue": 98.82,
+    "volume": 741.2,
+    "trend": 18.83,
     "sparkline": [
-      -24.56,
-      -15.50,
-      -15.01,
-      -6.88,
-      -15.24,
-      -27.09,
-      4.47
-    ]
+      -28.41,
+      -18.93,
+      -20.65,
+      -14.79,
+      -17.61,
+      -30.30,
+      18.83
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 37.44,
+          "volume": 91,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 33.74,
+          "volume": 163,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "singular-scouting-report",
+    "ninjaId": 194,
     "name": "Singular Scouting Report",
-    "chaosValue": 2.25,
-    "volume": 554.2,
-    "trend": -44.59,
+    "chaosValue": 2.48,
+    "volume": 710.0,
+    "trend": -53.27,
     "sparkline": [
-      -25.35,
-      -24.42,
-      -26.71,
-      -59.50,
-      -56.42,
-      -35.95,
-      -44.59
-    ]
+      -43.12,
+      -41.79,
+      -44.53,
+      -69.39,
+      -65.60,
+      -47.58,
+      -53.27
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.29,
+          "volume": 658,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 4.29,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "stacked-deck",
+    "ninjaId": 45,
     "name": "Stacked Deck",
-    "chaosValue": 4.56,
-    "volume": 95300,
-    "trend": 1.33,
+    "chaosValue": 4.49,
+    "volume": 98673,
+    "trend": -0.50,
     "sparkline": [
-      -4.21,
-      3.31,
-      2.02,
-      16.90,
-      32.24,
-      0.56,
-      1.33
-    ]
+      -4.49,
+      3.16,
+      1.02,
+      18.06,
+      32.50,
+      -1.45,
+      -0.50
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.88,
+          "volume": 5,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.93,
+          "volume": 743,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.31,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tailoring-orb",
+    "ninjaId": 136,
     "name": "Tailoring Orb",
-    "chaosValue": 1075,
-    "volume": 19172,
-    "trend": 25.30,
+    "chaosValue": 1059,
+    "volume": 20304,
+    "trend": 22.23,
     "sparkline": [
-      12.16,
-      13.30,
-      18.99,
-      31.15,
-      36.89,
-      65.72,
-      25.30
-    ]
+      10.98,
+      12.25,
+      17.38,
+      31.02,
+      40.13,
+      53.18,
+      22.23
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 30.76,
+          "volume": 120,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 111.15,
+          "volume": 302,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-armourers-scrap",
+    "ninjaId": 168,
     "name": "Tainted Armourer's Scrap",
-    "chaosValue": 2.14,
-    "volume": 191.8,
-    "trend": 21.82,
+    "chaosValue": 2.16,
+    "volume": 197.8,
+    "trend": 34.24,
     "sparkline": [
-      -56.59,
-      -19.51,
-      -29.27,
-      10.76,
-      -6.23,
-      -29.43,
-      21.82
-    ]
+      -50.68,
+      -9.70,
+      4.05,
+      8.75,
+      -1.47,
+      -15.01,
+      34.24
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3.57,
+          "volume": 129,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2,
+          "volume": 153,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-blacksmiths-whetstone",
+    "ninjaId": 167,
     "name": "Tainted Blacksmith's Whetstone",
-    "chaosValue": 3.57,
-    "volume": 44.67,
-    "trend": 212.7,
+    "chaosValue": 6,
+    "volume": 51.0,
+    "trend": 704.3,
     "sparkline": [
-      -32.71,
-      27.03,
-      -24.63,
-      -22.65,
-      -0.87,
-      54.31,
-      212.7
-    ]
+      19.00,
+      98.23,
+      20.21,
+      98.89,
+      44.11,
+      145.2,
+      704.3
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3.01,
+          "volume": 90,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 163,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-catalyst",
+    "ninjaId": 235,
     "name": "Tainted Catalyst",
-    "chaosValue": 10.42,
-    "volume": 1183,
-    "trend": 4.82,
+    "chaosValue": 23.72,
+    "volume": 3962,
+    "trend": 14.19,
     "sparkline": [
-      -26.31,
-      -27.29,
-      -12.81,
-      37.19,
-      47.04,
-      6.10,
-      4.82
-    ]
+      6.03,
+      -1.91,
+      -17.65,
+      107.8,
+      27.83,
+      0.43,
+      14.19
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3.73,
+          "volume": 73,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.93,
+          "volume": 324,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-chaos-orb",
+    "ninjaId": 169,
     "name": "Tainted Chaos Orb",
-    "chaosValue": 3.94,
-    "volume": 11.83,
-    "trend": -45.20,
+    "chaosValue": 3.5,
+    "volume": 12.83,
+    "trend": -42.87,
     "sparkline": [
-      -34.49,
-      -3.79,
-      -42.18,
-      -8.60,
-      -41.19,
-      -79.86,
-      -45.20
-    ]
+      -1.88,
+      -24.37,
+      -25.21,
+      -4.61,
+      -40.97,
+      -65.72,
+      -42.87
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 12.4,
+          "volume": 74,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 6,
+          "volume": 134,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-chromatic-orb",
+    "ninjaId": 161,
     "name": "Tainted Chromatic Orb",
-    "chaosValue": 11.86,
-    "volume": 1650,
-    "trend": 215.7,
+    "chaosValue": 13.18,
+    "volume": 2049,
+    "trend": 220.8,
     "sparkline": [
-      4.63,
-      -26.75,
-      0.22,
-      40.56,
-      48.74,
-      46.37,
-      215.7
-    ]
+      -4.16,
+      -33.84,
+      -7.28,
+      21.99,
+      32.99,
+      36.27,
+      220.8
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 6.16,
+          "volume": 161,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 4,
+          "volume": 337,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-divine-teardrop",
+    "ninjaId": 170,
     "name": "Tainted Divine Teardrop",
-    "chaosValue": 2047,
-    "volume": 2730,
-    "trend": 73.68,
+    "chaosValue": 2571,
+    "volume": 5571,
+    "trend": 109.0,
     "sparkline": [
-      8.89,
-      35.09,
-      95.66,
-      58.11,
-      47.76,
-      27.07,
-      73.68
-    ]
+      4.19,
+      35.51,
+      85.42,
+      54.10,
+      45.16,
+      31.79,
+      109.0
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 122.82,
+          "volume": 29,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 243.45,
+          "volume": 61,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-exalted-orb",
+    "ninjaId": 165,
     "name": "Tainted Exalted Orb",
-    "chaosValue": 90,
-    "volume": 15.00,
-    "trend": 236.2,
+    "chaosValue": 70,
+    "volume": 23.33,
+    "trend": 164.9,
     "sparkline": [
-      0.61,
-      14.98,
-      33.58,
-      41.21,
-      223.5,
-      266.2,
-      236.2
-    ]
+      -6.02,
+      11.41,
+      33.54,
+      39.85,
+      187.4,
+      273.5,
+      164.9
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 15.17,
+          "volume": 30,
+          "dataPoints": 6
+        },
+        {
+          "week": 20,
+          "chaosValue": 16.1,
+          "volume": 31,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-jewellers-orb",
+    "ninjaId": 163,
     "name": "Tainted Jeweller's Orb",
-    "chaosValue": 0.1544,
-    "volume": 50.83,
-    "trend": -58.20,
+    "chaosValue": 0.1355,
+    "volume": 44.17,
+    "trend": -63.13,
     "sparkline": [
-      -24.10,
-      -27.32,
-      4.70,
-      9.79,
-      30.74,
-      52.47,
-      -58.20
-    ]
+      -25.35,
+      -27.73,
+      7.10,
+      11.18,
+      33.11,
+      49.87,
+      -63.13
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3.91,
+          "volume": 187,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.35,
+          "volume": 271,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-mythic-orb",
+    "ninjaId": 166,
     "name": "Tainted Mythic Orb",
-    "chaosValue": 13.41,
-    "volume": 163.2,
-    "trend": 34.65,
+    "chaosValue": 13.18,
+    "volume": 160.3,
+    "trend": 28.80,
     "sparkline": [
-      6.37,
-      -46.35,
-      -22.48,
-      -18.14,
-      22.43,
-      145.6,
-      34.65
-    ]
+      -0.51,
+      -47.17,
+      -25.03,
+      -9.96,
+      4.89,
+      148.1,
+      28.80
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 20.41,
+          "volume": 136,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 10.43,
+          "volume": 253,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tainted-orb-of-fusing",
+    "ninjaId": 162,
     "name": "Tainted Orb of Fusing",
-    "chaosValue": 17.90,
-    "volume": 701.0,
-    "trend": 101.1,
+    "chaosValue": 17.72,
+    "volume": 706.0,
+    "trend": 99.94,
     "sparkline": [
-      50.46,
-      34.32,
-      -6.40,
-      16.61,
-      22.62,
-      73.19,
-      101.1
-    ]
+      53.70,
+      33.67,
+      -7.05,
+      20.21,
+      24.15,
+      112.7,
+      99.94
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 67.87,
+          "volume": 139,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 23.43,
+          "volume": 437,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tempering-catalyst",
+    "ninjaId": 124,
     "name": "Tempering Catalyst",
-    "chaosValue": 4.65,
-    "volume": 126.3,
-    "trend": -15.84,
+    "chaosValue": 5.35,
+    "volume": 161.3,
+    "trend": 8.26,
     "sparkline": [
-      -1.75,
-      -26.36,
-      42.51,
-      -11.45,
-      6.07,
-      -14.67,
-      -15.84
-    ]
+      -4.51,
+      -16.52,
+      62.68,
+      3.16,
+      24.76,
+      -1.61,
+      8.26
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.14,
+          "volume": 307,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3,
+          "volume": 732,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "tempering-orb",
+    "ninjaId": 135,
     "name": "Tempering Orb",
-    "chaosValue": 1154,
-    "volume": 49636,
-    "trend": 87.55,
+    "chaosValue": 1166,
+    "volume": 51317,
+    "trend": 99.02,
     "sparkline": [
-      1.00,
-      15.15,
-      43.08,
-      53.45,
-      67.01,
-      104.5,
-      87.55
-    ]
+      5.82,
+      20.83,
+      50.42,
+      59.52,
+      77.68,
+      112.0,
+      99.02
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 60.86,
+          "volume": 179,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 166.22,
+          "volume": 299,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "transmute",
+    "ninjaId": 21,
     "name": "Orb of Transmutation",
-    "chaosValue": 0.001162,
-    "volume": 5.50,
-    "trend": -20.80,
+    "chaosValue": 0.001074,
+    "volume": 7.33,
+    "trend": -59.48,
     "sparkline": [
-      2.03,
-      -1.89,
-      3.47,
-      94.16,
-      24.29,
-      -12.68,
-      -20.80
-    ]
+      -42.69,
+      -45.49,
+      -44.44,
+      -4.38,
+      6.91,
+      -55.68,
+      -59.48
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "turbulent-catalyst",
+    "ninjaId": 121,
     "name": "Turbulent Catalyst",
-    "chaosValue": 2.33,
-    "volume": 87.00,
-    "trend": 43.61,
+    "chaosValue": 2.65,
+    "volume": 122.3,
+    "trend": 79.03,
     "sparkline": [
-      -32.52,
-      -36.58,
-      -12.04,
-      -3.21,
-      22.36,
-      97.01,
-      43.61
-    ]
+      -26.58,
+      -29.68,
+      -2.61,
+      2.34,
+      35.93,
+      177.3,
+      79.03
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.57,
+          "volume": 547,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.79,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "unstable-catalyst",
+    "ninjaId": 148,
     "name": "Unstable Catalyst",
-    "chaosValue": 5,
-    "volume": 87.5,
-    "trend": 68.92,
+    "chaosValue": 5.16,
+    "volume": 110.8,
+    "trend": 73.09,
     "sparkline": [
-      -18.64,
-      -55.55,
-      9.49,
-      -13.21,
-      192.8,
-      -2.95,
-      68.92
-    ]
+      -20.72,
+      -57.86,
+      11.68,
+      -19.54,
+      192.4,
+      -13.38,
+      73.09
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.25,
+          "volume": 326,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.54,
+          "volume": 789,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "unstable-implant",
+    "ninjaId": 265,
     "name": "Unstable Implant",
-    "chaosValue": 48.29,
-    "volume": 225.3,
-    "trend": -74.32,
+    "chaosValue": 42.94,
+    "volume": 236.2,
+    "trend": -77.75,
     "sparkline": [
-      -35.03,
-      -35.64,
-      -26.97,
-      -36.19,
-      -48.69,
-      -38.50,
-      -74.32
-    ]
+      -37.21,
+      -37.39,
+      -29.33,
+      -33.99,
+      -49.68,
+      -45.74,
+      -77.75
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "vaal",
+    "ninjaId": 8,
     "name": "Vaal Orb",
-    "chaosValue": 1.01,
-    "volume": 2339,
-    "trend": 107.2,
+    "chaosValue": 0.9676,
+    "volume": 2734,
+    "trend": 105.3,
     "sparkline": [
-      -4.46,
-      -25.69,
-      -34.86,
-      -26.38,
-      4.48,
-      104.4,
-      107.2
-    ]
+      -3.24,
+      -26.88,
+      -31.74,
+      -22.21,
+      10.57,
+      130.6,
+      105.3
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 66,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.25,
+          "volume": 506,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.33,
+          "volume": 537,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "vaal-scouting-report",
+    "ninjaId": 197,
     "name": "Vaal Scouting Report",
-    "chaosValue": 1.71,
-    "volume": 367.3,
-    "trend": -42.85,
+    "chaosValue": 1.61,
+    "volume": 410.2,
+    "trend": -44.95,
     "sparkline": [
-      -6.67,
-      -12.89,
-      -25.99,
-      -59.88,
-      -47.01,
-      -56.16,
-      -42.85
-    ]
+      -5.15,
+      -10.36,
+      -25.08,
+      -60.29,
+      -45.52,
+      -51.52,
+      -44.95
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.14,
+          "volume": 686,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3.85,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "veiled-chaos-orb",
+    "ninjaId": 261,
     "name": "Veiled Chaos Orb",
-    "chaosValue": 34.90,
-    "volume": 1169,
-    "trend": 35.48,
+    "chaosValue": 34.87,
+    "volume": 1209,
+    "trend": 31.95,
     "sparkline": [
-      22.62,
-      15.37,
-      11.07,
-      -5.44,
-      19.29,
-      1.57,
-      35.48
-    ]
+      20.49,
+      8.86,
+      5.17,
+      -0.45,
+      17.34,
+      -8.72,
+      31.95
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 4.14,
+          "volume": 296,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5,
+          "volume": 186,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "veiled-exalted-orb",
+    "ninjaId": 145,
     "name": "Veiled Exalted Orb",
-    "chaosValue": 4523,
-    "volume": 15077,
-    "trend": 19.83,
+    "chaosValue": 4422,
+    "volume": 15476,
+    "trend": 24.66,
     "sparkline": [
-      1.63,
-      -19.09,
-      -6.05,
-      -15.23,
-      -19.27,
-      -7.57,
-      19.83
-    ]
+      9.50,
+      -14.19,
+      -1.11,
+      -10.94,
+      -12.99,
+      -6.43,
+      24.66
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 423.89,
+          "volume": 77,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1295.5,
+          "volume": 145,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "vivid-lifeforce",
+    "ninjaId": 211,
     "name": "Vivid Crystallised Lifeforce",
-    "chaosValue": 0.1955,
-    "volume": 533583,
-    "trend": 77.56,
+    "chaosValue": 0.1899,
+    "volume": 405092,
+    "trend": 73.64,
     "sparkline": [
-      18.08,
-      18.68,
-      38.09,
-      62.48,
-      28.92,
-      88.23,
-      77.56
-    ]
+      18.87,
+      19.26,
+      39.45,
+      62.14,
+      28.50,
+      89.54,
+      73.64
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.02,
+          "volume": 388,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.02,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "warlords-exalted-orb",
+    "ninjaId": 120,
     "name": "Warlord's Exalted Orb",
-    "chaosValue": 114.6,
-    "volume": 95.50,
-    "trend": -24.40,
+    "chaosValue": 137.5,
+    "volume": 91.67,
+    "trend": -10.99,
     "sparkline": [
-      107.3,
-      -16.32,
-      52.08,
-      -1.58,
-      13.49,
-      -67.06,
-      -24.40
-    ]
+      101.4,
+      -7.57,
+      45.22,
+      -3.42,
+      21.28,
+      -66.16,
+      -10.99
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 130.6,
+          "volume": 63,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 264.59,
+          "volume": 155,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "whetstone",
+    "ninjaId": 25,
     "name": "Blacksmith's Whetstone",
-    "chaosValue": 0.01334,
-    "volume": 32.83,
-    "trend": -76.56,
+    "chaosValue": 0.01465,
+    "volume": 31.67,
+    "trend": -68.93,
     "sparkline": [
-      -20.30,
-      -47.95,
-      -26.21,
-      -57.18,
-      -40.45,
-      -10.87,
-      -76.56
-    ]
+      -1.14,
+      -32.20,
+      -10.14,
+      -46.60,
+      -34.32,
+      13.35,
+      -68.93
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 45,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.18,
+          "volume": 387,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.1,
+          "volume": 478,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "wild-lifeforce",
+    "ninjaId": 210,
     "name": "Wild Crystallised Lifeforce",
-    "chaosValue": 0.03916,
-    "volume": 5274,
-    "trend": -9.80,
+    "chaosValue": 0.03807,
+    "volume": 5881,
+    "trend": -16.42,
     "sparkline": [
-      3.52,
-      5.53,
-      -1.22,
-      4.30,
-      43.25,
-      24.15,
-      -9.80
-    ]
+      -1.69,
+      -0.02,
+      -5.63,
+      0.60,
+      38.35,
+      14.48,
+      -16.42
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 0.02,
+          "volume": 345,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.02,
+          "volume": 800,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "wisdom",
+    "ninjaId": 23,
     "name": "Scroll of Wisdom",
-    "chaosValue": 0.03512,
-    "volume": 62.04,
+    "chaosValue": 0.03504,
+    "volume": 61.90,
     "trend": 3.77,
     "sparkline": [
       0,
@@ -1837,6 +3863,29 @@
       null,
       null,
       3.77
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 0.92,
+          "volume": 12,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 0.19,
+          "volume": 365,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 0.04,
+          "volume": 625,
+          "dataPoints": 7
+        }
+      ]
+    }
   }
 ]

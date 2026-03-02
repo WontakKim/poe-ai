@@ -33,6 +33,7 @@ jq '
   .lines[] |
   {
     id: .detailsId,
+    ninjaId: .id,
     name: .name,
     baseType: .baseType,
     chaosValue: .chaosValue,
@@ -63,7 +64,7 @@ if [[ "$item_count" -eq 0 ]]; then
 fi
 
 # Spot-check: first item must have required fields
-if ! jq -e '.[0] | has("id", "name", "chaosValue")' "$output_dir/${type_kebab}.json" > /dev/null 2>&1; then
+if ! jq -e '.[0] | has("id", "ninjaId", "name", "chaosValue")' "$output_dir/${type_kebab}.json" > /dev/null 2>&1; then
   echo "ERROR: First item missing required fields — data integrity check failed" >&2
   exit 1
 fi

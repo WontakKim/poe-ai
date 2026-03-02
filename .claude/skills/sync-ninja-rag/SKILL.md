@@ -56,6 +56,14 @@ Phase 3: Ingest (up to 7 agents)
     │ Each agent is independent — one failure does not block others
     ▼
 Phase 4: Report (per-type results)
+    │
+    ▼
+Phase 5: History Enrichment (optional)
+    │ Ask user: "Enrich with {PREVIOUS_LEAGUE} price history?"
+    │ No → STOP
+    │ Yes → auto-detect previous league from leagues.json
+    │ Launch 7 history agents (parallel)
+    │ Report per-type enrichment results
 ```
 
 ## Workflow
@@ -167,6 +175,61 @@ Validate each agent result:
 
 Produce the final result showing per-type status.
 
+### Phase 5: History Enrichment (Optional)
+
+After Phase 4 report, offer to enrich data with previous league price history.
+
+1. **Detect previous league** from leagues.json:
+   ```bash
+   PREV_LEAGUE=$(jq -r --arg v "$GAME_VERSION" '
+     [.[].version] as $versions |
+     ($versions | to_entries | .[] | select(.value == $v) | .key) as $idx |
+     if $idx + 1 < ($versions | length) then .[$idx + 1].league else null end
+   ' vendor/ninja/leagues.json)
+   ```
+   If no previous league found → skip Phase 5 (first league in list).
+
+2. **Ask user:** "Enrich with **{PREV_LEAGUE}** ({PREV_VERSION}) price history? (~10 min for all types)"
+   - **Yes** → proceed
+   - **No** → skip, output report from Phase 4
+
+3. **Check which types have ninjaId** (required for history API):
+   ```bash
+   jq -e '.[0] | has("ninjaId")' db/ninja/{LEAGUE}/{dir}/{type}.json
+   ```
+   Types without `ninjaId` → skip with warning (need re-ingest first).
+
+4. **Launch 7 history agents** in parallel. For each type:
+
+   | `subagent_type` | Timeout |
+   |-----------------|---------|
+   | `ninja-ingest-history` | 600s (10 min) |
+
+   Agent `prompt`:
+   ```
+   INPUT:
+   - current_league: {LEAGUE}
+   - previous_league: {PREV_LEAGUE}
+   - data_dir: db/ninja/{LEAGUE}
+   - type: {dir}
+   - gameVersion: {GAME_VERSION}
+
+   Execute the workflow. Note: this script takes several minutes due to rate-limited API calls (200ms per item).
+   ```
+
+5. **Report enrichment results:**
+   ```
+   Type             | Enriched | Skipped | Errors
+   -----------------+----------+---------+-------
+   currency         | 105      | 10      | 0
+   unique-weapon    | 346      | 291     | 0
+   unique-armour    | 626      | 225     | 0
+   unique-accessory | 294      | 15      | 0
+   unique-flask     | 36       | 2       | 0
+   unique-jewel     | 120      | 5       | 0
+   skill-gem        | 1591     | 4351    | 0
+   ```
+
 ## Required Output Format
 
 **When up to date (user chose to skip):**
@@ -193,6 +256,14 @@ Produce the final result showing per-type status.
     "unique-jewel": { "status": "success | failed | skipped", "items": 125, "fetchedAt": "..." },
     "skill-gem": { "status": "success | failed | skipped", "items": 5942, "fetchedAt": "..." }
   },
+  "history": {
+    "previousLeague": "Mercenaries",
+    "status": "success | partial | failed | skipped",
+    "types": {
+      "currency": { "enriched": 105, "skipped": 10, "errors": 0 },
+      "unique-weapon": { "enriched": 346, "skipped": 291, "errors": 0 }
+    }
+  },
   "error": null
 }
 ```
@@ -210,6 +281,8 @@ Produce the final result showing per-type status.
 | No league match for version (auto-detect) | **Blocking.** Stop with error. |
 | Unknown league name (manual override) | **Blocking.** Stop with error. |
 | Individual ingest agent fails | Report failure for that type, continue others. |
+| No previous league found | Skip Phase 5 (not an error). |
+| History agent fails | Report failure for that type, continue others. |
 
 ## Important Notes
 
@@ -218,3 +291,6 @@ Produce the final result showing per-type status.
 - gameVersion comes from PoB DB, linking the two databases via version key
 - Currency uses a different agent (`ninja-ingest-currency`) because it needs Exchange API + Legacy API merge
 - Item types all use the same agent (`ninja-ingest-item`) with different `ninjaType` parameter
+- History enrichment is optional and only offered after successful ingest
+- History agents have long timeouts (600s) due to rate-limited API calls (200ms per item)
+- The `ninjaId` field must exist in the data before history enrichment — re-ingest if missing

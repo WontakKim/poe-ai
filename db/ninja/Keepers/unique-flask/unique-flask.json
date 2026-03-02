@@ -1,12 +1,13 @@
 [
   {
     "id": "atziris-promise",
+    "ninjaId": 125,
     "name": "Atziri's Promise",
     "baseType": "Amethyst Flask",
     "chaosValue": 8.00,
     "divineValue": 0.02,
-    "volume": 172,
-    "listingCount": 1841,
+    "volume": 176,
+    "listingCount": 1845,
     "trend": 15.94,
     "sparkline": [
       0,
@@ -16,16 +17,34 @@
       7.97,
       15.94,
       15.94
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 16.34,
+          "volume": 269,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 8.29,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "blood-of-the-karui",
+    "ninjaId": 174,
     "name": "Blood of the Karui",
     "baseType": "Sanctified Life Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 224,
-    "listingCount": 8189,
+    "volume": 226,
+    "listingCount": 8190,
     "trend": 0,
     "sparkline": [
       0,
@@ -35,17 +54,41 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1.6,
+          "volume": 4,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "bottled-faith",
+    "ninjaId": 20932,
     "name": "Bottled Faith",
     "baseType": "Sulphur Flask",
-    "chaosValue": 1117,
+    "chaosValue": 1106,
     "divineValue": 3.00,
-    "volume": 178,
-    "listingCount": 1053,
-    "trend": 40.49,
+    "volume": 177,
+    "listingCount": 1051,
+    "trend": 39.17,
     "sparkline": [
       0,
       -1.17,
@@ -53,17 +96,35 @@
       4.68,
       13.51,
       25.45,
-      40.49
-    ]
+      39.17
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 369.63,
+          "volume": 188,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 664.68,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "cinderswallow-urn",
+    "ninjaId": 19060,
     "name": "Cinderswallow Urn",
     "baseType": "Silver Flask",
     "chaosValue": 50.00,
-    "divineValue": 0.13,
+    "divineValue": 0.14,
     "volume": 399,
-    "listingCount": 5116,
+    "listingCount": 5112,
     "trend": 0,
     "sparkline": [
       0,
@@ -73,17 +134,35 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 22.47,
+          "volume": 316,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 16.43,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "coralitos-signature",
+    "ninjaId": 2283,
     "name": "Coralito's Signature",
     "baseType": "Diamond Flask",
-    "chaosValue": 0.20,
+    "chaosValue": 0.12,
     "divineValue": 0.00,
-    "volume": 173,
-    "listingCount": 7620,
-    "trend": 233.3,
+    "volume": 174,
+    "listingCount": 7619,
+    "trend": 100,
     "sparkline": [
       0,
       -16.67,
@@ -91,17 +170,41 @@
       216.7,
       466.7,
       400,
-      233.3
-    ]
+      100
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 25,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "coruscating-elixir",
+    "ninjaId": 306,
     "name": "Coruscating Elixir",
     "baseType": "Ruby Flask",
     "chaosValue": 10.00,
     "divineValue": 0.03,
-    "volume": 84,
-    "listingCount": 2016,
+    "volume": 83,
+    "listingCount": 2015,
     "trend": 24.22,
     "sparkline": [
       0,
@@ -111,10 +214,28 @@
       24.22,
       24.22,
       24.22
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 11.92,
+          "volume": 272,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 6.71,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "divination-distillate",
+    "ninjaId": 424,
     "name": "Divination Distillate",
     "baseType": "Large Hybrid Flask",
     "chaosValue": 1.00,
@@ -130,15 +251,39 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 11,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 381,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1.43,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "doedres-elixir",
+    "ninjaId": 427,
     "name": "Doedre's Elixir",
     "baseType": "Greater Mana Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 222,
+    "volume": 221,
     "listingCount": 7342,
     "trend": 0,
     "sparkline": [
@@ -149,17 +294,41 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 127,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "dying-sun",
+    "ninjaId": 467,
     "name": "Dying Sun",
     "baseType": "Ruby Flask",
-    "chaosValue": 1862,
+    "chaosValue": 1844,
     "divineValue": 5.00,
     "volume": 163,
-    "listingCount": 1255,
-    "trend": 40.49,
+    "listingCount": 1254,
+    "trend": 39.17,
     "sparkline": [
       0,
       -1.17,
@@ -167,16 +336,34 @@
       4.68,
       13.51,
       25.45,
-      40.49
-    ]
+      39.17
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 489.94,
+          "volume": 141,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 537.62,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "elixir-of-the-unbroken-circle",
+    "ninjaId": 68258,
     "name": "Elixir of the Unbroken Circle",
     "baseType": "Iron Flask",
     "chaosValue": 35.00,
     "divineValue": 0.09,
-    "volume": 11,
+    "volume": 12,
     "listingCount": 151,
     "trend": -14.63,
     "sparkline": [
@@ -187,16 +374,34 @@
       -2.44,
       -7.80,
       -14.63
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 146.13,
+          "volume": 42,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 85.74,
+          "volume": 85,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "forbidden-taste",
+    "ninjaId": 537,
     "name": "Forbidden Taste",
     "baseType": "Quartz Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 196,
-    "listingCount": 6287,
+    "volume": 198,
+    "listingCount": 6290,
     "trend": 0,
     "sparkline": [
       0,
@@ -206,16 +411,40 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 2,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "kiaras-determination",
+    "ninjaId": 712,
     "name": "Kiara's Determination",
     "baseType": "Silver Flask",
     "chaosValue": 0.07,
     "divineValue": 0.00,
-    "volume": 293,
-    "listingCount": 12939,
+    "volume": 300,
+    "listingCount": 12941,
     "trend": -39.13,
     "sparkline": [
       0,
@@ -225,16 +454,40 @@
       73.91,
       47.83,
       -39.13
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 32,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "laviangas-spirit",
+    "ninjaId": 739,
     "name": "Lavianga's Spirit",
     "baseType": "Sanctified Mana Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 273,
-    "listingCount": 8722,
+    "volume": 276,
+    "listingCount": 8723,
     "trend": 0,
     "sparkline": [
       0,
@@ -244,15 +497,39 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 3,
+          "volume": 2,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "lions-roar",
+    "ninjaId": 763,
     "name": "Lion's Roar",
     "baseType": "Granite Flask",
     "chaosValue": 2.00,
     "divineValue": 0.01,
-    "volume": 142,
+    "volume": 145,
     "listingCount": 4304,
     "trend": -28.57,
     "sparkline": [
@@ -263,17 +540,41 @@
       -28.57,
       -28.57,
       -28.57
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 2.85,
+          "volume": 6,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 2.71,
+          "volume": 366,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "olroths-resolve",
+    "ninjaId": 68588,
     "name": "Olroth's Resolve",
     "baseType": "Iron Flask",
-    "chaosValue": 303.4,
-    "divineValue": 0.81,
-    "volume": 40,
-    "listingCount": 210,
-    "trend": 14.48,
+    "chaosValue": 301.3,
+    "divineValue": 0.82,
+    "volume": 39,
+    "listingCount": 208,
+    "trend": 13.69,
     "sparkline": [
       0,
       -2.83,
@@ -281,18 +582,36 @@
       4.68,
       13.51,
       -3.80,
-      14.48
-    ]
+      13.69
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 30.21,
+          "volume": 175,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 10.71,
+          "volume": 300,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "oriaths-end",
+    "ninjaId": 100474,
     "name": "Oriath's End",
     "baseType": "Bismuth Flask",
-    "chaosValue": 60.00,
+    "chaosValue": 59.50,
     "divineValue": 0.16,
-    "volume": 132,
-    "listingCount": 1689,
-    "trend": 33.33,
+    "volume": 131,
+    "listingCount": 1685,
+    "trend": 32.22,
     "sparkline": [
       0,
       -10,
@@ -300,18 +619,36 @@
       11.11,
       -2.22,
       0,
-      33.33
-    ]
+      32.22
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 980.32,
+          "volume": 57,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 533.07,
+          "volume": 334,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "progenesis",
+    "ninjaId": 100499,
     "name": "Progenesis",
     "baseType": "Amethyst Flask",
-    "chaosValue": 24200,
-    "divineValue": 65.00,
-    "volume": 77,
-    "listingCount": 165,
-    "trend": 3.73,
+    "chaosValue": 25816,
+    "divineValue": 70.00,
+    "volume": 72,
+    "listingCount": 160,
+    "trend": 10.66,
     "sparkline": [
       0,
       -1.92,
@@ -319,11 +656,29 @@
       -5.90,
       -5.19,
       -1.52,
-      3.73
-    ]
+      10.66
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 9036.92,
+          "volume": 14,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 14371.2,
+          "volume": 87,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "replica-laviangas-spirit",
+    "ninjaId": 44448,
     "name": "Replica Lavianga's Spirit",
     "baseType": "Sanctified Mana Flask",
     "chaosValue": 1.00,
@@ -339,10 +694,28 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2,
+          "volume": 195,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3,
+          "volume": 397,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "replica-rumis-concoction",
+    "ninjaId": 44550,
     "name": "Replica Rumi's Concoction",
     "baseType": "Granite Flask",
     "chaosValue": 10.00,
@@ -358,17 +731,35 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 4.46,
+          "volume": 254,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 5.61,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "replica-sorrow-of-the-divine",
+    "ninjaId": 44298,
     "name": "Replica Sorrow of the Divine",
     "baseType": "Sulphur Flask",
-    "chaosValue": 8.80,
+    "chaosValue": 7.00,
     "divineValue": 0.02,
-    "volume": 47,
-    "listingCount": 756,
-    "trend": 76,
+    "volume": 48,
+    "listingCount": 753,
+    "trend": 40,
     "sparkline": [
       0,
       0,
@@ -376,18 +767,36 @@
       0,
       75,
       73,
-      76
-    ]
+      40
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 6.14,
+          "volume": 325,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 7.43,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "replica-witchfire-brew",
+    "ninjaId": 109029,
     "name": "Replica Witchfire Brew",
     "baseType": "Stibnite Flask",
-    "chaosValue": 25.60,
-    "divineValue": 0.07,
+    "chaosValue": 28.10,
+    "divineValue": 0.08,
     "volume": 28,
     "listingCount": 261,
-    "trend": 70.67,
+    "trend": 87.33,
     "sparkline": [
       0,
       40,
@@ -395,17 +804,35 @@
       33.33,
       33.33,
       33.33,
-      70.67
-    ]
+      87.33
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 3.43,
+          "volume": 92,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 8.67,
+          "volume": 316,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "rotgut",
+    "ninjaId": 1068,
     "name": "Rotgut",
     "baseType": "Quicksilver Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 258,
-    "listingCount": 7588,
+    "volume": 255,
+    "listingCount": 7586,
     "trend": 0,
     "sparkline": [
       0,
@@ -415,17 +842,41 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 2.6,
+          "volume": 3,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "rumis-concoction",
+    "ninjaId": 1073,
     "name": "Rumi's Concoction",
     "baseType": "Granite Flask",
-    "chaosValue": 5.90,
-    "divineValue": 0.02,
-    "volume": 238,
-    "listingCount": 4677,
-    "trend": 18,
+    "chaosValue": 5.00,
+    "divineValue": 0.01,
+    "volume": 242,
+    "listingCount": 4679,
+    "trend": 0,
     "sparkline": [
       0,
       16,
@@ -433,11 +884,29 @@
       16,
       28,
       20,
-      18
-    ]
+      0
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 6.14,
+          "volume": 346,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 8.43,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "sins-rebirth",
+    "ninjaId": 1956,
     "name": "Sin's Rebirth",
     "baseType": "Stibnite Flask",
     "chaosValue": 9.70,
@@ -453,10 +922,34 @@
       0,
       0,
       -3
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1.2,
+          "volume": 3,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 3.69,
+          "volume": 113,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 10,
+          "volume": 341,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "soul-catcher",
+    "ninjaId": 6896,
     "name": "Soul Catcher",
     "baseType": "Quartz Flask",
     "chaosValue": 1.00,
@@ -472,17 +965,35 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.29,
+          "volume": 316,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "soul-ripper",
+    "ninjaId": 7020,
     "name": "Soul Ripper",
     "baseType": "Quartz Flask",
-    "chaosValue": 6850,
+    "chaosValue": 6786,
     "divineValue": 18.40,
     "volume": 9,
     "listingCount": 30,
-    "trend": 127.3,
+    "trend": 125.1,
     "sparkline": [
       0,
       36.32,
@@ -490,18 +1001,23 @@
       -7.97,
       -0.20,
       10.21,
-      127.3
-    ]
+      125.1
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "starlight-chalice",
+    "ninjaId": 68384,
     "name": "Starlight Chalice",
     "baseType": "Iron Flask",
-    "chaosValue": 2085,
-    "divineValue": 5.60,
-    "volume": 7,
-    "listingCount": 31,
-    "trend": 57.35,
+    "chaosValue": 1992,
+    "divineValue": 5.40,
+    "volume": 5,
+    "listingCount": 21,
+    "trend": 50.30,
     "sparkline": [
       0,
       -1.15,
@@ -509,17 +1025,22 @@
       41.53,
       58.91,
       null,
-      57.35
-    ]
+      50.30
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "taste-of-hate",
+    "ninjaId": 1394,
     "name": "Taste of Hate",
     "baseType": "Sapphire Flask",
     "chaosValue": 10.00,
     "divineValue": 0.03,
-    "volume": 130,
-    "listingCount": 2535,
+    "volume": 132,
+    "listingCount": 2536,
     "trend": 0,
     "sparkline": [
       0,
@@ -529,16 +1050,34 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 10,
+          "volume": 340,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 10,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "the-overflowing-chalice",
+    "ninjaId": 1561,
     "name": "The Overflowing Chalice",
     "baseType": "Sulphur Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 272,
-    "listingCount": 11483,
+    "volume": 279,
+    "listingCount": 11488,
     "trend": 0,
     "sparkline": [
       0,
@@ -548,16 +1087,40 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 42,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "the-sorrow-of-the-divine",
+    "ninjaId": 1614,
     "name": "The Sorrow of the Divine",
     "baseType": "Sulphur Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
-    "volume": 371,
-    "listingCount": 14399,
+    "volume": 376,
+    "listingCount": 14400,
     "trend": 0,
     "sparkline": [
       0,
@@ -567,16 +1130,40 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 24,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 1,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "the-wise-oak",
+    "ninjaId": 2075,
     "name": "The Wise Oak",
     "baseType": "Bismuth Flask",
     "chaosValue": 1.00,
     "divineValue": 0.00,
     "volume": 143,
-    "listingCount": 4337,
+    "listingCount": 4336,
     "trend": 0,
     "sparkline": [
       0,
@@ -586,16 +1173,40 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 46,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1.14,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.71,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "the-writhing-jar",
+    "ninjaId": 1679,
     "name": "The Writhing Jar",
     "baseType": "Hallowed Hybrid Flask",
     "chaosValue": 2.00,
     "divineValue": 0.01,
-    "volume": 227,
-    "listingCount": 7294,
+    "volume": 228,
+    "listingCount": 7288,
     "trend": 0,
     "sparkline": [
       0,
@@ -605,16 +1216,34 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.57,
+          "volume": 399,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 3,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "vessel-of-vinktar",
+    "ninjaId": 60420,
     "name": "Vessel of Vinktar",
     "baseType": "Topaz Flask",
     "chaosValue": 2.00,
     "divineValue": 0.01,
-    "volume": 126,
-    "listingCount": 2868,
+    "volume": 128,
+    "listingCount": 2869,
     "trend": 100,
     "sparkline": [
       0,
@@ -624,10 +1253,28 @@
       100,
       100,
       100
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 22.86,
+          "volume": 155,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 17.67,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "voranas-preparation",
+    "ninjaId": 68096,
     "name": "Vorana's Preparation",
     "baseType": "Iron Flask",
     "chaosValue": 18.00,
@@ -643,16 +1290,34 @@
       18,
       24,
       80
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2.14,
+          "volume": 245,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "wellwater-phylactery",
+    "ninjaId": 128499,
     "name": "Wellwater Phylactery",
     "baseType": "Colossal Mana Flask",
     "chaosValue": 20.00,
     "divineValue": 0.05,
     "volume": 54,
-    "listingCount": 1434,
+    "listingCount": 1433,
     "trend": 300,
     "sparkline": [
       0,
@@ -662,17 +1327,22 @@
       100,
       230,
       300
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": null
+    }
   },
   {
     "id": "wine-of-the-prophet",
+    "ninjaId": 124913,
     "name": "Wine of the Prophet",
     "baseType": "Gold Flask",
-    "chaosValue": 11169,
+    "chaosValue": 11064,
     "divineValue": 30.00,
-    "volume": 38,
-    "listingCount": 126,
-    "trend": 47.96,
+    "volume": 37,
+    "listingCount": 124,
+    "trend": 46.57,
     "sparkline": [
       0,
       3.96,
@@ -680,17 +1350,35 @@
       12.12,
       14.31,
       32.92,
-      47.96
-    ]
+      46.57
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 2489.53,
+          "volume": 46,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 6063.19,
+          "volume": 135,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "witchfire-brew",
+    "ninjaId": 1893,
     "name": "Witchfire Brew",
     "baseType": "Stibnite Flask",
     "chaosValue": 2.00,
     "divineValue": 0.01,
-    "volume": 103,
-    "listingCount": 3101,
+    "volume": 105,
+    "listingCount": 3102,
     "trend": 0,
     "sparkline": [
       0,
@@ -700,17 +1388,41 @@
       0,
       0,
       0
-    ]
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 18,
+          "chaosValue": 1,
+          "volume": 1,
+          "dataPoints": 1
+        },
+        {
+          "week": 19,
+          "chaosValue": 1.44,
+          "volume": 374,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.23,
+          "volume": 399,
+          "dataPoints": 7
+        }
+      ]
+    }
   },
   {
     "id": "zerphis-last-breath",
+    "ninjaId": 1904,
     "name": "Zerphi's Last Breath",
     "baseType": "Grand Mana Flask",
-    "chaosValue": 2.22,
+    "chaosValue": 2.20,
     "divineValue": 0.01,
     "volume": 23,
     "listingCount": 511,
-    "trend": -41.58,
+    "trend": -42.11,
     "sparkline": [
       0,
       -21.05,
@@ -718,7 +1430,24 @@
       -21.05,
       -23.42,
       -39.47,
-      -41.58
-    ]
+      -42.11
+    ],
+    "priceHistory": {
+      "league": "Mercenaries",
+      "data": [
+        {
+          "week": 19,
+          "chaosValue": 1.43,
+          "volume": 194,
+          "dataPoints": 7
+        },
+        {
+          "week": 20,
+          "chaosValue": 2.22,
+          "volume": 343,
+          "dataPoints": 7
+        }
+      ]
+    }
   }
 ]

@@ -34,10 +34,13 @@ jq -n \
   '
   # Build tradeId → name lookup (filter out entries with null tradeId)
   ($names[0].currencyDetails | [.[] | select(.tradeId != null) | {(.tradeId): .name}] | add) as $nameMap |
+  # Build tradeId → numericId lookup for history API
+  ($names[0].currencyDetails | [.[] | select(.tradeId != null) | {(.tradeId): .id}] | add) as $idMap |
   [
     $overview[0].lines[] |
     {
       id: .id,
+      ninjaId: ($idMap[.id] // null),
       name: ($nameMap[.id] // .id),
       chaosValue: .primaryValue,
       volume: .volumePrimaryValue,
