@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "abrasive-catalyst",
+    "name": "Abrasive Catalyst",
+    "chaosValue": 2.07,
+    "volume": 214.0,
+    "trend": 120.4,
+    "sparkline": [
+      -25.08,
+      29.63,
+      70.76,
+      64.19,
+      55.27,
+      93.62,
+      120.4
+    ]
+  },
+  {
+    "id": "accelerating-catalyst",
+    "name": "Accelerating Catalyst",
+    "chaosValue": 5.85,
+    "volume": 72.17,
+    "trend": 66.44,
+    "sparkline": [
+      -71.56,
+      -57.60,
+      15.81,
+      -32.51,
+      16.10,
+      20.07,
+      66.44
+    ]
+  },
+  {
+    "id": "alch",
+    "name": "Orb of Alchemy",
+    "chaosValue": 0.05155,
+    "volume": 307.3,
+    "trend": 2.38,
+    "sparkline": [
+      6.19,
+      9.49,
+      -5.13,
+      55.07,
+      134.2,
+      25.07,
+      2.38
+    ]
+  },
+  {
+    "id": "alt",
+    "name": "Orb of Alteration",
+    "chaosValue": 0.06660,
+    "volume": 1057,
+    "trend": -17.48,
+    "sparkline": [
+      18.16,
+      38.51,
+      37.03,
+      -0.60,
+      -28.52,
+      -7.63,
+      -17.48
+    ]
+  },
+  {
+    "id": "ancient-orb",
+    "name": "Ancient Orb",
+    "chaosValue": 5.67,
+    "volume": 2431,
+    "trend": 65.42,
+    "sparkline": [
+      8.70,
+      25.55,
+      27.06,
+      36.53,
+      36.25,
+      88.14,
+      65.42
+    ]
+  },
+  {
+    "id": "ancient-shard",
+    "name": "ancient-shard",
+    "chaosValue": 4,
+    "volume": 1.33,
+    "trend": 0,
+    "sparkline": [
+      null,
+      null,
+      -38.33,
+      -50,
+      -41.84,
+      -91.67,
+      0
+    ]
+  },
+  {
+    "id": "annul",
+    "name": "Orb of Annulment",
+    "chaosValue": 1.91,
+    "volume": 1693,
+    "trend": 27.99,
+    "sparkline": [
+      -15.76,
+      12.40,
+      5.17,
+      12.64,
+      35.44,
+      65.60,
+      27.99
+    ]
+  },
+  {
+    "id": "annulment-shard",
+    "name": "Annulment Shard",
+    "chaosValue": 0.1,
+    "volume": 0.1667,
+    "trend": -90.0,
+    "sparkline": [
+      null,
+      null,
+      null,
+      0,
+      82.31,
+      600,
+      -90.0
+    ]
+  },
+  {
+    "id": "aug",
+    "name": "Orb of Augmentation",
+    "chaosValue": 0.01764,
+    "volume": 57.17,
+    "trend": -36.31,
+    "sparkline": [
+      -32.71,
+      -30.45,
+      -19.84,
+      -65.78,
+      -58.06,
+      -57.40,
+      -36.31
+    ]
+  },
+  {
+    "id": "augmentation-implant",
+    "name": "Augmentation Implant",
+    "chaosValue": 0.07729,
+    "volume": 2.67,
+    "trend": 21.46,
+    "sparkline": [
+      20.52,
+      30.30,
+      49.21,
+      19.08,
+      -1.22,
+      -0.91,
+      21.46
+    ]
+  },
+  {
+    "id": "awakeners-orb",
+    "name": "Awakener's Orb",
+    "chaosValue": 2204,
+    "volume": 18737,
+    "trend": 28.66,
+    "sparkline": [
+      -0.98,
+      -4.23,
+      -14.45,
+      -6.57,
+      -10.68,
+      -9.10,
+      28.66
+    ]
+  },
+  {
+    "id": "bauble",
+    "name": "Glassblower's Bauble",
+    "chaosValue": 0.7445,
+    "volume": 372.3,
+    "trend": 6.73,
+    "sparkline": [
+      35.06,
+      97.19,
+      169.1,
+      103.6,
+      50.03,
+      485.6,
+      6.73
+    ]
+  },
+  {
+    "id": "blessed",
+    "name": "Blessed Orb",
+    "chaosValue": 0.2270,
+    "volume": 23.00,
+    "trend": 127.6,
+    "sparkline": [
+      -29.39,
+      -19.52,
+      -21.10,
+      19.91,
+      142.8,
+      136.9,
+      127.6
+    ]
+  },
+  {
+    "id": "blighted-scouting-report",
+    "name": "Blighted Scouting Report",
+    "chaosValue": 1.07,
+    "volume": 2.67,
+    "trend": -14.67,
+    "sparkline": [
+      17.87,
+      26.42,
+      -74.04,
+      73.19,
+      -69.01,
+      -7.41,
+      -14.67
+    ]
+  },
+  {
+    "id": "chance",
+    "name": "Orb of Chance",
+    "chaosValue": 0.1369,
+    "volume": 794.7,
+    "trend": 139.5,
+    "sparkline": [
+      5.74,
+      12.45,
+      21.95,
+      37.86,
+      32.70,
+      82.86,
+      139.5
+    ]
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos Orb",
+    "chaosValue": 1,
+    "volume": 234838,
+    "trend": -26.03,
+    "sparkline": [
+      4.76,
+      5.36,
+      5.80,
+      -2.17,
+      -11.14,
+      -18.26,
+      -26.03
+    ]
+  },
+  {
+    "id": "chisel",
+    "name": "Cartographer's Chisel",
+    "chaosValue": 2.02,
+    "volume": 7582,
+    "trend": 132.9,
+    "sparkline": [
+      0.87,
+      3.07,
+      8.63,
+      190.1,
+      126.4,
+      106.7,
+      132.9
+    ]
+  },
+  {
+    "id": "chrome",
+    "name": "Chromatic Orb",
+    "chaosValue": 0.1708,
+    "volume": 2714,
+    "trend": 35.94,
+    "sparkline": [
+      -3.98,
+      21.74,
+      1.00,
+      4.47,
+      48.09,
+      63.76,
+      35.94
+    ]
+  },
+  {
+    "id": "comprehensive-scouting-report",
+    "name": "Comprehensive Scouting Report",
+    "chaosValue": 26.99,
+    "volume": 863.8,
+    "trend": -51.45,
+    "sparkline": [
+      -26.07,
+      -24.96,
+      -43.32,
+      -34.66,
+      -6.28,
+      -14.27,
+      -51.45
+    ]
+  },
+  {
+    "id": "crusaders-exalted-orb",
+    "name": "Crusader's Exalted Orb",
+    "chaosValue": 744.5,
+    "volume": 372.3,
+    "trend": -41.67,
+    "sparkline": [
+      -48.86,
+      -53.82,
+      -43.29,
+      -50.85,
+      -48.38,
+      -50.78,
+      -41.67
+    ]
+  },
+  {
+    "id": "delirious-scouting-report",
+    "name": "Delirious Scouting Report",
+    "chaosValue": 1,
+    "volume": 2.33,
+    "trend": -54.24,
+    "sparkline": [
+      22.99,
+      -20.34,
+      -67.18,
+      -55.23,
+      -38.22,
+      -26.36,
+      -54.24
+    ]
+  },
+  {
+    "id": "divine",
+    "name": "Divine Orb",
+    "chaosValue": 372.3,
+    "volume": 234838,
+    "trend": 35.16,
+    "sparkline": [
+      -4.52,
+      -5.10,
+      -5.50,
+      2.23,
+      12.91,
+      22.37,
+      35.16
+    ]
+  },
+  {
+    "id": "elders-exalted-orb",
+    "name": "Elder's Exalted Orb",
+    "chaosValue": 38.10,
+    "volume": 330.2,
+    "trend": -22.75,
+    "sparkline": [
+      -6.39,
+      7.16,
+      4.57,
+      4.95,
+      10.09,
+      67.84,
+      -22.75
+    ]
+  },
+  {
+    "id": "eldritch-chaos-orb",
+    "name": "Eldritch Chaos Orb",
+    "chaosValue": 48.53,
+    "volume": 4343,
+    "trend": -31.15,
+    "sparkline": [
+      -10.83,
+      -22.50,
+      -4.55,
+      -9.39,
+      -19.42,
+      -23.52,
+      -31.15
+    ]
+  },
+  {
+    "id": "eldritch-exalted-orb",
+    "name": "Eldritch Exalted Orb",
+    "chaosValue": 12.72,
+    "volume": 127.2,
+    "trend": 10.10,
+    "sparkline": [
+      25.80,
+      8.29,
+      9.68,
+      27.12,
+      58.00,
+      5.76,
+      10.10
+    ]
+  },
+  {
+    "id": "eldritch-orb-of-annulment",
+    "name": "Eldritch Orb of Annulment",
+    "chaosValue": 63.62,
+    "volume": 1675,
+    "trend": -20.55,
+    "sparkline": [
+      4.86,
+      -6.20,
+      22.99,
+      7.38,
+      -26.35,
+      -27.39,
+      -20.55
+    ]
+  },
+  {
+    "id": "engineers",
+    "name": "Engineer's Orb",
+    "chaosValue": 0.2846,
+    "volume": 41.50,
+    "trend": 14.10,
+    "sparkline": [
+      -19.26,
+      -61.74,
+      -13.46,
+      -68.54,
+      -40.07,
+      -25.17,
+      14.10
+    ]
+  },
+  {
+    "id": "enkindling-orb",
+    "name": "Enkindling Orb",
+    "chaosValue": 0.5518,
+    "volume": 60.33,
+    "trend": 196.8,
+    "sparkline": [
+      41.05,
+      60.50,
+      57.12,
+      48.10,
+      -19.09,
+      21.97,
+      196.8
+    ]
+  },
+  {
+    "id": "exalted",
+    "name": "Exalted Orb",
+    "chaosValue": 20.72,
+    "volume": 6762,
+    "trend": -22.70,
+    "sparkline": [
+      -3.87,
+      -19.37,
+      -16.34,
+      -30.93,
+      -28.51,
+      -26.81,
+      -22.70
+    ]
+  },
+  {
+    "id": "exalted-implant",
+    "name": "Exalted Implant",
+    "chaosValue": 4.39,
+    "volume": 107.5,
+    "trend": -24.06,
+    "sparkline": [
+      -27.09,
+      -17.25,
+      -36.79,
+      3.63,
+      19.32,
+      -51.17,
+      -24.06
+    ]
+  },
+  {
+    "id": "exalted-shard",
+    "name": "Exalted Shard",
+    "chaosValue": 0.25,
+    "volume": 2.67,
+    "trend": -67.45,
+    "sparkline": [
+      -61.48,
+      -56.54,
+      -48.54,
+      -58.61,
+      -65.60,
+      -67.31,
+      -67.45
+    ]
+  },
+  {
+    "id": "exceptional-eldritch-ember",
+    "name": "Exceptional Eldritch Ember",
+    "chaosValue": 617.8,
+    "volume": 4839,
+    "trend": 24.79,
+    "sparkline": [
+      -6.96,
+      -15.47,
+      16.98,
+      11.83,
+      16.05,
+      21.84,
+      24.79
+    ]
+  },
+  {
+    "id": "exceptional-eldritch-ichor",
+    "name": "Exceptional Eldritch Ichor",
+    "chaosValue": 280.2,
+    "volume": 934.0,
+    "trend": 57.09,
+    "sparkline": [
+      -4.78,
+      25.04,
+      35.49,
+      36.60,
+      56.12,
+      39.88,
+      57.09
+    ]
+  },
+  {
+    "id": "explorers-scouting-report",
+    "name": "Explorer's Scouting Report",
+    "chaosValue": 2.22,
+    "volume": 2178,
+    "trend": -34.72,
+    "sparkline": [
+      -6.76,
+      10.96,
+      -13.10,
+      -53.95,
+      -40.76,
+      -40.74,
+      -34.72
+    ]
+  },
+  {
+    "id": "fertile-catalyst",
+    "name": "Fertile Catalyst",
+    "chaosValue": 48.15,
+    "volume": 2720,
+    "trend": 48.94,
+    "sparkline": [
+      -1.20,
+      -19.10,
+      -4.22,
+      -0.29,
+      8.89,
+      35.12,
+      48.94
+    ]
+  },
+  {
+    "id": "foulborn-exalted-orb",
+    "name": "Foulborn Exalted Orb",
+    "chaosValue": 1308,
+    "volume": 15697,
+    "trend": 9.88,
+    "sparkline": [
+      22.17,
+      10.02,
+      1.23,
+      3.90,
+      -17.30,
+      4.08,
+      9.88
+    ]
+  },
+  {
+    "id": "foulborn-orb-of-augmentation",
+    "name": "Foulborn Orb of Augmentation",
+    "chaosValue": 0.7081,
+    "volume": 124.5,
+    "trend": -74.36,
+    "sparkline": [
+      -42.98,
+      -38.89,
+      -41.99,
+      -26.57,
+      -70.91,
+      -67.76,
+      -74.36
+    ]
+  },
+  {
+    "id": "foulborn-regal-orb",
+    "name": "Foulborn Regal Orb",
+    "chaosValue": 4.60,
+    "volume": 169.3,
+    "trend": -69.05,
+    "sparkline": [
+      -4.10,
+      -25.45,
+      -49.78,
+      -73.44,
+      -67.50,
+      -67.07,
+      -69.05
+    ]
+  },
+  {
+    "id": "fracturing-orb",
+    "name": "Fracturing Orb",
+    "chaosValue": 1729,
+    "volume": 55902,
+    "trend": 23.85,
+    "sparkline": [
+      9.49,
+      19.27,
+      21.77,
+      19.76,
+      9.39,
+      18.69,
+      23.85
+    ]
+  },
+  {
+    "id": "fracturing-shard",
+    "name": "Fracturing Shard",
+    "chaosValue": 46.62,
+    "volume": 4468,
+    "trend": 33.47,
+    "sparkline": [
+      0.49,
+      19.25,
+      30.30,
+      29.39,
+      16.63,
+      -0.18,
+      33.47
+    ]
+  },
+  {
+    "id": "fusing",
+    "name": "Orb of Fusing",
+    "chaosValue": 0.2806,
+    "volume": 3422,
+    "trend": 59.71,
+    "sparkline": [
+      14.85,
+      10.34,
+      4.03,
+      11.94,
+      51.35,
+      30.66,
+      59.71
+    ]
+  },
+  {
+    "id": "gcp",
+    "name": "Gemcutter's Prism",
+    "chaosValue": 2.88,
+    "volume": 3175,
+    "trend": 97.15,
+    "sparkline": [
+      25.31,
+      10.92,
+      43.10,
+      20.96,
+      47.36,
+      79.89,
+      97.15
+    ]
+  },
+  {
+    "id": "grand-eldritch-ember",
+    "name": "Grand Eldritch Ember",
+    "chaosValue": 4.65,
+    "volume": 1845,
+    "trend": -9.58,
+    "sparkline": [
+      21.23,
+      26.91,
+      28.33,
+      18.27,
+      1.86,
+      -23.72,
+      -9.58
+    ]
+  },
+  {
+    "id": "grand-eldritch-ichor",
+    "name": "Grand Eldritch Ichor",
+    "chaosValue": 7.27,
+    "volume": 2730,
+    "trend": -28.91,
+    "sparkline": [
+      3.17,
+      -49.41,
+      -38.24,
+      -42.91,
+      -3.71,
+      -29.53,
+      -28.91
+    ]
+  },
+  {
+    "id": "greater-eldritch-ember",
+    "name": "Greater Eldritch Ember",
+    "chaosValue": 0.3771,
+    "volume": 94.83,
+    "trend": -36.72,
+    "sparkline": [
+      -32.22,
+      -41.03,
+      -19.09,
+      -32.04,
+      -28.56,
+      -10.61,
+      -36.72
+    ]
+  },
+  {
+    "id": "greater-eldritch-ichor",
+    "name": "Greater Eldritch Ichor",
+    "chaosValue": 0.3004,
+    "volume": 111.5,
+    "trend": 136.0,
+    "sparkline": [
+      49.93,
+      -3.77,
+      96.57,
+      182.0,
+      132.7,
+      331.5,
+      136.0
+    ]
+  },
+  {
+    "id": "harbingers-orb",
+    "name": "Harbinger's Orb",
+    "chaosValue": 1.86,
+    "volume": 157.3,
+    "trend": 237.8,
+    "sparkline": [
+      -21.34,
+      25.25,
+      22.66,
+      21.30,
+      92.88,
+      380.5,
+      237.8
+    ]
+  },
+  {
+    "id": "hinekoras-lock",
+    "name": "Hinekora's Lock",
+    "chaosValue": 96816,
+    "volume": 451808,
+    "trend": 14.81,
+    "sparkline": [
+      -2.69,
+      0.02,
+      5.36,
+      5.71,
+      11.00,
+      13.56,
+      14.81
+    ]
+  },
+  {
+    "id": "hunters-exalted-orb",
+    "name": "Hunter's Exalted Orb",
+    "chaosValue": 223.3,
+    "volume": 111.7,
+    "trend": -27.27,
+    "sparkline": [
+      1.12,
+      -6.10,
+      -19.72,
+      -30.27,
+      -9.97,
+      -32.81,
+      -27.27
+    ]
+  },
+  {
+    "id": "imbued-catalyst",
+    "name": "Imbued Catalyst",
+    "chaosValue": 0.5,
+    "volume": 9.67,
+    "trend": -64.97,
+    "sparkline": [
+      -54.54,
+      -25.05,
+      -21.66,
+      -22.09,
+      -17.28,
+      -40.65,
+      -64.97
+    ]
+  },
+  {
+    "id": "influenced-scouting-report",
+    "name": "Influenced Scouting Report",
+    "chaosValue": 1.88,
+    "volume": 309.2,
+    "trend": -23.41,
+    "sparkline": [
+      1.50,
+      -6.42,
+      -21.48,
+      -80.03,
+      -52.46,
+      -57.02,
+      -23.41
+    ]
+  },
+  {
+    "id": "instilling-orb",
+    "name": "Instilling Orb",
+    "chaosValue": 0.02784,
+    "volume": 23.83,
+    "trend": -68.89,
+    "sparkline": [
+      -11.02,
+      -7.90,
+      -2.21,
+      -54.47,
+      -18.15,
+      37.56,
+      -68.89
+    ]
+  },
+  {
+    "id": "intrinsic-catalyst",
+    "name": "Intrinsic Catalyst",
+    "chaosValue": 3.96,
+    "volume": 750.0,
+    "trend": 76.24,
+    "sparkline": [
+      0.31,
+      -23.63,
+      -15.59,
+      -10.72,
+      5.72,
+      66.95,
+      76.24
+    ]
+  },
+  {
+    "id": "jewellers",
+    "name": "Jeweller's Orb",
+    "chaosValue": 0.06699,
+    "volume": 625.3,
+    "trend": 46.76,
+    "sparkline": [
+      -20.83,
+      -20.67,
+      -27.37,
+      -17.10,
+      6.42,
+      20.90,
+      46.76
+    ]
+  },
+  {
+    "id": "lesser-eldritch-ember",
+    "name": "Lesser Eldritch Ember",
+    "chaosValue": 0.5897,
+    "volume": 248.2,
+    "trend": 74.26,
+    "sparkline": [
+      0.88,
+      10.00,
+      10.00,
+      47.81,
+      63.65,
+      72.62,
+      74.26
+    ]
+  },
+  {
+    "id": "lesser-eldritch-ichor",
+    "name": "Lesser Eldritch Ichor",
+    "chaosValue": 0.2476,
+    "volume": 80.50,
+    "trend": 96.42,
+    "sparkline": [
+      -3.33,
+      -6.36,
+      4.70,
+      59.99,
+      15.89,
+      82.50,
+      96.42
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-avarice",
+    "name": "Maven's Chisel of Avarice",
+    "chaosValue": 56.62,
+    "volume": 2916,
+    "trend": 2.68,
+    "sparkline": [
+      87.19,
+      56.35,
+      41.45,
+      24.59,
+      38.49,
+      38.42,
+      2.68
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-divination",
+    "name": "Maven's Chisel of Divination",
+    "chaosValue": 7.94,
+    "volume": 190.5,
+    "trend": -22.63,
+    "sparkline": [
+      35.85,
+      -30.48,
+      -26.65,
+      6.03,
+      -17.79,
+      -15.24,
+      -22.63
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-procurement",
+    "name": "Maven's Chisel of Procurement",
+    "chaosValue": 16.92,
+    "volume": 62.04,
+    "trend": 36.36,
+    "sparkline": [
+      0,
+      -0.49,
+      -7.62,
+      -50.05,
+      2.59,
+      -6.38,
+      36.36
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-proliferation",
+    "name": "Maven's Chisel of Proliferation",
+    "chaosValue": 15.89,
+    "volume": 601.2,
+    "trend": -16.76,
+    "sparkline": [
+      42.39,
+      17.43,
+      -22.27,
+      -24.03,
+      -28.17,
+      -5.86,
+      -16.76
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-scarabs",
+    "name": "Maven's Chisel of Scarabs",
+    "chaosValue": 27.98,
+    "volume": 1166,
+    "trend": 11.00,
+    "sparkline": [
+      6.76,
+      33.81,
+      21.35,
+      10.55,
+      13.76,
+      -6.21,
+      11.00
+    ]
+  },
+  {
+    "id": "mavens-orb",
+    "name": "Orb of Dominance",
+    "chaosValue": 1468,
+    "volume": 17372,
+    "trend": -13.37,
+    "sparkline": [
+      2.64,
+      33.87,
+      -3.58,
+      -18.73,
+      -13.38,
+      -10.40,
+      -13.37
+    ]
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror of Kalandra",
+    "chaosValue": 490496,
+    "volume": 2207234,
+    "trend": 30.81,
+    "sparkline": [
+      -0.87,
+      0.68,
+      8.67,
+      7.81,
+      11.94,
+      14.25,
+      30.81
+    ]
+  },
+  {
+    "id": "mirror-shard",
+    "name": "Mirror Shard",
+    "chaosValue": 24690,
+    "volume": 777728,
+    "trend": 32.35,
+    "sparkline": [
+      -0.11,
+      1.65,
+      11.36,
+      9.24,
+      12.40,
+      14.88,
+      32.35
+    ]
+  },
+  {
+    "id": "noxious-catalyst",
+    "name": "Noxious Catalyst",
+    "chaosValue": 2.74,
+    "volume": 172.5,
+    "trend": 92.42,
+    "sparkline": [
+      -39.44,
+      -6.72,
+      10.64,
+      -11.84,
+      9.55,
+      -40.06,
+      92.42
+    ]
+  },
+  {
+    "id": "operatives-scouting-report",
+    "name": "Operative's Scouting Report",
+    "chaosValue": 3.81,
+    "volume": 74.33,
+    "trend": 375.6,
+    "sparkline": [
+      328.7,
+      400.6,
+      55.08,
+      64.45,
+      176.6,
+      72.59,
+      375.6
+    ]
+  },
+  {
+    "id": "orb-of-binding",
+    "name": "Orb of Binding",
+    "chaosValue": 0.001590,
+    "volume": 0.1667,
+    "trend": -86.33,
+    "sparkline": [
+      431.0,
+      370.0,
+      165.9,
+      268.8,
+      43.27,
+      21.30,
+      -86.33
+    ]
+  },
+  {
+    "id": "orb-of-conflict",
+    "name": "Orb of Conflict",
+    "chaosValue": 476.8,
+    "volume": 9058,
+    "trend": 40.34,
+    "sparkline": [
+      34.79,
+      32.07,
+      47.46,
+      62.20,
+      44.36,
+      35.49,
+      40.34
+    ]
+  },
+  {
+    "id": "orb-of-horizons",
+    "name": "Orb of Horizons",
+    "chaosValue": 0.09991,
+    "volume": 73.50,
+    "trend": 301.6,
+    "sparkline": [
+      385.2,
+      295.3,
+      294.9,
+      265.3,
+      449.2,
+      309.3,
+      301.6
+    ]
+  },
+  {
+    "id": "orb-of-intention",
+    "name": "Orb of Intention",
+    "chaosValue": 15.91,
+    "volume": 145.8,
+    "trend": 136.6,
+    "sparkline": [
+      109.6,
+      104.9,
+      66.08,
+      33.68,
+      99.12,
+      176.2,
+      136.6
+    ]
+  },
+  {
+    "id": "orb-of-remembrance",
+    "name": "Orb of Remembrance",
+    "chaosValue": 532.7,
+    "volume": 5150,
+    "trend": 144.5,
+    "sparkline": [
+      -1.41,
+      18.97,
+      54.78,
+      117.3,
+      96.44,
+      106.0,
+      144.5
+    ]
+  },
+  {
+    "id": "orb-of-unmaking",
+    "name": "Orb of Unmaking",
+    "chaosValue": 0.1838,
+    "volume": 448.5,
+    "trend": -8.34,
+    "sparkline": [
+      7.93,
+      11.87,
+      42.99,
+      -8.34,
+      44.18,
+      156.5,
+      -8.34
+    ]
+  },
+  {
+    "id": "orb-of-unravelling",
+    "name": "Orb of Unravelling",
+    "chaosValue": 87,
+    "volume": 101.5,
+    "trend": 273.6,
+    "sparkline": [
+      -18.95,
+      -17.99,
+      -21.21,
+      -5.62,
+      12.21,
+      28.57,
+      273.6
+    ]
+  },
+  {
+    "id": "portal",
+    "name": "Portal Scroll",
+    "chaosValue": 0.01395,
+    "volume": 33.67,
+    "trend": -9.58,
+    "sparkline": [
+      -21.56,
+      -22.22,
+      -45.92,
+      -51.27,
+      -56.89,
+      -9.21,
+      -9.58
+    ]
+  },
+  {
+    "id": "primal-lifeforce",
+    "name": "Primal Crystallised Lifeforce",
+    "chaosValue": 0.04214,
+    "volume": 8128,
+    "trend": -10.63,
+    "sparkline": [
+      -4.33,
+      -4.08,
+      3.94,
+      -8.64,
+      -4.09,
+      -11.35,
+      -10.63
+    ]
+  },
+  {
+    "id": "prismatic-catalyst",
+    "name": "Prismatic Catalyst",
+    "chaosValue": 39.86,
+    "volume": 1256,
+    "trend": 12.73,
+    "sparkline": [
+      -7.89,
+      -21.04,
+      -13.20,
+      -6.18,
+      -3.95,
+      14.02,
+      12.73
+    ]
+  },
+  {
+    "id": "redeemers-exalted-orb",
+    "name": "Redeemer's Exalted Orb",
+    "chaosValue": 651.5,
+    "volume": 434.3,
+    "trend": 75.00,
+    "sparkline": [
+      0,
+      0,
+      -12.50,
+      0,
+      -12.50,
+      22.32,
+      75.00
+    ]
+  },
+  {
+    "id": "reflecting-mist",
+    "name": "Reflecting Mist",
+    "chaosValue": 7276,
+    "volume": 26679,
+    "trend": 13.42,
+    "sparkline": [
+      5.90,
+      2.72,
+      5.90,
+      10.64,
+      18.37,
+      11.21,
+      13.42
+    ]
+  },
+  {
+    "id": "regal",
+    "name": "Regal Orb",
+    "chaosValue": 0.5578,
+    "volume": 186.1,
+    "trend": 42.43,
+    "sparkline": [
+      0,
+      4.45,
+      4.64,
+      null,
+      4.54,
+      25.02,
+      42.43
+    ]
+  },
+  {
+    "id": "regal-implant",
+    "name": "Regal Implant",
+    "chaosValue": 0.4113,
+    "volume": 8.50,
+    "trend": 94.86,
+    "sparkline": [
+      105.1,
+      -28.73,
+      39.70,
+      20.35,
+      12.02,
+      1.42,
+      94.86
+    ]
+  },
+  {
+    "id": "regret",
+    "name": "Orb of Regret",
+    "chaosValue": 6.05,
+    "volume": 12347,
+    "trend": 89.49,
+    "sparkline": [
+      55.48,
+      23.43,
+      22.41,
+      5.80,
+      61.95,
+      50.19,
+      89.49
+    ]
+  },
+  {
+    "id": "rogues-marker",
+    "name": "Rogue's Marker",
+    "chaosValue": 0.0001875,
+    "volume": 29.33,
+    "trend": -28.80,
+    "sparkline": [
+      70.24,
+      59.44,
+      -1.34,
+      3.98,
+      -14.35,
+      -27.60,
+      -28.80
+    ]
+  },
+  {
+    "id": "sacred-lifeforce",
+    "name": "Sacred Crystallised Lifeforce",
+    "chaosValue": 284.2,
+    "volume": 4405,
+    "trend": -17.29,
+    "sparkline": [
+      -22.68,
+      -16.80,
+      -20.54,
+      -16.91,
+      -3.69,
+      21.05,
+      -17.29
+    ]
+  },
+  {
+    "id": "sacred-orb",
+    "name": "Sacred Orb",
+    "chaosValue": 44.68,
+    "volume": 685.2,
+    "trend": 26.83,
+    "sparkline": [
+      -4.74,
+      -5.94,
+      1.29,
+      2.99,
+      4.57,
+      11.38,
+      26.83
+    ]
+  },
+  {
+    "id": "scour",
+    "name": "Orb of Scouring",
+    "chaosValue": 0.8590,
+    "volume": 4343,
+    "trend": -6.52,
+    "sparkline": [
+      66.58,
+      32.69,
+      6.48,
+      15.42,
+      32.28,
+      10.18,
+      -6.52
+    ]
+  },
+  {
+    "id": "scrap",
+    "name": "Armourer's Scrap",
+    "chaosValue": 0.06472,
+    "volume": 131.7,
+    "trend": -14.58,
+    "sparkline": [
+      -30.24,
+      -40.23,
+      11.76,
+      -8.82,
+      -16.38,
+      -5.78,
+      -14.58
+    ]
+  },
+  {
+    "id": "shapers-exalted-orb",
+    "name": "Shaper's Exalted Orb",
+    "chaosValue": 81.42,
+    "volume": 488.5,
+    "trend": 4.47,
+    "sparkline": [
+      -24.56,
+      -15.50,
+      -15.01,
+      -6.88,
+      -15.24,
+      -27.09,
+      4.47
+    ]
+  },
+  {
+    "id": "singular-scouting-report",
+    "name": "Singular Scouting Report",
+    "chaosValue": 2.25,
+    "volume": 554.2,
+    "trend": -44.59,
+    "sparkline": [
+      -25.35,
+      -24.42,
+      -26.71,
+      -59.50,
+      -56.42,
+      -35.95,
+      -44.59
+    ]
+  },
+  {
+    "id": "stacked-deck",
+    "name": "Stacked Deck",
+    "chaosValue": 4.56,
+    "volume": 95300,
+    "trend": 1.33,
+    "sparkline": [
+      -4.21,
+      3.31,
+      2.02,
+      16.90,
+      32.24,
+      0.56,
+      1.33
+    ]
+  },
+  {
+    "id": "tailoring-orb",
+    "name": "Tailoring Orb",
+    "chaosValue": 1075,
+    "volume": 19172,
+    "trend": 25.30,
+    "sparkline": [
+      12.16,
+      13.30,
+      18.99,
+      31.15,
+      36.89,
+      65.72,
+      25.30
+    ]
+  },
+  {
+    "id": "tainted-armourers-scrap",
+    "name": "Tainted Armourer's Scrap",
+    "chaosValue": 2.14,
+    "volume": 191.8,
+    "trend": 21.82,
+    "sparkline": [
+      -56.59,
+      -19.51,
+      -29.27,
+      10.76,
+      -6.23,
+      -29.43,
+      21.82
+    ]
+  },
+  {
+    "id": "tainted-blacksmiths-whetstone",
+    "name": "Tainted Blacksmith's Whetstone",
+    "chaosValue": 3.57,
+    "volume": 44.67,
+    "trend": 212.7,
+    "sparkline": [
+      -32.71,
+      27.03,
+      -24.63,
+      -22.65,
+      -0.87,
+      54.31,
+      212.7
+    ]
+  },
+  {
+    "id": "tainted-catalyst",
+    "name": "Tainted Catalyst",
+    "chaosValue": 10.42,
+    "volume": 1183,
+    "trend": 4.82,
+    "sparkline": [
+      -26.31,
+      -27.29,
+      -12.81,
+      37.19,
+      47.04,
+      6.10,
+      4.82
+    ]
+  },
+  {
+    "id": "tainted-chaos-orb",
+    "name": "Tainted Chaos Orb",
+    "chaosValue": 3.94,
+    "volume": 11.83,
+    "trend": -45.20,
+    "sparkline": [
+      -34.49,
+      -3.79,
+      -42.18,
+      -8.60,
+      -41.19,
+      -79.86,
+      -45.20
+    ]
+  },
+  {
+    "id": "tainted-chromatic-orb",
+    "name": "Tainted Chromatic Orb",
+    "chaosValue": 11.86,
+    "volume": 1650,
+    "trend": 215.7,
+    "sparkline": [
+      4.63,
+      -26.75,
+      0.22,
+      40.56,
+      48.74,
+      46.37,
+      215.7
+    ]
+  },
+  {
+    "id": "tainted-divine-teardrop",
+    "name": "Tainted Divine Teardrop",
+    "chaosValue": 2047,
+    "volume": 2730,
+    "trend": 73.68,
+    "sparkline": [
+      8.89,
+      35.09,
+      95.66,
+      58.11,
+      47.76,
+      27.07,
+      73.68
+    ]
+  },
+  {
+    "id": "tainted-exalted-orb",
+    "name": "Tainted Exalted Orb",
+    "chaosValue": 90,
+    "volume": 15.00,
+    "trend": 236.2,
+    "sparkline": [
+      0.61,
+      14.98,
+      33.58,
+      41.21,
+      223.5,
+      266.2,
+      236.2
+    ]
+  },
+  {
+    "id": "tainted-jewellers-orb",
+    "name": "Tainted Jeweller's Orb",
+    "chaosValue": 0.1544,
+    "volume": 50.83,
+    "trend": -58.20,
+    "sparkline": [
+      -24.10,
+      -27.32,
+      4.70,
+      9.79,
+      30.74,
+      52.47,
+      -58.20
+    ]
+  },
+  {
+    "id": "tainted-mythic-orb",
+    "name": "Tainted Mythic Orb",
+    "chaosValue": 13.41,
+    "volume": 163.2,
+    "trend": 34.65,
+    "sparkline": [
+      6.37,
+      -46.35,
+      -22.48,
+      -18.14,
+      22.43,
+      145.6,
+      34.65
+    ]
+  },
+  {
+    "id": "tainted-orb-of-fusing",
+    "name": "Tainted Orb of Fusing",
+    "chaosValue": 17.90,
+    "volume": 701.0,
+    "trend": 101.1,
+    "sparkline": [
+      50.46,
+      34.32,
+      -6.40,
+      16.61,
+      22.62,
+      73.19,
+      101.1
+    ]
+  },
+  {
+    "id": "tempering-catalyst",
+    "name": "Tempering Catalyst",
+    "chaosValue": 4.65,
+    "volume": 126.3,
+    "trend": -15.84,
+    "sparkline": [
+      -1.75,
+      -26.36,
+      42.51,
+      -11.45,
+      6.07,
+      -14.67,
+      -15.84
+    ]
+  },
+  {
+    "id": "tempering-orb",
+    "name": "Tempering Orb",
+    "chaosValue": 1154,
+    "volume": 49636,
+    "trend": 87.55,
+    "sparkline": [
+      1.00,
+      15.15,
+      43.08,
+      53.45,
+      67.01,
+      104.5,
+      87.55
+    ]
+  },
+  {
+    "id": "transmute",
+    "name": "Orb of Transmutation",
+    "chaosValue": 0.001162,
+    "volume": 5.50,
+    "trend": -20.80,
+    "sparkline": [
+      2.03,
+      -1.89,
+      3.47,
+      94.16,
+      24.29,
+      -12.68,
+      -20.80
+    ]
+  },
+  {
+    "id": "turbulent-catalyst",
+    "name": "Turbulent Catalyst",
+    "chaosValue": 2.33,
+    "volume": 87.00,
+    "trend": 43.61,
+    "sparkline": [
+      -32.52,
+      -36.58,
+      -12.04,
+      -3.21,
+      22.36,
+      97.01,
+      43.61
+    ]
+  },
+  {
+    "id": "unstable-catalyst",
+    "name": "Unstable Catalyst",
+    "chaosValue": 5,
+    "volume": 87.5,
+    "trend": 68.92,
+    "sparkline": [
+      -18.64,
+      -55.55,
+      9.49,
+      -13.21,
+      192.8,
+      -2.95,
+      68.92
+    ]
+  },
+  {
+    "id": "unstable-implant",
+    "name": "Unstable Implant",
+    "chaosValue": 48.29,
+    "volume": 225.3,
+    "trend": -74.32,
+    "sparkline": [
+      -35.03,
+      -35.64,
+      -26.97,
+      -36.19,
+      -48.69,
+      -38.50,
+      -74.32
+    ]
+  },
+  {
+    "id": "vaal",
+    "name": "Vaal Orb",
+    "chaosValue": 1.01,
+    "volume": 2339,
+    "trend": 107.2,
+    "sparkline": [
+      -4.46,
+      -25.69,
+      -34.86,
+      -26.38,
+      4.48,
+      104.4,
+      107.2
+    ]
+  },
+  {
+    "id": "vaal-scouting-report",
+    "name": "Vaal Scouting Report",
+    "chaosValue": 1.71,
+    "volume": 367.3,
+    "trend": -42.85,
+    "sparkline": [
+      -6.67,
+      -12.89,
+      -25.99,
+      -59.88,
+      -47.01,
+      -56.16,
+      -42.85
+    ]
+  },
+  {
+    "id": "veiled-chaos-orb",
+    "name": "Veiled Chaos Orb",
+    "chaosValue": 34.90,
+    "volume": 1169,
+    "trend": 35.48,
+    "sparkline": [
+      22.62,
+      15.37,
+      11.07,
+      -5.44,
+      19.29,
+      1.57,
+      35.48
+    ]
+  },
+  {
+    "id": "veiled-exalted-orb",
+    "name": "Veiled Exalted Orb",
+    "chaosValue": 4523,
+    "volume": 15077,
+    "trend": 19.83,
+    "sparkline": [
+      1.63,
+      -19.09,
+      -6.05,
+      -15.23,
+      -19.27,
+      -7.57,
+      19.83
+    ]
+  },
+  {
+    "id": "vivid-lifeforce",
+    "name": "Vivid Crystallised Lifeforce",
+    "chaosValue": 0.1955,
+    "volume": 533583,
+    "trend": 77.56,
+    "sparkline": [
+      18.08,
+      18.68,
+      38.09,
+      62.48,
+      28.92,
+      88.23,
+      77.56
+    ]
+  },
+  {
+    "id": "warlords-exalted-orb",
+    "name": "Warlord's Exalted Orb",
+    "chaosValue": 114.6,
+    "volume": 95.50,
+    "trend": -24.40,
+    "sparkline": [
+      107.3,
+      -16.32,
+      52.08,
+      -1.58,
+      13.49,
+      -67.06,
+      -24.40
+    ]
+  },
+  {
+    "id": "whetstone",
+    "name": "Blacksmith's Whetstone",
+    "chaosValue": 0.01334,
+    "volume": 32.83,
+    "trend": -76.56,
+    "sparkline": [
+      -20.30,
+      -47.95,
+      -26.21,
+      -57.18,
+      -40.45,
+      -10.87,
+      -76.56
+    ]
+  },
+  {
+    "id": "wild-lifeforce",
+    "name": "Wild Crystallised Lifeforce",
+    "chaosValue": 0.03916,
+    "volume": 5274,
+    "trend": -9.80,
+    "sparkline": [
+      3.52,
+      5.53,
+      -1.22,
+      4.30,
+      43.25,
+      24.15,
+      -9.80
+    ]
+  },
+  {
+    "id": "wisdom",
+    "name": "Scroll of Wisdom",
+    "chaosValue": 0.03512,
+    "volume": 62.04,
+    "trend": 3.77,
+    "sparkline": [
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3.77
+    ]
+  }
+]
