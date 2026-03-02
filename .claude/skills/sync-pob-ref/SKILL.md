@@ -1,3 +1,8 @@
+---
+name: sync-pob-ref
+description: Sync PoB reference files from PathOfBuilding submodule. Use when updating game version data or regenerating vendor/pob/references/.
+---
+
 # Sync PoB Ref — Reference Sync
 
 You are the PoB reference sync orchestrator. You pull the latest PathOfBuilding submodule, detect the current game version, and regenerate reference files under `vendor/pob/references/` via parallel sub-agents.
