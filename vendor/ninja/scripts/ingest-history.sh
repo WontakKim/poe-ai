@@ -1,13 +1,15 @@
 #!/usr/bin/env bash
 # Usage: bash vendor/ninja/scripts/ingest-history.sh <current_league> <previous_league> <data_dir> <type> <gameVersion>
 # Input:  existing db/ninja/<current_league>/<type>/<type>.json + poe.ninja History API
-# Output: merges priceHistory field into existing <type>.json
-# Stdout: OK / ENRICHED / SKIPPED / ERRORS / COVERAGE
+# Output: vendor/ninja/<previous_league>/histories/<type>.json (standalone cache)
+#         vendor/ninja/<previous_league>/histories/<type>.idmap.json (overview API cache)
+# Stdout: OK / TOTAL / CACHED / FETCHED / NULL / COVERAGE
 # Exit:   0 = success, 1 = error
 #
 # Fetches daily price history from the previous league for items with volume > 10.
-# Converts daysAgo → day (league-relative), compresses day 15+ into weekly averages.
-# Items not found in the previous league get priceHistory.data: null.
+# Converts daysAgo -> day (league-relative), compresses day 15+ into weekly averages.
+# Results are cached per item -- subsequent runs only fetch missing items.
+# Items with no API data are cached as null to prevent re-fetching.
 #
 # NOTE: poe.ninja history API has a ~135-day rolling window from today.
 # For best coverage, run this soon after a new league starts (previous league data
@@ -34,6 +36,12 @@ else
   ninja_type=$(jq -r '.ninjaType' "$data_dir/$type/source.json")
   [[ -n "$ninja_type" && "$ninja_type" != "null" ]] || { echo "ERROR: Cannot read ninjaType from source.json" >&2; exit 1; }
 fi
+
+# Cache paths
+cache_dir="vendor/ninja/${previous_league}/histories"
+cache_file="$cache_dir/${type}.json"
+idmap_cache="$cache_dir/${type}.idmap.json"
+mkdir -p "$cache_dir"
 
 # Get previous league metadata from leagues.json
 prev_entry=$(jq -c --arg l "$previous_league" '.[] | select(.league == $l)' vendor/ninja/leagues.json)
@@ -67,25 +75,29 @@ tmp_dir="$TMPDIR/ninja_history_$$"
 mkdir -p "$tmp_dir/raw"
 trap 'rm -rf "$tmp_dir"' EXIT
 
-# ── 1. Fetch previous league overview → build ID mapping ────────────
-echo "Fetching $previous_league $ninja_type overview..." >&2
-
-if [[ "$is_currency" == "true" ]]; then
-  curl -sL "https://poe.ninja/api/data/CurrencyOverview?league=${previous_league}&type=Currency" > "$tmp_dir/prev_overview.json"
-  [[ -s "$tmp_dir/prev_overview.json" ]] || { echo "ERROR: Empty response from previous league CurrencyOverview" >&2; exit 1; }
-  # tradeId → numericId
-  jq -r '.currencyDetails[] | select(.tradeId != null) | "\(.tradeId)\t\(.id)"' "$tmp_dir/prev_overview.json" > "$tmp_dir/id_map.tsv"
+# -- 1. Fetch previous league overview -> build ID mapping (with cache) --
+if [[ -f "$idmap_cache" ]]; then
+  echo "Using cached idmap: $idmap_cache" >&2
+  jq -r 'to_entries[] | "\(.key)\t\(.value)"' "$idmap_cache" > "$tmp_dir/id_map.tsv"
 else
-  curl -sL "https://poe.ninja/api/data/ItemOverview?league=${previous_league}&type=${ninja_type}" > "$tmp_dir/prev_overview.json"
-  [[ -s "$tmp_dir/prev_overview.json" ]] || { echo "ERROR: Empty response from previous league ItemOverview" >&2; exit 1; }
-  # detailsId → numericId
-  jq -r '.lines[] | "\(.detailsId)\t\(.id)"' "$tmp_dir/prev_overview.json" > "$tmp_dir/id_map.tsv"
+  echo "Fetching $previous_league $ninja_type overview..." >&2
+  if [[ "$is_currency" == "true" ]]; then
+    curl -sL "https://poe.ninja/api/data/CurrencyOverview?league=${previous_league}&type=Currency" > "$tmp_dir/prev_overview.json"
+    [[ -s "$tmp_dir/prev_overview.json" ]] || { echo "ERROR: Empty response from previous league CurrencyOverview" >&2; exit 1; }
+    jq -r '.currencyDetails[] | select(.tradeId != null) | "\(.tradeId)\t\(.id)"' "$tmp_dir/prev_overview.json" > "$tmp_dir/id_map.tsv"
+    jq '.currencyDetails | [.[] | select(.tradeId != null) | {key: .tradeId, value: .id}] | from_entries' "$tmp_dir/prev_overview.json" > "$idmap_cache"
+  else
+    curl -sL "https://poe.ninja/api/data/ItemOverview?league=${previous_league}&type=${ninja_type}" > "$tmp_dir/prev_overview.json"
+    [[ -s "$tmp_dir/prev_overview.json" ]] || { echo "ERROR: Empty response from previous league ItemOverview" >&2; exit 1; }
+    jq -r '.lines[] | "\(.detailsId)\t\(.id)"' "$tmp_dir/prev_overview.json" > "$tmp_dir/id_map.tsv"
+    jq '[.lines[] | {key: .detailsId, value: .id}] | from_entries' "$tmp_dir/prev_overview.json" > "$idmap_cache"
+  fi
 fi
 
 map_count=$(wc -l < "$tmp_dir/id_map.tsv" | tr -d ' ')
 echo "Previous league ID map: $map_count entries" >&2
 
-# ── 2. Build fetch list: volume > 10 AND exists in previous league ──
+# -- 2. Build fetch list: volume > 10 AND exists in previous league ------
 jq -r '.[] | "\(.id)\t\(.volume // 0)"' "$data_file" > "$tmp_dir/current_items.tsv"
 
 # Match + deduplicate (macOS awk: use ==0 instead of !)
@@ -94,12 +106,29 @@ awk -F'\t' '
   $2+0 > 10 && ($1 in map) && seen[$1]==0 { seen[$1]=1; print $1 "\t" map[$1] }
 ' "$tmp_dir/id_map.tsv" "$tmp_dir/current_items.tsv" > "$tmp_dir/fetch_list.tsv"
 
-fetch_count=$(wc -l < "$tmp_dir/fetch_list.tsv" | tr -d ' ')
+eligible_count=$(wc -l < "$tmp_dir/fetch_list.tsv" | tr -d ' ')
 total_items=$(jq length "$data_file")
-echo "Items to fetch: $fetch_count / $total_items (volume > 10, in previous league)" >&2
 
-# ── 3. Fetch history for each matched item ──────────────────────────
-enriched=0
+# -- 3. Filter out already-cached items ------------------------------------
+if [[ -f "$cache_file" ]]; then
+  # Extract all cached keys (including null values = already attempted)
+  jq -r 'keys[]' "$cache_file" > "$tmp_dir/cached_keys.txt"
+
+  # Remove cached items from fetch list
+  awk -F'\t' '
+    NR==FNR { cached[$1]=1; next }
+    cached[$1]==0 { print }
+  ' "$tmp_dir/cached_keys.txt" "$tmp_dir/fetch_list.tsv" > "$tmp_dir/fetch_filtered.tsv"
+  mv "$tmp_dir/fetch_filtered.tsv" "$tmp_dir/fetch_list.tsv"
+fi
+
+fetch_count=$(wc -l < "$tmp_dir/fetch_list.tsv" | tr -d ' ')
+cache_hit=$((eligible_count - fetch_count))
+echo "Items eligible: $eligible_count / $total_items (volume > 10, in previous league)" >&2
+echo "Cache hit: $cache_hit, remaining to fetch: $fetch_count" >&2
+
+# -- 4. Fetch history for each uncached item --------------------------------
+fetched=0
 skipped=0
 errors=0
 
@@ -115,8 +144,9 @@ while IFS=$'\t' read -r item_id numeric_id; do
   sleep 0.2
   resp=$(curl -sL "${history_base}?${history_params}&id=${numeric_id}" 2>/dev/null || true)
 
-  # Empty or invalid response → skip
+  # Empty or invalid response -> mark as null (prevents re-fetch)
   if [[ -z "$resp" || "$resp" == "null" ]]; then
+    echo "null" > "$tmp_dir/raw/${item_id}.json"
     skipped=$((skipped + 1))
     continue
   fi
@@ -135,22 +165,24 @@ while IFS=$'\t' read -r item_id numeric_id; do
   # Check non-empty
   data_len=$(jq length "$tmp_dir/raw/${item_id}.json")
   if [[ "$data_len" -eq 0 ]]; then
-    rm -f "$tmp_dir/raw/${item_id}.json"
+    echo "null" > "$tmp_dir/raw/${item_id}.json"
     skipped=$((skipped + 1))
     continue
   fi
 
-  enriched=$((enriched + 1))
+  fetched=$((fetched + 1))
 
   # Progress every 100 items
-  if (( (enriched + skipped + errors) % 100 == 0 )); then
-    echo "  Progress: $((enriched + skipped + errors)) / $fetch_count" >&2
+  if (( (fetched + skipped + errors) % 100 == 0 )); then
+    echo "  Progress: $((fetched + skipped + errors)) / $fetch_count" >&2
   fi
 done < "$tmp_dir/fetch_list.tsv"
 
-echo "Fetched: $enriched enriched, $skipped skipped, $errors errors" >&2
+echo "Fetched: $fetched enriched, $skipped empty, $errors errors" >&2
 
-# ── 4. Build history map JSON: { "item-id": [...raw data...], ... } ──
+# -- 5. Compress new items + merge into cache --------------------------------
+
+# Build raw map from new fetches
 (
   echo "{"
   first=true
@@ -162,32 +194,25 @@ echo "Fetched: $enriched enriched, $skipped skipped, $errors errors" >&2
     else
       echo ","
     fi
-    # JSON-encode the key (printf without newline to avoid jq -Rs trailing \n)
     printf '%s:' "$(printf '%s' "$item_id" | jq -Rs '.')"
     cat "$f"
   done
   echo "}"
-) > "$tmp_dir/history_map.json"
+) > "$tmp_dir/raw_map.json"
 
-# Validate the assembled map
-jq empty "$tmp_dir/history_map.json" 2>/dev/null || { echo "ERROR: Invalid history_map.json" >&2; exit 1; }
+jq empty "$tmp_dir/raw_map.json" 2>/dev/null || { echo "ERROR: Invalid raw_map.json" >&2; exit 1; }
 
-# ── 5. Compress + merge priceHistory into original data ─────────────
+# Compress all entries in a single jq pass (null entries pass through)
 jq --argjson totalDays "$total_days" \
-   --argjson leagueDuration "$league_duration" \
-   --arg prevLeague "$previous_league" \
-   --slurpfile histMap "$tmp_dir/history_map.json" '
-  # Compress raw history: daysAgo → day, filter to league bounds, daily/weekly split
+   --argjson leagueDuration "$league_duration" '
   def compress:
     [.[] | {day: ($totalDays - .daysAgo), chaosValue: .value, volume: .count}]
     | [.[] | select(.day >= 1 and .day <= $leagueDuration)]
     | sort_by(.day)
     | if length == 0 then null
       else (
-        # Day 1-14: keep daily (original resolution)
         [.[] | select(.day <= 14) | {day, chaosValue, volume}]
         +
-        # Day 15+: group by week, average values
         ([.[] | select(.day > 14) | . + {week: (((.day - 1) / 7 | floor) + 1)}]
          | group_by(.week)
          | [.[] | {
@@ -199,46 +224,38 @@ jq --argjson totalDays "$total_days" \
         )
       ) end;
 
-  $histMap[0] as $hm |
-  [.[] |
-    .id as $id |
-    if $hm[$id] then
-      ($hm[$id] | compress) as $data |
-      . + {priceHistory: {league: $prevLeague, data: $data}}
-    else
-      . + {priceHistory: {league: $prevLeague, data: null}}
+  with_entries(
+    if .value == null then .
+    else .value |= compress
     end
-  ]
-' "$data_file" > "$tmp_dir/merged.json"
+  )
+' "$tmp_dir/raw_map.json" > "$tmp_dir/new_entries.json"
 
-# ── 6. Self-validation ──────────────────────────────────────────────
-if ! jq empty "$tmp_dir/merged.json" 2>/dev/null; then
-  echo "ERROR: Invalid merged JSON" >&2
+# Load existing cache (or start empty)
+if [[ -f "$cache_file" ]]; then
+  cp "$cache_file" "$tmp_dir/existing_cache.json"
+else
+  echo '{}' > "$tmp_dir/existing_cache.json"
+fi
+
+# Merge: existing + new (new overwrites for same keys)
+jq -s '.[0] * .[1]' "$tmp_dir/existing_cache.json" "$tmp_dir/new_entries.json" > "$tmp_dir/merged_cache.json"
+
+# -- 6. Validate + save -----------------------------------------------------
+if ! jq empty "$tmp_dir/merged_cache.json" 2>/dev/null; then
+  echo "ERROR: Invalid merged cache JSON" >&2
   exit 1
 fi
 
-merged_count=$(jq length "$tmp_dir/merged.json")
-if [[ "$merged_count" -ne "$total_items" ]]; then
-  echo "ERROR: Item count mismatch — original: $total_items, merged: $merged_count" >&2
-  exit 1
-fi
+mv "$tmp_dir/merged_cache.json" "$cache_file"
 
-# Verify all items have priceHistory field
-has_history=$(jq '[.[] | has("priceHistory")] | all' "$tmp_dir/merged.json")
-if [[ "$has_history" != "true" ]]; then
-  echo "ERROR: Not all items have priceHistory field" >&2
-  exit 1
-fi
+# -- 7. Summary --------------------------------------------------------------
+cache_total=$(jq 'length' "$cache_file")
+null_count=$(jq '[to_entries[] | select(.value == null)] | length' "$cache_file")
 
-# Count enriched items (priceHistory.data is not null)
-enriched_count=$(jq '[.[] | select(.priceHistory.data != null)] | length' "$tmp_dir/merged.json")
-
-# Overwrite original file
-mv "$tmp_dir/merged.json" "$data_file"
-
-# ── 7. Summary ──────────────────────────────────────────────────────
-echo "OK: $data_file"
-echo "ENRICHED: $enriched_count"
-echo "SKIPPED: $((total_items - enriched_count))"
-echo "ERRORS: $errors"
+echo "OK: $cache_file"
+echo "TOTAL: $cache_total"
+echo "CACHED: $cache_hit"
+echo "FETCHED: $fetched"
+echo "NULL: $null_count"
 echo "COVERAGE: ${coverage_pct}%"

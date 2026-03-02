@@ -189,17 +189,11 @@ After Phase 4 report, offer to enrich data with previous league price history.
    ```
    If no previous league found → skip Phase 5 (first league in list).
 
-2. **Ask user:** "Enrich with **{PREV_LEAGUE}** ({PREV_VERSION}) price history? (~10 min for all types)"
+2. **Ask user:** "Enrich with **{PREV_LEAGUE}** ({PREV_VERSION}) price history? (cached in `vendor/ninja/{PREV_LEAGUE}/histories/`, fast on 2nd run)"
    - **Yes** → proceed
    - **No** → skip, output report from Phase 4
 
-3. **Check which types have ninjaId** (required for history API):
-   ```bash
-   jq -e '.[0] | has("ninjaId")' db/ninja/{LEAGUE}/{dir}/{type}.json
-   ```
-   Types without `ninjaId` → skip with warning (need re-ingest first).
-
-4. **Launch 7 history agents** in parallel. For each type:
+3. **Launch 7 history agents** in parallel. For each type:
 
    | `subagent_type` | Timeout |
    |-----------------|---------|
@@ -217,17 +211,17 @@ After Phase 4 report, offer to enrich data with previous league price history.
    Execute the workflow. Note: this script takes several minutes due to rate-limited API calls (200ms per item).
    ```
 
-5. **Report enrichment results:**
+4. **Report enrichment results:**
    ```
-   Type             | Enriched | Skipped | Errors
-   -----------------+----------+---------+-------
-   currency         | 105      | 10      | 0
-   unique-weapon    | 346      | 291     | 0
-   unique-armour    | 626      | 225     | 0
-   unique-accessory | 294      | 15      | 0
-   unique-flask     | 36       | 2       | 0
-   unique-jewel     | 120      | 5       | 0
-   skill-gem        | 1591     | 4351    | 0
+   Type             | Total | Cached | Fetched | Null
+   -----------------+-------+--------+---------+-----
+   currency         | 100   | 95     | 5       | 15
+   unique-weapon    | 500   | 490    | 10      | 50
+   unique-armour    | 600   | 600    | 0       | 80
+   unique-accessory | 250   | 250    | 0       | 30
+   unique-flask     | 35    | 35     | 0       | 5
+   unique-jewel     | 100   | 100    | 0       | 10
+   skill-gem        | 1500  | 1500   | 0       | 200
    ```
 
 ## Required Output Format
@@ -260,8 +254,8 @@ After Phase 4 report, offer to enrich data with previous league price history.
     "previousLeague": "Mercenaries",
     "status": "success | partial | failed | skipped",
     "types": {
-      "currency": { "enriched": 105, "skipped": 10, "errors": 0 },
-      "unique-weapon": { "enriched": 346, "skipped": 291, "errors": 0 }
+      "currency": { "total": 100, "cached": 95, "fetched": 5, "null": 15 },
+      "unique-weapon": { "total": 500, "cached": 490, "fetched": 10, "null": 50 }
     }
   },
   "error": null
@@ -293,4 +287,4 @@ After Phase 4 report, offer to enrich data with previous league price history.
 - Item types all use the same agent (`ninja-ingest-item`) with different `ninjaType` parameter
 - History enrichment is optional and only offered after successful ingest
 - History agents have long timeouts (600s) due to rate-limited API calls (200ms per item)
-- The `ninjaId` field must exist in the data before history enrichment — re-ingest if missing
+- History is cached in `vendor/ninja/{prev_league}/histories/` — second run skips already-fetched items

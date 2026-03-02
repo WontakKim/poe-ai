@@ -1,6 +1,6 @@
 ---
 name: ninja-ingest-history
-description: Run ingest-history.sh to enrich db/ninja/{league}/{type}/*.json with previous league price history.
+description: Run ingest-history.sh to cache previous league price history into vendor/ninja/{prev_league}/histories/.
 tools:
   - Bash
   - Read
@@ -39,10 +39,10 @@ If exit code is non-zero, return error result immediately.
 
 ### 2. Verify Output
 
-Check the script stdout and inspect `{data_dir}/{type}/{type}.json`:
+Check the script stdout and inspect the cache file:
 - Stdout contains `OK:` line (script self-validation passed)
-- Extract `ENRICHED`, `SKIPPED`, and `ERRORS` counts from stdout
-- Spot-check: at least one item has `priceHistory.data` that is a non-empty array
+- Extract `TOTAL`, `CACHED`, `FETCHED`, and `NULL` counts from stdout
+- Spot-check: cache file is valid JSON with at least one non-null entry
 
 ## Required Output Format
 
@@ -50,9 +50,10 @@ Check the script stdout and inspect `{data_dir}/{type}/{type}.json`:
 {
   "status": "completed | error",
   "type": "<type>",
-  "enriched": <from stdout>,
-  "skipped": <from stdout>,
-  "errors": <from stdout>,
+  "total": <from stdout>,
+  "cached": <from stdout>,
+  "fetched": <from stdout>,
+  "null": <from stdout>,
   "error": null
 }
 ```
@@ -62,6 +63,5 @@ Check the script stdout and inspect `{data_dir}/{type}/{type}.json`:
 Before returning results:
 - [ ] Script ran without errors (exit 0)
 - [ ] Stdout contains `OK:` line
-- [ ] ENRICHED count is non-zero (at least some items have history)
-- [ ] At least one item in the JSON has `priceHistory.data` as a non-empty array
-- [ ] All items have a `priceHistory` field (including those with `data: null`)
+- [ ] TOTAL count is non-zero (cache has entries)
+- [ ] Cache file is valid JSON with at least one non-null value
