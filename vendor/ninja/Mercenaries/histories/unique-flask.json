@@ -1,0 +1,6197 @@
+{
+  "atziris-promise": [
+    {
+      "day": 2,
+      "chaosValue": 15.4000000000000000,
+      "volume": 13
+    },
+    {
+      "day": 3,
+      "chaosValue": 20.0000000000000000,
+      "volume": 77
+    },
+    {
+      "day": 4,
+      "chaosValue": 20.0000000000000000,
+      "volume": 236
+    },
+    {
+      "day": 5,
+      "chaosValue": 20.0000000000000000,
+      "volume": 363
+    },
+    {
+      "day": 6,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 14.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 9.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 5.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 5.21,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 5.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 5.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5,
+      "volume": 373,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5,
+      "volume": 295,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 4.61,
+      "volume": 251,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 4,
+      "volume": 243,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4.43,
+      "volume": 216,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 5,
+      "volume": 212,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 5,
+      "volume": 209,
+      "dataPoints": 4
+    }
+  ],
+  "blood-of-the-karui": [
+    {
+      "day": 1,
+      "chaosValue": 1.60000000000000000000,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1.53,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.81,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1.03,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 366,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 296,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 267,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 266,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 236,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 186,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 179,
+      "dataPoints": 4
+    }
+  ],
+  "bottled-faith": [
+    {
+      "day": 2,
+      "chaosValue": 263.8200000000000000,
+      "volume": 7
+    },
+    {
+      "day": 3,
+      "chaosValue": 317.7750000000000000,
+      "volume": 40
+    },
+    {
+      "day": 4,
+      "chaosValue": 281.2200000000000000,
+      "volume": 134
+    },
+    {
+      "day": 5,
+      "chaosValue": 354.7300000000000000,
+      "volume": 201
+    },
+    {
+      "day": 6,
+      "chaosValue": 379.4500000000000000,
+      "volume": 254
+    },
+    {
+      "day": 7,
+      "chaosValue": 454.9800000000000000,
+      "volume": 285
+    },
+    {
+      "day": 8,
+      "chaosValue": 535.4000000000000000,
+      "volume": 398
+    },
+    {
+      "day": 9,
+      "chaosValue": 541.4900000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 625.5800000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 630.4800000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 664.2700000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 710.0100000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 705.8500000000000000,
+      "volume": 398
+    },
+    {
+      "week": 3,
+      "chaosValue": 953.84,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1071.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1229.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1492.28,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1856.88,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1765.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1385.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1244.05,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1283.15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1345.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1395.73,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1368.51,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1321.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1300.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1307.42,
+      "volume": 372,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1349.37,
+      "volume": 357,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1536.64,
+      "volume": 302,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1727.34,
+      "volume": 251,
+      "dataPoints": 4
+    }
+  ],
+  "cinderswallow-urn": [
+    {
+      "day": 2,
+      "chaosValue": 56.5000000000000000,
+      "volume": 14
+    },
+    {
+      "day": 3,
+      "chaosValue": 25.0000000000000000,
+      "volume": 205
+    },
+    {
+      "day": 4,
+      "chaosValue": 16.6000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 14.2000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 20.0000000000000000,
+      "volume": 398
+    },
+    {
+      "week": 3,
+      "chaosValue": 23.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 45.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 51.93,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 57.39,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 91.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 110.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 108.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 130.54,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 142.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 143.83,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 140.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 136.85,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 132.18,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 130.06,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 130.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 134.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 156.61,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 197.17,
+      "volume": 383,
+      "dataPoints": 4
+    }
+  ],
+  "coralitos-signature": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 25
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 337,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 259,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 240,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 227,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 204,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 164,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 155,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 181,
+      "dataPoints": 4
+    }
+  ],
+  "coruscating-elixir": [
+    {
+      "day": 2,
+      "chaosValue": 17.4500000000000000,
+      "volume": 6
+    },
+    {
+      "day": 3,
+      "chaosValue": 19.0000000000000000,
+      "volume": 63
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.0000000000000000,
+      "volume": 240
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 9.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 6.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 6.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 7.03,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 8.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 9,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 9,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 9.14,
+      "volume": 225,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10,
+      "volume": 217,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10,
+      "volume": 182,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 10,
+      "volume": 166,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 9.71,
+      "volume": 152,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 10,
+      "volume": 143,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 11.38,
+      "volume": 150,
+      "dataPoints": 4
+    }
+  ],
+  "divination-distillate": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 11
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 276
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3.47,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 4.35,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3.59,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3,
+      "volume": 309,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3,
+      "volume": 210,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3,
+      "volume": 175,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3,
+      "volume": 177,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3,
+      "volume": 182,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3,
+      "volume": 150,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 2.61,
+      "volume": 121,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 4.35,
+      "volume": 125,
+      "dataPoints": 4
+    }
+  ],
+  "doedres-elixir": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 127
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 393,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 344,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 310,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 265,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 244,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 222,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 205,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 223,
+      "dataPoints": 4
+    }
+  ],
+  "dying-sun": [
+    {
+      "day": 2,
+      "chaosValue": 648.3800000000000000,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 440.6100000000000000,
+      "volume": 54
+    },
+    {
+      "day": 4,
+      "chaosValue": 396.7300000000000000,
+      "volume": 88
+    },
+    {
+      "day": 5,
+      "chaosValue": 459.6900000000000000,
+      "volume": 118
+    },
+    {
+      "day": 6,
+      "chaosValue": 457.6350000000000000,
+      "volume": 188
+    },
+    {
+      "day": 7,
+      "chaosValue": 490.1100000000000000,
+      "volume": 231
+    },
+    {
+      "day": 8,
+      "chaosValue": 536.4100000000000000,
+      "volume": 301
+    },
+    {
+      "day": 9,
+      "chaosValue": 537.6700000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 469.2900000000000000,
+      "volume": 398
+    },
+    {
+      "day": 11,
+      "chaosValue": 457.3000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 473.7300000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 537.4000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 591.1150000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1659.98,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1981.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2191.87,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3104.4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3317.48,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2970.24,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2570.18,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2736.02,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3467.56,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3613.82,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3654.72,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3483.74,
+      "volume": 339,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3304.39,
+      "volume": 322,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3251.61,
+      "volume": 314,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2909.4,
+      "volume": 319,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2570.6,
+      "volume": 315,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 2628.29,
+      "volume": 284,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 2957.59,
+      "volume": 244,
+      "dataPoints": 4
+    }
+  ],
+  "elixir-of-the-unbroken-circle": [
+    {
+      "day": 2,
+      "chaosValue": 660.3350000000000000,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 60.5000000000000000,
+      "volume": 18
+    },
+    {
+      "day": 4,
+      "chaosValue": 85.0000000000000000,
+      "volume": 28
+    },
+    {
+      "day": 5,
+      "chaosValue": 80.0000000000000000,
+      "volume": 42
+    },
+    {
+      "day": 6,
+      "chaosValue": 51.9500000000000000,
+      "volume": 68
+    },
+    {
+      "day": 7,
+      "chaosValue": 40.0000000000000000,
+      "volume": 77
+    },
+    {
+      "day": 8,
+      "chaosValue": 45.1000000000000000,
+      "volume": 59
+    },
+    {
+      "day": 9,
+      "chaosValue": 50.0000000000000000,
+      "volume": 44
+    },
+    {
+      "day": 10,
+      "chaosValue": 77.0000000000000000,
+      "volume": 70
+    },
+    {
+      "day": 11,
+      "chaosValue": 83.0000000000000000,
+      "volume": 90
+    },
+    {
+      "day": 12,
+      "chaosValue": 88.3000000000000000,
+      "volume": 94
+    },
+    {
+      "day": 13,
+      "chaosValue": 100.0000000000000000,
+      "volume": 94
+    },
+    {
+      "day": 14,
+      "chaosValue": 104.5000000000000000,
+      "volume": 105
+    },
+    {
+      "week": 3,
+      "chaosValue": 206.32,
+      "volume": 91,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 417.22,
+      "volume": 118,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 414.84,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 529.31,
+      "volume": 105,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 783.7,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 711.89,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 633.6,
+      "volume": 103,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 572.53,
+      "volume": 80,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 592.68,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 582.26,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 675.32,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1325.19,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 659.96,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 559.56,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 621.53,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 668,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 787.18,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1644.49,
+      "volume": 5,
+      "dataPoints": 4
+    }
+  ],
+  "forbidden-taste": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 2
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 323,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 243,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 218,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 195,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 203,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 189,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 192,
+      "dataPoints": 4
+    }
+  ],
+  "kiaras-determination": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 32
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1.62,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1.21,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 388,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 334,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 370,
+      "dataPoints": 4
+    }
+  ],
+  "laviangas-spirit": [
+    {
+      "day": 1,
+      "chaosValue": 3.0000000000000000,
+      "volume": 2
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1.56,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1.24,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 394,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 328,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 292,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 266,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1.06,
+      "volume": 205,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1,
+      "volume": 181,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 1,
+      "volume": 205,
+      "dataPoints": 4
+    }
+  ],
+  "lions-roar": [
+    {
+      "day": 1,
+      "chaosValue": 2.8500000000000000,
+      "volume": 6
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 171
+    },
+    {
+      "day": 3,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3.99,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 4.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5,
+      "volume": 387,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5,
+      "volume": 350,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5,
+      "volume": 291,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5,
+      "volume": 244,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 5,
+      "volume": 234,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 5,
+      "volume": 225,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 5,
+      "volume": 210,
+      "dataPoints": 4
+    }
+  ],
+  "olroths-resolve": [
+    {
+      "day": 2,
+      "chaosValue": 151.4700000000000000,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.0000000000000000,
+      "volume": 78
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.0000000000000000,
+      "volume": 124
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.0000000000000000,
+      "volume": 187
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.0000000000000000,
+      "volume": 266
+    },
+    {
+      "day": 7,
+      "chaosValue": 10.0000000000000000,
+      "volume": 267
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.0000000000000000,
+      "volume": 301
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.0000000000000000,
+      "volume": 317
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.0000000000000000,
+      "volume": 310
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.0000000000000000,
+      "volume": 305
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.0000000000000000,
+      "volume": 297
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.0000000000000000,
+      "volume": 288
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.0000000000000000,
+      "volume": 302
+    },
+    {
+      "week": 3,
+      "chaosValue": 32.64,
+      "volume": 327,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 102.86,
+      "volume": 334,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 157.14,
+      "volume": 375,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 184.08,
+      "volume": 394,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 196.8,
+      "volume": 379,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 177.76,
+      "volume": 342,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 144.37,
+      "volume": 223,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 133.95,
+      "volume": 184,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 142.57,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 179.6,
+      "volume": 112,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 154.95,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 317.02,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 514.04,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 596.99,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 485.2,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 390.07,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 473.64,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 596.46,
+      "volume": 30,
+      "dataPoints": 4
+    }
+  ],
+  "oriaths-end": [
+    {
+      "day": 2,
+      "chaosValue": 1744.7100000000000000,
+      "volume": 2
+    },
+    {
+      "day": 3,
+      "chaosValue": 1069.4750000000000000,
+      "volume": 12
+    },
+    {
+      "day": 4,
+      "chaosValue": 1044.6200000000000000,
+      "volume": 26
+    },
+    {
+      "day": 5,
+      "chaosValue": 854.1000000000000000,
+      "volume": 23
+    },
+    {
+      "day": 6,
+      "chaosValue": 804.2900000000000000,
+      "volume": 86
+    },
+    {
+      "day": 7,
+      "chaosValue": 730.9900000000000000,
+      "volume": 75
+    },
+    {
+      "day": 8,
+      "chaosValue": 614.0400000000000000,
+      "volume": 173
+    },
+    {
+      "day": 9,
+      "chaosValue": 584.5500000000000000,
+      "volume": 204
+    },
+    {
+      "day": 10,
+      "chaosValue": 625.5600000000000000,
+      "volume": 240
+    },
+    {
+      "day": 11,
+      "chaosValue": 535.6700000000000000,
+      "volume": 311
+    },
+    {
+      "day": 12,
+      "chaosValue": 474.2400000000000000,
+      "volume": 390
+    },
+    {
+      "day": 13,
+      "chaosValue": 472.9650000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 481.1850000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 743.72,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 612.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 420.83,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 410.84,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 393.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 360.15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 348.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 468.85,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 559.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 575.23,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 558.12,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 546.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 528.7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 520.26,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 522.97,
+      "volume": 358,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 539.75,
+      "volume": 362,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 619.77,
+      "volume": 372,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 759.45,
+      "volume": 320,
+      "dataPoints": 4
+    }
+  ],
+  "progenesis": [
+    {
+      "day": 2,
+      "chaosValue": 4680.0000000000000000,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 6100.7450000000000000,
+      "volume": 6
+    },
+    {
+      "day": 4,
+      "chaosValue": 8071.5000000000000000,
+      "volume": 5
+    },
+    {
+      "day": 5,
+      "chaosValue": 9685.7800000000000000,
+      "volume": 16
+    },
+    {
+      "day": 6,
+      "chaosValue": 10174.3550000000000000,
+      "volume": 16
+    },
+    {
+      "day": 7,
+      "chaosValue": 11462.8700000000000000,
+      "volume": 15
+    },
+    {
+      "day": 8,
+      "chaosValue": 13083.2000000000000000,
+      "volume": 36
+    },
+    {
+      "day": 9,
+      "chaosValue": 13081.9850000000000000,
+      "volume": 48
+    },
+    {
+      "day": 10,
+      "chaosValue": 13143.9000000000000000,
+      "volume": 47
+    },
+    {
+      "day": 11,
+      "chaosValue": 13263.6000000000000000,
+      "volume": 65
+    },
+    {
+      "day": 12,
+      "chaosValue": 15064.6100000000000000,
+      "volume": 74
+    },
+    {
+      "day": 13,
+      "chaosValue": 15028.5250000000000000,
+      "volume": 122
+    },
+    {
+      "day": 14,
+      "chaosValue": 15063.2000000000000000,
+      "volume": 126
+    },
+    {
+      "week": 3,
+      "chaosValue": 18298.11,
+      "volume": 204,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 16846.29,
+      "volume": 352,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 14847.51,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 13589.7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 12404.99,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9527.83,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 6738.65,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 6506.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 6245.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 6213.36,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 6241.24,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 6239.11,
+      "volume": 372,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5928.92,
+      "volume": 370,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5727.14,
+      "volume": 356,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5261.06,
+      "volume": 366,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 5159.5,
+      "volume": 361,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 5547,
+      "volume": 321,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 6900.78,
+      "volume": 258,
+      "dataPoints": 4
+    }
+  ],
+  "replica-laviangas-spirit": [
+    {
+      "day": 2,
+      "chaosValue": 2.0000000000000000,
+      "volume": 26
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.0000000000000000,
+      "volume": 75
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.0000000000000000,
+      "volume": 154
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.0000000000000000,
+      "volume": 194
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.0000000000000000,
+      "volume": 277
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 305
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.0000000000000000,
+      "volume": 337
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.0000000000000000,
+      "volume": 384
+    },
+    {
+      "day": 10,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 4.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 6.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 9.48,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 9.99,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10,
+      "volume": 382,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10,
+      "volume": 307,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.29,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 7.87,
+      "volume": 106,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 8.89,
+      "volume": 65,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 10,
+      "volume": 61,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 9.74,
+      "volume": 64,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 9.86,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 10,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 58,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 11.07,
+      "volume": 50,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 18,
+      "volume": 50,
+      "dataPoints": 4
+    }
+  ],
+  "replica-rumis-concoction": [
+    {
+      "day": 2,
+      "chaosValue": 3.0000000000000000,
+      "volume": 33
+    },
+    {
+      "day": 3,
+      "chaosValue": 4.0000000000000000,
+      "volume": 94
+    },
+    {
+      "day": 4,
+      "chaosValue": 4.2000000000000000,
+      "volume": 233
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.0000000000000000,
+      "volume": 277
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.0000000000000000,
+      "volume": 353
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.0000000000000000,
+      "volume": 389
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 5.3000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 7.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 9.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 11.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 14.57,
+      "volume": 363,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 15.86,
+      "volume": 275,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 18,
+      "volume": 231,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 16.37,
+      "volume": 156,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15.43,
+      "volume": 96,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 14.97,
+      "volume": 82,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 17.07,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 20,
+      "volume": 46,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 20,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 20.29,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 20.14,
+      "volume": 48,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 28,
+      "volume": 42,
+      "dataPoints": 4
+    }
+  ],
+  "replica-sorrow-of-the-divine": [
+    {
+      "day": 2,
+      "chaosValue": 10.0000000000000000,
+      "volume": 65
+    },
+    {
+      "day": 3,
+      "chaosValue": 7.0000000000000000,
+      "volume": 256
+    },
+    {
+      "day": 4,
+      "chaosValue": 6.0000000000000000,
+      "volume": 360
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 7.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 9.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10.2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 13.95,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 14.87,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 15,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 14.91,
+      "volume": 224,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15,
+      "volume": 152,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 15.03,
+      "volume": 117,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 12.59,
+      "volume": 92,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10.34,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 17.25,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 23.33,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 39.36,
+      "volume": 75,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 39.5,
+      "volume": 66,
+      "dataPoints": 4
+    }
+  ],
+  "replica-witchfire-brew": [
+    {
+      "day": 2,
+      "chaosValue": 2.0000000000000000,
+      "volume": 27
+    },
+    {
+      "day": 3,
+      "chaosValue": 3.0000000000000000,
+      "volume": 54
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.0000000000000000,
+      "volume": 102
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.0000000000000000,
+      "volume": 112
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.0000000000000000,
+      "volume": 101
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.0000000000000000,
+      "volume": 100
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.0000000000000000,
+      "volume": 146
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.0000000000000000,
+      "volume": 178
+    },
+    {
+      "day": 10,
+      "chaosValue": 6.2000000000000000,
+      "volume": 222
+    },
+    {
+      "day": 11,
+      "chaosValue": 9.5000000000000000,
+      "volume": 284
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.0000000000000000,
+      "volume": 330
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.0000000000000000,
+      "volume": 398
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.0000000000000000,
+      "volume": 398
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 317,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10,
+      "volume": 221,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 13.3,
+      "volume": 125,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 13.5,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20,
+      "volume": 93,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 20,
+      "volume": 77,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 20,
+      "volume": 52,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 20,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 18.07,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 16.78,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 18.2,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 12.4,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 10,
+      "volume": 32,
+      "dataPoints": 4
+    }
+  ],
+  "rotgut": [
+    {
+      "day": 1,
+      "chaosValue": 2.6000000000000000,
+      "volume": 3
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 375,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 294,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 254,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 251,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 246,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1.14,
+      "volume": 220,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 2.17,
+      "volume": 219,
+      "dataPoints": 4
+    }
+  ],
+  "rumis-concoction": [
+    {
+      "day": 2,
+      "chaosValue": 4.0000000000000000,
+      "volume": 28
+    },
+    {
+      "day": 3,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 8.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 9.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 9.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 9.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 9.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 14.34,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 19.89,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 20,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "sins-rebirth": [
+    {
+      "day": 1,
+      "chaosValue": 1.20000000000000000000,
+      "volume": 3
+    },
+    {
+      "day": 2,
+      "chaosValue": 2.0000000000000000,
+      "volume": 21
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.0000000000000000,
+      "volume": 108
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.0000000000000000,
+      "volume": 135
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.0000000000000000,
+      "volume": 117
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.0000000000000000,
+      "volume": 104
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.8000000000000000,
+      "volume": 124
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.0000000000000000,
+      "volume": 182
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.0000000000000000,
+      "volume": 283
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.0000000000000000,
+      "volume": 338
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.0000000000000000,
+      "volume": 384
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.0000000000000000,
+      "volume": 353
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.0000000000000000,
+      "volume": 332
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.0000000000000000,
+      "volume": 334
+    },
+    {
+      "week": 3,
+      "chaosValue": 12.43,
+      "volume": 389,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 18.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 19.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 19.85,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 18.71,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 16.69,
+      "volume": 268,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15,
+      "volume": 144,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 15,
+      "volume": 83,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 15,
+      "volume": 70,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 15,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 15,
+      "volume": 48,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 16.93,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 19.41,
+      "volume": 48,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 19.65,
+      "volume": 55,
+      "dataPoints": 4
+    }
+  ],
+  "soul-catcher": [
+    {
+      "day": 2,
+      "chaosValue": 4.0000000000000000,
+      "volume": 24
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.0000000000000000,
+      "volume": 248
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.0000000000000000,
+      "volume": 342
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3,
+      "volume": 335,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3,
+      "volume": 207,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3,
+      "volume": 145,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3,
+      "volume": 115,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3,
+      "volume": 91,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3,
+      "volume": 88,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2.98,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 3.96,
+      "volume": 82,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 4.38,
+      "volume": 85,
+      "dataPoints": 4
+    }
+  ],
+  "taste-of-hate": [
+    {
+      "day": 2,
+      "chaosValue": 10.0000000000000000,
+      "volume": 126
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.0000000000000000,
+      "volume": 260
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 10.0000000000000000,
+      "volume": 398
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 11.99,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 11.8,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 11.52,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 14.39,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 12.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 13.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 17.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 15.57,
+      "volume": 394,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 15,
+      "volume": 351,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 15,
+      "volume": 296,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 17.36,
+      "volume": 251,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 20,
+      "volume": 224,
+      "dataPoints": 4
+    }
+  ],
+  "the-overflowing-chalice": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 42
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2.03,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2.2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1.92,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2.19,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1.49,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 395,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 365,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 342,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1.46,
+      "volume": 307,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 2,
+      "volume": 349,
+      "dataPoints": 4
+    }
+  ],
+  "the-sorrow-of-the-divine": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 24
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.53,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2.33,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3.03,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2.79,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2.89,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2.85,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2.36,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 365,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 345,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 330,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 1.82,
+      "volume": 304,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 2.86,
+      "volume": 364,
+      "dataPoints": 4
+    }
+  ],
+  "the-wise-oak": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 46
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 4.07,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 4.31,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4.47,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 4.12,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3.65,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 4.84,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 4.14,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 4,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3.78,
+      "volume": 362,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3.84,
+      "volume": 279,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 4,
+      "volume": 258,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 4,
+      "volume": 230,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 4,
+      "volume": 230,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4,
+      "volume": 225,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 5,
+      "volume": 188,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 5.2,
+      "volume": 189,
+      "dataPoints": 4
+    }
+  ],
+  "the-writhing-jar": [
+    {
+      "day": 2,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2.43,
+      "volume": 389,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 2.9,
+      "volume": 336,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3,
+      "volume": 323,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3,
+      "volume": 272,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 3.76,
+      "volume": 229,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 4.5,
+      "volume": 258,
+      "dataPoints": 4
+    }
+  ],
+  "vessel-of-vinktar": [
+    {
+      "day": 2,
+      "chaosValue": 30.0000000000000000,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 25.0000000000000000,
+      "volume": 28
+    },
+    {
+      "day": 4,
+      "chaosValue": 25.0000000000000000,
+      "volume": 32
+    },
+    {
+      "day": 5,
+      "chaosValue": 20.0000000000000000,
+      "volume": 130
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.0000000000000000,
+      "volume": 209
+    },
+    {
+      "day": 7,
+      "chaosValue": 20.0000000000000000,
+      "volume": 284
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 19.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 19.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 19.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 18.7000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 18.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 15.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 17.11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 20,
+      "volume": 388,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 20,
+      "volume": 319,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 20,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20,
+      "volume": 190,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 20,
+      "volume": 130,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 20,
+      "volume": 105,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 20,
+      "volume": 95,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 25.64,
+      "volume": 90,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 24.11,
+      "volume": 89,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 20,
+      "volume": 76,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 19.99,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 19.63,
+      "volume": 55,
+      "dataPoints": 4
+    }
+  ],
+  "voranas-preparation": [
+    {
+      "day": 2,
+      "chaosValue": 3.0000000000000000,
+      "volume": 73
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.0000000000000000,
+      "volume": 146
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.0000000000000000,
+      "volume": 212
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.0000000000000000,
+      "volume": 257
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.0000000000000000,
+      "volume": 314
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 339
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.0000000000000000,
+      "volume": 376
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2.86,
+      "volume": 386,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3.4,
+      "volume": 294,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 5,
+      "volume": 210,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 8.09,
+      "volume": 153,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 118,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10,
+      "volume": 104,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 18.33,
+      "volume": 88,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 19.14,
+      "volume": 83,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 20,
+      "volume": 72,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 19.56,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 18.99,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 54.14,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 88.29,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 83.29,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 85.21,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 90,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 90,
+      "volume": 13,
+      "dataPoints": 4
+    }
+  ],
+  "wine-of-the-prophet": [
+    {
+      "day": 2,
+      "chaosValue": 4740.5000000000000000,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 885.7650000000000000,
+      "volume": 32
+    },
+    {
+      "day": 4,
+      "chaosValue": 1301.9200000000000000,
+      "volume": 23
+    },
+    {
+      "day": 5,
+      "chaosValue": 2491.5200000000000000,
+      "volume": 47
+    },
+    {
+      "day": 6,
+      "chaosValue": 2131.1500000000000000,
+      "volume": 48
+    },
+    {
+      "day": 7,
+      "chaosValue": 2883.1800000000000000,
+      "volume": 73
+    },
+    {
+      "day": 8,
+      "chaosValue": 2992.6600000000000000,
+      "volume": 100
+    },
+    {
+      "day": 9,
+      "chaosValue": 3380.4100000000000000,
+      "volume": 84
+    },
+    {
+      "day": 10,
+      "chaosValue": 4230.3600000000000000,
+      "volume": 104
+    },
+    {
+      "day": 11,
+      "chaosValue": 5368.6000000000000000,
+      "volume": 119
+    },
+    {
+      "day": 12,
+      "chaosValue": 6482.1000000000000000,
+      "volume": 126
+    },
+    {
+      "day": 13,
+      "chaosValue": 7115.1750000000000000,
+      "volume": 176
+    },
+    {
+      "day": 14,
+      "chaosValue": 7506.2750000000000000,
+      "volume": 180
+    },
+    {
+      "week": 3,
+      "chaosValue": 11588.3,
+      "volume": 179,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 14498,
+      "volume": 248,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 15641.6,
+      "volume": 222,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 22530.53,
+      "volume": 273,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 25118.18,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 25314.72,
+      "volume": 287,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 22019.44,
+      "volume": 285,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 21767.34,
+      "volume": 256,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 24217.7,
+      "volume": 224,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 25589,
+      "volume": 180,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 26665.91,
+      "volume": 156,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 25970.72,
+      "volume": 146,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 25091.4,
+      "volume": 123,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 24570.47,
+      "volume": 115,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 23305,
+      "volume": 124,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 23035.42,
+      "volume": 119,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 27774.33,
+      "volume": 98,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 35451.54,
+      "volume": 119,
+      "dataPoints": 4
+    }
+  ],
+  "witchfire-brew": [
+    {
+      "day": 1,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 222
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.09000000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.0000000000000000,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.6000000000000000,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4.05,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3.4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3.14,
+      "volume": 358,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 4,
+      "volume": 226,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3.66,
+      "volume": 196,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3.03,
+      "volume": 186,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3,
+      "volume": 169,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 3.3,
+      "volume": 157,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 4.45,
+      "volume": 151,
+      "dataPoints": 4
+    }
+  ],
+  "zerphis-last-breath": [
+    {
+      "day": 2,
+      "chaosValue": 2.0000000000000000,
+      "volume": 16
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 116
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 185
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 223
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00000000000000000000,
+      "volume": 238
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.0000000000000000,
+      "volume": 274
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.0000000000000000,
+      "volume": 303
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.0000000000000000,
+      "volume": 306
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.0000000000000000,
+      "volume": 306
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.0000000000000000,
+      "volume": 333
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.0000000000000000,
+      "volume": 344
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.0000000000000000,
+      "volume": 356
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.5500000000000000,
+      "volume": 376
+    },
+    {
+      "week": 3,
+      "chaosValue": 7.86,
+      "volume": 386,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 11.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10,
+      "volume": 397,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10,
+      "volume": 334,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10,
+      "volume": 355,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 10,
+      "volume": 376,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10,
+      "volume": 317,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 10,
+      "volume": 208,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 10,
+      "volume": 137,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10,
+      "volume": 105,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10,
+      "volume": 99,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 9.93,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 19,
+      "chaosValue": 10,
+      "volume": 62,
+      "dataPoints": 7
+    },
+    {
+      "week": 20,
+      "chaosValue": 10,
+      "volume": 49,
+      "dataPoints": 4
+    }
+  ]
+}
