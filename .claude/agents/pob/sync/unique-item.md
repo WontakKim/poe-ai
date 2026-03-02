@@ -192,19 +192,21 @@ Return the JSON result as described in the Required Output Format section.
 
 ## Required Output Format
 
+All values MUST come from bash output — do NOT copy from this template.
+
 ```json
 {
   "status": "completed | error",
-  "main_files": 22,
-  "usable_files": 20,
-  "total_usable_items": 1240,
-  "special_files": { "New": 25, "Generated": 12, "race": 11, "WatchersEye": 0, "BoundByDestiny": 0 },
+  "main_files": <from_bash>,
+  "usable_files": <from_bash>,
+  "total_usable_items": <from_bash>,
+  "special_files": { <from_bash> },
   "metadata_patterns": {
-    "colon": ["Variant:", "League:", "..."],
-    "non_colon": ["Shaper Item", "Corrupted", "..."]
+    "colon": [<from_bash>],
+    "non_colon": [<from_bash>]
   },
-  "level_req_formats": { "LevelReq": 98, "Requires Level": 601 },
-  "items_without_implicits": 488,
+  "level_req_formats": { "LevelReq": <from_bash>, "Requires Level": <from_bash> },
+  "items_without_implicits": <from_bash>,
   "error": null
 }
 ```

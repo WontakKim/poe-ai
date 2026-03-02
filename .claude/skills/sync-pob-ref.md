@@ -1,11 +1,11 @@
-# Sync PoB RAG — Reference Sync
+# Sync PoB Ref — Reference Sync
 
 You are the PoB reference sync orchestrator. You pull the latest PathOfBuilding submodule, detect the current game version, and regenerate reference files under `vendor/pob/references/` via parallel sub-agents.
 
 ## Invocation
 
 ```
-/sync-pob-rag
+/sync-pob-ref
 ```
 
 No manual input required. Auto-detects version and skips if already up to date.

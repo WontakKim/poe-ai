@@ -30,31 +30,41 @@ From the orchestrator:
 
 ## Workflow
 
-### 1. Detect Latest Version and Top-Level Sections
+### 1. Version, Sections, and Historical Counts
 
-Identify the latest game version from `GameVersions.lua`, then locate section boundaries and line count in the corresponding `tree.lua`.
+Single command to detect the latest version, locate section boundaries, and count nodes across all historical versions. The bash script determines `latest` internally — you do NOT need a separate command.
 
 ```bash
+latest=$(sed -n '/^treeVersionList/,/}/p' {pob_path}/src/GameVersions.lua | grep -oE '"[^"]+"' | tail -1 | tr -d '"')
+tree="{pob_path}/src/TreeData/$latest/tree.lua"
 echo "=== VERSIONS ==="
 sed -n '/^treeVersionList/,/}/p' {pob_path}/src/GameVersions.lua
-```
-
-Record the full version list and identify the latest (last element). Set: `tree={pob_path}/src/TreeData/{latest_version}/tree.lua`
-
-```bash
+echo "=== VERSION_COUNT ==="
+sed -n '/^treeVersionList/,/}/p' {pob_path}/src/GameVersions.lua | grep -oE '"[^"]+"' | wc -l
+echo "=== LATEST ==="
+echo "$latest"
 echo "=== SECTIONS ==="
-grep -n '^    \["' {tree}
+grep -n '^\s*\["' "$tree"
 echo "=== LINES ==="
-wc -l < {tree}
+wc -l < "$tree"
+echo "=== HISTORICAL ==="
+for d in {pob_path}/src/TreeData/*/; do
+  ver=$(basename "$d")
+  if [ -f "$d/tree.lua" ]; then
+    nodes=$(grep -c '\["skill"\]=' "$d/tree.lua" 2>/dev/null || echo 0)
+    if [ "$nodes" -gt 0 ]; then echo "$ver $nodes"; fi
+  fi
+done | sort -t_ -k2 -n
 ```
 
-Record section line numbers (groups start, nodes start, nodes end) and total line count.
+Use `VERSION_COUNT` as the total version count and `LATEST` as the latest version. Do NOT count versions manually. Set: `tree={pob_path}/src/TreeData/{latest_version}/tree.lua`. Record section line numbers (groups start, nodes start) for Step 3.
 
-### 2. Single-Pass Data Extraction
+### 2. Data Extraction: Counts, Fields, Ascendancy, Classes, and Alternates
 
-This ONE command extracts all counts, field names, ascendancy distribution, mastery effects, and unique stats in a single pass through tree.lua:
+Single command that runs the mega-perl for node counts/fields/ascendancy distribution, then extracts classes and alternate ascendancies:
 
 ```bash
+echo "=== MEGA_PERL ==="
 perl -ne '
   $total++ if /\["skill"\]=/;
   $keystone++ if /\["isKeystone"\]= true/;
@@ -96,15 +106,6 @@ perl -ne '
     }
   }
 ' {tree}
-```
-
-Record ALL values from the output. The COUNTS section has all numeric data. The FIELDS section has the comma-separated field list. The ASCENDANCY section has the pre-formatted table rows — paste them directly into the reference file.
-
-### 3. Extract Classes, Ascendancies, and Alternates
-
-Single command to get both regular and alternate ascendancy data:
-
-```bash
 echo "=== CLASSES ==="
 perl -ne '
   if (/^\s{4}\["classes"\]= \{/) { $in=1; next }
@@ -126,11 +127,11 @@ perl -ne '
 ' {tree}
 ```
 
-Build the Classes table from CLASSES output (class lines like `Scion|20|20|20` followed by `  asc: Ascendant`). Count alternates from ALTERNATES output.
+Record ALL values. COUNTS has all numeric data. FIELDS has comma-separated field names. ASCENDANCY has pre-formatted table rows — paste directly. CLASSES has class stats and ascendancy names. ALTERNATES has id|name pairs.
 
-### 4. Groups, Points, Constants, and Jewel Slots
+### 3. Structure and Samples
 
-Extract all structural metadata in a single combined command: group count, point allocation, orbit constants, and jewel socket node IDs.
+Single command for groups, constants, points, jewel slots, and all 5 sample nodes:
 
 ```bash
 echo "=== GROUPS ==="
@@ -141,31 +142,7 @@ echo "=== CONSTANTS ==="
 awk '/\["constants"\]= \{/{found=1} found{print} found && /^    \}/{exit}' {tree}
 echo "=== JEWEL_SLOTS ==="
 awk '/\["jewelSlots"\]= \{/{found=1; next} found && /^    \}/{exit} found && /[0-9]/{count++} END{print count}' {tree}
-```
-
-Use `{groups_start}` and `{nodes_start}` line numbers from Step 1.
-
-### 5. Historical Node Counts
-
-Count nodes per version directory to track tree growth across patches.
-
-```bash
-for d in {pob_path}/src/TreeData/*/; do
-  ver=$(basename "$d")
-  if [ -f "$d/tree.lua" ]; then
-    nodes=$(grep -c '\["skill"\]=' "$d/tree.lua" 2>/dev/null || echo 0)
-    if [ "$nodes" -gt 0 ]; then
-      echo "$ver $nodes"
-    fi
-  fi
-done | sort -t_ -k2 -n
-```
-
-### 6. Extract All Sample Nodes (single pass)
-
-One perl script extracts all 5 sample node types in a single pass through tree.lua:
-
-```bash
+echo "=== SAMPLES ==="
 perl -e '
 open(my $fh, "<", "{tree}") or die;
 my (%samples, $buf, $in, $has_type, $efcount, $truncated);
@@ -213,9 +190,9 @@ for my $type (qw(keystone notable mastery jewel small)) {
 '
 ```
 
-Paste each sample directly from the output sections. Do NOT reformat or edit.
+Use `{groups_start}` and `{nodes_start}` line numbers from Step 1. Paste each sample directly from the output sections. Do NOT reformat or edit.
 
-### 7. Write Reference File
+### 4. Write Reference File
 
 Write `vendor/pob/references/passive-tree.md` using ALL collected data:
 
@@ -239,7 +216,7 @@ Passive skill tree data for each game version. One `tree.lua` file per version c
 **Top-level sections**:
 | Section | Line | Purpose |
 |---------|------|---------|
-{paste from Step 1 — one row per top-level key}
+{paste SECTIONS output from Step 1 — one row per top-level key}
 
 ## Nodes
 
@@ -294,18 +271,18 @@ All fields found on node entries:
 
 | Class | Str | Dex | Int | Ascendancies |
 |-------|-----|-----|-----|--------------|
-{paste from Step 3 — one row per class}
+{paste CLASSES output from Step 2 — one row per class}
 
 ### Nodes Per Ascendancy
 
 | Ascendancy | Nodes |
 |------------|-------|
-{paste exact ASCENDANCY output from Step 2 — do NOT re-sort}
+{paste ASCENDANCY output from Step 2 — do NOT re-sort}
 
 ### Alternate Ascendancies
 
 {count} alternate ascendancy definitions in `["alternate_ascendancies"]`:
-{paste id|name pairs from Step 3}
+{paste ALTERNATES output from Step 2}
 
 These are bloodline-based alternate ascendancy trees (3.25+). Nodes belonging to alternate ascendancies have `isBloodline = true`.
 
@@ -322,7 +299,7 @@ Each group has:
 ## Constants
 
 ```lua
-{paste constants section from Step 4}
+{paste CONSTANTS output from Step 3}
 ```
 
 - `skillsPerOrbit`: max nodes per orbit ring [1, 6, 16, 16, 40, 72, 72]
@@ -342,38 +319,38 @@ Each group has:
 
 | Version | Nodes |
 |---------|-------|
-{paste from Step 5 — do NOT re-sort}
+{paste HISTORICAL output from Step 1 — do NOT re-sort}
 
 ## Examples
 
 ### Keystone
 
 ```lua
-{paste Step 6 keystone output}
+{paste Step 3 keystone output}
 ```
 
 ### Notable (non-ascendancy)
 
 ```lua
-{paste Step 6 notable output}
+{paste Step 3 notable output}
 ```
 
 ### Mastery (first 2 effects shown)
 
 ```lua
-{paste Step 6 mastery output}
+{paste Step 3 mastery output}
 ```
 
 ### Jewel Socket
 
 ```lua
-{paste Step 6 jewel socket output}
+{paste Step 3 jewel socket output}
 ```
 
 ### Small (regular) Node
 
 ```lua
-{paste Step 6 small node output}
+{paste Step 3 small node output}
 ```
 
 ## Edge Cases
@@ -395,7 +372,7 @@ Each group has:
 8. **classStartIndex**: {classStart_count} nodes have this field — these are the starting nodes for each class on the tree.
 ```
 
-### 8. Verify Output
+### 5. Verify Output
 
 Re-read `vendor/pob/references/passive-tree.md` and spot-check:
 - Section headers match the template structure (Version Registry, Nodes, Classes, Groups, Constants, Points, Examples, Edge Cases)
@@ -403,39 +380,41 @@ Re-read `vendor/pob/references/passive-tree.md` and spot-check:
 - Ascendancy table rows appear verbatim from Step 2 ASCENDANCY output
 - All 5 sample nodes (keystone, notable, mastery, jewel, small) are present
 
-### 9. Return Result
+### 6. Return Result
 
 Return the JSON result as described in the Required Output Format section.
 
 ## Required Output Format
 
+All values MUST come from bash output — do NOT copy from this template.
+
 ```json
 {
   "status": "completed | error",
-  "latest_version": "3_27",
-  "total_versions": 34,
+  "latest_version": "<from_bash>",
+  "total_versions": <from_bash>,
   "nodes": {
-    "total": 3287,
-    "keystone": 54,
-    "notable": 975,
-    "mastery": 349,
-    "jewel_socket": 60,
-    "ascendancy_start": 32,
-    "proxy": 84,
-    "blighted": 30,
-    "bloodline": 122,
-    "multiple_choice": 12,
-    "multiple_choice_option": 35
+    "total": <from_bash>,
+    "keystone": <from_bash>,
+    "notable": <from_bash>,
+    "mastery": <from_bash>,
+    "jewel_socket": <from_bash>,
+    "ascendancy_start": <from_bash>,
+    "proxy": <from_bash>,
+    "blighted": <from_bash>,
+    "bloodline": <from_bash>,
+    "multiple_choice": <from_bash>,
+    "multiple_choice_option": <from_bash>
   },
-  "groups": 755,
-  "classes": 7,
-  "ascendancy_names": 32,
-  "mastery_effects": 353,
-  "unique_stats": 3512,
-  "jewel_slots": 60,
+  "groups": <from_bash>,
+  "classes": <from_bash>,
+  "ascendancy_names": <from_bash>,
+  "mastery_effects": <from_bash>,
+  "unique_stats": <from_bash>,
+  "jewel_slots": <from_bash>,
   "points": {
-    "total": 123,
-    "ascendancy": 8
+    "total": <from_bash>,
+    "ascendancy": <from_bash>
   },
   "error": null
 }
@@ -448,13 +427,13 @@ Before returning results:
 - [ ] Total node count was counted from source (Step 2 COUNTS)
 - [ ] All 10 node type flags were counted (Step 2 COUNTS)
 - [ ] Node field names were extracted from source (Step 2 FIELDS)
-- [ ] Class names and base stats were extracted from source (Step 3)
-- [ ] Ascendancy names per class were extracted from source (Step 3)
+- [ ] Class names and base stats were extracted from source (Step 2 CLASSES)
+- [ ] Ascendancy names per class were extracted from source (Step 2 CLASSES)
 - [ ] Nodes-per-ascendancy table was pasted directly from Step 2 ASCENDANCY output (not manually sorted)
 - [ ] Mastery effect count was extracted from source (Step 2 COUNTS)
 - [ ] Unique stat line count was extracted from source (Step 2 COUNTS)
-- [ ] Group count was counted from groups section only (Step 4)
-- [ ] Constants section was extracted from source (Step 4)
-- [ ] Historical node counts include all versions with nodes > 0 (Step 5)
-- [ ] All 5 sample nodes are pasted from Step 6 output (not fabricated)
+- [ ] Group count was counted from groups section only (Step 3 GROUPS)
+- [ ] Constants section was extracted from source (Step 3 CONSTANTS)
+- [ ] Historical node counts include all versions with nodes > 0 (Step 1 HISTORICAL)
+- [ ] All 5 sample nodes are pasted from Step 3 SAMPLES output (not fabricated)
 - [ ] The reference file was written to `vendor/pob/references/passive-tree.md`

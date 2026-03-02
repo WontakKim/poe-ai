@@ -332,32 +332,34 @@ Return the JSON result as described in the Required Output Format section.
 
 ## Required Output Format
 
+All values MUST come from bash output — do NOT copy from this template.
+
 ```json
 {
   "status": "completed | error",
   "gems_lua": {
-    "total": 751,
-    "active_only": 537,
-    "support_only": 205,
-    "active_and_support": 9,
-    "vaal": 52,
-    "awakened": 38,
-    "transfigured": 198,
-    "fields": ["baseTypeName", "gameId", "grantedEffectId", "..."],
-    "tag_keys": 52
+    "total": <from_bash>,
+    "active_only": <from_bash>,
+    "support_only": <from_bash>,
+    "active_and_support": <from_bash>,
+    "vaal": <from_bash>,
+    "awakened": <from_bash>,
+    "transfigured": <from_bash>,
+    "fields": [<from_bash>],
+    "tag_keys": <from_bash>
   },
   "skills": {
-    "total": 1409,
-    "visible": 783,
-    "hidden": 626,
-    "files": 10,
-    "top_level_fields": ["addFlags", "addSkillTypes", "..."],
-    "level_fields": ["levelRequirement", "critChance", "..."],
-    "cost_types": ["ES", "Life", "Mana", "ManaPercent", "ManaPercentPerMinute", "ManaPerMinute", "Soul"],
-    "skill_types": 125
+    "total": <from_bash>,
+    "visible": <from_bash>,
+    "hidden": <from_bash>,
+    "files": <from_bash>,
+    "top_level_fields": [<from_bash>],
+    "level_fields": [<from_bash>],
+    "cost_types": [<from_bash>],
+    "skill_types": <from_bash>
   },
-  "secondary_granted_effect_id_count": 86,
-  "secondary_effect_name_count": 8,
+  "secondary_granted_effect_id_count": <from_bash>,
+  "secondary_effect_name_count": <from_bash>,
   "error": null
 }
 ```

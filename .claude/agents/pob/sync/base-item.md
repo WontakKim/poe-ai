@@ -160,20 +160,22 @@ Return the JSON result as described in the Required Output Format section.
 
 ## Required Output Format
 
+All values MUST come from bash output — do NOT copy from this template.
+
 ```json
 {
   "status": "completed | error",
-  "total_files": 22,
-  "usable_files": 20,
-  "total_items": 1063,
-  "top_level_fields": ["type", "subType", "..."],
+  "total_files": <from_bash>,
+  "usable_files": <from_bash>,
+  "total_items": <from_bash>,
+  "top_level_fields": [<from_bash>],
   "stat_sub_fields": {
-    "weapon": ["AttackRateBase", "CritChanceBase", "..."],
-    "armour": ["ArmourBaseMax", "ArmourBaseMin", "BlockChance", "..."],
-    "flask": ["buff", "chargesMax", "chargesUsed", "duration", "life", "mana"],
-    "tincture": ["cooldown", "manaBurn"]
+    "weapon": [<from_bash>],
+    "armour": [<from_bash>],
+    "flask": [<from_bash>],
+    "tincture": [<from_bash>]
   },
-  "caveats": ["multiline implicits in N files", "hidden in N files"],
+  "caveats": [<from_bash>],
   "error": null
 }
 ```
