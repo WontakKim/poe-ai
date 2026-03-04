@@ -34,6 +34,7 @@ Optional `league` parameter overrides auto-detection (e.g., `/sync-ninja-rag Kee
 | UniqueFlask | `unique-flask` | `ninja-ingest-item` |
 | UniqueJewel | `unique-jewel` | `ninja-ingest-item` |
 | SkillGem | `skill-gem` | `ninja-ingest-item` |
+| Builds | `builds` | `ninja-ingest-build` |
 
 ## Execution Flow
 
@@ -46,12 +47,12 @@ Phase 1: Resolve League + Version
     │ fail → STOP (fatal)
     ▼
 Phase 2: Check Cache (per-type)
-    │ For each of 7 types: db/ninja/{LEAGUE}/{dir}/source.json exists?
+    │ For each of 8 types: db/ninja/{LEAGUE}/{dir}/source.json exists?
     │ Show table: type | status | fetchedAt | items
     │ Ask user: update all / select types / skip
     │ skip → output "up to date" + STOP
     ▼
-Phase 3: Ingest (up to 7 agents)
+Phase 3: Ingest (up to 8 agents)
     │ Launch agents for selected types (parallel where possible)
     │ Each agent is independent — one failure does not block others
     ▼
@@ -120,10 +121,11 @@ Phase 5: History Enrichment (optional)
    unique-flask     | no data   | -                      | -
    unique-jewel     | no data   | -                      | -
    skill-gem        | no data   | -                      | -
+   builds           | no data   | -                      | -
    ```
 
 3. Ask user what to do:
-   - **"Update all"** — ingest all 7 types
+   - **"Update all"** — ingest all 8 types
    - **"Update missing only"** — ingest only types with "no data" status
    - **"Skip"** — output "up to date" and stop
    - User can also specify individual types to update
@@ -165,6 +167,22 @@ INPUT:
 Execute the workflow.
 ```
 
+**For Builds:**
+
+| `subagent_type` | Output |
+|-----------------|--------|
+| `ninja-ingest-build` | `db/ninja/{LEAGUE}/builds/*.json` |
+
+Agent `prompt`:
+```
+INPUT:
+- league: {LEAGUE}
+- output_dir: db/ninja/{LEAGUE}/builds
+- gameVersion: {GAME_VERSION}
+
+Execute the workflow.
+```
+
 **Parallelism:** Launch as many agents in parallel as possible. Each agent is independent — if one fails, others continue.
 
 Validate each agent result:
@@ -174,6 +192,18 @@ Validate each agent result:
 ### Phase 4: Report
 
 Produce the final result showing per-type status.
+
+### Phase 4.5: Builds Reference Generation
+
+If the builds ingest succeeded in Phase 3, generate the builds reference file:
+
+```bash
+bash vendor/ninja/scripts/builds-reference.sh \
+  db/ninja/{LEAGUE}/builds/builds.json \
+  vendor/ninja/references/builds.md
+```
+
+If builds ingest failed or was skipped, skip this step.
 
 ### Phase 5: History Enrichment (Optional)
 
@@ -248,7 +278,8 @@ After Phase 4 report, offer to enrich data with previous league price history.
     "unique-accessory": { "status": "success | failed | skipped", "items": 309, "fetchedAt": "..." },
     "unique-flask": { "status": "success | failed | skipped", "items": 38, "fetchedAt": "..." },
     "unique-jewel": { "status": "success | failed | skipped", "items": 125, "fetchedAt": "..." },
-    "skill-gem": { "status": "success | failed | skipped", "items": 5942, "fetchedAt": "..." }
+    "skill-gem": { "status": "success | failed | skipped", "items": 5942, "fetchedAt": "..." },
+    "builds": { "status": "success | failed | skipped", "items": 124512, "fetchedAt": "..." }
   },
   "history": {
     "previousLeague": "Mercenaries",
@@ -285,6 +316,8 @@ After Phase 4 report, offer to enrich data with previous league price history.
 - gameVersion comes from PoB DB, linking the two databases via version key
 - Currency uses a different agent (`ninja-ingest-currency`) because it needs Exchange API + Legacy API merge
 - Item types all use the same agent (`ninja-ingest-item`) with different `ninjaType` parameter
-- History enrichment is optional and only offered after successful ingest
+- Builds uses a dedicated agent (`ninja-ingest-build`) like currency — no ninjaType parameter
+- Builds reference is auto-generated after successful builds ingest (Phase 4.5)
+- History enrichment is optional and only offered after successful ingest (does NOT apply to builds)
 - History agents have long timeouts (600s) due to rate-limited API calls (200ms per item)
 - History is cached in `vendor/ninja/{prev_league}/histories/` — second run skips already-fetched items
