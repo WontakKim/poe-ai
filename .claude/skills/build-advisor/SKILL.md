@@ -1,10 +1,12 @@
 ---
 name: build-advisor
-description: PoE build recommendations based on ladder statistics, item prices, and skill data. Read-only analysis of existing DB.
+description: PoE build recommendations based on ladder statistics, item prices, skill data, and optional PoB simulation. Supports build codes, character imports, and DPS-backed item/gem optimization.
 allowed-tools:
   - Read
   - Glob
   - Grep
+  - Bash
+  - Agent
 ---
 
 # Build Advisor — PoE Build Recommendations
@@ -32,6 +34,9 @@ Examples:
 4. **No speculation.** Every number (share%, rank, price) must come directly from DB files. Never estimate or interpolate.
 5. **DB match failure.** If a skill, item, or keystone cannot be found in the DB, explicitly state "DB match not found" for that entry.
 6. **Context efficiency.** If builds.md alone can answer the question (meta overview, top builds, class distribution), skip Phase 2 entirely. Only read additional DB files when the question requires item prices, skill mechanics, or keystone details.
+7. **Simulation result fabrication forbidden.** Only quote PoB output. Never estimate or combine numbers.
+8. **Silent fallback when simulation unavailable.** Switch to DB-only mode without error messages.
+9. **Item recommendations require simulation.** Do not claim "this item improves DPS" without PoB data.
 
 ## Data Sources (read-only)
 
@@ -45,6 +50,11 @@ Examples:
 | Unique prices | `db/ninja/{league}/unique-*/*.json` | Market prices for unique items |
 | Gem prices | `db/ninja/{league}/skill-gem/skill-gem.json` | Market prices for skill gems |
 | Currency prices | `db/ninja/{league}/currency/currency.json` | Divine Orb exchange rate |
+| PoB Runtime | `vendor/pob/scripts/run-pob-sim.sh` | Build simulation (optional) |
+| Build Code Decoder | `vendor/pob/scripts/decode-build-code.py` | Build code to XML conversion |
+| Character Importer | `vendor/pob/scripts/import-character.sh` | PoE character data import |
+| Item Optimizer | `vendor/pob/scripts/optimize-items.sh` | Item upgrade search |
+| Gem Optimizer | `vendor/pob/scripts/optimize-gems.sh` | Support gem optimization |
 
 ## Workflow
 
@@ -68,6 +78,22 @@ Examples:
    - Continue with the available data regardless
 
 5. **Analyze the user question** and extract keywords (class, skill, item, budget range) to determine what Phase 2 retrieval is needed.
+
+6. **PoB Input Detection:**
+   - poe.ninja URL pattern (`poe.ninja/poe1/builds/.../character/...`) → character import mode
+   - Build code pattern (`eNrt...` base64 string) → simulation mode
+   - `account/character` pattern → character import mode
+   - None of the above → DB-only mode (existing behavior)
+
+7. **Skill Target Detection:**
+   - "Fire Trap damage" → target_skill = "Fire Trap"
+   - "improve DPS" → target_skill = null (overall CombinedDPS)
+   - Match skill names against builds.md Main Skills section
+
+8. **PoB Availability Check:**
+   - `vendor/pob/lua_modules/lib/lua/5.1/lua-utf8.so` exists?
+   - `luajit` command available?
+   - If unavailable → DB-only mode (silent fallback, no error)
 
 ### Phase 2: Targeted Retrieval
 
@@ -95,6 +121,41 @@ Based on the question type, read only the relevant DB files. Skip this phase ent
 
 **Gem price query:**
 - Read `db/ninja/{league}/skill-gem/skill-gem.json` for gem prices
+
+### Phase 2.5: Simulation (optional, when PoB input detected)
+
+Only executed when build code, character, or poe.ninja URL is provided.
+
+1. **Simulation:**
+   - Build code → Agent(pob-simulate, mode=code, data=code)
+   - Character → Agent(pob-simulate, mode=character, data=account+character)
+   - poe.ninja URL → Agent(pob-simulate, mode=character, data=parsed_account+character)
+
+2. **Result Integration:**
+   - Merge simulation results (offence/defence/resistances) into response context
+   - If --skill target detected: note the target for Phase 2.7
+
+3. **Failure Handling:**
+   - Simulation fails → "DB 기반으로 답변합니다" one-line notice + continue with DB-only
+
+### Phase 2.7: Optimization (when damage/defense improvement requested)
+
+Only executed when user asks for damage improvement, item recommendations, gem changes, etc.
+Requires successful simulation from Phase 2.5.
+
+1. **Scope Detection:**
+   - "Fire Trap damage" → skill-specific optimization: `--skill "Fire Trap"`
+   - "weapon recommendation" → single slot: optimize "Weapon 1" only
+   - "overall upgrade" → multiple slots: Body Armour, Weapon 1, Shield, Helmet, Boots, Gloves
+   - "gem optimization" → support gem replacement
+
+2. **Agent Calls (parallel when possible):**
+   - Item optimization: Agent(pob-optimize, operation=items, build_xml, slot, league, [--skill])
+   - Gem optimization: Agent(pob-optimize, operation=gems, build_xml, skill_name, league)
+
+3. **Result Collection:**
+   - Each slot: top 3 upgrades with ΔDPS + price
+   - Gem: top 3 replacements with ΔDPS + price
 
 ### Phase 3: Response
 
@@ -150,6 +211,34 @@ Adapt this template based on the question. Include only relevant sections.
 - Recommended: ~{n} divine
 ```
 
+### Simulation-Enhanced Build (when PoB simulation results available)
+
+```markdown
+## {Main Skill} {Ascendancy} ({Class})
+
+**Ladder Share:** {share}% (#{rank})
+
+### PoB Simulation Results
+| Category | Stat | Value |
+|----------|------|-------|
+| Offence | Combined DPS | {n} |
+| Offence | Total DoT DPS | {n} |
+| Defence | Life | {n} |
+| Defence | EHP | {n} |
+| Resistances | Fire/Cold/Light/Chaos | {n}%/{n}%/{n}%/{n}% |
+| Resources | Life Regen | {n}/s |
+
+### Item Upgrade Recommendations (PoB {skill} DPS basis)
+| Slot | Current | Recommended | Δ DPS | Price | Efficiency |
+|------|---------|-------------|-------|-------|------------|
+| Weapon | Rare Sceptre | The Searing Touch | +120,000 (+24%) | 21c | 5714/c |
+
+### Support Gem Upgrades
+| Replace | With | Δ DPS | Price |
+|---------|------|-------|-------|
+| Combustion | Awakened Fire Pen | +45,000 (+9%) | 150c |
+```
+
 ### Item Query (for specific item price checks)
 
 ```markdown
@@ -171,3 +260,8 @@ Adapt this template based on the question. Include only relevant sections.
 | Keystone not in DB | Include note: "Keystone DB match not found for {name}" |
 | Data older than 14 days | Show warning but continue with available data |
 | No builds source.json | "Builds data not found. Run `/sync-ninja-rag` first." STOP. |
+| PoB runtime not installed | DB-only mode (silent fallback) |
+| Simulation failed | "시뮬레이션 실행 불가, DB 기반 응답입니다" + DB response |
+| Character import failed (private) | "프로필이 비공개입니다. pathofexile.com에서 공개로 변경하세요" |
+| Item optimization no candidates | "해당 슬롯에 대한 유니크 아이템 후보가 없습니다" |
+| Build code decode failed | "빌드 코드가 유효하지 않습니다. PoB에서 다시 Export 해주세요" |
