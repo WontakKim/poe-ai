@@ -38,6 +38,7 @@ version=$(jq -r --arg league "$league_lower" \
   '[.snapshotVersions[] | select(.url == $league and .type == "exp")] | first | .version // empty' \
   "${tmp_prefix}_index.json")
 [[ -n "$version" ]] || { echo "ERROR: No exp index-state found for league '$league_lower'" >&2; exit 1; }
+[[ "$version" =~ ^[a-zA-Z0-9._-]+$ ]] || { echo "ERROR: Invalid version format: '$version'" >&2; exit 1; }
 
 # ── 2. Fetch build-index-state → topBuilds (non-fatal) ──────
 top_builds="[]"
@@ -79,7 +80,8 @@ hash_map="${tmp_prefix}_hashmap"
 : > "$hash_map"
 
 while IFS=$'\t' read -r dict_id dict_hash; do
-  existing=$(grep "^${dict_hash}	" "$hash_map" | cut -f2 || true)
+  [[ "$dict_hash" =~ ^[a-f0-9]+$ ]] || { echo "ERROR: Invalid dictionary hash: '$dict_hash'" >&2; exit 1; }
+  existing=$(grep -F "${dict_hash}	" "$hash_map" | cut -f2 || true)
   if [[ -n "$existing" ]]; then
     # Already fetched this hash — copy the result
     cp "${tmp_prefix}_dict-${existing}.json" "${tmp_prefix}_dict-${dict_id}.json"
