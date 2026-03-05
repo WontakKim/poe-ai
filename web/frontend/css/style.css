@@ -1,0 +1,773 @@
+/* ============================================================
+   poe-ai Design System
+   PoE-themed dark UI — CSS variables + component library
+   ============================================================ */
+
+:root {
+  /* Backgrounds */
+  --bg: #0a0a0f;
+  --bg-card: #12121a;
+  --bg-input: #1a1a25;
+  --bg-hover: #1e1e2a;
+
+  /* Borders */
+  --border: #2a2a3a;
+  --border-focus: rgba(200, 160, 74, 0.25);
+
+  /* Text */
+  --text: #d0d0d8;
+  --text-dim: #808090;
+  --text-muted: #505060;
+
+  /* Accent (gold) */
+  --accent: #c8a04a;
+  --accent-dim: #8a6a2a;
+
+  /* Status colors */
+  --green: #4caf50;
+  --red: #e05050;
+  --blue: #5090e0;
+
+  /* Misc */
+  --radius: 6px;
+  --transition: 0.15s ease;
+}
+
+/* ============================================================
+   Reset & Base
+   ============================================================ */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+  font-size: 14px;
+}
+
+/* All numeric output */
+.num,
+td.num,
+th.num {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+/* ============================================================
+   Layout — Header
+   ============================================================ */
+
+header {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  height: 3rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 1rem;
+  text-decoration: none;
+  flex-shrink: 0;
+  letter-spacing: 0.02em;
+}
+
+.logo:hover {
+  color: #dab85a;
+}
+
+/* Navigation */
+nav {
+  display: flex;
+  gap: 0;
+}
+
+nav a {
+  color: var(--text-dim);
+  text-decoration: none;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  border-bottom: 2px solid transparent;
+  transition: color var(--transition), border-color var(--transition);
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: var(--text);
+}
+
+nav a.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Header badges area */
+.header-badges {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+/* ============================================================
+   Badges
+   ============================================================ */
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.badge-league {
+  color: var(--text-dim);
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+}
+
+/* PoB status dot */
+.badge-pob {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  padding: 0;
+  background: var(--text-muted);
+  transition: background var(--transition);
+}
+
+.badge-pob.pob-ok {
+  background: var(--green);
+  box-shadow: 0 0 4px rgba(76, 175, 80, 0.5);
+}
+
+.badge-pob.pob-err {
+  background: var(--red);
+}
+
+/* ============================================================
+   Layout — Main
+   ============================================================ */
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* Page containers — visibility via CSS class only */
+.page {
+  display: none;
+}
+
+.page.active {
+  display: block;
+}
+
+/* ============================================================
+   Cards
+   ============================================================ */
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  transition: box-shadow var(--transition);
+}
+
+.card:hover {
+  box-shadow: 0 0 0 1px rgba(200, 160, 74, 0.12);
+}
+
+.card h2 {
+  font-size: 1rem;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.card h3 {
+  font-size: 0.9rem;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+/* ============================================================
+   Buttons
+   ============================================================ */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--bg-input);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  transition: background var(--transition), border-color var(--transition), color var(--transition);
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--text-muted);
+}
+
+.btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.btn-primary:hover {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.btn-ghost {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--text-dim);
+}
+
+.btn-ghost:hover {
+  background: var(--bg-hover);
+  color: var(--text);
+  border-color: var(--text-muted);
+}
+
+/* Native button reset to btn style */
+button {
+  background: var(--bg-input);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+button:hover {
+  background: var(--bg-hover);
+  border-color: var(--text-muted);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+/* ============================================================
+   Tab Bar + Tab Content
+   ============================================================ */
+
+.tab-bar {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+
+.tab-bar button {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-dim);
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  border-radius: 0;
+  transition: color var(--transition), border-color var(--transition);
+}
+
+.tab-bar button:hover {
+  color: var(--text);
+  background: none;
+}
+
+.tab-bar button.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Tab content panels — toggle via CSS class */
+.tab-content {
+  display: block;
+}
+
+.tab-hidden {
+  display: none;
+}
+
+/* ============================================================
+   Data Table
+   ============================================================ */
+
+.data-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.data-table thead {
+  position: sticky;
+  top: 3rem; /* below sticky header */
+  background: var(--bg-card);
+  z-index: 10;
+}
+
+.data-table th,
+.data-table td {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.data-table th {
+  color: var(--text-dim);
+  font-weight: 600;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.data-table th.sortable {
+  cursor: pointer;
+  transition: color var(--transition);
+}
+
+.data-table th.sortable:hover {
+  color: var(--text);
+}
+
+.data-table th .sort-arrow {
+  font-size: 0.65rem;
+  margin-left: 0.25rem;
+  color: var(--accent);
+  opacity: 0;
+  transition: opacity var(--transition);
+}
+
+.data-table th.sort-active .sort-arrow {
+  opacity: 1;
+}
+
+.data-table tbody tr:hover {
+  background: rgba(200, 160, 74, 0.04);
+}
+
+.data-table td {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================================
+   Pagination
+   ============================================================ */
+
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.pagination button {
+  min-width: 2rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  background: var(--bg-input);
+  border-color: var(--border);
+}
+
+.pagination button.active {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.pagination button:hover:not(:disabled):not(.active) {
+  background: var(--bg-hover);
+}
+
+.pagination .page-ellipsis {
+  color: var(--text-muted);
+  padding: 0 0.25rem;
+  font-size: 0.8rem;
+  user-select: none;
+}
+
+/* ============================================================
+   Toast Notifications
+   ============================================================ */
+
+.toast-container {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9000;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  pointer-events: none;
+}
+
+.toast {
+  pointer-events: auto;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.7rem 1rem;
+  font-size: 0.85rem;
+  max-width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  animation: toast-slide-in 0.2s ease;
+  transition: opacity 0.3s ease;
+}
+
+.toast.toast-fade {
+  opacity: 0;
+}
+
+.toast-error {
+  border-color: rgba(224, 80, 80, 0.5);
+  color: #f09090;
+}
+
+.toast-success {
+  border-color: rgba(76, 175, 80, 0.5);
+  color: #80d080;
+}
+
+.toast-info {
+  border-color: rgba(80, 144, 224, 0.5);
+  color: #90b8f0;
+}
+
+@keyframes toast-slide-in {
+  from {
+    opacity: 0;
+    transform: translateX(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* ============================================================
+   Stat Box
+   ============================================================ */
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.stat-box {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  text-align: center;
+}
+
+.stat-box .value {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.2;
+}
+
+.stat-box .label {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.2rem;
+}
+
+/* ============================================================
+   Trend Indicators
+   ============================================================ */
+
+.trend-up {
+  color: var(--green);
+}
+
+.trend-down {
+  color: var(--red);
+}
+
+.trend-flat {
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   Forms
+   ============================================================ */
+
+.input-row {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-end;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.input-group label {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+input,
+select,
+textarea {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.45rem 0.75rem;
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  font-family: inherit;
+  transition: border-color var(--transition);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 2px rgba(200, 160, 74, 0.08);
+}
+
+textarea {
+  resize: vertical;
+  width: 100%;
+  min-height: 80px;
+}
+
+select {
+  cursor: pointer;
+}
+
+/* ============================================================
+   Loading States
+   ============================================================ */
+
+.spinner {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.skeleton {
+  display: block;
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-hover) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s infinite;
+  border-radius: 4px;
+  height: 1em;
+}
+
+@keyframes skeleton-shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+.loading-msg {
+  color: var(--text-dim);
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+/* ============================================================
+   Result Panel (code / JSON display)
+   ============================================================ */
+
+.result-panel {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin-top: 1rem;
+  white-space: pre-wrap;
+  word-break: break-all;
+  font-size: 0.8rem;
+  font-family: "SF Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
+  max-height: 500px;
+  overflow-y: auto;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   Advisor — Split Panel
+   ============================================================ */
+
+.advisor-split {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.advisor-prompt {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.advisor-prompt textarea {
+  min-height: 60px;
+  resize: vertical;
+}
+
+.prompt-examples {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.prompt-example {
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius);
+  transition: color var(--transition), background var(--transition);
+}
+
+.prompt-example:hover {
+  color: var(--accent);
+  background: var(--bg-hover);
+}
+
+.advisor-response {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-dim);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.advisor-query {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  margin-bottom: 0.5rem;
+  font-style: italic;
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+
+@media (max-width: 768px) {
+  header {
+    padding: 0 0.75rem;
+    gap: 0.75rem;
+  }
+
+  nav a {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.78rem;
+  }
+
+  main {
+    padding: 0.75rem;
+  }
+
+  .card {
+    padding: 1rem;
+  }
+
+  .input-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .data-table-wrapper {
+    overflow-x: auto;
+  }
+
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .toast-container {
+    right: 0.5rem;
+    left: 0.5rem;
+  }
+
+  .toast {
+    max-width: none;
+  }
+
+  .advisor-split {
+    grid-template-columns: 1fr;
+  }
+}

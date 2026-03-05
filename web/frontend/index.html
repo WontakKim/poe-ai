@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>poe-ai</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <a class="logo" href="#builds">poe-ai</a>
+    <nav>
+      <a href="#builds" data-page="builds">Builds</a>
+      <a href="#prices" data-page="prices">Prices</a>
+      <a href="#advisor" data-page="advisor">Advisor</a>
+    </nav>
+    <div class="header-badges">
+      <span class="badge badge-league" id="league-badge">...</span>
+      <span class="badge badge-pob" id="pob-badge" title="PoB status"></span>
+    </div>
+  </header>
+
+  <main>
+    <div class="page" id="page-builds"></div>
+    <div class="page" id="page-prices"></div>
+    <div class="page" id="page-advisor"></div>
+  </main>
+
+  <div class="toast-container" id="toast-container"></div>
+
+  <script type="module">
+    import { get } from './js/api.js';
+    import { showToast } from './js/utils.js';
+
+    // Lazy page module registry — init functions loaded on first navigation.
+    // If a module doesn't exist yet the error boundary catches it gracefully.
+    const PAGE_MODULES = {
+      builds:  () => import('./js/builds.js'),
+      prices:  () => import('./js/prices.js'),
+      advisor: () => import('./js/advisor.js'),
+    };
+
+    const pageState = {
+      builds:  { loaded: false },
+      prices:  { loaded: false },
+      advisor: { loaded: false },
+    };
+
+    async function navigate() {
+      const hash = location.hash.slice(1);
+      const page = pageState[hash] ? hash : 'builds';
+
+      // Update nav active state
+      document.querySelectorAll('nav a').forEach(a => {
+        a.classList.toggle('active', a.dataset.page === page);
+      });
+
+      // Toggle page visibility via CSS class
+      document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+      const container = document.getElementById(`page-${page}`);
+      container.classList.add('active');
+
+      // Lazy init with error boundary
+      if (!pageState[page].loaded) {
+        pageState[page].loaded = true;
+        try {
+          const mod = await PAGE_MODULES[page]();
+          if (typeof mod.init === 'function') {
+            await mod.init(container);
+          }
+        } catch (err) {
+          // Module doesn't exist yet or init failed — show placeholder
+          container.innerHTML = '';
+          const msg = document.createElement('p');
+          msg.className = 'loading-msg';
+          msg.textContent = `${page} page not yet available.`;
+          container.appendChild(msg);
+        }
+      }
+    }
+
+    // Bootstrap: load health status for header badges
+    async function loadStatus() {
+      const leagueBadge = document.getElementById('league-badge');
+      const pobBadge = document.getElementById('pob-badge');
+      try {
+        const health = await get('/health');
+        leagueBadge.textContent = health.league || 'No league';
+        pobBadge.title = health.pob_available ? 'PoB: available' : 'PoB: unavailable';
+        pobBadge.classList.toggle('pob-ok', !!health.pob_available);
+        pobBadge.classList.toggle('pob-err', !health.pob_available);
+      } catch {
+        leagueBadge.textContent = 'offline';
+        pobBadge.title = 'Server offline';
+        pobBadge.classList.add('pob-err');
+      }
+    }
+
+    window.addEventListener('hashchange', navigate);
+    loadStatus();
+    navigate();
+  </script>
+</body>
+</html>
