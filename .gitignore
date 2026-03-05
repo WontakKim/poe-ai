@@ -1,3 +1,8 @@
 .claude/settings.local.json
 vendor/ninja/**/histories/*_resp/
 vendor/pob/lua_modules/
+!vendor/pob/lua_modules/lib/lua/5.1/darwin-arm64/
+!vendor/pob/lua_modules/lib/lua/5.1/win64/
+!vendor/pob/lua_modules/lib/lua/5.1/linux-x64/
+web/.venv/
+__pycache__/

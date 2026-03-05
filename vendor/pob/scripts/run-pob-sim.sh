@@ -25,11 +25,30 @@ esac
 [[ -f "$RUNNER" ]] || { echo "ERROR: pob-runner.lua not found at $RUNNER" >&2; exit 1; }
 [[ -d "$POB_SRC" ]] || { echo "ERROR: PoB src directory not found at $POB_SRC" >&2; exit 1; }
 command -v luajit >/dev/null 2>&1 || { echo "ERROR: luajit not found in PATH" >&2; exit 1; }
-[[ -f "$LUA_MODULES/lib/lua/5.1/lua-utf8.so" ]] || { echo "ERROR: luautf8 not installed at $LUA_MODULES" >&2; exit 1; }
 
-# Setup Lua paths
+# Detect platform and set native module path
+LUA_NATIVE_DIR=""
+case "$(uname -s)-$(uname -m)" in
+  Darwin-arm64)  LUA_NATIVE_DIR="$LUA_MODULES/lib/lua/5.1/darwin-arm64" ;;
+  Darwin-x86_64) LUA_NATIVE_DIR="$LUA_MODULES/lib/lua/5.1/darwin-arm64" ;; # Rosetta
+  MINGW*|MSYS*|CYGWIN*|Windows*) LUA_NATIVE_DIR="$LUA_MODULES/lib/lua/5.1/win64" ;;
+  Linux-x86_64)  LUA_NATIVE_DIR="$LUA_MODULES/lib/lua/5.1/linux-x64" ;;
+esac
+
+# Fallback: legacy flat layout
+if [[ -z "$LUA_NATIVE_DIR" ]] || [[ ! -d "$LUA_NATIVE_DIR" ]]; then
+  LUA_NATIVE_DIR="$LUA_MODULES/lib/lua/5.1"
+fi
+
+# Verify luautf8 exists (check both .so and .dll)
+if ! ls "$LUA_NATIVE_DIR"/lua-utf8.* >/dev/null 2>&1; then
+  echo "ERROR: luautf8 not found in $LUA_NATIVE_DIR" >&2
+  exit 1
+fi
+
+# Setup Lua paths — include both .so and .dll patterns for cross-platform
 export LUA_PATH="$POB_SRC/../runtime/lua/?.lua;$POB_SRC/../runtime/lua/?/init.lua;;"
-export LUA_CPATH="$LUA_MODULES/lib/lua/5.1/?.so;;"
+export LUA_CPATH="$LUA_NATIVE_DIR/?.so;$LUA_NATIVE_DIR/?.dll;;"
 
 # Run simulation
 cd "$POB_SRC"
