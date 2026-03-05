@@ -1,4 +1,5 @@
 .claude/settings.local.json
+.plans/
 vendor/ninja/**/histories/*_resp/
 vendor/pob/lua_modules/
 !vendor/pob/lua_modules/lib/lua/5.1/darwin-arm64/
