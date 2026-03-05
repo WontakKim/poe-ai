@@ -42,24 +42,25 @@ if [[ "$account" =~ \.\. ]] || [[ "$character" =~ \.\. ]]; then
   echo "ERROR: Invalid input — path traversal detected" >&2
   exit 1
 fi
-if [[ ! "$account" =~ ^[A-Za-z0-9_.#%-]+$ ]]; then
+# Block shell metacharacters; allow unicode (Korean etc.)
+_bad='[/\\;|`$!<>&]'
+if [[ "$account" =~ $_bad ]] || [[ -z "$account" ]]; then
   echo "ERROR: Invalid account name — contains disallowed characters" >&2
   exit 1
 fi
-if [[ ! "$character" =~ ^[A-Za-z0-9_%-]+$ ]]; then
+# Account may contain # (e.g. name#1234) which is safe
+_bad_char='[/\\;|`$!<>&]'
+if [[ "$character" =~ $_bad_char ]] || [[ -z "$character" ]]; then
   echo "ERROR: Invalid character name — contains disallowed characters" >&2
   exit 1
 fi
 
-# URL-encode # as %23 for API calls
-account_encoded="${account//#/%23}"
-
 # ── 1. Fetch character list ────────────────────────────────────
-chars_url="${API_HOST}/character-window/get-characters?accountName=${account_encoded}&realm=pc"
 http_code=$(curl -sL -o "${TMPDIR}/pob_import_$$_chars.json" -w '%{http_code}' \
+  -G --data-urlencode "accountName=${account}" --data-urlencode "realm=pc" \
   -H "User-Agent: ${UA}" \
   --connect-timeout 10 --max-time 30 \
-  "$chars_url")
+  "${API_HOST}/character-window/get-characters")
 
 if [[ "$http_code" == "403" ]]; then
   echo "ERROR: Account profile is private (403)" >&2
@@ -96,8 +97,8 @@ char_class=$(printf '%s' "$char_json" | jq -r '.class')
 char_level=$(printf '%s' "$char_json" | jq -r '.level')
 char_league=$(printf '%s' "$char_json" | jq -r '.league')
 
-# Validate extracted values (alphanumeric + space + hyphen only)
-if [[ ! "$char_name" =~ ^[A-Za-z0-9_%-]+$ ]]; then
+# Validate extracted values — block dangerous chars only
+if [[ -z "$char_name" ]] || [[ "$char_name" =~ $_bad_char ]]; then
   echo "ERROR: Character name from API contains unexpected characters" >&2
   exit 1
 fi
@@ -117,17 +118,13 @@ fi
 echo "CHARACTER: ${char_name} (${char_class})" >&2
 echo "LEVEL: ${char_level}" >&2
 
-# URL-encode character name for subsequent API calls
-# Pass via stdin to avoid shell interpolation of API-sourced values
-char_name_encoded=$(printf '%s' "$char_name" | python3 -c "import sys, urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
-
 # ── 2. Fetch items ─────────────────────────────────────────────
 sleep 1
-items_url="${API_HOST}/character-window/get-items?accountName=${account_encoded}&character=${char_name_encoded}&realm=pc"
 http_code=$(curl -sL -o "${TMPDIR}/pob_import_$$_items.json" -w '%{http_code}' \
+  -G --data-urlencode "accountName=${account}" --data-urlencode "character=${char_name}" --data-urlencode "realm=pc" \
   -H "User-Agent: ${UA}" \
   --connect-timeout 10 --max-time 30 \
-  "$items_url")
+  "${API_HOST}/character-window/get-items")
 
 if [[ "$http_code" != "200" ]]; then
   echo "ERROR: Failed to fetch items (HTTP ${http_code})" >&2
@@ -140,11 +137,11 @@ fi
 
 # ── 3. Fetch passive skills ────────────────────────────────────
 sleep 1
-passives_url="${API_HOST}/character-window/get-passive-skills?accountName=${account_encoded}&character=${char_name_encoded}&realm=pc"
 http_code=$(curl -sL -o "${TMPDIR}/pob_import_$$_passives.json" -w '%{http_code}' \
+  -G --data-urlencode "accountName=${account}" --data-urlencode "character=${char_name}" --data-urlencode "realm=pc" \
   -H "User-Agent: ${UA}" \
   --connect-timeout 10 --max-time 30 \
-  "$passives_url")
+  "${API_HOST}/character-window/get-passive-skills")
 
 if [[ "$http_code" != "200" ]]; then
   echo "ERROR: Failed to fetch passives (HTTP ${http_code})" >&2
@@ -175,16 +172,26 @@ sim_result=$(bash "$RUN_SIM" json \
   exit 0
 }
 
-# ── 5. Compose final output ────────────────────────────────────
+# ── 5. Encode build code from exported XML ────────────────────
+MANIPULATE="$SCRIPT_DIR/pob-xml-manipulate.py"
+build_code=""
+xml_text=$(printf '%s' "$sim_result" | jq -r '.xml // empty')
+if [[ -n "$xml_text" ]]; then
+  build_code=$(printf '%s' "$xml_text" | python3 "$MANIPULATE" encode --input /dev/stdin 2>/dev/null) || build_code=""
+fi
+
+# ── 6. Compose final output ────────────────────────────────────
 printf '%s' "$sim_result" | jq \
   --arg account "$account" \
   --arg name "$char_name" \
   --arg class "$char_class" \
   --argjson level "$char_level" \
   --arg league "$char_league" \
+  --arg build_code "$build_code" \
   '{
     character: {account: $account, name: $name, class: $class, level: $level, league: $league},
-    simulation: .
+    simulation: (del(.xml)),
+    build_code: $build_code
   }'
 
 echo "OK: import complete" >&2

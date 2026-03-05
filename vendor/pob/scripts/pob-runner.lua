@@ -239,5 +239,15 @@ elseif mode == "json" then
 
 	autoSelectMainSkill()
 
-	io.stdout:write(dkjson.encode(extractOutput()) .. "\n")
+	local result = extractOutput()
+
+	-- Export build as XML for downstream tools (optimizer, encode)
+	local xmlOk, xmlText = pcall(function()
+		return build:SaveDB("export")
+	end)
+	if xmlOk and xmlText then
+		result.xml = xmlText
+	end
+
+	io.stdout:write(dkjson.encode(result) .. "\n")
 end
