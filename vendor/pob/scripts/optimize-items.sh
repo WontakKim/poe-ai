@@ -97,6 +97,17 @@ WEAPON_FILES="axe bow claw dagger mace staff sword wand"
 db_type=$(map_slot_to_db "$slot")
 ninja_category=$(map_slot_to_ninja_category "$slot")
 
+# Auto-detect shield in Weapon 2 slot
+if [[ "$slot" == "Weapon 2" ]] && [[ "$db_type" == "ALL_WEAPONS" ]]; then
+  w2_base=$(python3 "$MANIPULATE" list-slots --input "$build_xml" 2>/dev/null \
+    | jq -r '.[] | select(.name == "Weapon 2") | .preview // ""') || true
+  if printf '%s' "$w2_base" | grep -qiE 'Shield|Buckler'; then
+    db_type="shield"
+    ninja_category="unique-armour"
+    echo "DETECT: Weapon 2 is a shield, using shield DB" >&2
+  fi
+fi
+
 if [[ -z "$db_type" ]]; then
   echo "ERROR: unsupported slot: $slot" >&2
   exit 1
@@ -140,9 +151,9 @@ baseline_json=$(bash "$RUN_SIM" xml ${sim_skill_args[@]+"${sim_skill_args[@]}"} 
   exit 1
 }
 
-baseline_dps=$(printf '%s' "$baseline_json" | jq -r '.CombinedDPS // .combinedDPS // 0')
-baseline_life=$(printf '%s' "$baseline_json" | jq -r '.Life // .life // 0')
-baseline_ehp=$(printf '%s' "$baseline_json" | jq -r '.TotalEHP // .totalEHP // 0')
+baseline_dps=$(printf '%s' "$baseline_json" | jq -r '.offence.combinedDPS // .offence.CombinedDPS // .CombinedDPS // .combinedDPS // 0')
+baseline_life=$(printf '%s' "$baseline_json" | jq -r '.defence.life // .defence.Life // .Life // .life // 0')
+baseline_ehp=$(printf '%s' "$baseline_json" | jq -r '.defence.totalEHP // .defence.TotalEHP // .TotalEHP // .totalEHP // 0')
 
 # Extract current item name from the build
 current_item_name=$(python3 "$MANIPULATE" list-slots --input "$build_xml" 2>/dev/null \
@@ -214,12 +225,16 @@ else
 fi
 
 # ---------------------------------------------------------------------------
-# Step 4: Simulate each candidate
+# Step 4: Prepare XMLs + batch simulate
 # ---------------------------------------------------------------------------
 results_file="${tmp_prefix}_results.json"
 printf '[]' > "$results_file"
+batch_input="${tmp_prefix}_batch.txt"
+: > "$batch_input"
 
-tested=0
+# Phase A: prepare all candidate XMLs and metadata
+declare -a b_names b_chaos b_divine b_price_info
+batch_count=0
 skipped=0
 
 for i in $(seq 0 $((total_candidates - 1))); do
@@ -272,49 +287,80 @@ for i in $(seq 0 $((total_candidates - 1))); do
     continue
   fi
 
-  # Simulate
-  sim_json=$(bash "$RUN_SIM" xml ${sim_skill_args[@]+"${sim_skill_args[@]}"} < "$tmp_modified" 2>/dev/null) || {
-    echo "SKIP: simulation failed for $c_name" >&2
-    skipped=$((skipped + 1))
-    rm -f "$tmp_modified"
-    continue
-  }
+  # Append to batch input
+  cat "$tmp_modified" >> "$batch_input"
+  printf '\n__POB_BATCH_SEP__\n' >> "$batch_input"
   rm -f "$tmp_modified"
 
-  c_dps=$(printf '%s' "$sim_json" | jq -r '.CombinedDPS // .combinedDPS // 0')
-  c_life=$(printf '%s' "$sim_json" | jq -r '.Life // .life // 0')
-  c_ehp=$(printf '%s' "$sim_json" | jq -r '.TotalEHP // .totalEHP // 0')
-
-  # Calculate deltas
-  delta_dps=$(awk "BEGIN {printf \"%.1f\", $c_dps - $baseline_dps}")
-  delta_life=$(awk "BEGIN {printf \"%.0f\", $c_life - $baseline_life}")
-  delta_ehp=$(awk "BEGIN {printf \"%.0f\", $c_ehp - $baseline_ehp}")
-
-  # Efficiency: ΔDPS per divine (0 if free or no price)
-  efficiency=0
-  if [[ "$c_divine" != "0" ]] && [[ "$price_info" != "null" ]]; then
-    efficiency=$(awk "BEGIN {d=$c_divine; if(d>0) printf \"%.1f\", ($c_dps - $baseline_dps)/d; else print 0}")
-  fi
-
-  # Append result
-  entry=$(jq -n \
-    --arg name "$c_name" \
-    --argjson chaos "$c_chaos" \
-    --argjson divine "$c_divine" \
-    --argjson ddps "$delta_dps" \
-    --argjson dlife "$delta_life" \
-    --argjson dehp "$delta_ehp" \
-    --argjson eff "$efficiency" \
-    '{name: $name, chaosValue: $chaos, divineValue: $divine, delta: {combinedDPS: $ddps, life: $dlife, totalEHP: $dehp}, efficiency: $eff}')
-
-  jq --argjson e "$entry" '. += [$e]' "$results_file" > "${tmp_prefix}_r2.json"
-  mv "${tmp_prefix}_r2.json" "$results_file"
-  tested=$((tested + 1))
-
-  echo "  [$tested/$total_candidates] $c_name: ΔDPS=$delta_dps" >&2
+  b_names[$batch_count]="$c_name"
+  b_chaos[$batch_count]="$c_chaos"
+  b_divine[$batch_count]="$c_divine"
+  b_price_info[$batch_count]="$price_info"
+  batch_count=$((batch_count + 1))
 done
 
-echo "TESTED: $tested, SKIPPED: $skipped" >&2
+echo "CANDIDATES: $batch_count (skipped: $skipped)" >&2
+
+# Phase B: batch simulate all candidates at once
+if [[ "$batch_count" -gt 0 ]]; then
+  batch_output=$(bash "$RUN_SIM" batch ${sim_skill_args[@]+"${sim_skill_args[@]}"} < "$batch_input" 2>/dev/null) || {
+    echo "ERROR: batch simulation failed" >&2
+    exit 1
+  }
+
+  # Phase C: process NDJSON results
+  tested=0
+  line_idx=0
+  while IFS= read -r sim_json; do
+    [[ -z "$sim_json" ]] && continue
+
+    c_name="${b_names[$line_idx]}"
+    c_chaos="${b_chaos[$line_idx]}"
+    c_divine="${b_divine[$line_idx]}"
+    price_info="${b_price_info[$line_idx]}"
+    line_idx=$((line_idx + 1))
+
+    # Skip error results
+    if printf '%s' "$sim_json" | jq -e '.error' >/dev/null 2>&1; then
+      echo "  SKIP: simulation error for $c_name" >&2
+      continue
+    fi
+
+    c_dps=$(printf '%s' "$sim_json" | jq -r '.offence.combinedDPS // .offence.CombinedDPS // .CombinedDPS // .combinedDPS // 0')
+    c_life=$(printf '%s' "$sim_json" | jq -r '.defence.life // .defence.Life // .Life // .life // 0')
+    c_ehp=$(printf '%s' "$sim_json" | jq -r '.defence.totalEHP // .defence.TotalEHP // .TotalEHP // .totalEHP // 0')
+
+    # Calculate deltas
+    delta_dps=$(awk "BEGIN {printf \"%.1f\", $c_dps - $baseline_dps}")
+    delta_life=$(awk "BEGIN {printf \"%.0f\", $c_life - $baseline_life}")
+    delta_ehp=$(awk "BEGIN {printf \"%.0f\", $c_ehp - $baseline_ehp}")
+
+    # Efficiency: ΔDPS per divine (0 if free or no price)
+    efficiency=0
+    if [[ "$c_divine" != "0" ]] && [[ "$price_info" != "null" ]]; then
+      efficiency=$(awk "BEGIN {d=$c_divine; if(d>0) printf \"%.1f\", ($c_dps - $baseline_dps)/d; else print 0}")
+    fi
+
+    # Append result
+    entry=$(jq -n \
+      --arg name "$c_name" \
+      --argjson chaos "$c_chaos" \
+      --argjson divine "$c_divine" \
+      --argjson ddps "$delta_dps" \
+      --argjson dlife "$delta_life" \
+      --argjson dehp "$delta_ehp" \
+      --argjson eff "$efficiency" \
+      '{name: $name, chaosValue: $chaos, divineValue: $divine, delta: {combinedDPS: $ddps, life: $dlife, totalEHP: $dehp}, efficiency: $eff}')
+
+    jq --argjson e "$entry" '. += [$e]' "$results_file" > "${tmp_prefix}_r2.json"
+    mv "${tmp_prefix}_r2.json" "$results_file"
+    tested=$((tested + 1))
+
+    echo "  [$tested/$batch_count] $c_name: ΔDPS=$delta_dps" >&2
+  done <<< "$batch_output"
+fi
+
+echo "TESTED: ${tested:-0}, SKIPPED: $skipped" >&2
 
 # ---------------------------------------------------------------------------
 # Step 5: Sort by ΔDPS descending, output final JSON

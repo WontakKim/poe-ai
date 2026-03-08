@@ -158,10 +158,11 @@
     "league": null,
     "req": null,
     "sockets": null,
+    "variants": ["Pre 3.28.0", "Current"],
     "limitedTo": 1,
     "implicit": [],
     "mods": [
-      "(40-60)% of Damage Taken from Stunning Hits is Recovered as Life"
+      "(20-30)% of Damage Taken from Stunning Hits is Recovered as Life"
     ]
   },
   {

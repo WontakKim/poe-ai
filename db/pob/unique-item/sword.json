@@ -1105,7 +1105,7 @@
     "league": "Harbinger",
     "req": null,
     "sockets": null,
-    "source": "Created from item parts obtained from Boss in The Beachhead",
+    "source": "No longer obtainable",
     "implicit": ["40% increased Global Accuracy Rating"],
     "mods": [
       "Grants Summon Harbinger of the Arcane Skill",
@@ -1143,10 +1143,9 @@
     "baseType": "Legion Sword",
     "type": "One Handed Sword",
     "levelReq": 62,
-    "league": "Harvest",
+    "league": null,
     "req": null,
     "sockets": null,
-    "source": "Upgraded from unique{The Rippling Thoughts} via currency{Electroshock Scroll}",
     "implicit": ["40% increased Global Accuracy Rating"],
     "mods": [
       "Grants Summon Greater Harbinger of the Arcane Skill",

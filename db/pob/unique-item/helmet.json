@@ -2011,7 +2011,7 @@
     "league": "Harbinger",
     "req": { "str": 0, "dex": 51, "int": 51 },
     "sockets": null,
-    "source": "Created from item parts obtained from Boss in The Beachhead",
+    "source": "No longer obtainable",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Ice Bite",
@@ -2029,10 +2029,9 @@
     "baseType": "Callous Mask",
     "type": "Helmet",
     "levelReq": 60,
-    "league": "Harvest",
+    "league": null,
     "req": { "str": 0, "dex": 51, "int": 51 },
     "sockets": null,
-    "source": "Upgraded from unique{The Tempest's Binding} via currency{Deregulation Scroll}",
     "implicit": [],
     "mods": [
       "Socketed Gems are Supported by Level 18 Ice Bite",

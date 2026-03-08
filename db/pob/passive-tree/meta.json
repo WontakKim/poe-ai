@@ -1,6 +1,6 @@
 {
   "classes": [
-    {"name": "Scion", "base_str": 20, "base_dex": 20, "base_int": 20, "ascendancies": ["Ascendant"]},
+    {"name": "Scion", "base_str": 20, "base_dex": 20, "base_int": 20, "ascendancies": ["Ascendant", "Reliquarian"]},
     {"name": "Marauder", "base_str": 32, "base_dex": 14, "base_int": 14, "ascendancies": ["Juggernaut", "Berserker", "Chieftain"]},
     {"name": "Ranger", "base_str": 14, "base_dex": 32, "base_int": 14, "ascendancies": ["Raider", "Deadeye", "Pathfinder"]},
     {"name": "Witch", "base_str": 14, "base_dex": 14, "base_int": 32, "ascendancies": ["Occultist", "Elementalist", "Necromancer"]},
@@ -21,7 +21,8 @@
     {"id": "Olroth", "name": "Olroth Bloodline"},
     {"id": "Farrul", "name": "Farrul Bloodline"},
     {"id": "Delirious", "name": "Delirious Bloodline"},
-    {"id": "Breachlord", "name": "Breachlord Bloodline"}
+    {"id": "Breachlord", "name": "Breachlord Bloodline"},
+    {"id": "Necromantic", "name": "Saresh Bloodline"}
   ],
   "constants": {
     "skillsPerOrbit": [1, 6, 16, 16, 40, 72, 72],
@@ -33,5 +34,5 @@
     "ascendancyPoints": 8
   },
   "jewelSlots": [26725, 36634, 33989, 41263, 60735, 61834, 31683, 28475, 6230, 48768, 34483, 7960, 46882, 55190, 61419, 2491, 54127, 32763, 26196, 33631, 21984, 29712, 48679, 9408, 12613, 16218, 2311, 22994, 40400, 46393, 61305, 12161, 3109, 49080, 17219, 44169, 24970, 36931, 14993, 10532, 23756, 46519, 23984, 51198, 61666, 6910, 49684, 33753, 18436, 11150, 22748, 64583, 61288, 13170, 9797, 41876, 59585, 43670, 29914, 18060],
-  "nodeCounts": {"jewel_socket": 60, "keystone": 54, "mastery": 349, "notable": 975, "small": 1768}
+  "nodeCounts": {"jewel_socket": 60, "keystone": 54, "mastery": 351, "notable": 987, "small": 1809}
 }

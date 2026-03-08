@@ -1,0 +1,1651 @@
+[
+  {
+    "id": "abrasive-catalyst",
+    "ninjaId": 123,
+    "name": "Abrasive Catalyst",
+    "chaosValue": 0.6692,
+    "volume": 1081,
+    "trend": -27.06,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -27.06
+    ]
+  },
+  {
+    "id": "accelerating-catalyst",
+    "ninjaId": 147,
+    "name": "Accelerating Catalyst",
+    "chaosValue": 1.48,
+    "volume": 626.0,
+    "trend": -22.99,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -22.99
+    ]
+  },
+  {
+    "id": "alch",
+    "ninjaId": 4,
+    "name": "Orb of Alchemy",
+    "chaosValue": 0.06095,
+    "volume": 1837,
+    "trend": -25.26,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -25.26
+    ]
+  },
+  {
+    "id": "alt",
+    "ninjaId": 6,
+    "name": "Orb of Alteration",
+    "chaosValue": 0.1031,
+    "volume": 32776,
+    "trend": 106.1,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      106.1
+    ]
+  },
+  {
+    "id": "ancient-orb",
+    "ninjaId": 78,
+    "name": "Ancient Orb",
+    "chaosValue": 3.01,
+    "volume": 14558,
+    "trend": 135.8,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      135.8
+    ]
+  },
+  {
+    "id": "annul",
+    "ninjaId": 73,
+    "name": "Orb of Annulment",
+    "chaosValue": 6.15,
+    "volume": 26433,
+    "trend": 165.5,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      165.5
+    ]
+  },
+  {
+    "id": "aug",
+    "ninjaId": 20,
+    "name": "Orb of Augmentation",
+    "chaosValue": 0.02302,
+    "volume": 839.7,
+    "trend": -34.78,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -34.78
+    ]
+  },
+  {
+    "id": "awakeners-orb",
+    "ninjaId": 116,
+    "name": "Awakener's Orb",
+    "chaosValue": 152.4,
+    "volume": 6602,
+    "trend": 55.46,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      55.46
+    ]
+  },
+  {
+    "id": "bauble",
+    "ninjaId": 19,
+    "name": "Glassblower's Bauble",
+    "chaosValue": 1.42,
+    "volume": 41167,
+    "trend": 127.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      127.3
+    ]
+  },
+  {
+    "id": "blessed",
+    "ninjaId": 18,
+    "name": "Blessed Orb",
+    "chaosValue": 0.3823,
+    "volume": 1906,
+    "trend": -18.95,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -18.95
+    ]
+  },
+  {
+    "id": "blessing-general",
+    "ninjaId": 278,
+    "name": "Flesh of Xesht",
+    "chaosValue": 32.66,
+    "volume": 2302,
+    "trend": 10.60,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      10.60
+    ]
+  },
+  {
+    "id": "chance",
+    "ninjaId": 16,
+    "name": "Orb of Chance",
+    "chaosValue": 0.1232,
+    "volume": 28503,
+    "trend": 56.82,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      56.82
+    ]
+  },
+  {
+    "id": "chaos",
+    "ninjaId": 1,
+    "name": "Chaos Orb",
+    "chaosValue": 1,
+    "volume": 1611005,
+    "trend": -47.99,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -47.99
+    ]
+  },
+  {
+    "id": "chrome",
+    "ninjaId": 17,
+    "name": "Chromatic Orb",
+    "chaosValue": 0.1112,
+    "volume": 30845,
+    "trend": 11.95,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      11.95
+    ]
+  },
+  {
+    "id": "cluster-fog",
+    "ninjaId": 277,
+    "name": "Refracting Fog",
+    "chaosValue": 15.09,
+    "volume": 1559,
+    "trend": 145.1,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      145.1
+    ]
+  },
+  {
+    "id": "crusaders-exalted-orb",
+    "ninjaId": 117,
+    "name": "Crusader's Exalted Orb",
+    "chaosValue": 47.22,
+    "volume": 1015,
+    "trend": 36.20,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      36.20
+    ]
+  },
+  {
+    "id": "divine",
+    "ninjaId": 3,
+    "name": "Divine Orb",
+    "chaosValue": 100.8,
+    "volume": 1611005,
+    "trend": 63.37,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      63.37
+    ]
+  },
+  {
+    "id": "elders-exalted-orb",
+    "ninjaId": 253,
+    "name": "Elder's Exalted Orb",
+    "chaosValue": 71.19,
+    "volume": 5268,
+    "trend": 45.80,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      45.80
+    ]
+  },
+  {
+    "id": "eldritch-chaos-orb",
+    "ninjaId": 190,
+    "name": "Eldritch Chaos Orb",
+    "chaosValue": 14.40,
+    "volume": 7217,
+    "trend": 104.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      104.3
+    ]
+  },
+  {
+    "id": "eldritch-exalted-orb",
+    "ninjaId": 191,
+    "name": "Eldritch Exalted Orb",
+    "chaosValue": 2.22,
+    "volume": 240.8,
+    "trend": 25.72,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      25.72
+    ]
+  },
+  {
+    "id": "eldritch-orb-of-annulment",
+    "ninjaId": 192,
+    "name": "Eldritch Orb of Annulment",
+    "chaosValue": 9.92,
+    "volume": 3818,
+    "trend": 64.19,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      64.19
+    ]
+  },
+  {
+    "id": "enkindling-orb",
+    "ninjaId": 172,
+    "name": "Enkindling Orb",
+    "chaosValue": 0.9129,
+    "volume": 3616,
+    "trend": 47.06,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      47.06
+    ]
+  },
+  {
+    "id": "exalted",
+    "ninjaId": 2,
+    "name": "Exalted Orb",
+    "chaosValue": 0.4653,
+    "volume": 11612,
+    "trend": -23.13,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -23.13
+    ]
+  },
+  {
+    "id": "exceptional-eldritch-ember",
+    "ninjaId": 183,
+    "name": "Exceptional Eldritch Ember",
+    "chaosValue": 9.55,
+    "volume": 1054,
+    "trend": 45.13,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      45.13
+    ]
+  },
+  {
+    "id": "exceptional-eldritch-ichor",
+    "ninjaId": 187,
+    "name": "Exceptional Eldritch Ichor",
+    "chaosValue": 9.15,
+    "volume": 954.5,
+    "trend": 120.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      120.3
+    ]
+  },
+  {
+    "id": "fertile-catalyst",
+    "ninjaId": 125,
+    "name": "Fertile Catalyst",
+    "chaosValue": 4.38,
+    "volume": 4244,
+    "trend": 51.25,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      51.25
+    ]
+  },
+  {
+    "id": "fracturing-orb",
+    "ninjaId": 230,
+    "name": "Fracturing Orb",
+    "chaosValue": 64.06,
+    "volume": 49606,
+    "trend": 143.6,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      143.6
+    ]
+  },
+  {
+    "id": "fracturing-shard",
+    "ninjaId": 231,
+    "name": "Fracturing Shard",
+    "chaosValue": 2.95,
+    "volume": 71.83,
+    "trend": 2.81,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      2.81
+    ]
+  },
+  {
+    "id": "fusing",
+    "ninjaId": 5,
+    "name": "Orb of Fusing",
+    "chaosValue": 0.2328,
+    "volume": 84478,
+    "trend": 132.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      132.3
+    ]
+  },
+  {
+    "id": "gcp",
+    "ninjaId": 15,
+    "name": "Gemcutter's Prism",
+    "chaosValue": 1.72,
+    "volume": 66266,
+    "trend": 136.1,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      136.1
+    ]
+  },
+  {
+    "id": "grand-eldritch-ember",
+    "ninjaId": 182,
+    "name": "Grand Eldritch Ember",
+    "chaosValue": 1.06,
+    "volume": 3911,
+    "trend": 3.73,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      3.73
+    ]
+  },
+  {
+    "id": "grand-eldritch-ichor",
+    "ninjaId": 186,
+    "name": "Grand Eldritch Ichor",
+    "chaosValue": 2.08,
+    "volume": 4012,
+    "trend": 46.26,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      46.26
+    ]
+  },
+  {
+    "id": "greater-eldritch-ember",
+    "ninjaId": 181,
+    "name": "Greater Eldritch Ember",
+    "chaosValue": 0.5196,
+    "volume": 3864,
+    "trend": -24.73,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -24.73
+    ]
+  },
+  {
+    "id": "greater-eldritch-ichor",
+    "ninjaId": 185,
+    "name": "Greater Eldritch Ichor",
+    "chaosValue": 1.59,
+    "volume": 6503,
+    "trend": 25.38,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      25.38
+    ]
+  },
+  {
+    "id": "hinekoras-lock",
+    "ninjaId": 234,
+    "name": "Hinekora's Lock",
+    "chaosValue": 1987,
+    "volume": 28146,
+    "trend": 120.4,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      120.4
+    ]
+  },
+  {
+    "id": "hunters-exalted-orb",
+    "ninjaId": 119,
+    "name": "Hunter's Exalted Orb",
+    "chaosValue": 105.9,
+    "volume": 2083,
+    "trend": 55.06,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      55.06
+    ]
+  },
+  {
+    "id": "imbued-catalyst",
+    "ninjaId": 122,
+    "name": "Imbued Catalyst",
+    "chaosValue": 0.4723,
+    "volume": 659.7,
+    "trend": -22.89,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -22.89
+    ]
+  },
+  {
+    "id": "instilling-orb",
+    "ninjaId": 173,
+    "name": "Instilling Orb",
+    "chaosValue": 2.78,
+    "volume": 70243,
+    "trend": 77.56,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      77.56
+    ]
+  },
+  {
+    "id": "intrinsic-catalyst",
+    "ninjaId": 127,
+    "name": "Intrinsic Catalyst",
+    "chaosValue": 1.22,
+    "volume": 6685,
+    "trend": 6.07,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      6.07
+    ]
+  },
+  {
+    "id": "jewellers",
+    "ninjaId": 11,
+    "name": "Jeweller's Orb",
+    "chaosValue": 0.05256,
+    "volume": 13952,
+    "trend": 13.84,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      13.84
+    ]
+  },
+  {
+    "id": "lesser-eldritch-ember",
+    "ninjaId": 180,
+    "name": "Lesser Eldritch Ember",
+    "chaosValue": 0.6614,
+    "volume": 27047,
+    "trend": -16.56,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -16.56
+    ]
+  },
+  {
+    "id": "lesser-eldritch-ichor",
+    "ninjaId": 184,
+    "name": "Lesser Eldritch Ichor",
+    "chaosValue": 0.9846,
+    "volume": 28130,
+    "trend": 29.15,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      29.15
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-avarice",
+    "ninjaId": 249,
+    "name": "Maven's Chisel of Avarice",
+    "chaosValue": 8.72,
+    "volume": 1680,
+    "trend": 139.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      139.3
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-divination",
+    "ninjaId": 247,
+    "name": "Maven's Chisel of Divination",
+    "chaosValue": 4.22,
+    "volume": 397.7,
+    "trend": 3.84,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      3.84
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-procurement",
+    "ninjaId": 245,
+    "name": "Maven's Chisel of Procurement",
+    "chaosValue": 3.16,
+    "volume": 406.7,
+    "trend": -4.57,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -4.57
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-proliferation",
+    "ninjaId": 246,
+    "name": "Maven's Chisel of Proliferation",
+    "chaosValue": 9.82,
+    "volume": 1928,
+    "trend": 285.8,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      285.8
+    ]
+  },
+  {
+    "id": "mavens-chisel-of-scarabs",
+    "ninjaId": 248,
+    "name": "Maven's Chisel of Scarabs",
+    "chaosValue": 17.98,
+    "volume": 3053,
+    "trend": 90.20,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      90.20
+    ]
+  },
+  {
+    "id": "mavens-orb",
+    "ninjaId": 189,
+    "name": "Orb of Dominance",
+    "chaosValue": 71.03,
+    "volume": 2841,
+    "trend": 75.83,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      75.83
+    ]
+  },
+  {
+    "id": "mirror",
+    "ninjaId": 22,
+    "name": "Mirror of Kalandra",
+    "chaosValue": 13081,
+    "volume": 26163,
+    "trend": 159.5,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      159.5
+    ]
+  },
+  {
+    "id": "mirror-shard",
+    "ninjaId": 81,
+    "name": "Mirror Shard",
+    "chaosValue": 1542,
+    "volume": 8738,
+    "trend": 21.29,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      21.29
+    ]
+  },
+  {
+    "id": "noxious-catalyst",
+    "ninjaId": 146,
+    "name": "Noxious Catalyst",
+    "chaosValue": 0.9792,
+    "volume": 1965,
+    "trend": -58.57,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -58.57
+    ]
+  },
+  {
+    "id": "orb-of-binding",
+    "ninjaId": 74,
+    "name": "Orb of Binding",
+    "chaosValue": 0.05154,
+    "volume": 86.17,
+    "trend": -58.65,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -58.65
+    ]
+  },
+  {
+    "id": "orb-of-conflict",
+    "ninjaId": 188,
+    "name": "Orb of Conflict",
+    "chaosValue": 22.94,
+    "volume": 4859,
+    "trend": 89.08,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      89.08
+    ]
+  },
+  {
+    "id": "orb-of-intention",
+    "ninjaId": 256,
+    "name": "Orb of Intention",
+    "chaosValue": 1.68,
+    "volume": 7.00,
+    "trend": -75.63,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -75.63
+    ]
+  },
+  {
+    "id": "orb-of-remembrance",
+    "ninjaId": 254,
+    "name": "Orb of Remembrance",
+    "chaosValue": 14.53,
+    "volume": 285.8,
+    "trend": -26.69,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -26.69
+    ]
+  },
+  {
+    "id": "orb-of-unmaking",
+    "ninjaId": 141,
+    "name": "Orb of Unmaking",
+    "chaosValue": 0.1691,
+    "volume": 2608,
+    "trend": -39.26,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -39.26
+    ]
+  },
+  {
+    "id": "orb-of-unravelling",
+    "ninjaId": 255,
+    "name": "Orb of Unravelling",
+    "chaosValue": 41.13,
+    "volume": 1344,
+    "trend": -40.10,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -40.10
+    ]
+  },
+  {
+    "id": "portal",
+    "ninjaId": 24,
+    "name": "Portal Scroll",
+    "chaosValue": 0.01838,
+    "volume": 959.3,
+    "trend": -52.18,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -52.18
+    ]
+  },
+  {
+    "id": "primal-lifeforce",
+    "ninjaId": 212,
+    "name": "Primal Crystallised Lifeforce",
+    "chaosValue": 0.01323,
+    "volume": 32357,
+    "trend": -21.59,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -21.59
+    ]
+  },
+  {
+    "id": "prismatic-catalyst",
+    "ninjaId": 126,
+    "name": "Prismatic Catalyst",
+    "chaosValue": 4.17,
+    "volume": 4063,
+    "trend": 35.20,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      35.20
+    ]
+  },
+  {
+    "id": "redeemers-exalted-orb",
+    "ninjaId": 118,
+    "name": "Redeemer's Exalted Orb",
+    "chaosValue": 43.54,
+    "volume": 849.0,
+    "trend": 43.69,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      43.69
+    ]
+  },
+  {
+    "id": "reflecting-mist",
+    "ninjaId": 250,
+    "name": "Reflecting Mist",
+    "chaosValue": 431.3,
+    "volume": 6973,
+    "trend": 12.12,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      12.12
+    ]
+  },
+  {
+    "id": "regal",
+    "ninjaId": 7,
+    "name": "Regal Orb",
+    "chaosValue": 0.1842,
+    "volume": 2030,
+    "trend": -36.88,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -36.88
+    ]
+  },
+  {
+    "id": "regret",
+    "ninjaId": 9,
+    "name": "Orb of Regret",
+    "chaosValue": 1.20,
+    "volume": 66065,
+    "trend": 38.52,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      38.52
+    ]
+  },
+  {
+    "id": "rogues-marker",
+    "ninjaId": 137,
+    "name": "Rogue's Marker",
+    "chaosValue": 0.0005629,
+    "volume": 7298,
+    "trend": -0.13,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -0.13
+    ]
+  },
+  {
+    "id": "sacred-lifeforce",
+    "ninjaId": 213,
+    "name": "Sacred Crystallised Lifeforce",
+    "chaosValue": 10.73,
+    "volume": 382.8,
+    "trend": -62.12,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -62.12
+    ]
+  },
+  {
+    "id": "sacred-orb",
+    "ninjaId": 159,
+    "name": "Sacred Orb",
+    "chaosValue": 6.04,
+    "volume": 1084,
+    "trend": 100.8,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      100.8
+    ]
+  },
+  {
+    "id": "sandswept-lifeforce",
+    "ninjaId": 285,
+    "name": "Crystallised Rancour",
+    "chaosValue": 2.80,
+    "volume": 1520,
+    "trend": 32.94,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      32.94
+    ]
+  },
+  {
+    "id": "scour",
+    "ninjaId": 14,
+    "name": "Orb of Scouring",
+    "chaosValue": 0.5246,
+    "volume": 22796,
+    "trend": 49.47,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      49.47
+    ]
+  },
+  {
+    "id": "scrap",
+    "ninjaId": 26,
+    "name": "Armourer's Scrap",
+    "chaosValue": 0.05676,
+    "volume": 1190,
+    "trend": 5.09,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      5.09
+    ]
+  },
+  {
+    "id": "shapers-exalted-orb",
+    "ninjaId": 252,
+    "name": "Shaper's Exalted Orb",
+    "chaosValue": 127.6,
+    "volume": 10082,
+    "trend": 79.93,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      79.93
+    ]
+  },
+  {
+    "id": "stacked-deck",
+    "ninjaId": 45,
+    "name": "Stacked Deck",
+    "chaosValue": 0.9127,
+    "volume": 46756,
+    "trend": 50.62,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      50.62
+    ]
+  },
+  {
+    "id": "tailoring-orb",
+    "ninjaId": 136,
+    "name": "Tailoring Orb",
+    "chaosValue": 23.08,
+    "volume": 6068,
+    "trend": 168.9,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      168.9
+    ]
+  },
+  {
+    "id": "tainted-armourers-scrap",
+    "ninjaId": 168,
+    "name": "Tainted Armourer's Scrap",
+    "chaosValue": 1.67,
+    "volume": 633.8,
+    "trend": -53.97,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -53.97
+    ]
+  },
+  {
+    "id": "tainted-blacksmiths-whetstone",
+    "ninjaId": 167,
+    "name": "Tainted Blacksmith's Whetstone",
+    "chaosValue": 0.8493,
+    "volume": 48.83,
+    "trend": -73.87,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -73.87
+    ]
+  },
+  {
+    "id": "tainted-catalyst",
+    "ninjaId": 235,
+    "name": "Tainted Catalyst",
+    "chaosValue": 1.67,
+    "volume": 361.2,
+    "trend": -60.71,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -60.71
+    ]
+  },
+  {
+    "id": "tainted-chaos-orb",
+    "ninjaId": 169,
+    "name": "Tainted Chaos Orb",
+    "chaosValue": 7.05,
+    "volume": 23.50,
+    "trend": 605.0,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      605.0
+    ]
+  },
+  {
+    "id": "tainted-chromatic-orb",
+    "ninjaId": 161,
+    "name": "Tainted Chromatic Orb",
+    "chaosValue": 3.36,
+    "volume": 3634,
+    "trend": -30.06,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -30.06
+    ]
+  },
+  {
+    "id": "tainted-divine-orb",
+    "ninjaId": 281,
+    "name": "Volatile Vaal Orb",
+    "chaosValue": 37.36,
+    "volume": 1395,
+    "trend": -8.25,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -8.25
+    ]
+  },
+  {
+    "id": "tainted-divine-teardrop",
+    "ninjaId": 170,
+    "name": "Tainted Divine Teardrop",
+    "chaosValue": 39.38,
+    "volume": 85.33,
+    "trend": -14.64,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -14.64
+    ]
+  },
+  {
+    "id": "tainted-exalted-orb",
+    "ninjaId": 165,
+    "name": "Tainted Exalted Orb",
+    "chaosValue": 11.93,
+    "volume": 27.83,
+    "trend": 49.55,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      49.55
+    ]
+  },
+  {
+    "id": "tainted-jewellers-orb",
+    "ninjaId": 163,
+    "name": "Tainted Jeweller's Orb",
+    "chaosValue": 1.43,
+    "volume": 1223,
+    "trend": -73.32,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -73.32
+    ]
+  },
+  {
+    "id": "tainted-mythic-orb",
+    "ninjaId": 166,
+    "name": "Tainted Mythic Orb",
+    "chaosValue": 13.92,
+    "volume": 944.3,
+    "trend": 89.15,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      89.15
+    ]
+  },
+  {
+    "id": "tainted-orb-of-fusing",
+    "ninjaId": 162,
+    "name": "Tainted Orb of Fusing",
+    "chaosValue": 57.52,
+    "volume": 18847,
+    "trend": 8.78,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      8.78
+    ]
+  },
+  {
+    "id": "tempering-catalyst",
+    "ninjaId": 124,
+    "name": "Tempering Catalyst",
+    "chaosValue": 0.5982,
+    "volume": 145.7,
+    "trend": -29.44,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -29.44
+    ]
+  },
+  {
+    "id": "tempering-orb",
+    "ninjaId": 135,
+    "name": "Tempering Orb",
+    "chaosValue": 17.05,
+    "volume": 4512,
+    "trend": 87.92,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      87.92
+    ]
+  },
+  {
+    "id": "transmute",
+    "ninjaId": 21,
+    "name": "Orb of Transmutation",
+    "chaosValue": 0.01047,
+    "volume": 543.2,
+    "trend": -57.79,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -57.79
+    ]
+  },
+  {
+    "id": "turbulent-catalyst",
+    "ninjaId": 121,
+    "name": "Turbulent Catalyst",
+    "chaosValue": 2.30,
+    "volume": 5712,
+    "trend": 42.98,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      42.98
+    ]
+  },
+  {
+    "id": "unstable-catalyst",
+    "ninjaId": 148,
+    "name": "Unstable Catalyst",
+    "chaosValue": 1.60,
+    "volume": 736.8,
+    "trend": 23.20,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      23.20
+    ]
+  },
+  {
+    "id": "vaal",
+    "ninjaId": 8,
+    "name": "Vaal Orb",
+    "chaosValue": 0.9602,
+    "volume": 50727,
+    "trend": 45.54,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      45.54
+    ]
+  },
+  {
+    "id": "veiled-chaos-orb",
+    "ninjaId": 261,
+    "name": "Veiled Chaos Orb",
+    "chaosValue": 3.25,
+    "volume": 1438,
+    "trend": 7.74,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      7.74
+    ]
+  },
+  {
+    "id": "veiled-exalted-orb",
+    "ninjaId": 145,
+    "name": "Veiled Exalted Orb",
+    "chaosValue": 222.4,
+    "volume": 3522,
+    "trend": 99.50,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      99.50
+    ]
+  },
+  {
+    "id": "vivid-lifeforce",
+    "ninjaId": 211,
+    "name": "Vivid Crystallised Lifeforce",
+    "chaosValue": 0.01221,
+    "volume": 35456,
+    "trend": -18.41,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -18.41
+    ]
+  },
+  {
+    "id": "warlords-exalted-orb",
+    "ninjaId": 120,
+    "name": "Warlord's Exalted Orb",
+    "chaosValue": 63.95,
+    "volume": 1247,
+    "trend": 103.3,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      103.3
+    ]
+  },
+  {
+    "id": "whetstone",
+    "ninjaId": 25,
+    "name": "Blacksmith's Whetstone",
+    "chaosValue": 0.03632,
+    "volume": 274.8,
+    "trend": -66.07,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -66.07
+    ]
+  },
+  {
+    "id": "wild-lifeforce",
+    "ninjaId": 210,
+    "name": "Wild Crystallised Lifeforce",
+    "chaosValue": 0.01138,
+    "volume": 25022,
+    "trend": -20.17,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -20.17
+    ]
+  },
+  {
+    "id": "wisdom",
+    "ninjaId": 23,
+    "name": "Scroll of Wisdom",
+    "chaosValue": 0.006395,
+    "volume": 234.5,
+    "trend": -58.51,
+    "sparkline": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      -58.51
+    ]
+  }
+]

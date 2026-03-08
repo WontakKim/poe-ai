@@ -584,13 +584,14 @@
     "league": "Mercenaries of Trarthus",
     "req": { "str": 70, "dex": 0, "int": 70 },
     "sockets": null,
-    "source": "Drops from unique{Mercenary} after winning a duel",
+    "variants": ["Pre 3.28.0", "Current"],
     "implicit": [],
     "mods": [
       "(40-80)% increased Armour and Energy Shield",
       "(15-25)% increased Life Regeneration rate",
       "15% increased Area of Effect of Aura Skills",
-      "Excommunicate Enemies on Melee Hit for 3 seconds"
+      "Excommunicate Enemies on Melee Hit for 3 seconds",
+      "+(0.8-1.6)% to Critical Strike Chance against Excommunicated Enemies"
     ]
   },
   {
@@ -1203,11 +1204,11 @@
     "sockets": null,
     "influences": ["shaper"],
     "source": "Drops from unique{The Shaper}",
-    "variants": ["Pre 2.6.0", "Pre 3.10.0", "Current"],
+    "variants": ["Pre 2.6.0", "Pre 3.10.0", "Pre 3.28.0", "Current"],
     "implicit": [],
     "mods": [
       "(80-120)% increased Armour and Energy Shield",
-      "+4 Accuracy Rating per 2 Intelligence",
+      "+2 Accuracy Rating per 2 Intelligence",
       "+1 Life per 4 Dexterity",
       "+1 Mana per 4 Strength",
       "1% increased Energy Shield per 10 Strength",

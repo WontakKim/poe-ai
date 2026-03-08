@@ -1,0 +1,5813 @@
+{
+  "awakened-added-chaos-damage-support-1-20": [
+    {
+      "day": 2,
+      "chaosValue": 180.0,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 183.9,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 80.00,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 90.75,
+      "volume": 11
+    },
+    {
+      "day": 6,
+      "chaosValue": 99.59,
+      "volume": 18
+    },
+    {
+      "day": 7,
+      "chaosValue": 100.0,
+      "volume": 31
+    },
+    {
+      "day": 8,
+      "chaosValue": 100.0,
+      "volume": 45
+    },
+    {
+      "day": 9,
+      "chaosValue": 100.0,
+      "volume": 67
+    },
+    {
+      "day": 10,
+      "chaosValue": 100.0,
+      "volume": 82
+    },
+    {
+      "day": 11,
+      "chaosValue": 91.00,
+      "volume": 93
+    },
+    {
+      "day": 12,
+      "chaosValue": 80.00,
+      "volume": 87
+    },
+    {
+      "day": 13,
+      "chaosValue": 80.00,
+      "volume": 86
+    },
+    {
+      "day": 14,
+      "chaosValue": 80.00,
+      "volume": 78
+    },
+    {
+      "week": 3,
+      "chaosValue": 78.63,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 71.2,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 65.63,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 52.64,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 49.57,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 58.23,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 57.89,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 65.74,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 70.53,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 151.81,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 63.89,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 69.56,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 76.26,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 125.24,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 270.77,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3356.53,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-added-lightning-damage-support-6-20c": [
+    {
+      "day": 2,
+      "chaosValue": 360.0,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 549.8,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 748.9,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 613.2,
+      "volume": 5
+    },
+    {
+      "day": 6,
+      "chaosValue": 512.1,
+      "volume": 5
+    },
+    {
+      "day": 7,
+      "chaosValue": 601.7,
+      "volume": 9
+    },
+    {
+      "day": 8,
+      "chaosValue": 550.9,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 489.5,
+      "volume": 12
+    },
+    {
+      "day": 10,
+      "chaosValue": 500.0,
+      "volume": 25
+    },
+    {
+      "day": 11,
+      "chaosValue": 511.3,
+      "volume": 13
+    },
+    {
+      "day": 12,
+      "chaosValue": 593.6,
+      "volume": 26
+    },
+    {
+      "day": 13,
+      "chaosValue": 496.0,
+      "volume": 50
+    },
+    {
+      "day": 14,
+      "chaosValue": 452.6,
+      "volume": 48
+    },
+    {
+      "week": 3,
+      "chaosValue": 410.13,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 670.29,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 714.56,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 782.2,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 809.57,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 701.61,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 804.54,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 768.74,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 575.77,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 582.97,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 704.93,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 505.6,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 402.33,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 768.07,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1397,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 410847.5,
+      "volume": 2,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-brutality-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 833.0,
+      "volume": 3
+    },
+    {
+      "day": 4,
+      "chaosValue": 645.0,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 649.0,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 935.1,
+      "volume": 7
+    },
+    {
+      "day": 7,
+      "chaosValue": 1238,
+      "volume": 10
+    },
+    {
+      "day": 8,
+      "chaosValue": 1003,
+      "volume": 18
+    },
+    {
+      "day": 9,
+      "chaosValue": 805.7,
+      "volume": 19
+    },
+    {
+      "day": 10,
+      "chaosValue": 903.2,
+      "volume": 15
+    },
+    {
+      "day": 11,
+      "chaosValue": 886.9,
+      "volume": 12
+    },
+    {
+      "day": 12,
+      "chaosValue": 1122,
+      "volume": 9
+    },
+    {
+      "day": 13,
+      "chaosValue": 982.4,
+      "volume": 10
+    },
+    {
+      "day": 14,
+      "chaosValue": 832.0,
+      "volume": 10
+    },
+    {
+      "week": 3,
+      "chaosValue": 730.4,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1035.77,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1163.56,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1717.71,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1797.14,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1489.71,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1471.43,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1496.51,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1267.29,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 996.96,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 473.51,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 546,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1622.23,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 2471.71,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 4482.86,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6040.75,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-burning-damage-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 675.3,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 683.8,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 731.5,
+      "volume": 3
+    },
+    {
+      "day": 6,
+      "chaosValue": 608.5,
+      "volume": 4
+    },
+    {
+      "day": 7,
+      "chaosValue": 775.2,
+      "volume": 6
+    },
+    {
+      "day": 8,
+      "chaosValue": 700.0,
+      "volume": 9
+    },
+    {
+      "day": 9,
+      "chaosValue": 784.2,
+      "volume": 10
+    },
+    {
+      "day": 10,
+      "chaosValue": 1050,
+      "volume": 16
+    },
+    {
+      "day": 11,
+      "chaosValue": 850.2,
+      "volume": 21
+    },
+    {
+      "day": 12,
+      "chaosValue": 762.0,
+      "volume": 29
+    },
+    {
+      "day": 13,
+      "chaosValue": 865.2,
+      "volume": 15
+    },
+    {
+      "day": 14,
+      "chaosValue": 717.6,
+      "volume": 38
+    },
+    {
+      "week": 3,
+      "chaosValue": 691.44,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1063.74,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 996.5,
+      "volume": 38,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1540.57,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1700.43,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1328.09,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1348.43,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1096.51,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1093.33,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1509.29,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 712.8,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 586.03,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1835.91,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3150.29,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3591.29,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4664.75,
+      "volume": 13,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-cast-on-critical-strike-support-6-20c": [
+    {
+      "day": 2,
+      "chaosValue": 1800,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 1921,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 1718,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 1113,
+      "volume": 3
+    },
+    {
+      "day": 6,
+      "chaosValue": 1392,
+      "volume": 12
+    },
+    {
+      "day": 7,
+      "chaosValue": 2327,
+      "volume": 6
+    },
+    {
+      "day": 8,
+      "chaosValue": 2129,
+      "volume": 16
+    },
+    {
+      "day": 9,
+      "chaosValue": 2112,
+      "volume": 13
+    },
+    {
+      "day": 10,
+      "chaosValue": 1833,
+      "volume": 23
+    },
+    {
+      "day": 11,
+      "chaosValue": 1440,
+      "volume": 15
+    },
+    {
+      "day": 12,
+      "chaosValue": 1886,
+      "volume": 14
+    },
+    {
+      "day": 13,
+      "chaosValue": 1719,
+      "volume": 14
+    },
+    {
+      "day": 14,
+      "chaosValue": 1542,
+      "volume": 17
+    },
+    {
+      "week": 3,
+      "chaosValue": 1652.43,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1786.86,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2103,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3222.86,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3117.57,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2506.86,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2295.71,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2992.71,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2547.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3111.86,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2933.71,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2750.43,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 2017.57,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 2258.57,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3861.71,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4763.75,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-cast-on-critical-strike-support-6-23c": [
+    {
+      "day": 4,
+      "chaosValue": 1993,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 1226,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 1993,
+      "volume": 3
+    },
+    {
+      "day": 7,
+      "chaosValue": 4122,
+      "volume": 9
+    },
+    {
+      "day": 8,
+      "chaosValue": 2723,
+      "volume": 6
+    },
+    {
+      "day": 9,
+      "chaosValue": 2906,
+      "volume": 9
+    },
+    {
+      "day": 10,
+      "chaosValue": 2093,
+      "volume": 14
+    },
+    {
+      "day": 11,
+      "chaosValue": 1642,
+      "volume": 9
+    },
+    {
+      "day": 12,
+      "chaosValue": 2137,
+      "volume": 7
+    },
+    {
+      "day": 13,
+      "chaosValue": 2095,
+      "volume": 9
+    },
+    {
+      "day": 14,
+      "chaosValue": 1794,
+      "volume": 12
+    },
+    {
+      "week": 3,
+      "chaosValue": 1966.57,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2115.14,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2584.71,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4186.86,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4330.57,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 4431.29,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3887.86,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 4301.29,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 6268.71,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5220.14,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3791.43,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3981.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5446.86,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5100.14,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 6591.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 28779,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-cold-penetration-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 293.9,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 411.2,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 404.8,
+      "volume": 8
+    },
+    {
+      "day": 6,
+      "chaosValue": 335.0,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 470.8,
+      "volume": 8
+    },
+    {
+      "day": 8,
+      "chaosValue": 564.4,
+      "volume": 10
+    },
+    {
+      "day": 9,
+      "chaosValue": 519.4,
+      "volume": 16
+    },
+    {
+      "day": 10,
+      "chaosValue": 494.9,
+      "volume": 14
+    },
+    {
+      "day": 11,
+      "chaosValue": 494.4,
+      "volume": 21
+    },
+    {
+      "day": 12,
+      "chaosValue": 379.5,
+      "volume": 22
+    },
+    {
+      "day": 13,
+      "chaosValue": 374.1,
+      "volume": 18
+    },
+    {
+      "day": 14,
+      "chaosValue": 357.8,
+      "volume": 38
+    },
+    {
+      "week": 3,
+      "chaosValue": 322.8,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 540.6,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 585.37,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1017.21,
+      "volume": 38,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 927.49,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 657.17,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 524.14,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 539.84,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 391.09,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 392.44,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 525.51,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 524.79,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 557.44,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 750.89,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1014.71,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1786.25,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-controlled-destruction-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 270.8,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 513.0,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 611.7,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 597.2,
+      "volume": 12
+    },
+    {
+      "day": 7,
+      "chaosValue": 531.9,
+      "volume": 16
+    },
+    {
+      "day": 8,
+      "chaosValue": 568.8,
+      "volume": 9
+    },
+    {
+      "day": 9,
+      "chaosValue": 558.9,
+      "volume": 19
+    },
+    {
+      "day": 10,
+      "chaosValue": 475.4,
+      "volume": 12
+    },
+    {
+      "day": 11,
+      "chaosValue": 647.0,
+      "volume": 22
+    },
+    {
+      "day": 12,
+      "chaosValue": 636.5,
+      "volume": 19
+    },
+    {
+      "day": 13,
+      "chaosValue": 630.5,
+      "volume": 12
+    },
+    {
+      "day": 14,
+      "chaosValue": 600.0,
+      "volume": 16
+    },
+    {
+      "week": 3,
+      "chaosValue": 550.33,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1078.79,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1171.14,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1429.14,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1261.07,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1114.94,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1077.77,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 898.34,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 807.17,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1050,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 894,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 910.29,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1321.47,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1623.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2081,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2709.75,
+      "volume": 5,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-controlled-destruction-support-6-23c": [
+    {
+      "day": 3,
+      "chaosValue": 470.0,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 652.1,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 1475,
+      "volume": 2
+    },
+    {
+      "day": 6,
+      "chaosValue": 1047,
+      "volume": 4
+    },
+    {
+      "day": 7,
+      "chaosValue": 1295,
+      "volume": 4
+    },
+    {
+      "day": 8,
+      "chaosValue": 969.0,
+      "volume": 6
+    },
+    {
+      "day": 9,
+      "chaosValue": 670.0,
+      "volume": 6
+    },
+    {
+      "day": 10,
+      "chaosValue": 1256,
+      "volume": 2
+    },
+    {
+      "day": 11,
+      "chaosValue": 1009,
+      "volume": 6
+    },
+    {
+      "day": 12,
+      "chaosValue": 884.8,
+      "volume": 10
+    },
+    {
+      "day": 13,
+      "chaosValue": 744.0,
+      "volume": 7
+    },
+    {
+      "day": 14,
+      "chaosValue": 717.6,
+      "volume": 8
+    },
+    {
+      "week": 3,
+      "chaosValue": 675.67,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1483.14,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1615.14,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1574.86,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1279.46,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1578.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1186,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1096.5,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 787.51,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1181.43,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1426.29,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 49115.14,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 15223.57,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5727.71,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5353.29,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6983.5,
+      "volume": 5,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-deadly-ailments-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 515.3,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 536.2,
+      "volume": 4
+    },
+    {
+      "day": 5,
+      "chaosValue": 380.0,
+      "volume": 11
+    },
+    {
+      "day": 6,
+      "chaosValue": 380.0,
+      "volume": 13
+    },
+    {
+      "day": 7,
+      "chaosValue": 528.0,
+      "volume": 10
+    },
+    {
+      "day": 8,
+      "chaosValue": 692.0,
+      "volume": 8
+    },
+    {
+      "day": 9,
+      "chaosValue": 640.2,
+      "volume": 15
+    },
+    {
+      "day": 10,
+      "chaosValue": 651.0,
+      "volume": 23
+    },
+    {
+      "day": 11,
+      "chaosValue": 638.0,
+      "volume": 21
+    },
+    {
+      "day": 12,
+      "chaosValue": 633.0,
+      "volume": 23
+    },
+    {
+      "day": 13,
+      "chaosValue": 606.5,
+      "volume": 24
+    },
+    {
+      "day": 14,
+      "chaosValue": 594.9,
+      "volume": 28
+    },
+    {
+      "week": 3,
+      "chaosValue": 503.49,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 784.71,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 800.27,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1059.57,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1400.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1423.14,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1058.51,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 676.39,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 694.49,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 663.09,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 720.11,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 803.94,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 875.13,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 989.01,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2207.86,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3117.5,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-elemental-damage-with-attacks-support-5-20": [
+    {
+      "day": 3,
+      "chaosValue": 529.0,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 577.0,
+      "volume": 6
+    },
+    {
+      "day": 5,
+      "chaosValue": 559.4,
+      "volume": 10
+    },
+    {
+      "day": 6,
+      "chaosValue": 555.7,
+      "volume": 11
+    },
+    {
+      "day": 7,
+      "chaosValue": 679.0,
+      "volume": 17
+    },
+    {
+      "day": 8,
+      "chaosValue": 658.3,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 657.0,
+      "volume": 33
+    },
+    {
+      "day": 10,
+      "chaosValue": 648.5,
+      "volume": 47
+    },
+    {
+      "day": 11,
+      "chaosValue": 639.0,
+      "volume": 65
+    },
+    {
+      "day": 12,
+      "chaosValue": 630.0,
+      "volume": 215
+    },
+    {
+      "day": 13,
+      "chaosValue": 496.0,
+      "volume": 208
+    },
+    {
+      "day": 14,
+      "chaosValue": 468.8,
+      "volume": 112
+    },
+    {
+      "week": 3,
+      "chaosValue": 393.83,
+      "volume": 90,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 344.59,
+      "volume": 180,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 353.89,
+      "volume": 227,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 375.11,
+      "volume": 105,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 386.09,
+      "volume": 67,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 356.39,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 340.61,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 361.29,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 274.64,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 262.67,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 302.77,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 439.89,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 409.21,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 685.74,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 930.41,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2222.25,
+      "volume": 14,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-elemental-damage-with-attacks-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 1638,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 1159,
+      "volume": 4
+    },
+    {
+      "day": 5,
+      "chaosValue": 1187,
+      "volume": 6
+    },
+    {
+      "day": 6,
+      "chaosValue": 1313,
+      "volume": 12
+    },
+    {
+      "day": 7,
+      "chaosValue": 1429,
+      "volume": 24
+    },
+    {
+      "day": 8,
+      "chaosValue": 1536,
+      "volume": 22
+    },
+    {
+      "day": 9,
+      "chaosValue": 1484,
+      "volume": 19
+    },
+    {
+      "day": 10,
+      "chaosValue": 1582,
+      "volume": 5
+    },
+    {
+      "day": 11,
+      "chaosValue": 1404,
+      "volume": 37
+    },
+    {
+      "day": 12,
+      "chaosValue": 1270,
+      "volume": 55
+    },
+    {
+      "day": 13,
+      "chaosValue": 1252,
+      "volume": 37
+    },
+    {
+      "day": 14,
+      "chaosValue": 1196,
+      "volume": 44
+    },
+    {
+      "week": 3,
+      "chaosValue": 1270.57,
+      "volume": 40,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1476.14,
+      "volume": 46,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1673.57,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2412,
+      "volume": 33,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2424.14,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2456.71,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2113.86,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1770.14,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1695,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1855.86,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2158.57,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2863.14,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3478.43,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3321.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 4746.43,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6606.25,
+      "volume": 8,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-elemental-focus-support-6-20c": [
+    {
+      "day": 2,
+      "chaosValue": 360.0,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 1504,
+      "volume": 4
+    },
+    {
+      "day": 4,
+      "chaosValue": 514.5,
+      "volume": 5
+    },
+    {
+      "day": 5,
+      "chaosValue": 625.3,
+      "volume": 3
+    },
+    {
+      "day": 6,
+      "chaosValue": 797.9,
+      "volume": 10
+    },
+    {
+      "day": 7,
+      "chaosValue": 944.3,
+      "volume": 14
+    },
+    {
+      "day": 8,
+      "chaosValue": 856.8,
+      "volume": 20
+    },
+    {
+      "day": 9,
+      "chaosValue": 840.0,
+      "volume": 22
+    },
+    {
+      "day": 10,
+      "chaosValue": 784.8,
+      "volume": 22
+    },
+    {
+      "day": 11,
+      "chaosValue": 639.0,
+      "volume": 28
+    },
+    {
+      "day": 12,
+      "chaosValue": 632.5,
+      "volume": 47
+    },
+    {
+      "day": 13,
+      "chaosValue": 623.5,
+      "volume": 29
+    },
+    {
+      "day": 14,
+      "chaosValue": 952.0,
+      "volume": 19
+    },
+    {
+      "week": 3,
+      "chaosValue": 721.89,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1021.7,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1172.17,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1587.86,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1747.43,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1405.57,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1495,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1540.71,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2005.43,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1583.43,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1757.29,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2319.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3063.57,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 2443.86,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2699.29,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 5433.5,
+      "volume": 6,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-empower-support-1": [
+    {
+      "day": 3,
+      "chaosValue": 11000,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 9940,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 2529,
+      "volume": 8
+    },
+    {
+      "day": 6,
+      "chaosValue": 4237,
+      "volume": 4
+    },
+    {
+      "day": 7,
+      "chaosValue": 6984,
+      "volume": 12
+    },
+    {
+      "day": 8,
+      "chaosValue": 8225,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 7022,
+      "volume": 17
+    },
+    {
+      "day": 10,
+      "chaosValue": 5638,
+      "volume": 13
+    },
+    {
+      "day": 11,
+      "chaosValue": 6564,
+      "volume": 5
+    },
+    {
+      "day": 12,
+      "chaosValue": 9322,
+      "volume": 5
+    },
+    {
+      "day": 13,
+      "chaosValue": 9796,
+      "volume": 11
+    },
+    {
+      "day": 14,
+      "chaosValue": 10528,
+      "volume": 8
+    },
+    {
+      "week": 3,
+      "chaosValue": 10475.71,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 20278.71,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 28241.14,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 52692.14,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 83596.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 84318.71,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 44998.14,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 43441.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 48090.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 44485.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 62021,
+      "volume": 5,
+      "dataPoints": 4
+    },
+    {
+      "week": 14,
+      "chaosValue": 127915,
+      "volume": 1,
+      "dataPoints": 4
+    },
+    {
+      "week": 15,
+      "chaosValue": 138059,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 117428.43,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 176028.86,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 540753.5,
+      "volume": 1,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-empower-support-5-20c": [
+    {
+      "day": 5,
+      "chaosValue": 11638,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 34641,
+      "volume": 2
+    },
+    {
+      "day": 7,
+      "chaosValue": 48672,
+      "volume": 1
+    },
+    {
+      "day": 8,
+      "chaosValue": 47979,
+      "volume": 1
+    },
+    {
+      "day": 9,
+      "chaosValue": 32334,
+      "volume": 2
+    },
+    {
+      "day": 10,
+      "chaosValue": 25317,
+      "volume": 4
+    },
+    {
+      "day": 11,
+      "chaosValue": 33956,
+      "volume": 3
+    },
+    {
+      "day": 12,
+      "chaosValue": 49692,
+      "volume": 1
+    },
+    {
+      "day": 13,
+      "chaosValue": 62916,
+      "volume": 4
+    },
+    {
+      "day": 14,
+      "chaosValue": 56688,
+      "volume": 4
+    },
+    {
+      "week": 3,
+      "chaosValue": 55282.29,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 90177.14,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 99389,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 179811,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 268421.43,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 168032.57,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 190311.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 197291.57,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 191330,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 164682.86,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 289762.14,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 311322.29,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 287114.86,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 340589.57,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 578382.57,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1036762.25,
+      "volume": 1,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-enlighten-support-1": [
+    {
+      "day": 3,
+      "chaosValue": 6600,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 14467,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 11416,
+      "volume": 5
+    },
+    {
+      "day": 6,
+      "chaosValue": 11642,
+      "volume": 8
+    },
+    {
+      "day": 7,
+      "chaosValue": 12855,
+      "volume": 7
+    },
+    {
+      "day": 8,
+      "chaosValue": 15133,
+      "volume": 5
+    },
+    {
+      "day": 9,
+      "chaosValue": 23652,
+      "volume": 9
+    },
+    {
+      "day": 10,
+      "chaosValue": 20538,
+      "volume": 8
+    },
+    {
+      "day": 11,
+      "chaosValue": 15144,
+      "volume": 6
+    },
+    {
+      "day": 12,
+      "chaosValue": 16510,
+      "volume": 9
+    },
+    {
+      "day": 13,
+      "chaosValue": 21284,
+      "volume": 7
+    },
+    {
+      "day": 14,
+      "chaosValue": 22784,
+      "volume": 14
+    },
+    {
+      "week": 3,
+      "chaosValue": 28302.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 44560.86,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 60783.71,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 96662.29,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 169005.86,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 91108.29,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 83897.71,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 87508.14,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 71969,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 70212,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 137999.29,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 179707,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 155362,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 146942.33,
+      "volume": 2,
+      "dataPoints": 6
+    },
+    {
+      "week": 17,
+      "chaosValue": 533878,
+      "volume": 1,
+      "dataPoints": 2
+    },
+    {
+      "week": 18,
+      "chaosValue": 924636.25,
+      "volume": 1,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-fork-support-1": [
+    {
+      "day": 2,
+      "chaosValue": 1184,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 1640,
+      "volume": 6
+    },
+    {
+      "day": 4,
+      "chaosValue": 2264,
+      "volume": 5
+    },
+    {
+      "day": 5,
+      "chaosValue": 3158,
+      "volume": 10
+    },
+    {
+      "day": 6,
+      "chaosValue": 3590,
+      "volume": 39
+    },
+    {
+      "day": 7,
+      "chaosValue": 4059,
+      "volume": 30
+    },
+    {
+      "day": 8,
+      "chaosValue": 4400,
+      "volume": 16
+    },
+    {
+      "day": 9,
+      "chaosValue": 3766,
+      "volume": 35
+    },
+    {
+      "day": 10,
+      "chaosValue": 3987,
+      "volume": 30
+    },
+    {
+      "day": 11,
+      "chaosValue": 3852,
+      "volume": 29
+    },
+    {
+      "day": 12,
+      "chaosValue": 3792,
+      "volume": 32
+    },
+    {
+      "day": 13,
+      "chaosValue": 3619,
+      "volume": 27
+    },
+    {
+      "day": 14,
+      "chaosValue": 4185,
+      "volume": 32
+    },
+    {
+      "week": 3,
+      "chaosValue": 3665,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 4345.14,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3072.71,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2538.71,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2106.29,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1426.29,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1170.57,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 969.76,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 785.77,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 653.2,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 657.77,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 920.53,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1419.27,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1659.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3739.71,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6203.75,
+      "volume": 6,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-fork-support-6-23c": [
+    {
+      "day": 4,
+      "chaosValue": 2226,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 5859,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 5966,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 9454,
+      "volume": 3
+    },
+    {
+      "day": 8,
+      "chaosValue": 13672,
+      "volume": 1
+    },
+    {
+      "day": 9,
+      "chaosValue": 7102,
+      "volume": 4
+    },
+    {
+      "day": 10,
+      "chaosValue": 6213,
+      "volume": 6
+    },
+    {
+      "day": 11,
+      "chaosValue": 11440,
+      "volume": 1
+    },
+    {
+      "day": 12,
+      "chaosValue": 7513,
+      "volume": 4
+    },
+    {
+      "day": 13,
+      "chaosValue": 6484,
+      "volume": 5
+    },
+    {
+      "day": 14,
+      "chaosValue": 6986,
+      "volume": 1
+    },
+    {
+      "week": 3,
+      "chaosValue": 7088,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 8558.29,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 8453.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 9449.14,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10640.57,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 6463.14,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 7430.71,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5779.29,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 5355.57,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5602.86,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5314.43,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 13430.86,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 19417.14,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 14287.29,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 18919,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 69633.25,
+      "volume": 1,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-greater-multiple-projectiles-support-5-20": [
+    {
+      "day": 3,
+      "chaosValue": 2194,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 2093,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 1746,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 1701,
+      "volume": 2
+    },
+    {
+      "day": 7,
+      "chaosValue": 3999,
+      "volume": 7
+    },
+    {
+      "day": 8,
+      "chaosValue": 2839,
+      "volume": 22
+    },
+    {
+      "day": 9,
+      "chaosValue": 3285,
+      "volume": 25
+    },
+    {
+      "day": 10,
+      "chaosValue": 2981,
+      "volume": 18
+    },
+    {
+      "day": 11,
+      "chaosValue": 2942,
+      "volume": 16
+    },
+    {
+      "day": 12,
+      "chaosValue": 3038,
+      "volume": 21
+    },
+    {
+      "day": 13,
+      "chaosValue": 4092,
+      "volume": 10
+    },
+    {
+      "day": 14,
+      "chaosValue": 3795,
+      "volume": 8
+    },
+    {
+      "week": 3,
+      "chaosValue": 5156.71,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 7637.43,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 8399.86,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 11431.57,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 13097.14,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9824.29,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 8910.29,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 8901.14,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 7373,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5962,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 7586.71,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 7120.87,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 11177.57,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 9680,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 16244,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 696620.5,
+      "volume": 2,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-greater-multiple-projectiles-support-5-20c": [
+    {
+      "day": 4,
+      "chaosValue": 1488,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 2037,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 1530,
+      "volume": 2
+    },
+    {
+      "day": 7,
+      "chaosValue": 4122,
+      "volume": 1
+    },
+    {
+      "day": 8,
+      "chaosValue": 2775,
+      "volume": 6
+    },
+    {
+      "day": 9,
+      "chaosValue": 3688,
+      "volume": 1
+    },
+    {
+      "day": 10,
+      "chaosValue": 2885,
+      "volume": 2
+    },
+    {
+      "day": 11,
+      "chaosValue": 3003,
+      "volume": 2
+    },
+    {
+      "day": 12,
+      "chaosValue": 2935,
+      "volume": 1
+    },
+    {
+      "day": 13,
+      "chaosValue": 4082,
+      "volume": 4
+    },
+    {
+      "day": 14,
+      "chaosValue": 3717,
+      "volume": 6
+    },
+    {
+      "week": 3,
+      "chaosValue": 5115.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 7572.86,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 8297.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 11122.14,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 13336.86,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9894.86,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 8551.86,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 8696.57,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 7193.71,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 6072.14,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 6639.29,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 9556.57,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10653.86,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 9518.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 15909.86,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 26585.25,
+      "volume": 2,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-hextouch-support-5-20c": [
+    {
+      "day": 4,
+      "chaosValue": 200.0,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 160.0,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 99.79,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 172.6,
+      "volume": 3
+    },
+    {
+      "day": 8,
+      "chaosValue": 172.7,
+      "volume": 3
+    },
+    {
+      "day": 9,
+      "chaosValue": 208.9,
+      "volume": 2
+    },
+    {
+      "day": 10,
+      "chaosValue": 210.2,
+      "volume": 3
+    },
+    {
+      "day": 11,
+      "chaosValue": 183.8,
+      "volume": 9
+    },
+    {
+      "day": 12,
+      "chaosValue": 149.6,
+      "volume": 6
+    },
+    {
+      "day": 13,
+      "chaosValue": 159.1,
+      "volume": 5
+    },
+    {
+      "day": 14,
+      "chaosValue": 180.6,
+      "volume": 2
+    },
+    {
+      "week": 3,
+      "chaosValue": 207.4,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 302.73,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 252.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 293.43,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 256.34,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 208.03,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 179.37,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 232.63,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 237.96,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 183,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 352.48,
+      "volume": 1,
+      "dataPoints": 6
+    },
+    {
+      "week": 14,
+      "chaosValue": 199.33,
+      "volume": 1,
+      "dataPoints": 6
+    },
+    {
+      "week": 15,
+      "chaosValue": 210,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 208,
+      "volume": 2,
+      "dataPoints": 6
+    },
+    {
+      "week": 17,
+      "chaosValue": 2230.16,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2080.5,
+      "volume": 2,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-increased-area-of-effect-support-1": [
+    {
+      "day": 2,
+      "chaosValue": 270.8,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 357.4,
+      "volume": 14
+    },
+    {
+      "day": 4,
+      "chaosValue": 500.0,
+      "volume": 14
+    },
+    {
+      "day": 5,
+      "chaosValue": 508.7,
+      "volume": 10
+    },
+    {
+      "day": 6,
+      "chaosValue": 749.7,
+      "volume": 25
+    },
+    {
+      "day": 7,
+      "chaosValue": 1078,
+      "volume": 25
+    },
+    {
+      "day": 8,
+      "chaosValue": 1110,
+      "volume": 43
+    },
+    {
+      "day": 9,
+      "chaosValue": 938.0,
+      "volume": 55
+    },
+    {
+      "day": 10,
+      "chaosValue": 901.6,
+      "volume": 137
+    },
+    {
+      "day": 11,
+      "chaosValue": 883.4,
+      "volume": 101
+    },
+    {
+      "day": 12,
+      "chaosValue": 885.5,
+      "volume": 88
+    },
+    {
+      "day": 13,
+      "chaosValue": 868.0,
+      "volume": 61
+    },
+    {
+      "day": 14,
+      "chaosValue": 806.0,
+      "volume": 86
+    },
+    {
+      "week": 3,
+      "chaosValue": 885.71,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1158,
+      "volume": 97,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1171,
+      "volume": 79,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1254.57,
+      "volume": 90,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1248.29,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 949.29,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 891.01,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 899.87,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 738.27,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 672.8,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 657.99,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 751.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1078.73,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1528.86,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1930.57,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2119.5,
+      "volume": 9,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-lightning-penetration-support-5-20c": [
+    {
+      "day": 4,
+      "chaosValue": 316.4,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 391.3,
+      "volume": 3
+    },
+    {
+      "day": 6,
+      "chaosValue": 274.5,
+      "volume": 7
+    },
+    {
+      "day": 7,
+      "chaosValue": 290.0,
+      "volume": 23
+    },
+    {
+      "day": 8,
+      "chaosValue": 280.4,
+      "volume": 16
+    },
+    {
+      "day": 9,
+      "chaosValue": 269.0,
+      "volume": 15
+    },
+    {
+      "day": 10,
+      "chaosValue": 300.0,
+      "volume": 18
+    },
+    {
+      "day": 11,
+      "chaosValue": 377.8,
+      "volume": 37
+    },
+    {
+      "day": 12,
+      "chaosValue": 341.3,
+      "volume": 64
+    },
+    {
+      "day": 13,
+      "chaosValue": 248.0,
+      "volume": 68
+    },
+    {
+      "day": 14,
+      "chaosValue": 239.1,
+      "volume": 52
+    },
+    {
+      "week": 3,
+      "chaosValue": 205.97,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 203.36,
+      "volume": 67,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 193.29,
+      "volume": 55,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 268.67,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 387,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 275.87,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 222.44,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 173.61,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 187.33,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 200.63,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 206.51,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 165.37,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 167.79,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 206.36,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 215.6,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 42118,
+      "volume": 21,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-melee-physical-damage-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 655.4,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 743.9,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 775.9,
+      "volume": 14
+    },
+    {
+      "day": 6,
+      "chaosValue": 768.6,
+      "volume": 9
+    },
+    {
+      "day": 7,
+      "chaosValue": 919.8,
+      "volume": 10
+    },
+    {
+      "day": 8,
+      "chaosValue": 887.4,
+      "volume": 12
+    },
+    {
+      "day": 9,
+      "chaosValue": 896.3,
+      "volume": 14
+    },
+    {
+      "day": 10,
+      "chaosValue": 1163,
+      "volume": 22
+    },
+    {
+      "day": 11,
+      "chaosValue": 801.7,
+      "volume": 44
+    },
+    {
+      "day": 12,
+      "chaosValue": 866.9,
+      "volume": 18
+    },
+    {
+      "day": 13,
+      "chaosValue": 921.3,
+      "volume": 10
+    },
+    {
+      "day": 14,
+      "chaosValue": 837.2,
+      "volume": 16
+    },
+    {
+      "week": 3,
+      "chaosValue": 913.83,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1099.93,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1225.86,
+      "volume": 41,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1639.86,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1765.14,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1441.14,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1437.86,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1561.57,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1244.16,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1431.71,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1637.86,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1922.86,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3140,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3050,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5428.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 9347.25,
+      "volume": 5,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-minion-damage-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 997.9,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 734.3,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 680.2,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 658.8,
+      "volume": 12
+    },
+    {
+      "day": 7,
+      "chaosValue": 685.0,
+      "volume": 20
+    },
+    {
+      "day": 8,
+      "chaosValue": 818.7,
+      "volume": 18
+    },
+    {
+      "day": 9,
+      "chaosValue": 825.0,
+      "volume": 24
+    },
+    {
+      "day": 10,
+      "chaosValue": 784.8,
+      "volume": 31
+    },
+    {
+      "day": 11,
+      "chaosValue": 766.2,
+      "volume": 16
+    },
+    {
+      "day": 12,
+      "chaosValue": 766.2,
+      "volume": 12
+    },
+    {
+      "day": 13,
+      "chaosValue": 798.8,
+      "volume": 6
+    },
+    {
+      "day": 14,
+      "chaosValue": 830.6,
+      "volume": 16
+    },
+    {
+      "week": 3,
+      "chaosValue": 734.03,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1036.31,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1184.86,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1555.29,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1559.57,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1365.29,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1348.71,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1185,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 972.46,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 964.26,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1377.73,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1884.71,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3026.71,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 2694.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3310.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4742.75,
+      "volume": 6,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-multistrike-support-1": [
+    {
+      "day": 2,
+      "chaosValue": 6379,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 3455,
+      "volume": 12
+    },
+    {
+      "day": 4,
+      "chaosValue": 3887,
+      "volume": 20
+    },
+    {
+      "day": 5,
+      "chaosValue": 2935,
+      "volume": 12
+    },
+    {
+      "day": 6,
+      "chaosValue": 3150,
+      "volume": 10
+    },
+    {
+      "day": 7,
+      "chaosValue": 4871,
+      "volume": 33
+    },
+    {
+      "day": 8,
+      "chaosValue": 5091,
+      "volume": 24
+    },
+    {
+      "day": 9,
+      "chaosValue": 4976,
+      "volume": 31
+    },
+    {
+      "day": 10,
+      "chaosValue": 4495,
+      "volume": 46
+    },
+    {
+      "day": 11,
+      "chaosValue": 5054,
+      "volume": 40
+    },
+    {
+      "day": 12,
+      "chaosValue": 5544,
+      "volume": 31
+    },
+    {
+      "day": 13,
+      "chaosValue": 6789,
+      "volume": 19
+    },
+    {
+      "day": 14,
+      "chaosValue": 7734,
+      "volume": 23
+    },
+    {
+      "week": 3,
+      "chaosValue": 7882.29,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 11684.43,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 13548.57,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 20300.14,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 27283.86,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20130.86,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 17783.29,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 15762.29,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 14333.29,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 15752.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15573.57,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 16750.71,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 23483.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 21429.29,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 28140.86,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 41852.75,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-multistrike-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 13669,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 10373,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 4842,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 4953,
+      "volume": 4
+    },
+    {
+      "day": 7,
+      "chaosValue": 12806,
+      "volume": 4
+    },
+    {
+      "day": 8,
+      "chaosValue": 8646,
+      "volume": 12
+    },
+    {
+      "day": 9,
+      "chaosValue": 7686,
+      "volume": 14
+    },
+    {
+      "day": 10,
+      "chaosValue": 6550,
+      "volume": 8
+    },
+    {
+      "day": 11,
+      "chaosValue": 6981,
+      "volume": 8
+    },
+    {
+      "day": 12,
+      "chaosValue": 8236,
+      "volume": 6
+    },
+    {
+      "day": 13,
+      "chaosValue": 9629,
+      "volume": 7
+    },
+    {
+      "day": 14,
+      "chaosValue": 12180,
+      "volume": 3
+    },
+    {
+      "week": 3,
+      "chaosValue": 11125.29,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 17227.43,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 18762.71,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 27856.29,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 38234.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 29209.14,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 27113.86,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 24912.57,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 23495.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 25956.71,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 30527.29,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 66334.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 37926.71,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 35934,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 46376.29,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 67649.25,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-spell-cascade-support-5-23c": [
+    {
+      "day": 8,
+      "chaosValue": 2521,
+      "volume": 1
+    },
+    {
+      "day": 9,
+      "chaosValue": 2332,
+      "volume": 4
+    },
+    {
+      "day": 10,
+      "chaosValue": 2576,
+      "volume": 1
+    },
+    {
+      "day": 11,
+      "chaosValue": 2829,
+      "volume": 1
+    },
+    {
+      "day": 12,
+      "chaosValue": 2640,
+      "volume": 1
+    },
+    {
+      "day": 13,
+      "chaosValue": 2627,
+      "volume": 1
+    },
+    {
+      "day": 14,
+      "chaosValue": 2392,
+      "volume": 2
+    },
+    {
+      "week": 3,
+      "chaosValue": 2447.57,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2704.57,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1808.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2643.14,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2628.71,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1906.43,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1872.29,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2097.71,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1730.14,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1480.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1679.14,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1915.14,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1665.83,
+      "volume": 2,
+      "dataPoints": 6
+    },
+    {
+      "week": 16,
+      "chaosValue": 1768,
+      "volume": 1,
+      "dataPoints": 1
+    },
+    {
+      "week": 17,
+      "chaosValue": 3622.25,
+      "volume": 1,
+      "dataPoints": 4
+    },
+    {
+      "week": 18,
+      "chaosValue": 4836.75,
+      "volume": 1,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-spell-echo-support-5-20": [
+    {
+      "day": 4,
+      "chaosValue": 1436,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 1881,
+      "volume": 2
+    },
+    {
+      "day": 6,
+      "chaosValue": 1422,
+      "volume": 8
+    },
+    {
+      "day": 7,
+      "chaosValue": 1869,
+      "volume": 9
+    },
+    {
+      "day": 8,
+      "chaosValue": 1868,
+      "volume": 8
+    },
+    {
+      "day": 9,
+      "chaosValue": 1823,
+      "volume": 6
+    },
+    {
+      "day": 10,
+      "chaosValue": 2200,
+      "volume": 23
+    },
+    {
+      "day": 11,
+      "chaosValue": 1778,
+      "volume": 25
+    },
+    {
+      "day": 12,
+      "chaosValue": 1534,
+      "volume": 25
+    },
+    {
+      "day": 13,
+      "chaosValue": 1635,
+      "volume": 14
+    },
+    {
+      "day": 14,
+      "chaosValue": 1674,
+      "volume": 26
+    },
+    {
+      "week": 3,
+      "chaosValue": 1397.71,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1924,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1864.43,
+      "volume": 33,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3437.86,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3549.29,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2828.14,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2667.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2761.71,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2375.71,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2486.43,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2938.43,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3425.43,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3501.71,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3657.57,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5876,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 412428.5,
+      "volume": 6,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-spell-echo-support-5-23c": [
+    {
+      "day": 5,
+      "chaosValue": 1932,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 2171,
+      "volume": 1
+    },
+    {
+      "day": 8,
+      "chaosValue": 1949,
+      "volume": 1
+    },
+    {
+      "day": 9,
+      "chaosValue": 2373,
+      "volume": 1
+    },
+    {
+      "day": 10,
+      "chaosValue": 2313,
+      "volume": 3
+    },
+    {
+      "day": 11,
+      "chaosValue": 1916,
+      "volume": 3
+    },
+    {
+      "day": 12,
+      "chaosValue": 1763,
+      "volume": 3
+    },
+    {
+      "day": 13,
+      "chaosValue": 1751,
+      "volume": 2
+    },
+    {
+      "day": 14,
+      "chaosValue": 1938,
+      "volume": 2
+    },
+    {
+      "week": 3,
+      "chaosValue": 1625,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2177.57,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2163.86,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3733.86,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4466.71,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3487.57,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2999.57,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2905.71,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2671.86,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3442,
+      "volume": 3,
+      "dataPoints": 6
+    },
+    {
+      "week": 13,
+      "chaosValue": 4624,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3766.86,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 6975.29,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 7302.86,
+      "volume": 1,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 8351.29,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 11210,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-spell-echo-support-6-23c": [
+    {
+      "day": 3,
+      "chaosValue": 7624,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 4116,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 3509,
+      "volume": 1
+    },
+    {
+      "day": 6,
+      "chaosValue": 3545,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 4214,
+      "volume": 1
+    },
+    {
+      "day": 8,
+      "chaosValue": 3418,
+      "volume": 2
+    },
+    {
+      "day": 9,
+      "chaosValue": 7339,
+      "volume": 4
+    },
+    {
+      "day": 10,
+      "chaosValue": 4451,
+      "volume": 8
+    },
+    {
+      "day": 11,
+      "chaosValue": 3172,
+      "volume": 5
+    },
+    {
+      "day": 12,
+      "chaosValue": 2866,
+      "volume": 4
+    },
+    {
+      "day": 13,
+      "chaosValue": 4944,
+      "volume": 3
+    },
+    {
+      "day": 14,
+      "chaosValue": 2997,
+      "volume": 6
+    },
+    {
+      "week": 3,
+      "chaosValue": 4137.14,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 7875.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 6456.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 8004,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 6834.14,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 7094,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 9014,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 9278.86,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 12582.14,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10169,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 13407.71,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 11206.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10445.86,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10031.14,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 13171.71,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 321961.33,
+      "volume": 2,
+      "dataPoints": 3
+    }
+  ],
+  "awakened-swift-affliction-support-5-20": [
+    {
+      "day": 4,
+      "chaosValue": 400.0,
+      "volume": 1
+    },
+    {
+      "day": 5,
+      "chaosValue": 392.8,
+      "volume": 6
+    },
+    {
+      "day": 6,
+      "chaosValue": 381.9,
+      "volume": 2
+    },
+    {
+      "day": 7,
+      "chaosValue": 540.0,
+      "volume": 15
+    },
+    {
+      "day": 8,
+      "chaosValue": 473.7,
+      "volume": 30
+    },
+    {
+      "day": 9,
+      "chaosValue": 402.6,
+      "volume": 38
+    },
+    {
+      "day": 10,
+      "chaosValue": 389.1,
+      "volume": 44
+    },
+    {
+      "day": 11,
+      "chaosValue": 369.7,
+      "volume": 33
+    },
+    {
+      "day": 12,
+      "chaosValue": 379.5,
+      "volume": 32
+    },
+    {
+      "day": 13,
+      "chaosValue": 366.0,
+      "volume": 20
+    },
+    {
+      "day": 14,
+      "chaosValue": 293.4,
+      "volume": 50
+    },
+    {
+      "week": 3,
+      "chaosValue": 254.07,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 261.16,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 238.07,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 280.31,
+      "volume": 55,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 310.73,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 264.3,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 218.86,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 267.06,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 242.03,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 237.14,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 303.47,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 348.07,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 331.59,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 349,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 623.84,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1143.8,
+      "volume": 20,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-vicious-projectiles-support-6-20c": [
+    {
+      "day": 2,
+      "chaosValue": 445.6,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 603.9,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 495.0,
+      "volume": 7
+    },
+    {
+      "day": 5,
+      "chaosValue": 378.6,
+      "volume": 10
+    },
+    {
+      "day": 6,
+      "chaosValue": 300.0,
+      "volume": 3
+    },
+    {
+      "day": 7,
+      "chaosValue": 560.8,
+      "volume": 9
+    },
+    {
+      "day": 8,
+      "chaosValue": 552.7,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 560.0,
+      "volume": 14
+    },
+    {
+      "day": 10,
+      "chaosValue": 646.5,
+      "volume": 26
+    },
+    {
+      "day": 11,
+      "chaosValue": 635.0,
+      "volume": 25
+    },
+    {
+      "day": 12,
+      "chaosValue": 630.0,
+      "volume": 16
+    },
+    {
+      "day": 13,
+      "chaosValue": 614.0,
+      "volume": 11
+    },
+    {
+      "day": 14,
+      "chaosValue": 580.0,
+      "volume": 12
+    },
+    {
+      "week": 3,
+      "chaosValue": 609.26,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 963.66,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 870.57,
+      "volume": 40,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1064.56,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1677.43,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1464.43,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1297.86,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1678.71,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1172.23,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 973.54,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1212.47,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 883.43,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1541,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1179,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2268,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4935.75,
+      "volume": 6,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-void-manipulation-support-5-20": [
+    {
+      "day": 3,
+      "chaosValue": 309.9,
+      "volume": 1
+    },
+    {
+      "day": 4,
+      "chaosValue": 474.5,
+      "volume": 3
+    },
+    {
+      "day": 5,
+      "chaosValue": 405.0,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 395.9,
+      "volume": 3
+    },
+    {
+      "day": 7,
+      "chaosValue": 541.1,
+      "volume": 9
+    },
+    {
+      "day": 8,
+      "chaosValue": 559.2,
+      "volume": 28
+    },
+    {
+      "day": 9,
+      "chaosValue": 420.0,
+      "volume": 30
+    },
+    {
+      "day": 10,
+      "chaosValue": 397.5,
+      "volume": 21
+    },
+    {
+      "day": 11,
+      "chaosValue": 382.8,
+      "volume": 24
+    },
+    {
+      "day": 12,
+      "chaosValue": 377.4,
+      "volume": 48
+    },
+    {
+      "day": 13,
+      "chaosValue": 338.7,
+      "volume": 56
+    },
+    {
+      "day": 14,
+      "chaosValue": 300.0,
+      "volume": 40
+    },
+    {
+      "week": 3,
+      "chaosValue": 283.41,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 256.81,
+      "volume": 82,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 198.89,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 316.97,
+      "volume": 52,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 294.26,
+      "volume": 80,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 253.86,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 222.44,
+      "volume": 46,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 260.29,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 228.87,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 254.26,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 260.03,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 366.66,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 319.59,
+      "volume": 15,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 343.4,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 662.53,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1441.05,
+      "volume": 11,
+      "dataPoints": 4
+    }
+  ],
+  "awakened-void-manipulation-support-6-20c": [
+    {
+      "day": 3,
+      "chaosValue": 782.6,
+      "volume": 3
+    },
+    {
+      "day": 4,
+      "chaosValue": 869.5,
+      "volume": 2
+    },
+    {
+      "day": 5,
+      "chaosValue": 688.6,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 778.6,
+      "volume": 5
+    },
+    {
+      "day": 7,
+      "chaosValue": 1299,
+      "volume": 6
+    },
+    {
+      "day": 8,
+      "chaosValue": 1206,
+      "volume": 11
+    },
+    {
+      "day": 9,
+      "chaosValue": 1076,
+      "volume": 13
+    },
+    {
+      "day": 10,
+      "chaosValue": 1038,
+      "volume": 20
+    },
+    {
+      "day": 11,
+      "chaosValue": 1009,
+      "volume": 27
+    },
+    {
+      "day": 12,
+      "chaosValue": 1007,
+      "volume": 35
+    },
+    {
+      "day": 13,
+      "chaosValue": 875.7,
+      "volume": 54
+    },
+    {
+      "day": 14,
+      "chaosValue": 844.9,
+      "volume": 26
+    },
+    {
+      "week": 3,
+      "chaosValue": 1014.24,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1298.57,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1319.14,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1934.14,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2071,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1591.14,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1514,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1936.29,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1464.14,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1465.86,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1795.29,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3297.43,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3060.57,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 2443.57,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 4100.14,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 5236.25,
+      "volume": 5,
+      "dataPoints": 4
+    }
+  ],
+  "empower-support-4c": [
+    {
+      "day": 2,
+      "chaosValue": 819.1,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 869.8,
+      "volume": 14
+    },
+    {
+      "day": 4,
+      "chaosValue": 694.0,
+      "volume": 18
+    },
+    {
+      "day": 5,
+      "chaosValue": 674.9,
+      "volume": 20
+    },
+    {
+      "day": 6,
+      "chaosValue": 672.0,
+      "volume": 51
+    },
+    {
+      "day": 7,
+      "chaosValue": 935.6,
+      "volume": 43
+    },
+    {
+      "day": 8,
+      "chaosValue": 1001,
+      "volume": 70
+    },
+    {
+      "day": 9,
+      "chaosValue": 969.3,
+      "volume": 142
+    },
+    {
+      "day": 10,
+      "chaosValue": 844.0,
+      "volume": 234
+    },
+    {
+      "day": 11,
+      "chaosValue": 779.4,
+      "volume": 145
+    },
+    {
+      "day": 12,
+      "chaosValue": 847.6,
+      "volume": 189
+    },
+    {
+      "day": 13,
+      "chaosValue": 740.0,
+      "volume": 356
+    },
+    {
+      "day": 14,
+      "chaosValue": 680.0,
+      "volume": 228
+    },
+    {
+      "week": 3,
+      "chaosValue": 641.43,
+      "volume": 253,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 789.94,
+      "volume": 275,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 795.69,
+      "volume": 267,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 938.24,
+      "volume": 283,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 750.34,
+      "volume": 166,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 640.44,
+      "volume": 125,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 537.17,
+      "volume": 97,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 560.64,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 479.84,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 469.29,
+      "volume": 80,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 522.64,
+      "volume": 60,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 703.43,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1033.21,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1478.57,
+      "volume": 52,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1549.29,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1241.18,
+      "volume": 13,
+      "dataPoints": 4
+    }
+  ],
+  "enlighten-support-4c": [
+    {
+      "day": 2,
+      "chaosValue": 771.8,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 665.7,
+      "volume": 37
+    },
+    {
+      "day": 4,
+      "chaosValue": 751.2,
+      "volume": 50
+    },
+    {
+      "day": 5,
+      "chaosValue": 838.0,
+      "volume": 106
+    },
+    {
+      "day": 6,
+      "chaosValue": 921.4,
+      "volume": 139
+    },
+    {
+      "day": 7,
+      "chaosValue": 1483,
+      "volume": 143
+    },
+    {
+      "day": 8,
+      "chaosValue": 1561,
+      "volume": 190
+    },
+    {
+      "day": 9,
+      "chaosValue": 1474,
+      "volume": 104
+    },
+    {
+      "day": 10,
+      "chaosValue": 1451,
+      "volume": 95
+    },
+    {
+      "day": 11,
+      "chaosValue": 1661,
+      "volume": 315
+    },
+    {
+      "day": 12,
+      "chaosValue": 1634,
+      "volume": 245
+    },
+    {
+      "day": 13,
+      "chaosValue": 1488,
+      "volume": 204
+    },
+    {
+      "day": 14,
+      "chaosValue": 1500,
+      "volume": 122
+    },
+    {
+      "week": 3,
+      "chaosValue": 1560.86,
+      "volume": 209,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2188.71,
+      "volume": 252,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2430.43,
+      "volume": 318,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2749,
+      "volume": 321,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2716.29,
+      "volume": 174,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2042.57,
+      "volume": 165,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1759.57,
+      "volume": 149,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1549.71,
+      "volume": 153,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1380.43,
+      "volume": 94,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1383.86,
+      "volume": 103,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1419.43,
+      "volume": 101,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1795.71,
+      "volume": 41,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1970.29,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1853.14,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 3900.43,
+      "volume": 57,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4526.25,
+      "volume": 37,
+      "dataPoints": 4
+    }
+  ]
+}

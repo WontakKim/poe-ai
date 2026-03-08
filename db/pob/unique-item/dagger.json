@@ -26,15 +26,15 @@
     "league": null,
     "req": { "str": 0, "dex": 81, "int": 117 },
     "sockets": null,
-    "variants": ["Pre 2.2.0", "Pre 3.20.0", "Current"],
+    "variants": ["Pre 2.2.0", "Pre 3.20.0", "Pre 3.28.0", "Current"],
     "implicit": ["30% increased Global Critical Strike Chance"],
     "mods": [
       "Adds (140-155) to (210-235) Physical Damage",
       "(40-50)% increased Critical Strike Chance",
       "+(15-25)% to Global Critical Strike Multiplier",
-      "+(8-12)% to Chaos Resistance",
-      "On Killing a Poisoned Enemy, nearby Enemies are Poisoned",
-      "and nearby Allies Regenerate 200 Life per second"
+      "+(17-27)% to Chaos Resistance",
+      "On Killing a Poisoned Enemy, Enemies within 3 metres are Poisoned",
+      "and nearby Allies Regenerate 400 Life per second"
     ]
   },
   {

@@ -1243,6 +1243,24 @@
     ]
   },
   {
+    "id": "Replica_Gifts_from_Above",
+    "name": "Replica Gifts from Above",
+    "baseType": "Diamond Ring",
+    "type": "Ring",
+    "levelReq": 28,
+    "league": null,
+    "req": { "str": 0, "dex": 0, "int": 0 },
+    "sockets": null,
+    "implicit": ["(20-30)% increased Global Critical Strike Chance"],
+    "mods": [
+      "Trigger level 10 Consecrate when you deal a Critical Strike",
+      "31% increased Global Critical Strike Chance",
+      "14% increased Light Radius",
+      "47% increased Rarity of Items Dropped by Enemies killed with a Critical Strike",
+      "Inflict Hallowing Flame on Hit while on Consecrated Ground"
+    ]
+  },
+  {
     "id": "Replica_Malachais_Artifice",
     "name": "Replica Malachai's Artifice",
     "baseType": "Unset Ring",
@@ -1384,14 +1402,14 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
-    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.9.0", "Current"],
+    "variants": ["Pre 2.0.0", "Pre 2.6.0", "Pre 3.9.0", "Pre 3.28.0", "Current"],
     "implicit": ["+(20-30) to maximum Life"],
     "mods": [
       "(20-30)% increased Elemental Damage with Attack Skills",
       "Adds (8-15) to (20-28) Fire Damage to Attacks",
       "(10-20)% reduced Rarity of Items found",
-      "Left ring slot: 80% reduced Reflected Elemental Damage taken",
-      "Right ring slot: 80% reduced Reflected Physical Damage taken"
+      "Left ring slot: 100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+      "Right ring slot: 100% of Physical Hit Damage from you and your Minions cannot be Reflected"
     ]
   },
   {
@@ -1678,7 +1696,7 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
-    "source": "Drops from unique{Uber Incarnation of Dread} in normal{Moment of Reverence}",
+    "source": "Drops from unique{Incarnation of Dread} in normal{Moment of Reverence}",
     "variants": ["Scorch", "Brittle", "Sap"],
     "implicit": ["(15-25)% increased Elemental Damage"],
     "mods": [
@@ -2096,14 +2114,15 @@
     "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
-    "source": "Drops from unique{Incarnation of Fear} in normal{Moment of Trauma}",
+    "source": "Drops from unique{Uber Incarnation of Fear} in normal{Moment of Trauma}",
+    "variants": ["Pre 3.28.0", "Current"],
     "implicit": ["Adds (3-4) to (10-14) Physical Damage to Attacks"],
     "mods": [
       "+(25-40) to Strength and Dexterity",
       "Adds (8-12) to (18-24) Physical Damage to Attacks",
       "(10-20)% chance to Impale Enemies on Hit with Attacks",
-      "(40-25)% reduced Impale Duration",
-      "(40-60)% chance on Melee Hit for the Strongest Impale on target to last for 1 additional Hit"
+      "(50-40)% less Impale Duration",
+      "(20-30)% chance on Melee Hit for the Strongest Impale on target to last for 1 additional Hit"
     ]
   }
 ]

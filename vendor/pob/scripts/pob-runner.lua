@@ -37,11 +37,12 @@ if mode ~= "xml" and mode ~= "json" then
 end
 
 local skillName = nil
+local batchMode = false
 local jsonItemsPath = nil
 local jsonPassivesPath = nil
 
 if mode == "xml" then
-	-- Parse optional --skill "Name"
+	-- Parse optional --skill "Name" and --batch
 	local i = 2
 	while i <= #arg do
 		if arg[i] == "--skill" then
@@ -51,6 +52,8 @@ if mode == "xml" then
 				io.stderr:write("ERROR: --skill requires a skill name argument\n")
 				os.exit(1)
 			end
+		elseif arg[i] == "--batch" then
+			batchMode = true
 		end
 		i = i + 1
 	end
@@ -206,26 +209,74 @@ local function autoSelectMainSkill()
 	end
 end
 
--- XML mode: read build XML from stdin
-if mode == "xml" then
-	local xmlText = io.read("*a")
+-- Helper: simulate one XML chunk and return JSON string
+local function simulateOneXml(xmlText, label)
 	if not xmlText or xmlText:match("^%s*$") then
-		exitWithError("Empty XML input")
+		return dkjson.encode({ error = "Empty XML input" })
 	end
-
-	local ok, err = pcall(loadBuildFromXML, xmlText, "sim")
+	local ok, err = pcall(loadBuildFromXML, xmlText, label)
 	if not ok then
-		exitWithError("Failed to load build XML: " .. tostring(err))
+		return dkjson.encode({ error = "Failed to load: " .. tostring(err) })
 	end
-
 	if skillName then
 		local found, skillErr = selectSkillByName(skillName)
 		if not found then
-			exitWithError(skillErr)
+			return dkjson.encode({ error = skillErr })
 		end
 	end
+	return dkjson.encode(extractOutput())
+end
 
-	io.stdout:write(dkjson.encode(extractOutput()) .. "\n")
+-- XML mode: read build XML from stdin
+if mode == "xml" then
+	if batchMode then
+		-- Batch mode: read all stdin, split by separator, simulate each
+		local allInput = io.read("*a")
+		if not allInput or allInput:match("^%s*$") then
+			exitWithError("Empty batch input")
+		end
+		local SEPARATOR = "__POB_BATCH_SEP__"
+		local chunks = {}
+		-- Split by separator line
+		local pos = 1
+		while true do
+			local sepStart, sepEnd = allInput:find("\n" .. SEPARATOR .. "\n", pos, true)
+			if not sepStart then
+				-- Remaining content after last separator
+				local remaining = allInput:sub(pos)
+				if not remaining:match("^%s*$") then
+					chunks[#chunks + 1] = remaining
+				end
+				break
+			end
+			chunks[#chunks + 1] = allInput:sub(pos, sepStart - 1)
+			pos = sepEnd + 1
+		end
+		io.stderr:write("BATCH: " .. #chunks .. " chunks\n")
+		for idx, chunk in ipairs(chunks) do
+			io.stdout:write(simulateOneXml(chunk, "batch_" .. idx) .. "\n")
+		end
+	else
+		-- Single mode (unchanged)
+		local xmlText = io.read("*a")
+		if not xmlText or xmlText:match("^%s*$") then
+			exitWithError("Empty XML input")
+		end
+
+		local ok, err = pcall(loadBuildFromXML, xmlText, "sim")
+		if not ok then
+			exitWithError("Failed to load build XML: " .. tostring(err))
+		end
+
+		if skillName then
+			local found, skillErr = selectSkillByName(skillName)
+			if not found then
+				exitWithError(skillErr)
+			end
+		end
+
+		io.stdout:write(dkjson.encode(extractOutput()) .. "\n")
+	end
 
 -- JSON mode: read items and passives from files
 elseif mode == "json" then

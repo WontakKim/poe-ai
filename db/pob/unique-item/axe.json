@@ -419,7 +419,7 @@
     "league": null,
     "req": null,
     "sockets": null,
-    "variants": ["Pre 1.0.0", "Pre 3.20.0", "Pre 3.26.0", "Current"],
+    "variants": ["Pre 1.0.0", "Pre 3.20.0", "Pre 3.26.0", "Pre 3.28.0", "Current"],
     "implicit": [],
     "mods": [
       "(140-180)% increased Physical Damage",
@@ -427,7 +427,8 @@
       "(25-35)% increased Attack Speed",
       "+(20-25)% to Cold Resistance",
       "Insufficient Mana doesn't prevent your Melee Attacks",
-      "Your Physical Damage can Chill"
+      "Your Physical Damage can Chill",
+      "Eat (2-4) Souls when you Kill a Rare or Unique Enemy with this Weapon"
     ]
   },
   {

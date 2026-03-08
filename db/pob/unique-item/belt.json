@@ -823,6 +823,23 @@
     ]
   },
   {
+    "id": "Screams_of_the_desiccated",
+    "name": "Screams of the desiccated",
+    "baseType": "Leather Belt",
+    "type": "Belt",
+    "levelReq": 56,
+    "league": null,
+    "req": null,
+    "sockets": null,
+    "implicit": ["+(25-40) to maximum Life"],
+    "mods": [
+      "You have Diamond Shrine Buff while affected by no Flasks",
+      "You have Resistance Shrine Buff while affected by no Flasks",
+      "+30 to Intelligence",
+      "+28% to Chaos Resistance"
+    ]
+  },
+  {
     "id": "Siegebreaker",
     "name": "Siegebreaker",
     "baseType": "Heavy Belt",
@@ -998,7 +1015,7 @@
     "league": "Harbinger",
     "req": null,
     "sockets": null,
-    "source": "Created from item parts obtained from Boss in The Beachhead",
+    "source": "No longer obtainable",
     "variants": ["Pre 3.16.0", "Current"],
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
@@ -1117,10 +1134,9 @@
     "baseType": "Cloth Belt",
     "type": "Belt",
     "levelReq": 60,
-    "league": "Harvest",
+    "league": null,
     "req": null,
     "sockets": null,
-    "source": "Upgraded from unique{The Flow Untethered} via currency{Time-light Scroll}",
     "implicit": ["(15-25)% increased Stun and Block Recovery"],
     "mods": [
       "Grants Summon Greater Harbinger of Time Skill",

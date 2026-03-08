@@ -17,7 +17,9 @@ Output goes to stdout. Errors go to stderr with non-zero exit.
 
 import argparse
 import base64
+import glob as _glob
 import json
+import os
 import sys
 import xml.etree.ElementTree as ET
 import zlib
@@ -106,11 +108,20 @@ def cmd_swap_item(args):
     # Normalise item text: convert literal \n to newlines
     item_text = args.item_text.replace("\\n", "\n")
 
+    # Search for slot in direct children and inside ItemSet elements
     slot_elem = None
     for s in items.findall("Slot"):
         if s.get("name") == args.slot:
             slot_elem = s
             break
+    if slot_elem is None:
+        for item_set in items.findall("ItemSet"):
+            for s in item_set.findall("Slot"):
+                if s.get("name") == args.slot:
+                    slot_elem = s
+                    break
+            if slot_elem is not None:
+                break
 
     if slot_elem is not None:
         item_id = slot_elem.get("itemId")
@@ -137,6 +148,28 @@ def cmd_swap_item(args):
     write_xml(tree)
 
 
+def _lookup_gem_ids(gem_db_path, gem_name):
+    """Look up skillId and gemId for a gem by its display name."""
+    for f in sorted(_glob.glob(os.path.join(gem_db_path, "*.json"))):
+        if os.path.basename(f) == "source.json":
+            continue
+        with open(f) as fh:
+            gems = json.load(fh)
+        if not isinstance(gems, list):
+            continue
+        for g in gems:
+            if g.get("name") == gem_name:
+                skill_id = g["id"]
+                if skill_id.startswith("Support"):
+                    gem_id = "Metadata/Items/Gems/" + skill_id.replace(
+                        "Support", "SupportGem", 1
+                    )
+                else:
+                    gem_id = "Metadata/Items/Gems/SkillGem" + skill_id
+                return skill_id, gem_id
+    return None, None
+
+
 def cmd_swap_gem(args):
     tree = parse_xml(args.input)
     root = tree.getroot()
@@ -152,11 +185,21 @@ def cmd_swap_gem(args):
         )
         sys.exit(1)
 
+    # Resolve new gem IDs from DB if provided
+    new_skill_id, new_gem_id = None, None
+    if args.gem_db:
+        new_skill_id, new_gem_id = _lookup_gem_ids(args.gem_db, args.new)
+
     group = skill_groups[group_idx]
     found = False
     for gem in group.findall("Gem"):
         if gem.get("nameSpec") == args.old:
             gem.set("nameSpec", args.new)
+            if new_skill_id:
+                gem.set("skillId", new_skill_id)
+                gem.set("variantId", new_skill_id)
+            if new_gem_id:
+                gem.set("gemId", new_gem_id)
             found = True
             break
 
@@ -239,7 +282,11 @@ def cmd_list_slots(args):
         item_map[item_id] = text
 
     result = []
-    for slot in items.findall("Slot"):
+    # Search for slots in direct children and inside ItemSet elements
+    all_slots = list(items.findall("Slot"))
+    for item_set in items.findall("ItemSet"):
+        all_slots.extend(item_set.findall("Slot"))
+    for slot in all_slots:
         name = slot.get("name", "")
         item_id = slot.get("itemId", "")
         text = item_map.get(item_id, "")
@@ -268,6 +315,7 @@ def cmd_list_gems(args):
         for gem in skill.findall("Gem"):
             gems.append({
                 "nameSpec": gem.get("nameSpec", ""),
+                "skillId": gem.get("skillId", ""),
                 "level": gem.get("level", ""),
                 "quality": gem.get("quality", ""),
                 "enabled": gem.get("enabled", "true"),
@@ -304,6 +352,7 @@ def main():
     p_sg.add_argument("--group", required=True, type=int, help="Skill group index (1-based)")
     p_sg.add_argument("--old", required=True, help="Current gem nameSpec")
     p_sg.add_argument("--new", required=True, help="New gem nameSpec")
+    p_sg.add_argument("--gem-db", default=None, help="Path to skill-gem DB dir for ID resolution")
 
     # set-config
     p_sc = sub.add_parser("set-config", help="Set a config input value")

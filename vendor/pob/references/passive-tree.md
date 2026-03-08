@@ -1,5 +1,5 @@
-<!-- @generated gameVersion=3.27 pobCommit=fb6cd055 pobVersion=v2.60.0 -->
-# Passive Tree — `src/TreeData/3_27/tree.lua`
+<!-- @generated gameVersion=3.28 pobCommit=3acd9100 pobVersion=v2.60.0 -->
+# Passive Tree — `src/TreeData/3_28/tree.lua`
 
 Passive skill tree data for each game version. One `tree.lua` file per version containing all node definitions, group coordinates, class/ascendancy info, and constants.
 
@@ -7,44 +7,44 @@ Passive skill tree data for each game version. One `tree.lua` file per version c
 
 **Source**: `src/GameVersions.lua`
 
-- **Latest version**: 3_27 (display: 3.27)
-- **Total versions**: 35 (2_6, ..., 3_27)
+- **Latest version**: 3_28 (display: 3.28)
+- **Total versions**: 39 (2_6, ..., 3_28)
 - **Variants**: base, ruthless (3.22+), alternate (3.25+), ruthless_alternate (3.25+)
 
-## tree.lua Structure (3_27)
+## tree.lua Structure (3_28)
 
-**Path**: `src/TreeData/3_27/tree.lua` (87236 lines)
+**Path**: `src/TreeData/3_28/tree.lua` (88764 lines)
 
 **Top-level sections**:
 | Section | Line | Purpose |
 |---------|------|---------|
 | tree | 2 | Version identifier |
 | classes | 3 | Character class definitions with ascendancies |
-| alternate_ascendancies | 281 | Bloodline alternate ascendancy trees |
-| groups | 439 | Node group spatial coordinates and orbits |
-| nodes | 12063 | All passive skill node definitions |
-| jewelSlots | 87132 | Jewel socket node IDs |
-| constants | 87198 | Game constants (orbit radii, skills per orbit) |
-| points | 87233 | Total and ascendancy passive points |
+| alternate_ascendancies | 285 | Bloodline alternate ascendancy trees |
+| groups | 455 | Node group spatial coordinates and orbits |
+| nodes | 12407 | All passive skill node definitions |
+| jewelSlots | 88660 | Jewel socket node IDs |
+| constants | 88726 | Game constants (orbit radii, skills per orbit) |
+| points | 88761 | Total and ascendancy passive points |
 
 ## Nodes
 
-**Total**: 3287 nodes in 755 groups
+**Total**: 3344 nodes in 783 groups
 
 ### Node Type Breakdown
 
 | Flag | Count | Description |
 |------|-------|-------------|
 | isKeystone | 54 | Powerful nodes with unique mechanics |
-| isNotable | 975 | Mid-power named passives |
-| isMastery | 349 | Selectable mastery effect nodes (3.19+) |
+| isNotable | 987 | Mid-power named passives |
+| isMastery | 351 | Selectable mastery effect nodes (3.19+) |
 | isJewelSocket | 60 | Jewel insertion points |
-| isAscendancyStart | 32 | Entry points to ascendancy subtrees |
+| isAscendancyStart | 34 | Entry points to ascendancy subtrees |
 | isProxy | 84 | Internal positioning markers (not displayed) |
 | isBlighted | 30 | Oil-recipe passives |
-| isBloodline | 122 | Alternate tree passives (3.25+) |
-| isMultipleChoice | 12 | Multiple-choice parent nodes |
-| isMultipleChoiceOption | 35 | Options within multiple-choice sets |
+| isBloodline | 129 | Alternate tree passives (3.25+) |
+| isMultipleChoice | 16 | Multiple-choice parent nodes |
+| isMultipleChoiceOption | 58 | Options within multiple-choice sets |
 
 Note: Flags overlap — a node can have multiple flags (e.g. `isBloodline` + `isAscendancyStart`).
 
@@ -67,12 +67,12 @@ DexClass,DexIntClass,Dexterity,IntClass,Intelligence,StrClass,StrDexClass,StrDex
 
 ### Mastery Effects
 
-- **349** mastery nodes with **353** unique selectable effects
+- **351** mastery nodes with **353** unique selectable effects
 - Each mastery has an array of `masteryEffects`, each with `effect` (ID) and `stats` (array of stat lines)
 
 ### Stats
 
-- **3512** unique stat line strings across all nodes
+- **3604** unique stat line strings across all nodes
 
 ## Classes and Ascendancies
 
@@ -80,7 +80,7 @@ DexClass,DexIntClass,Dexterity,IntClass,Intelligence,StrClass,StrDexClass,StrDex
 
 | Class | Str | Dex | Int | Ascendancies |
 |-------|-----|-----|-----|--------------|
-| Scion | 20 | 20 | 20 | Ascendant |
+| Scion | 20 | 20 | 20 | Ascendant, Reliquarian |
 | Marauder | 32 | 14 | 14 | Juggernaut, Berserker, Chieftain |
 | Ranger | 14 | 32 | 14 | Raider, Deadeye, Pathfinder |
 | Witch | 14 | 14 | 32 | Occultist, Elementalist, Necromancer |
@@ -93,41 +93,43 @@ DexClass,DexIntClass,Dexterity,IntClass,Intelligence,StrClass,StrDexClass,StrDex
 | Ascendancy | Nodes |
 |------------|-------|
 | Ascendant | 50 |
+| Reliquarian | 36 |
 | Saboteur | 23 |
 | Raider | 23 |
 | Assassin | 21 |
 | Deadeye | 19 |
 | Necromancer | 18 |
+| Guardian | 18 |
 | Warlock | 18 |
 | Elementalist | 17 |
 | Hierophant | 17 |
 | Chieftain | 16 |
 | Champion | 16 |
 | Berserker | 16 |
-| Guardian | 16 |
-| Occultist | 15 |
-| Gladiator | 15 |
+| Trickster | 15 |
+| Juggernaut | 15 |
 | Slayer | 15 |
 | Inquisitor | 15 |
-| Trickster | 15 |
-| Pathfinder | 15 |
 | Warden | 15 |
-| Juggernaut | 15 |
+| Pathfinder | 15 |
+| Occultist | 15 |
+| Gladiator | 15 |
 | Primalist | 11 |
-| Farrul | 10 |
 | Olroth | 10 |
+| Farrul | 10 |
 | Aul | 8 |
 | Trialmaster | 8 |
+| Delirious | 7 |
+| Necromantic | 7 |
 | KingInTheMists | 7 |
-| Breachlord | 7 |
 | Catarina | 7 |
+| Breachlord | 7 |
 | Lycia | 7 |
 | Oshabi | 7 |
-| Delirious | 7 |
 
 ### Alternate Ascendancies
 
-13 alternate ascendancy definitions in `["alternate_ascendancies"]`:
+14 alternate ascendancy definitions in `["alternate_ascendancies"]`:
 
 | ID | Name |
 |---------|------|
@@ -144,12 +146,13 @@ DexClass,DexIntClass,Dexterity,IntClass,Intelligence,StrClass,StrDexClass,StrDex
 | Farrul | Farrul Bloodline |
 | Delirious | Delirious Bloodline |
 | Breachlord | Breachlord Bloodline |
+| Necromantic | Saresh Bloodline |
 
 These are bloodline-based alternate ascendancy trees (3.25+). Nodes belonging to alternate ascendancies have `isBloodline = true`.
 
 ## Groups
 
-**755** node groups defining spatial layout.
+**783** node groups defining spatial layout.
 
 Each group has:
 - `x`, `y` — coordinates
@@ -244,6 +247,10 @@ Each group has:
 | 3_27_alternate | 3317 |
 | 3_27_ruthless | 3287 |
 | 3_27_ruthless_alternate | 3317 |
+| 3_28 | 3344 |
+| 3_28_alternate | 3319 |
+| 3_28_ruthless | 3344 |
+| 3_28_ruthless_alternate | 3319 |
 
 ## Examples
 
@@ -264,7 +271,7 @@ Each group has:
             ["flavourText"]= {
                 "My faith is my shield."
             },
-            ["group"]= 76,
+            ["group"]= 89,
             ["orbit"]= 0,
             ["orbitIndex"]= 0,
             ["out"]= {
@@ -290,7 +297,7 @@ Each group has:
             ["stats"]= {
                 "50% increased Elemental Damage"
             },
-            ["group"]= 63,
+            ["group"]= 70,
             ["orbit"]= 2,
             ["orbitIndex"]= 12,
             ["out"]= {
@@ -324,7 +331,7 @@ Each group has:
                 {
                     ["effect"]= 4119,
                     ["stats"]= {
-                        "60% reduced Reflected Elemental Damage taken"
+                        "60% of Elemental Damage from your Hits cannot be Reflected"
                     }
                 },
                 {
@@ -348,7 +355,7 @@ Each group has:
                 ["parent"]= "17219"
             },
             ["stats"]= {},
-            ["group"]= 35,
+            ["group"]= 37,
             ["orbit"]= 2,
             ["orbitIndex"]= 12,
             ["out"]= {},
@@ -370,7 +377,7 @@ Each group has:
                 "8% increased Lightning Damage",
                 "8% increased Physical Damage"
             },
-            ["group"]= 63,
+            ["group"]= 70,
             ["orbit"]= 3,
             ["orbitIndex"]= 3,
             ["out"]= {

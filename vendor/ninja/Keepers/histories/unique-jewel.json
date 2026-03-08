@@ -1,0 +1,11048 @@
+{
+  "amanamus-gaze-ghastly-eye-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 405.7,
+      "volume": 2
+    },
+    {
+      "day": 3,
+      "chaosValue": 583.9,
+      "volume": 26
+    },
+    {
+      "day": 4,
+      "chaosValue": 924.3,
+      "volume": 24
+    },
+    {
+      "day": 5,
+      "chaosValue": 1136,
+      "volume": 29
+    },
+    {
+      "day": 6,
+      "chaosValue": 1286,
+      "volume": 28
+    },
+    {
+      "day": 7,
+      "chaosValue": 1725,
+      "volume": 31
+    },
+    {
+      "day": 8,
+      "chaosValue": 1920,
+      "volume": 50
+    },
+    {
+      "day": 9,
+      "chaosValue": 1820,
+      "volume": 71
+    },
+    {
+      "day": 10,
+      "chaosValue": 1700,
+      "volume": 52
+    },
+    {
+      "day": 11,
+      "chaosValue": 1690,
+      "volume": 64
+    },
+    {
+      "day": 12,
+      "chaosValue": 1771,
+      "volume": 59
+    },
+    {
+      "day": 13,
+      "chaosValue": 1746,
+      "volume": 65
+    },
+    {
+      "day": 14,
+      "chaosValue": 1674,
+      "volume": 92
+    },
+    {
+      "week": 3,
+      "chaosValue": 1157.43,
+      "volume": 159,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 960.49,
+      "volume": 280,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 629.66,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 566.61,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 443.8,
+      "volume": 395,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 320.56,
+      "volume": 265,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 366.77,
+      "volume": 97,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 437.21,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 432.33,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 421.84,
+      "volume": 85,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 421.51,
+      "volume": 84,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 421.04,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 432,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 511.3,
+      "volume": 38,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 779.39,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1054.05,
+      "volume": 43,
+      "dataPoints": 4
+    }
+  ],
+  "ancestral-vision-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 42.35,
+      "volume": 12
+    },
+    {
+      "day": 2,
+      "chaosValue": 28.40,
+      "volume": 75
+    },
+    {
+      "day": 3,
+      "chaosValue": 75.00,
+      "volume": 81
+    },
+    {
+      "day": 4,
+      "chaosValue": 107.5,
+      "volume": 55
+    },
+    {
+      "day": 5,
+      "chaosValue": 197.0,
+      "volume": 137
+    },
+    {
+      "day": 6,
+      "chaosValue": 185.0,
+      "volume": 203
+    },
+    {
+      "day": 7,
+      "chaosValue": 243.2,
+      "volume": 240
+    },
+    {
+      "day": 8,
+      "chaosValue": 142.2,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 110.0,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 100.0,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 100.0,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 100.0,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 65.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 46.50,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 28.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 19.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 16.51,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 19.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 20,
+      "volume": 349,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 20,
+      "volume": 267,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 20,
+      "volume": 238,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20.07,
+      "volume": 186,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 22.06,
+      "volume": 192,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 24.89,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 25,
+      "volume": 116,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 26.4,
+      "volume": 79,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 26.38,
+      "volume": 158,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 26.8,
+      "volume": 158,
+      "dataPoints": 4
+    }
+  ],
+  "apex-mode-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 5.50,
+      "volume": 6
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.30,
+      "volume": 35
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 123
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 140
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 171
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 194
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 228
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 260
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 313
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 354
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 369
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 388
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 394
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 382,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 302,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 227,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 165,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 116,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 88,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 81,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 62,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 48,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 25,
+      "dataPoints": 4
+    }
+  ],
+  "atziris-reign-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 3.30,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 95
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 158
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 322,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 205,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 159,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 128,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 94,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 87,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 68,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 61,
+      "dataPoints": 4
+    }
+  ],
+  "beauty-vaal-aspect": [
+    {
+      "day": 3,
+      "chaosValue": 346.8,
+      "volume": 2
+    },
+    {
+      "day": 4,
+      "chaosValue": 328.5,
+      "volume": 14
+    },
+    {
+      "day": 5,
+      "chaosValue": 396.8,
+      "volume": 16
+    },
+    {
+      "day": 6,
+      "chaosValue": 422.0,
+      "volume": 34
+    },
+    {
+      "day": 7,
+      "chaosValue": 678.5,
+      "volume": 37
+    },
+    {
+      "day": 8,
+      "chaosValue": 701.5,
+      "volume": 42
+    },
+    {
+      "day": 9,
+      "chaosValue": 658.5,
+      "volume": 100
+    },
+    {
+      "day": 10,
+      "chaosValue": 646.5,
+      "volume": 199
+    },
+    {
+      "day": 11,
+      "chaosValue": 574.2,
+      "volume": 183
+    },
+    {
+      "day": 12,
+      "chaosValue": 508.0,
+      "volume": 193
+    },
+    {
+      "day": 13,
+      "chaosValue": 581.0,
+      "volume": 67
+    },
+    {
+      "day": 14,
+      "chaosValue": 493.2,
+      "volume": 98
+    },
+    {
+      "week": 3,
+      "chaosValue": 554.9,
+      "volume": 74,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 809.86,
+      "volume": 233,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 831.3,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 987.61,
+      "volume": 142,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1019.71,
+      "volume": 132,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 674.23,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 794.94,
+      "volume": 119,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 645.27,
+      "volume": 111,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 457.86,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 501.19,
+      "volume": 74,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 490.94,
+      "volume": 105,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 435.51,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 440.57,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 380.81,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 390.36,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 405.33,
+      "volume": 19,
+      "dataPoints": 4
+    }
+  ],
+  "bloodnotch-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 48.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 550.6,
+      "volume": 30
+    },
+    {
+      "day": 3,
+      "chaosValue": 1063,
+      "volume": 31
+    },
+    {
+      "day": 4,
+      "chaosValue": 1328,
+      "volume": 50
+    },
+    {
+      "day": 5,
+      "chaosValue": 799.0,
+      "volume": 155
+    },
+    {
+      "day": 6,
+      "chaosValue": 557.5,
+      "volume": 257
+    },
+    {
+      "day": 7,
+      "chaosValue": 525.2,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 280.0,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 100.0,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 22.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 13.55,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 9.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 8.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 8.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 14.66,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 15.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10.94,
+      "volume": 385,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 11.56,
+      "volume": 358,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 10.05,
+      "volume": 304,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10,
+      "volume": 259,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 12.01,
+      "volume": 198,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 13.14,
+      "volume": 178,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 11.69,
+      "volume": 88,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 15.86,
+      "volume": 183,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 46.8,
+      "volume": 212,
+      "dataPoints": 4
+    }
+  ],
+  "bound-by-destiny-prismatic-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 20.00,
+      "volume": 44
+    },
+    {
+      "day": 3,
+      "chaosValue": 20.00,
+      "volume": 72
+    },
+    {
+      "day": 4,
+      "chaosValue": 11.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 11.50,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10.39,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 9.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9.11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 9.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 7.49,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 8.81,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 7.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5.77,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 6.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5.91,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 8.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 377,
+      "dataPoints": 4
+    }
+  ],
+  "brutal-restraint-timeless-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 47.50,
+      "volume": 158
+    },
+    {
+      "day": 3,
+      "chaosValue": 35.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 35.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 23.24,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 20.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 18.97,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 16.52,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 13.59,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 12.33,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10.07,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 10.07,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 8.98,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 9.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 12.55,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 14.65,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 11.95,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "brute-force-solution-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.00,
+      "volume": 8
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 185
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2.06,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2.4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1.58,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1.11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1.29,
+      "volume": 361,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1.97,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1.29,
+      "volume": 255,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 174,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1.16,
+      "volume": 148,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1.47,
+      "volume": 217,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 2.08,
+      "volume": 237,
+      "dataPoints": 4
+    }
+  ],
+  "calamitous-visions-small-cluster-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 20.00,
+      "volume": 30
+    },
+    {
+      "day": 3,
+      "chaosValue": 5.00,
+      "volume": 152
+    },
+    {
+      "day": 4,
+      "chaosValue": 4.00,
+      "volume": 243
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.00,
+      "volume": 398
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2.07,
+      "volume": 292,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2.19,
+      "volume": 229,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2.71,
+      "volume": 204,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2.3,
+      "volume": 179,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2.39,
+      "volume": 147,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2.43,
+      "volume": 114,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 2,
+      "volume": 94,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1.81,
+      "volume": 80,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2.29,
+      "volume": 101,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 3.04,
+      "volume": 92,
+      "dataPoints": 4
+    }
+  ],
+  "careful-planning-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 3.60,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 17.00,
+      "volume": 86
+    },
+    {
+      "day": 3,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 393,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 337,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 293,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 217,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 142,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 124,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 212,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 212,
+      "dataPoints": 4
+    }
+  ],
+  "chill-of-corruption-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 43
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 68
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 200
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 300
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 320,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1.57,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1.14,
+      "volume": 87,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 80,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 57,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 38,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 36,
+      "dataPoints": 4
+    }
+  ],
+  "combat-focus-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 12.70,
+      "volume": 9
+    },
+    {
+      "day": 3,
+      "chaosValue": 11.90,
+      "volume": 14
+    },
+    {
+      "day": 4,
+      "chaosValue": 8.50,
+      "volume": 32
+    },
+    {
+      "day": 5,
+      "chaosValue": 8.00,
+      "volume": 28
+    },
+    {
+      "day": 6,
+      "chaosValue": 8.00,
+      "volume": 39
+    },
+    {
+      "day": 7,
+      "chaosValue": 8.00,
+      "volume": 26
+    },
+    {
+      "day": 8,
+      "chaosValue": 10.00,
+      "volume": 31
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.00,
+      "volume": 32
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.00,
+      "volume": 43
+    },
+    {
+      "day": 11,
+      "chaosValue": 9.70,
+      "volume": 26
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 29
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 21
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 44
+    },
+    {
+      "week": 3,
+      "chaosValue": 20.4,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 29.65,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 29.81,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 29.4,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 27.79,
+      "volume": 56,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 26.8,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 22.93,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 30.71,
+      "volume": 7,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 41.09,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 41.74,
+      "volume": 57,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 32.77,
+      "volume": 133,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 31.63,
+      "volume": 92,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 28.66,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 34.9,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 39.21,
+      "volume": 5,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 68.15,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "combat-focus-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 13.50,
+      "volume": 6
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.70,
+      "volume": 8
+    },
+    {
+      "day": 4,
+      "chaosValue": 9.00,
+      "volume": 18
+    },
+    {
+      "day": 5,
+      "chaosValue": 8.10,
+      "volume": 16
+    },
+    {
+      "day": 6,
+      "chaosValue": 9.10,
+      "volume": 15
+    },
+    {
+      "day": 7,
+      "chaosValue": 9.00,
+      "volume": 15
+    },
+    {
+      "day": 8,
+      "chaosValue": 9.10,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.70,
+      "volume": 12
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.00,
+      "volume": 13
+    },
+    {
+      "day": 11,
+      "chaosValue": 9.20,
+      "volume": 25
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 32
+    },
+    {
+      "day": 13,
+      "chaosValue": 9.40,
+      "volume": 45
+    },
+    {
+      "day": 14,
+      "chaosValue": 9.20,
+      "volume": 40
+    },
+    {
+      "week": 3,
+      "chaosValue": 13.87,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 22.02,
+      "volume": 38,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 22.29,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 23.26,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 45.11,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 67.4,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 37.77,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 36.5,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 33.77,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 106.06,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 266.24,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 166.33,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 82.96,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 30.77,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 19.98,
+      "volume": 34,
+      "dataPoints": 4
+    }
+  ],
+  "cooperation-vaal-aspect": [
+    {
+      "day": 2,
+      "chaosValue": 15.00,
+      "volume": 22
+    },
+    {
+      "day": 3,
+      "chaosValue": 3.70,
+      "volume": 115
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.00,
+      "volume": 194
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 226
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.00,
+      "volume": 134
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.00,
+      "volume": 156
+    },
+    {
+      "day": 8,
+      "chaosValue": 7.70,
+      "volume": 175
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.00,
+      "volume": 231
+    },
+    {
+      "day": 10,
+      "chaosValue": 10.00,
+      "volume": 271
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.00,
+      "volume": 201
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.50,
+      "volume": 252
+    },
+    {
+      "day": 13,
+      "chaosValue": 15.10,
+      "volume": 250
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 158
+    },
+    {
+      "week": 3,
+      "chaosValue": 48.48,
+      "volume": 216,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 137.73,
+      "volume": 323,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 162.61,
+      "volume": 311,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 193.71,
+      "volume": 353,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 185.39,
+      "volume": 324,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 147.47,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 103.79,
+      "volume": 129,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 99.8,
+      "volume": 84,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 93.84,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 72.77,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 87.44,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 111.77,
+      "volume": 50,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 152.96,
+      "volume": 50,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 178.77,
+      "volume": 60,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 352.67,
+      "volume": 67,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 455.9,
+      "volume": 56,
+      "dataPoints": 4
+    }
+  ],
+  "curiosity-vaal-aspect": [
+    {
+      "day": 2,
+      "chaosValue": 44.00,
+      "volume": 13
+    },
+    {
+      "day": 3,
+      "chaosValue": 11.50,
+      "volume": 81
+    },
+    {
+      "day": 4,
+      "chaosValue": 7.00,
+      "volume": 167
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 362
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.00,
+      "volume": 312
+    },
+    {
+      "day": 7,
+      "chaosValue": 16.00,
+      "volume": 133
+    },
+    {
+      "day": 8,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 6.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 388
+    },
+    {
+      "week": 3,
+      "chaosValue": 11.8,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 7.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 6.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 7.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 4.79,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 4.43,
+      "volume": 355,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 4.71,
+      "volume": 243,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 4.57,
+      "volume": 193,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 4.86,
+      "volume": 134,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5.14,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 4.73,
+      "volume": 101,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 4.29,
+      "volume": 96,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5.26,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5.98,
+      "volume": 83,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 8.71,
+      "volume": 128,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6.75,
+      "volume": 115,
+      "dataPoints": 4
+    }
+  ],
+  "dead-reckoning-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 2.70,
+      "volume": 8
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 85
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 161
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 353
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 295,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 166,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 61,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 58,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 56,
+      "dataPoints": 4
+    }
+  ],
+  "dissolution-of-the-flesh-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 85.19,
+      "volume": 32
+    },
+    {
+      "day": 3,
+      "chaosValue": 30.00,
+      "volume": 249
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 11.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 19.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 24.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20.87,
+      "volume": 366,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 14.09,
+      "volume": 260,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 17.14,
+      "volume": 198,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 20,
+      "volume": 164,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20,
+      "volume": 156,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 19.99,
+      "volume": 139,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 17.03,
+      "volume": 98,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 12.78,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 18.57,
+      "volume": 56,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 22.89,
+      "volume": 87,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 25,
+      "volume": 88,
+      "dataPoints": 4
+    }
+  ],
+  "efficient-training-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 5.00,
+      "volume": 5
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 358
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 389,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 347,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 273,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 183,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 302,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 275,
+      "dataPoints": 4
+    }
+  ],
+  "elegant-hubris-timeless-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 15.00,
+      "volume": 217
+    },
+    {
+      "day": 3,
+      "chaosValue": 15.60,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 39.50,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 33.60,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 35.50,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 27.50,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 22.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 21.11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 19.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 19.11,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 16.97,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 18.06,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 13.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 14.89,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 13.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 11.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 11.99,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 13.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 19.15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 15.23,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "emperors-cunning-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 253.5,
+      "volume": 1
+    },
+    {
+      "day": 3,
+      "chaosValue": 50.00,
+      "volume": 28
+    },
+    {
+      "day": 4,
+      "chaosValue": 25.00,
+      "volume": 38
+    },
+    {
+      "day": 5,
+      "chaosValue": 45.00,
+      "volume": 31
+    },
+    {
+      "day": 6,
+      "chaosValue": 66.00,
+      "volume": 28
+    },
+    {
+      "day": 7,
+      "chaosValue": 129.5,
+      "volume": 33
+    },
+    {
+      "day": 8,
+      "chaosValue": 130.0,
+      "volume": 33
+    },
+    {
+      "day": 9,
+      "chaosValue": 120.0,
+      "volume": 39
+    },
+    {
+      "day": 10,
+      "chaosValue": 129.2,
+      "volume": 36
+    },
+    {
+      "day": 11,
+      "chaosValue": 122.3,
+      "volume": 38
+    },
+    {
+      "day": 12,
+      "chaosValue": 108.8,
+      "volume": 32
+    },
+    {
+      "day": 13,
+      "chaosValue": 122.9,
+      "volume": 33
+    },
+    {
+      "day": 14,
+      "chaosValue": 120.0,
+      "volume": 31
+    },
+    {
+      "week": 3,
+      "chaosValue": 217.01,
+      "volume": 32,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 425.27,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 944.53,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1156.71,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 918.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2538.23,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 4047.86,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3920.86,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3515.29,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2599.86,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2133.14,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2247.43,
+      "volume": 6,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1418.56,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5311.29,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 9145.71,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 9722,
+      "volume": 4,
+      "dataPoints": 4
+    }
+  ],
+  "emperors-mastery-prismatic-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 1426,
+      "volume": 3
+    },
+    {
+      "day": 3,
+      "chaosValue": 1047,
+      "volume": 12
+    },
+    {
+      "day": 4,
+      "chaosValue": 1742,
+      "volume": 4
+    },
+    {
+      "day": 5,
+      "chaosValue": 1720,
+      "volume": 4
+    },
+    {
+      "day": 6,
+      "chaosValue": 2884,
+      "volume": 1
+    },
+    {
+      "day": 7,
+      "chaosValue": 4047,
+      "volume": 4
+    },
+    {
+      "day": 8,
+      "chaosValue": 3479,
+      "volume": 7
+    },
+    {
+      "day": 9,
+      "chaosValue": 4175,
+      "volume": 2
+    },
+    {
+      "day": 10,
+      "chaosValue": 11728,
+      "volume": 2
+    },
+    {
+      "day": 11,
+      "chaosValue": 11644,
+      "volume": 3
+    },
+    {
+      "day": 12,
+      "chaosValue": 11446,
+      "volume": 2
+    },
+    {
+      "day": 13,
+      "chaosValue": 4838,
+      "volume": 3
+    },
+    {
+      "day": 14,
+      "chaosValue": 4569,
+      "volume": 7
+    },
+    {
+      "week": 3,
+      "chaosValue": 7643.14,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 264302,
+      "volume": 2,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 368121.29,
+      "volume": 21,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 22378.43,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 26674,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 21748.71,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 17395,
+      "volume": 33,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 16595.29,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 14833.43,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 15475,
+      "volume": 18,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 15179.29,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 17942.29,
+      "volume": 13,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 17451.43,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 16792.43,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 17152.71,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 17938.75,
+      "volume": 23,
+      "dataPoints": 4
+    }
+  ],
+  "emperors-might-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 303.1,
+      "volume": 3
+    },
+    {
+      "day": 3,
+      "chaosValue": 218.4,
+      "volume": 13
+    },
+    {
+      "day": 4,
+      "chaosValue": 306.9,
+      "volume": 13
+    },
+    {
+      "day": 5,
+      "chaosValue": 307.0,
+      "volume": 10
+    },
+    {
+      "day": 6,
+      "chaosValue": 398.3,
+      "volume": 11
+    },
+    {
+      "day": 7,
+      "chaosValue": 675.0,
+      "volume": 11
+    },
+    {
+      "day": 8,
+      "chaosValue": 685.5,
+      "volume": 14
+    },
+    {
+      "day": 9,
+      "chaosValue": 671.0,
+      "volume": 7
+    },
+    {
+      "day": 10,
+      "chaosValue": 905.1,
+      "volume": 11
+    },
+    {
+      "day": 11,
+      "chaosValue": 780.0,
+      "volume": 15
+    },
+    {
+      "day": 12,
+      "chaosValue": 759.6,
+      "volume": 15
+    },
+    {
+      "day": 13,
+      "chaosValue": 654.3,
+      "volume": 18
+    },
+    {
+      "day": 14,
+      "chaosValue": 723.8,
+      "volume": 15
+    },
+    {
+      "week": 3,
+      "chaosValue": 697.31,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1125.57,
+      "volume": 12,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 777.46,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1104.44,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1114.86,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 861.24,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 864.94,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1009.39,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 906.06,
+      "volume": 34,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 967.16,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1203.43,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1316.29,
+      "volume": 19,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 979.91,
+      "volume": 10,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1465,
+      "volume": 8,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1404,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 9077.25,
+      "volume": 13,
+      "dataPoints": 4
+    }
+  ],
+  "emperors-wit-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 178.3,
+      "volume": 3
+    },
+    {
+      "day": 3,
+      "chaosValue": 188.0,
+      "volume": 17
+    },
+    {
+      "day": 4,
+      "chaosValue": 298.1,
+      "volume": 30
+    },
+    {
+      "day": 5,
+      "chaosValue": 826.5,
+      "volume": 17
+    },
+    {
+      "day": 6,
+      "chaosValue": 880.0,
+      "volume": 10
+    },
+    {
+      "day": 7,
+      "chaosValue": 1493,
+      "volume": 13
+    },
+    {
+      "day": 8,
+      "chaosValue": 1621,
+      "volume": 11
+    },
+    {
+      "day": 9,
+      "chaosValue": 1342,
+      "volume": 12
+    },
+    {
+      "day": 10,
+      "chaosValue": 1161,
+      "volume": 16
+    },
+    {
+      "day": 11,
+      "chaosValue": 1835,
+      "volume": 6
+    },
+    {
+      "day": 12,
+      "chaosValue": 2370,
+      "volume": 4
+    },
+    {
+      "day": 13,
+      "chaosValue": 2492,
+      "volume": 4
+    },
+    {
+      "day": 14,
+      "chaosValue": 2400,
+      "volume": 6
+    },
+    {
+      "week": 3,
+      "chaosValue": 4814.43,
+      "volume": 3,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 134028.71,
+      "volume": 4,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10101.57,
+      "volume": 20,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 14797.71,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20996.57,
+      "volume": 25,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 14425.43,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 9540.29,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10036.43,
+      "volume": 22,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 7722,
+      "volume": 29,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 7875.57,
+      "volume": 26,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 7505,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 8396.29,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 9293.57,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 9261.71,
+      "volume": 9,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 8227.71,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 8315.25,
+      "volume": 25,
+      "dataPoints": 4
+    }
+  ],
+  "energised-armour-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 14.65,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 3.00,
+      "volume": 52
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 182
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 330,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 208,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 191,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 166,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 109,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 61,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 46,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 78,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 73,
+      "dataPoints": 4
+    }
+  ],
+  "energy-from-within-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 20.00,
+      "volume": 2
+    },
+    {
+      "day": 3,
+      "chaosValue": 4.00,
+      "volume": 43
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.00,
+      "volume": 145
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.00,
+      "volume": 186
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.00,
+      "volume": 236
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 275
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.00,
+      "volume": 299
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.00,
+      "volume": 346
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.00,
+      "volume": 379
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3,
+      "volume": 390,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3,
+      "volume": 288,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3,
+      "volume": 199,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3.37,
+      "volume": 125,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3.44,
+      "volume": 61,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2.76,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2.11,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3.03,
+      "volume": 24,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2,
+      "volume": 17,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1.26,
+      "volume": 16,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 11,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5.03,
+      "volume": 14,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 8.3,
+      "volume": 12,
+      "dataPoints": 4
+    }
+  ],
+  "fertile-mind-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.00,
+      "volume": 11
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 186
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 365,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 283,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 208,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 153,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 254,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 226,
+      "dataPoints": 4
+    }
+  ],
+  "fevered-mind-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 20.97,
+      "volume": 3
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 76
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 106
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 325
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 384,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 223,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 131,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 70,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 54,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 41,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 31,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 43,
+      "dataPoints": 4
+    }
+  ],
+  "firesong-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 45.95,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 3.00,
+      "volume": 93
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 208
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 342
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 380
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 383,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 266,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 179,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 108,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 108,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 81,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 57,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 41,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 33,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 56,
+      "dataPoints": 4
+    }
+  ],
+  "fluid-motion-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 2.05,
+      "volume": 18
+    },
+    {
+      "day": 2,
+      "chaosValue": 10.00,
+      "volume": 53
+    },
+    {
+      "day": 3,
+      "chaosValue": 17.00,
+      "volume": 357
+    },
+    {
+      "day": 4,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 392,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 322,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 244,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 193,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 129,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 109,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 183,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1.25,
+      "volume": 181,
+      "dataPoints": 4
+    }
+  ],
+  "forbidden-flame-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 40.00,
+      "volume": 286
+    },
+    {
+      "day": 3,
+      "chaosValue": 35.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 25.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 23.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 23.20,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 25.50,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 25.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 15.33,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 15.4,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 19.27,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 12.78,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 14.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 17.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 14.63,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 13.44,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 20.66,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 20.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 18.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 14.95,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 16.03,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 29.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 41.88,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "forbidden-flesh-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 40.00,
+      "volume": 178
+    },
+    {
+      "day": 3,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 19.45,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 21.20,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 21.50,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 25.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 23.50,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 27.50,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 18.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 11.62,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 16.21,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 15.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 14.24,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 14.79,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 14.24,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 10.81,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 16.45,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 18.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 13.91,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 12.37,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 16.09,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 29.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 35.78,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "fortress-covenant-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 25.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 90.00,
+      "volume": 10
+    },
+    {
+      "day": 3,
+      "chaosValue": 189.1,
+      "volume": 22
+    },
+    {
+      "day": 4,
+      "chaosValue": 214.8,
+      "volume": 20
+    },
+    {
+      "day": 5,
+      "chaosValue": 290.4,
+      "volume": 47
+    },
+    {
+      "day": 6,
+      "chaosValue": 230.0,
+      "volume": 91
+    },
+    {
+      "day": 7,
+      "chaosValue": 402.0,
+      "volume": 94
+    },
+    {
+      "day": 8,
+      "chaosValue": 426.6,
+      "volume": 132
+    },
+    {
+      "day": 9,
+      "chaosValue": 403.5,
+      "volume": 138
+    },
+    {
+      "day": 10,
+      "chaosValue": 392.4,
+      "volume": 167
+    },
+    {
+      "day": 11,
+      "chaosValue": 383.4,
+      "volume": 214
+    },
+    {
+      "day": 12,
+      "chaosValue": 379.8,
+      "volume": 257
+    },
+    {
+      "day": 13,
+      "chaosValue": 300.0,
+      "volume": 369
+    },
+    {
+      "day": 14,
+      "chaosValue": 230.0,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 160.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 126.21,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 65,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 50.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 49.21,
+      "volume": 394,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 44.43,
+      "volume": 255,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 45.9,
+      "volume": 167,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 48.87,
+      "volume": 132,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 50.5,
+      "volume": 103,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 50.05,
+      "volume": 90,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 51.93,
+      "volume": 60,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 75.06,
+      "volume": 44,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 88.46,
+      "volume": 40,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 73.54,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 59.93,
+      "volume": 46,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 65.35,
+      "volume": 43,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-might-of-the-meek-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 75.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 47.00,
+      "volume": 3
+    },
+    {
+      "day": 3,
+      "chaosValue": 14.00,
+      "volume": 47
+    },
+    {
+      "day": 4,
+      "chaosValue": 17.90,
+      "volume": 85
+    },
+    {
+      "day": 5,
+      "chaosValue": 15.00,
+      "volume": 124
+    },
+    {
+      "day": 6,
+      "chaosValue": 15.00,
+      "volume": 166
+    },
+    {
+      "day": 7,
+      "chaosValue": 10.00,
+      "volume": 231
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 160
+    },
+    {
+      "day": 9,
+      "chaosValue": 20.00,
+      "volume": 190
+    },
+    {
+      "day": 10,
+      "chaosValue": 20.00,
+      "volume": 197
+    },
+    {
+      "day": 11,
+      "chaosValue": 15.00,
+      "volume": 332
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 16.66,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 22.96,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 27.23,
+      "volume": 391,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 34.37,
+      "volume": 348,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 99.86,
+      "volume": 222,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 132.64,
+      "volume": 167,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 113.08,
+      "volume": 130,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 101.46,
+      "volume": 131,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 79.86,
+      "volume": 104,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 173.46,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 201.57,
+      "volume": 85,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 193.07,
+      "volume": 74,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 172.79,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 378.54,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 637.07,
+      "volume": 83,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1866.5,
+      "volume": 73,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-blue-dream-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 398
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 396
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.85,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3.9,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 4.61,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3.44,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3.7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 4.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 4.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 4.67,
+      "volume": 392,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 4.71,
+      "volume": 353,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 3.95,
+      "volume": 315,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 4.5,
+      "volume": 274,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 4.09,
+      "volume": 227,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 6.09,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 6.23,
+      "volume": 165,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 6.74,
+      "volume": 209,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 5.38,
+      "volume": 131,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-blue-nightmare-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 42.25,
+      "volume": 16
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.00,
+      "volume": 62
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.00,
+      "volume": 111
+    },
+    {
+      "day": 5,
+      "chaosValue": 8.00,
+      "volume": 330
+    },
+    {
+      "day": 6,
+      "chaosValue": 6.00,
+      "volume": 369
+    },
+    {
+      "day": 7,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 6.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 7.25,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 7.33,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 12.92,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 19.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 24.98,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 26.97,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 41.14,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 38.41,
+      "volume": 284,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 23.01,
+      "volume": 260,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 29.47,
+      "volume": 182,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 28.11,
+      "volume": 133,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 24.33,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 24.34,
+      "volume": 110,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 29.57,
+      "volume": 76,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 50.5,
+      "volume": 62,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 58.14,
+      "volume": 98,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 80.95,
+      "volume": 67,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-green-dream-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 12.75,
+      "volume": 2
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 398
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 398
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 374,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 305,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 249,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 215,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 152,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 114,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1.04,
+      "volume": 101,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1.95,
+      "volume": 140,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 6.35,
+      "volume": 130,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-green-nightmare-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 12.20,
+      "volume": 13
+    },
+    {
+      "day": 3,
+      "chaosValue": 7.80,
+      "volume": 109
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.00,
+      "volume": 124
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.00,
+      "volume": 272
+    },
+    {
+      "day": 6,
+      "chaosValue": 7.70,
+      "volume": 282
+    },
+    {
+      "day": 7,
+      "chaosValue": 5.00,
+      "volume": 360
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 4.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 8.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 9.56,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 345,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 15.84,
+      "volume": 258,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 15.51,
+      "volume": 232,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 16.7,
+      "volume": 161,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 15.34,
+      "volume": 139,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 17.83,
+      "volume": 107,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 16.57,
+      "volume": 89,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 20.68,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 24.54,
+      "volume": 54,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 22.67,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 38.29,
+      "volume": 68,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 42.05,
+      "volume": 58,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-red-dream-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 2.00,
+      "volume": 259
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 4.87,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 7.2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 13.91,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 12.93,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 9.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 7.16,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5.19,
+      "volume": 384,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 6.5,
+      "volume": 311,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5,
+      "volume": 296,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5,
+      "volume": 233,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5.09,
+      "volume": 208,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 6.44,
+      "volume": 156,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 9.71,
+      "volume": 144,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 8.34,
+      "volume": 184,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 7.8,
+      "volume": 129,
+      "dataPoints": 4
+    }
+  ],
+  "foulborn-the-red-nightmare-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 49.90,
+      "volume": 8
+    },
+    {
+      "day": 3,
+      "chaosValue": 73.50,
+      "volume": 60
+    },
+    {
+      "day": 4,
+      "chaosValue": 45.00,
+      "volume": 101
+    },
+    {
+      "day": 5,
+      "chaosValue": 25.00,
+      "volume": 197
+    },
+    {
+      "day": 6,
+      "chaosValue": 23.00,
+      "volume": 222
+    },
+    {
+      "day": 7,
+      "chaosValue": 15.00,
+      "volume": 351
+    },
+    {
+      "day": 8,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 14.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 12.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 10.50,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 18.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 28.37,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 33.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 35.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 48.57,
+      "volume": 382,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 48,
+      "volume": 238,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 43.11,
+      "volume": 215,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 45.64,
+      "volume": 216,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 43.96,
+      "volume": 181,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 39,
+      "volume": 136,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 39.83,
+      "volume": 116,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 36.81,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 33.34,
+      "volume": 73,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 68.91,
+      "volume": 53,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 204.51,
+      "volume": 73,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 165.73,
+      "volume": 63,
+      "dataPoints": 4
+    }
+  ],
+  "fragility-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.00,
+      "volume": 8
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 174
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 381
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 383,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 280,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 177,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 0.85,
+      "volume": 123,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 0.74,
+      "volume": 92,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 85,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 172,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 0.89,
+      "volume": 169,
+      "dataPoints": 4
+    }
+  ],
+  "glorious-vanity-timeless-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 35.25,
+      "volume": 233
+    },
+    {
+      "day": 3,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 49.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 27.50,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 25.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 24.80,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 18.61,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 14.97,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 12.51,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10.21,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 9.27,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 9.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 8.9,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 9.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 7.34,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 7.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 8.2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 11.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10.09,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "grand-spectrum-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 36.00,
+      "volume": 61
+    },
+    {
+      "day": 3,
+      "chaosValue": 18.10,
+      "volume": 103
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.00,
+      "volume": 194
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.00,
+      "volume": 190
+    },
+    {
+      "day": 6,
+      "chaosValue": 12.00,
+      "volume": 183
+    },
+    {
+      "day": 7,
+      "chaosValue": 20.00,
+      "volume": 179
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 216
+    },
+    {
+      "day": 9,
+      "chaosValue": 45.00,
+      "volume": 205
+    },
+    {
+      "day": 10,
+      "chaosValue": 70.00,
+      "volume": 261
+    },
+    {
+      "day": 11,
+      "chaosValue": 60.00,
+      "volume": 326
+    },
+    {
+      "day": 12,
+      "chaosValue": 45.00,
+      "volume": 367
+    },
+    {
+      "day": 13,
+      "chaosValue": 45.00,
+      "volume": 357
+    },
+    {
+      "day": 14,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 46.43,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 52.68,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 75.63,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 97.21,
+      "volume": 349,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 152.66,
+      "volume": 291,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 129.44,
+      "volume": 203,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 102.67,
+      "volume": 152,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 99.86,
+      "volume": 159,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 88.41,
+      "volume": 141,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 68.4,
+      "volume": 122,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 79.1,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 109.44,
+      "volume": 58,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 94.83,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 106.86,
+      "volume": 55,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 143,
+      "volume": 63,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 199.43,
+      "volume": 57,
+      "dataPoints": 4
+    }
+  ],
+  "grand-spectrum-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 12.00,
+      "volume": 75
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.00,
+      "volume": 103
+    },
+    {
+      "day": 4,
+      "chaosValue": 8.00,
+      "volume": 125
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.00,
+      "volume": 112
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.00,
+      "volume": 126
+    },
+    {
+      "day": 7,
+      "chaosValue": 20.00,
+      "volume": 179
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 192
+    },
+    {
+      "day": 9,
+      "chaosValue": 21.00,
+      "volume": 188
+    },
+    {
+      "day": 10,
+      "chaosValue": 25.00,
+      "volume": 214
+    },
+    {
+      "day": 11,
+      "chaosValue": 30.00,
+      "volume": 287
+    },
+    {
+      "day": 12,
+      "chaosValue": 30.00,
+      "volume": 323
+    },
+    {
+      "day": 13,
+      "chaosValue": 30.00,
+      "volume": 337
+    },
+    {
+      "day": 14,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 24.16,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 23,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 25.4,
+      "volume": 373,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 40.81,
+      "volume": 304,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 50.07,
+      "volume": 268,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 48.4,
+      "volume": 197,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 39.69,
+      "volume": 128,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 30.19,
+      "volume": 132,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 29.26,
+      "volume": 131,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 40.93,
+      "volume": 111,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 47.64,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 54.57,
+      "volume": 68,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 51.39,
+      "volume": 33,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 51.13,
+      "volume": 40,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 54.54,
+      "volume": 69,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 75.3,
+      "volume": 53,
+      "dataPoints": 4
+    }
+  ],
+  "grand-spectrum-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 8.80,
+      "volume": 35
+    },
+    {
+      "day": 3,
+      "chaosValue": 5.00,
+      "volume": 132
+    },
+    {
+      "day": 4,
+      "chaosValue": 5.00,
+      "volume": 146
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 156
+    },
+    {
+      "day": 6,
+      "chaosValue": 10.00,
+      "volume": 122
+    },
+    {
+      "day": 7,
+      "chaosValue": 15.00,
+      "volume": 173
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 188
+    },
+    {
+      "day": 9,
+      "chaosValue": 20.00,
+      "volume": 286
+    },
+    {
+      "day": 10,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 12.20,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 9.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 7.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20.93,
+      "volume": 383,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20.27,
+      "volume": 253,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 19.64,
+      "volume": 137,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 18.01,
+      "volume": 143,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 19.31,
+      "volume": 170,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 19.01,
+      "volume": 161,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 17.35,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 16.63,
+      "volume": 66,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 14.3,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 14.67,
+      "volume": 50,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 43.41,
+      "volume": 62,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 33.6,
+      "volume": 59,
+      "dataPoints": 4
+    }
+  ],
+  "healthy-mind-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 78.66,
+      "volume": 4
+    },
+    {
+      "day": 2,
+      "chaosValue": 173.9,
+      "volume": 16
+    },
+    {
+      "day": 3,
+      "chaosValue": 359.0,
+      "volume": 40
+    },
+    {
+      "day": 4,
+      "chaosValue": 420.0,
+      "volume": 63
+    },
+    {
+      "day": 5,
+      "chaosValue": 350.0,
+      "volume": 123
+    },
+    {
+      "day": 6,
+      "chaosValue": 300.0,
+      "volume": 115
+    },
+    {
+      "day": 7,
+      "chaosValue": 342.7,
+      "volume": 360
+    },
+    {
+      "day": 8,
+      "chaosValue": 250.0,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 150.0,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 115.0,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 55.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 11.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 5.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 3.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 3.5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 3.33,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 3.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 3.84,
+      "volume": 335,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 3,
+      "volume": 230,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 3,
+      "volume": 161,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 3.26,
+      "volume": 122,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5.89,
+      "volume": 86,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5.78,
+      "volume": 94,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3.9,
+      "volume": 73,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3.81,
+      "volume": 47,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 4.89,
+      "volume": 55,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 6.48,
+      "volume": 90,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 8.55,
+      "volume": 76,
+      "dataPoints": 4
+    }
+  ],
+  "hidden-potential-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 10.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 32
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 88
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 212
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 345
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 361,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 196,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 129,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 84,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 64,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 62,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1.21,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 2.01,
+      "volume": 28,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 4.04,
+      "volume": 23,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1.25,
+      "volume": 37,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 39,
+      "dataPoints": 4
+    }
+  ],
+  "immutable-force-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 42.23,
+      "volume": 10
+    },
+    {
+      "day": 2,
+      "chaosValue": 170.2,
+      "volume": 58
+    },
+    {
+      "day": 3,
+      "chaosValue": 292.0,
+      "volume": 52
+    },
+    {
+      "day": 4,
+      "chaosValue": 503.5,
+      "volume": 84
+    },
+    {
+      "day": 5,
+      "chaosValue": 350.0,
+      "volume": 236
+    },
+    {
+      "day": 6,
+      "chaosValue": 260.0,
+      "volume": 347
+    },
+    {
+      "day": 7,
+      "chaosValue": 230.0,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 142.3,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 70.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 42.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 25.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 19.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 12.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 12.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 14.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 15.5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 14.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 15,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 18.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 19.86,
+      "volume": 382,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 18.14,
+      "volume": 365,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 16.5,
+      "volume": 309,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 16.16,
+      "volume": 253,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 24.81,
+      "volume": 211,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 26.43,
+      "volume": 144,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 20.99,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 33.27,
+      "volume": 199,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 26.48,
+      "volume": 213,
+      "dataPoints": 4
+    }
+  ],
+  "impossible-escape-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 134.2,
+      "volume": 6
+    },
+    {
+      "day": 3,
+      "chaosValue": 114.7,
+      "volume": 115
+    },
+    {
+      "day": 4,
+      "chaosValue": 32.60,
+      "volume": 289
+    },
+    {
+      "day": 5,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 9.40,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 9.70,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 9.90,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 12.80,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 13.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 8.80,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 8.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10.16,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 12.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10.81,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 11.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9.69,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 10.86,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.74,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 11.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 14.21,
+      "volume": 396,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 18.52,
+      "volume": 324,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 15.94,
+      "volume": 233,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 22.27,
+      "volume": 338,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 40,
+      "volume": 311,
+      "dataPoints": 4
+    }
+  ],
+  "inertia-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.50,
+      "volume": 6
+    },
+    {
+      "day": 2,
+      "chaosValue": 2.00,
+      "volume": 359
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 319,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 216,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 201,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 303,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 292,
+      "dataPoints": 4
+    }
+  ],
+  "inspired-learning-crimson-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 781.8,
+      "volume": 3
+    },
+    {
+      "day": 3,
+      "chaosValue": 1140,
+      "volume": 24
+    },
+    {
+      "day": 4,
+      "chaosValue": 730.0,
+      "volume": 63
+    },
+    {
+      "day": 5,
+      "chaosValue": 420.0,
+      "volume": 100
+    },
+    {
+      "day": 6,
+      "chaosValue": 260.0,
+      "volume": 183
+    },
+    {
+      "day": 7,
+      "chaosValue": 200.0,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 120.0,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 60.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 27.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 6.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 5.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 8,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 8,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 8.02,
+      "volume": 318,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 8.86,
+      "volume": 231,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.28,
+      "volume": 212,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 9.86,
+      "volume": 214,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 9.71,
+      "volume": 207,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 10,
+      "volume": 142,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10,
+      "volume": 93,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 10,
+      "volume": 130,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 115,
+      "dataPoints": 4
+    }
+  ],
+  "intuitive-leap-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 15.00,
+      "volume": 5
+    },
+    {
+      "day": 2,
+      "chaosValue": 26.80,
+      "volume": 50
+    },
+    {
+      "day": 3,
+      "chaosValue": 38.50,
+      "volume": 50
+    },
+    {
+      "day": 4,
+      "chaosValue": 47.00,
+      "volume": 179
+    },
+    {
+      "day": 5,
+      "chaosValue": 35.70,
+      "volume": 261
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 18.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 12.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 12.30,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 12.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 12.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 9.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 9.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 11,
+      "volume": 320,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 11.43,
+      "volume": 225,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 11.66,
+      "volume": 204,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 11.57,
+      "volume": 192,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 11.14,
+      "volume": 157,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 10.39,
+      "volume": 113,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 10,
+      "volume": 91,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 10.86,
+      "volume": 74,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 11.8,
+      "volume": 71,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 13.33,
+      "volume": 138,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 15,
+      "volume": 122,
+      "dataPoints": 4
+    }
+  ],
+  "kitavas-teachings-small-cluster-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 5.00,
+      "volume": 22
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.00,
+      "volume": 115
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.00,
+      "volume": 237
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.00,
+      "volume": 300
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 386,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 239,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 207,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 186,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 152,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 87,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 65,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 49,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 68,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 66,
+      "dataPoints": 4
+    }
+  ],
+  "kurgals-gaze-hypnotic-eye-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 107.8,
+      "volume": 2
+    },
+    {
+      "day": 3,
+      "chaosValue": 73.50,
+      "volume": 18
+    },
+    {
+      "day": 4,
+      "chaosValue": 18.00,
+      "volume": 149
+    },
+    {
+      "day": 5,
+      "chaosValue": 8.00,
+      "volume": 266
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.00,
+      "volume": 395
+    },
+    {
+      "day": 7,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 4.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 6.31,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 6.7,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 6.14,
+      "volume": 280,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 7.29,
+      "volume": 154,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 8.44,
+      "volume": 141,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 9.96,
+      "volume": 142,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.31,
+      "volume": 84,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 6.57,
+      "volume": 73,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 8.37,
+      "volume": 60,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5.49,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 4.93,
+      "volume": 43,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 4.29,
+      "volume": 27,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 10.46,
+      "volume": 45,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 9.45,
+      "volume": 40,
+      "dataPoints": 4
+    }
+  ],
+  "lethal-pride-timeless-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 45.00,
+      "volume": 234
+    },
+    {
+      "day": 3,
+      "chaosValue": 25.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 54.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 47.50,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 40.40,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 35.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 30.82,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 29.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 27.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 25.79,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 22.77,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 21.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 20.89,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 22.17,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 21.82,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 22.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 21.05,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 23.52,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 23.16,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 26.85,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 27.5,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "lioneyes-fall-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 9.00,
+      "volume": 8
+    },
+    {
+      "day": 2,
+      "chaosValue": 10.00,
+      "volume": 32
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.00,
+      "volume": 110
+    },
+    {
+      "day": 4,
+      "chaosValue": 8.00,
+      "volume": 216
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 363
+    },
+    {
+      "day": 6,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2,
+      "volume": 385,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2,
+      "volume": 256,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2,
+      "volume": 155,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2,
+      "volume": 121,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2.86,
+      "volume": 109,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2.69,
+      "volume": 96,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 3,
+      "volume": 77,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 3,
+      "volume": 60,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 3,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 3,
+      "volume": 39,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2.99,
+      "volume": 56,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4,
+      "volume": 61,
+      "dataPoints": 4
+    }
+  ],
+  "megalomaniac-medium-cluster-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 34.80,
+      "volume": 80
+    },
+    {
+      "day": 3,
+      "chaosValue": 11.60,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 19.80,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 9.49,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 7.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 5.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 6.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5.72,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 5.56,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5.54,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5.32,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 6.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 7.36,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 7.58,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "melding-of-the-flesh-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 24.20,
+      "volume": 89
+    },
+    {
+      "day": 3,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 12.95,
+      "volume": 356
+    },
+    {
+      "day": 6,
+      "chaosValue": 25.00,
+      "volume": 351
+    },
+    {
+      "day": 7,
+      "chaosValue": 45.00,
+      "volume": 286
+    },
+    {
+      "day": 8,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 45.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 45.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 55.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 55.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 60.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 60.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 62.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 103.33,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 133.07,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 182.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 144.83,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 70.34,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 64.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 80.74,
+      "volume": 379,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 73.75,
+      "volume": 346,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 64.7,
+      "volume": 385,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 40.71,
+      "volume": 389,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 31.5,
+      "volume": 298,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 30,
+      "volume": 195,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 24.8,
+      "volume": 160,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 67.09,
+      "volume": 170,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 55.75,
+      "volume": 175,
+      "dataPoints": 4
+    }
+  ],
+  "might-of-the-meek-crimson-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 5.00,
+      "volume": 8
+    },
+    {
+      "day": 2,
+      "chaosValue": 3.00,
+      "volume": 28
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.00,
+      "volume": 144
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.00,
+      "volume": 255
+    },
+    {
+      "day": 5,
+      "chaosValue": 3.00,
+      "volume": 372
+    },
+    {
+      "day": 6,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 2.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 2.31,
+      "volume": 388,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 2.86,
+      "volume": 253,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 2.49,
+      "volume": 173,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 2.57,
+      "volume": 124,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 2.38,
+      "volume": 128,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 2.06,
+      "volume": 112,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 2,
+      "volume": 91,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 2,
+      "volume": 66,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 2,
+      "volume": 41,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1.86,
+      "volume": 36,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 2.79,
+      "volume": 51,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 7.25,
+      "volume": 66,
+      "dataPoints": 4
+    }
+  ],
+  "militant-faith-timeless-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 28.60,
+      "volume": 168
+    },
+    {
+      "day": 3,
+      "chaosValue": 15.00,
+      "volume": 399
+    },
+    {
+      "day": 4,
+      "chaosValue": 40.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 44.40,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 45.40,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 50.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 49.40,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 35.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 32.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 37.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 30.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 28.50,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 26.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 20.36,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 18.26,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 15.08,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 12.59,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 10.46,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 10.61,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 9.76,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.93,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 10.49,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 11.49,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 9.51,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 7.06,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 8,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 15.23,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 12.5,
+      "volume": 399,
+      "dataPoints": 4
+    }
+  ],
+  "nadir-mode-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 2.80,
+      "volume": 11
+    },
+    {
+      "day": 3,
+      "chaosValue": 2.00,
+      "volume": 17
+    },
+    {
+      "day": 4,
+      "chaosValue": 2.00,
+      "volume": 108
+    },
+    {
+      "day": 5,
+      "chaosValue": 2.00,
+      "volume": 190
+    },
+    {
+      "day": 6,
+      "chaosValue": 2.00,
+      "volume": 267
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 343
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 363
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.80,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 2,
+      "volume": 395,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1.1,
+      "volume": 326,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 245,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 170,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 127,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 121,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 100,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 98,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 79,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 42,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 30,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 35,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1.09,
+      "volume": 25,
+      "dataPoints": 4
+    }
+  ],
+  "natural-affinity-small-cluster-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 7.55,
+      "volume": 42
+    },
+    {
+      "day": 3,
+      "chaosValue": 5.00,
+      "volume": 73
+    },
+    {
+      "day": 4,
+      "chaosValue": 5.00,
+      "volume": 144
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 204
+    },
+    {
+      "day": 6,
+      "chaosValue": 8.00,
+      "volume": 261
+    },
+    {
+      "day": 7,
+      "chaosValue": 9.70,
+      "volume": 357
+    },
+    {
+      "day": 8,
+      "chaosValue": 9.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 8.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 7.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 4.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 4.64,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 4.39,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4.94,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 5,
+      "volume": 376,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 5,
+      "volume": 332,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 4.86,
+      "volume": 284,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5,
+      "volume": 250,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 5,
+      "volume": 175,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 5.23,
+      "volume": 129,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 5,
+      "volume": 104,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 5,
+      "volume": 112,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 5.64,
+      "volume": 138,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 4.3,
+      "volume": 135,
+      "dataPoints": 4
+    }
+  ],
+  "one-with-nothing-small-cluster-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 140.0,
+      "volume": 33
+    },
+    {
+      "day": 3,
+      "chaosValue": 65.00,
+      "volume": 47
+    },
+    {
+      "day": 4,
+      "chaosValue": 30.00,
+      "volume": 222
+    },
+    {
+      "day": 5,
+      "chaosValue": 22.00,
+      "volume": 348
+    },
+    {
+      "day": 6,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 16.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 17.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 19.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 20.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 14.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 10.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 9.86,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 9.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 10,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 9.29,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 8.86,
+      "volume": 397,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 9,
+      "volume": 290,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 9.71,
+      "volume": 244,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 9.86,
+      "volume": 233,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 8.96,
+      "volume": 229,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 9.17,
+      "volume": 153,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 9.86,
+      "volume": 102,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 10,
+      "volume": 119,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 10,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 147,
+      "dataPoints": 4
+    }
+  ],
+  "pacifism-viridian-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 1.00,
+      "volume": 1
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 84
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 265
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 2.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 345,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 259,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 171,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 145,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 117,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 0.62,
+      "volume": 77,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 0.33,
+      "volume": 59,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 104,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 113,
+      "dataPoints": 4
+    }
+  ],
+  "powerlessness-cobalt-jewel": [
+    {
+      "day": 1,
+      "chaosValue": 5.00,
+      "volume": 6
+    },
+    {
+      "day": 2,
+      "chaosValue": 1.00,
+      "volume": 112
+    },
+    {
+      "day": 3,
+      "chaosValue": 1.00,
+      "volume": 292
+    },
+    {
+      "day": 4,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 1.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 1,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 1,
+      "volume": 398,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 1,
+      "volume": 346,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 1,
+      "volume": 251,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 1,
+      "volume": 175,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 1,
+      "volume": 144,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 1,
+      "volume": 93,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 1,
+      "volume": 73,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 1,
+      "volume": 66,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 1,
+      "volume": 111,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 1,
+      "volume": 114,
+      "dataPoints": 4
+    }
+  ],
+  "primordial-eminence-viridian-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 202.4,
+      "volume": 4
+    },
+    {
+      "day": 3,
+      "chaosValue": 238.5,
+      "volume": 10
+    },
+    {
+      "day": 4,
+      "chaosValue": 260.0,
+      "volume": 89
+    },
+    {
+      "day": 5,
+      "chaosValue": 250.0,
+      "volume": 212
+    },
+    {
+      "day": 6,
+      "chaosValue": 200.0,
+      "volume": 369
+    },
+    {
+      "day": 7,
+      "chaosValue": 240.0,
+      "volume": 362
+    },
+    {
+      "day": 8,
+      "chaosValue": 250.0,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 222.0,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 188.3,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 120.0,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 105.0,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 120.0,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 119.6,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 48.07,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 35.43,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 26,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 20.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 20,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 20.06,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 21.6,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 23.14,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 24.41,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 22.51,
+      "volume": 363,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 23.56,
+      "volume": 221,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 25,
+      "volume": 168,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 24.49,
+      "volume": 278,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 28.04,
+      "volume": 230,
+      "dataPoints": 4
+    }
+  ],
+  "primordial-harmony-cobalt-jewel": [
+    {
+      "day": 2,
+      "chaosValue": 54.70,
+      "volume": 10
+    },
+    {
+      "day": 3,
+      "chaosValue": 28.00,
+      "volume": 47
+    },
+    {
+      "day": 4,
+      "chaosValue": 10.00,
+      "volume": 399
+    },
+    {
+      "day": 5,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 6,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 7,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "day": 8,
+      "chaosValue": 3.00,
+      "volume": 399
+    },
+    {
+      "day": 9,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 10,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 11,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 12,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 13,
+      "chaosValue": 5.00,
+      "volume": 399
+    },
+    {
+      "day": 14,
+      "chaosValue": 4.00,
+      "volume": 399
+    },
+    {
+      "week": 3,
+      "chaosValue": 3,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 4,
+      "chaosValue": 4.57,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 5,
+      "chaosValue": 4.59,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 6,
+      "chaosValue": 4.71,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 7,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 8,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 9,
+      "chaosValue": 5,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 10,
+      "chaosValue": 6.36,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 11,
+      "chaosValue": 5.01,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 12,
+      "chaosValue": 5.88,
+      "volume": 399,
+      "dataPoints": 7
+    },
+    {
+      "week": 13,
+      "chaosValue": 6.77,
+      "volume": 379,
+      "dataPoints": 7
+    },
+    {
+      "week": 14,
+      "chaosValue": 7.24,
+      "volume": 309,
+      "dataPoints": 7
+    },
+    {
+      "week": 15,
+      "chaosValue": 6.19,
+      "volume": 220,
+      "dataPoints": 7
+    },
+    {
+      "week": 16,
+      "chaosValue": 6,
+      "volume": 188,
+      "dataPoints": 7
+    },
+    {
+      "week": 17,
+      "chaosValue": 9.91,
+      "volume": 268,
+      "dataPoints": 7
+    },
+    {
+      "week": 18,
+      "chaosValue": 10,
+      "volume": 238,
+      "dataPoints": 4
+    }
+  ]
+}

@@ -617,13 +617,14 @@
     "league": "Legion",
     "req": { "str": 182, "dex": 0, "int": 0 },
     "sockets": null,
-    "variants": ["Pre 2.6.0", "Pre 3.7.0", "Pre 3.11.0", "Pre 3.19.0", "Pre 3.20.0", "Current"],
+    "variants": ["Pre 2.6.0", "Pre 3.7.0", "Pre 3.11.0", "Pre 3.19.0", "Pre 3.20.0", "Pre 3.28.0", "Current"],
     "implicit": ["45% increased Stun Duration on Enemies"],
     "mods": [
       "(500-600)% increased Physical Damage",
       "25% reduced Attack Speed",
       "(40-50)% increased Stun Duration on Enemies",
-      "-500 to Accuracy Rating"
+      "-500 to Accuracy Rating",
+      "(40-50)% increased Area of Effect"
     ]
   },
   {
@@ -1027,6 +1028,24 @@
     ]
   },
   {
+    "id": "The_Sands_of_Time",
+    "name": "The Sands of Time",
+    "baseType": "Tyrant's Sekhem",
+    "type": "Sceptre",
+    "levelReq": 58,
+    "league": null,
+    "req": { "str": 99, "dex": 0, "int": 99 },
+    "sockets": null,
+    "implicit": ["26% increased Elemental Damage"],
+    "mods": [
+      "Trigger level 20 Suspend in Time on Casting a Spell",
+      "60% increased Spell Damage",
+      "65% increased Mana Regeneration Rate",
+      "10% increased Cooldown Recovery Rate",
+      "10% increased Cast Speed for each different Non-Instant Spell you've Cast Recently"
+    ]
+  },
+  {
     "id": "The_Supreme_Truth",
     "name": "The Supreme Truth",
     "baseType": "Crystal Sceptre",
@@ -1042,8 +1061,8 @@
       "(80-100)% increased Physical Damage",
       "(10-20)% increased Attack Speed",
       "3% increased Experience gain",
-      "20% increased Elemental Damage",
-      "60% increased Intelligence Requirement"
+      "60% increased Intelligence Requirement",
+      "Attacks with this Weapon inflict Hallowing Flame on Hit"
     ]
   },
   {

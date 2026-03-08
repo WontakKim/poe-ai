@@ -1,26 +1,26 @@
-<!-- @generated gameVersion=3.27 pobCommit=fb6cd055 pobVersion=v2.60.0 -->
+<!-- @generated gameVersion=3.28 pobCommit=3acd9100 pobVersion=v2.60.0 -->
 # Unique Items — `src/Data/Uniques/`
 
 **Main files (22)**: amulet, axe, belt, body, boots, bow, claw, dagger, fishing, flask, gloves, graft, helmet, jewel, mace, quiver, ring, shield, staff, sword, tincture, wand
 
 **Usable (20)**: Exclude fishing and graft.
 
-**Special/ folder**: BoundByDestiny.lua (0), Generated.lua (12), New.lua (25), race.lua (11), WatchersEye.lua (0)
+**Special/ folder**: BoundByDestiny.lua (0), Generated.lua (12), New.lua (5), race.lua (11), WatchersEye.lua (0)
 
 **Item counts**:
 | File | Count | File | Count |
 |------|-------|------|-------|
-| jewel | 178 | mace | 57 |
-| helmet | 116 | staff | 41 |
-| ring | 103 | flask | 37 |
-| body | 100 | bow | 32 |
-| gloves | 85 | axe | 32 |
-| amulet | 85 | wand | 26 |
-| boots | 77 | quiver | 25 |
-| shield | 76 | dagger | 22 |
+| jewel | 178 | mace | 58 |
+| helmet | 118 | staff | 42 |
+| ring | 111 | flask | 38 |
+| body | 101 | bow | 33 |
+| gloves | 87 | axe | 33 |
+| amulet | 87 | wand | 27 |
+| shield | 78 | quiver | 25 |
+| boots | 77 | dagger | 23 |
 | belt | 62 | claw | 21 |
-| sword | 60 | tincture | 5 |
-| **Total (usable)** | **1240** | | |
+| sword | 61 | tincture | 5 |
+| **Total (usable)** | **1265** | | |
 
 **Block format** (items separated by `]],[[`, first starts with `[[`, last ends with `]]`):
 ```lua
@@ -88,11 +88,11 @@ Lines matching these patterns are metadata — everything else after the Implici
 
 **Level requirement formats**:
 - `LevelReq: N` — 98 occurrences
-- `Requires Level N, X Str, Y Dex` — 601 occurrences
+- `Requires Level N, X Str, Y Dex` — 626 occurrences
 - If neither present, fall back to the base item's level requirement.
 
 **Parsing notes**:
-1. 488 of 1240 items lack an `Implicits:` line — treat as 0 implicits (all non-metadata lines are explicit mods).
+1. 495 of 1265 items lack an `Implicits:` line — treat as 0 implicits (all non-metadata lines are explicit mods).
 2. Variant prefix `{variant:N}` on the base type line (line 3): amulet (1), axe (2), belt (1), body (3), boots (4), bow (1), claw (2), gloves (3), helmet (2), quiver (8), shield (4), staff (2), sword (1), wand (15). Parser must select the correct base type for the current variant.
 3. Variant filtering: find "Current" variant index (or last variant if none labeled "Current"), keep only mods matching that index or with no variant prefix.
 4. Strip `{variant:N}`, `{variant:N,M}`, and `{tags:...}` prefixes from kept lines.

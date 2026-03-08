@@ -17,8 +17,8 @@ LUA_MODULES="$SCRIPT_DIR/../lua_modules"
 
 # Validate mode
 case "$mode" in
-  xml|json) ;;
-  *) echo "ERROR: Invalid mode '$mode'. Use: xml, json" >&2; exit 1 ;;
+  xml|json|batch) ;;
+  *) echo "ERROR: Invalid mode '$mode'. Use: xml, json, batch" >&2; exit 1 ;;
 esac
 
 # Verify dependencies
@@ -52,29 +52,47 @@ export LUA_CPATH="$LUA_NATIVE_DIR/?.so;$LUA_NATIVE_DIR/?.dll;;"
 
 # Run simulation
 cd "$POB_SRC"
-result=$(luajit "$RUNNER" "$mode" "$@" 2>/dev/null) || {
-  # If luajit failed, check if result contains JSON error
-  if [[ -n "$result" ]] && printf '%s' "$result" | jq empty 2>/dev/null; then
-    printf '%s\n' "$result"
-    echo "ERROR: simulation failed" >&2
+
+if [[ "$mode" == "batch" ]]; then
+  # Batch mode: pass through to pob-runner with xml --batch
+  result=$(luajit "$RUNNER" xml --batch "$@" 2>/dev/null) || {
+    echo "ERROR: batch luajit failed" >&2
+    exit 1
+  }
+  # Validate: at least one line of output
+  line_count=$(printf '%s' "$result" | wc -l | tr -d ' ')
+  if [[ "$line_count" -eq 0 ]]; then
+    echo "ERROR: no output from batch simulation" >&2
     exit 1
   fi
-  echo "ERROR: luajit exited with non-zero status" >&2
-  exit 1
-}
-
-# Validate output is valid JSON
-if ! printf '%s' "$result" | jq empty 2>/dev/null; then
-  echo "ERROR: Invalid JSON output from pob-runner" >&2
-  exit 1
-fi
-
-# Check for error in JSON result
-if printf '%s' "$result" | jq -e '.error' >/dev/null 2>&1; then
-  echo "ERROR: $(printf '%s' "$result" | jq -r '.error')" >&2
+  echo "OK: batch simulation complete ($line_count results)" >&2
   printf '%s\n' "$result"
-  exit 1
-fi
+else
+  # Single simulation mode (xml or json)
+  result=$(luajit "$RUNNER" "$mode" "$@" 2>/dev/null) || {
+    # If luajit failed, check if result contains JSON error
+    if [[ -n "$result" ]] && printf '%s' "$result" | jq empty 2>/dev/null; then
+      printf '%s\n' "$result"
+      echo "ERROR: simulation failed" >&2
+      exit 1
+    fi
+    echo "ERROR: luajit exited with non-zero status" >&2
+    exit 1
+  }
 
-echo "OK: simulation complete" >&2
-printf '%s\n' "$result"
+  # Validate output is valid JSON
+  if ! printf '%s' "$result" | jq empty 2>/dev/null; then
+    echo "ERROR: Invalid JSON output from pob-runner" >&2
+    exit 1
+  fi
+
+  # Check for error in JSON result
+  if printf '%s' "$result" | jq -e '.error' >/dev/null 2>&1; then
+    echo "ERROR: $(printf '%s' "$result" | jq -r '.error')" >&2
+    printf '%s\n' "$result"
+    exit 1
+  fi
+
+  echo "OK: simulation complete" >&2
+  printf '%s\n' "$result"
+fi

@@ -1,4 +1,4 @@
-<!-- @generated gameVersion=3.27 pobCommit=fb6cd055 pobVersion=v2.60.0 -->
+<!-- @generated gameVersion=3.28 pobCommit=3acd9100 pobVersion=v2.60.0 -->
 # Base Items — `src/Data/Bases/`
 
 **Files (22)**: amulet, axe, belt, body, boots, bow, claw, dagger, fishing, flask, gloves, graft, helmet, jewel, mace, quiver, ring, shield, staff, sword, tincture, wand

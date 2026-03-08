@@ -20,8 +20,8 @@ echo "$html" | perl -e '
 use strict;
 my $input = do { local $/; <STDIN> };
 my @rows;
-while ($input =~ /<tr><td>([\d.]+)<\/td><td><a[^>]*>([^<]+)<\/a>[^<]*<\/td><td>(\d+)<\/td><td>([\d-]+)<\/td>/g) {
-  my ($ver, $name, $weeks, $start) = ($1, $2, $3, $4);
+while ($input =~ /<tr><td>([\d.]+)<\/td><td><a[^>]*>([^<]+)<\/a>[^<]*<\/td><td>(\d*)<\/td><td>([\d-]+)<\/td>/g) {
+  my ($ver, $name, $weeks, $start) = ($1, $2, $3 eq "" ? 0 : $3, $4);
   push @rows, "  {\"version\": \"$ver\", \"league\": \"$name\", \"weeks\": $weeks, \"startDate\": \"$start\"}";
 }
 print "[\n" . join(",\n", @rows) . "\n]\n";

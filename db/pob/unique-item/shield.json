@@ -1192,7 +1192,6 @@
     "league": "Harvest",
     "req": null,
     "sockets": null,
-    "source": "Upgraded from unique{The Unshattered Will} via currency{Specularity Scroll}",
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "Grants Summon Greater Harbinger of Focus Skill",
@@ -1306,7 +1305,7 @@
     "league": "Harbinger",
     "req": null,
     "sockets": null,
-    "source": "Created from item parts obtained from Boss in The Beachhead",
+    "source": "No longer obtainable",
     "implicit": ["+12% to all Elemental Resistances"],
     "mods": [
       "Grants Summon Harbinger of Focus Skill",

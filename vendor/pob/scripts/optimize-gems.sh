@@ -49,7 +49,7 @@ baseline_json=$(bash "$RUN_SIM" xml --skill "$skill_name" < "$build_xml" 2>/dev/
   exit 1
 }
 
-baseline_dps=$(printf '%s' "$baseline_json" | jq -r '.CombinedDPS // .combinedDPS // 0')
+baseline_dps=$(printf '%s' "$baseline_json" | jq -r '.offence.combinedDPS // .offence.CombinedDPS // .CombinedDPS // .combinedDPS // 0')
 echo "BASELINE: DPS=$baseline_dps" >&2
 
 # ---------------------------------------------------------------------------
@@ -73,11 +73,11 @@ fi
 group_idx=$(printf '%s' "$group_info" | jq -r '.group')
 echo "GROUP: $group_idx" >&2
 
-# Extract current support gems (nameSpec containing "Support")
+# Extract current support gems (skillId starting with "Support")
 current_supports=$(printf '%s' "$group_info" | jq -c '[
   .gems[] |
   select(.nameSpec != "'"$skill_name"'") |
-  select(.nameSpec | test("Support"; "i")) |
+  select(.skillId | test("^Support"; "i")) |
   .nameSpec
 ]')
 
@@ -140,8 +140,12 @@ fi
 # ---------------------------------------------------------------------------
 results_file="${tmp_prefix}_results.json"
 printf '[]' > "$results_file"
+batch_input="${tmp_prefix}_batch.txt"
+: > "$batch_input"
 
-tested=0
+# Phase A: prepare all gem swap XMLs and metadata
+declare -a b_old_gems b_new_gems
+batch_count=0
 skipped=0
 
 for s_idx in $(seq 0 $((support_count - 1))); do
@@ -156,21 +160,50 @@ for s_idx in $(seq 0 $((support_count - 1))); do
         --input "$build_xml" \
         --group "$group_idx" \
         --old "$old_gem" \
-        --new "$new_gem" > "$tmp_modified" 2>/dev/null; then
+        --new "$new_gem" \
+        --gem-db "$DB_GEMS" > "$tmp_modified" 2>/dev/null; then
       skipped=$((skipped + 1))
       rm -f "$tmp_modified"
       continue
     fi
 
-    # Simulate
-    sim_json=$(bash "$RUN_SIM" xml --skill "$skill_name" < "$tmp_modified" 2>/dev/null) || {
-      skipped=$((skipped + 1))
-      rm -f "$tmp_modified"
-      continue
-    }
+    # Append to batch input
+    cat "$tmp_modified" >> "$batch_input"
+    printf '\n__POB_BATCH_SEP__\n' >> "$batch_input"
     rm -f "$tmp_modified"
 
-    c_dps=$(printf '%s' "$sim_json" | jq -r '.CombinedDPS // .combinedDPS // 0')
+    b_old_gems[$batch_count]="$old_gem"
+    b_new_gems[$batch_count]="$new_gem"
+    batch_count=$((batch_count + 1))
+  done
+done
+
+echo "BATCH: $batch_count swap XMLs prepared (skipped: $skipped)" >&2
+
+# Phase B: batch simulate all at once
+tested=0
+if [[ "$batch_count" -gt 0 ]]; then
+  batch_output=$(bash "$RUN_SIM" batch --skill "$skill_name" < "$batch_input" 2>/dev/null) || {
+    echo "ERROR: batch simulation failed" >&2
+    exit 1
+  }
+
+  # Phase C: process NDJSON results
+  line_idx=0
+  while IFS= read -r sim_json; do
+    [[ -z "$sim_json" ]] && continue
+
+    old_gem="${b_old_gems[$line_idx]}"
+    new_gem="${b_new_gems[$line_idx]}"
+    line_idx=$((line_idx + 1))
+
+    # Skip error results
+    if printf '%s' "$sim_json" | jq -e '.error' >/dev/null 2>&1; then
+      echo "  SKIP: error for $old_gem -> $new_gem" >&2
+      continue
+    fi
+
+    c_dps=$(printf '%s' "$sim_json" | jq -r '.offence.combinedDPS // .offence.CombinedDPS // .CombinedDPS // .combinedDPS // 0')
     delta_dps=$(awk "BEGIN {printf \"%.1f\", $c_dps - $baseline_dps}")
 
     # Price lookup
@@ -196,8 +229,8 @@ for s_idx in $(seq 0 $((support_count - 1))); do
     tested=$((tested + 1))
 
     echo "  [$tested] $old_gem -> $new_gem: ΔDPS=$delta_dps" >&2
-  done
-done
+  done <<< "$batch_output"
+fi
 
 echo "TESTED: $tested, SKIPPED: $skipped" >&2
 

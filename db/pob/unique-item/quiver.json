@@ -400,7 +400,7 @@
     "league": "Harbinger",
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
-    "source": "Created from item parts obtained from Boss in The Beachhead",
+    "source": "No longer obtainable",
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "Grants Summon Harbinger of Directions Skill",
@@ -435,10 +435,9 @@
     "baseType": "Blunt Arrow Quiver",
     "type": "Quiver",
     "levelReq": 60,
-    "league": "Harvest",
+    "league": null,
     "req": { "str": 0, "dex": 0, "int": 0 },
     "sockets": null,
-    "source": "Upgraded from unique{The Fracturing Spinner} via currency{Fragmentation Scroll}",
     "implicit": ["(7-9) to (13-16) Added Physical Damage with Bow Attacks"],
     "mods": [
       "Grants Summon Greater Harbinger of Directions Skill",
