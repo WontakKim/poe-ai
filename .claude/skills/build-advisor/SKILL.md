@@ -37,6 +37,9 @@ Examples:
 7. **Simulation result fabrication forbidden.** Only quote PoB output. Never estimate or combine numbers.
 8. **Silent fallback when simulation unavailable.** Switch to DB-only mode without error messages.
 9. **Item recommendations require simulation.** Do not claim "this item improves DPS" without PoB data.
+10. **No gem mechanic speculation.** Never claim a gem does or doesn't work for a build type without simulation evidence. If unsure whether a gem contributes DPS, run two sims (with/without) and compare. Do NOT speculate about "more multiplier", "hit vs DoT", etc.
+11. **Ladder comparison required.** When analyzing a specific character (import/build code), ALWAYS fetch filtered builds from poe.ninja for the same class+skill to compare equipment and gem choices. Flag deviations from meta.
+12. **Rare items: guide mods, not prices.** Rare items have variable mods — never show prices for rare recommendations. Instead provide recommended base item type + key mod priorities based on ladder meta and what stats the build scales.
 
 ## Data Sources (read-only)
 
@@ -122,6 +125,34 @@ Based on the question type, read only the relevant DB files. Skip this phase ent
 **Gem price query:**
 - Read `db/ninja/{league}/skill-gem/skill-gem.json` for gem prices
 
+### Phase 2.3: Ladder Comparison (when character/build code is provided)
+
+When analyzing a specific character with identifiable class+skill, fetch filtered builds from poe.ninja to compare with ladder meta. This phase runs in parallel with other Phase 2 retrieval.
+
+1. **Resolve API version:**
+   - Read `snapshotVersion` from `db/ninja/{league}/builds/builds.json`
+
+2. **Fetch filtered builds:**
+   ```bash
+   curl -sL "https://poe.ninja/poe1/api/builds/{version}/search?overview={league_lower}&type=exp&class={Ascendancy}&skill={Skill-Name}" \
+     -o /tmp/ninja_filtered_search.pb
+   python3 vendor/ninja/scripts/decode-builds-proto.py search < /tmp/ninja_filtered_search.pb > /tmp/ninja_filtered_search.json
+   ```
+
+3. **Decode dictionaries (item + gem):**
+   - Extract dictionary hashes from search.json
+   - Fetch and decode `item` and `gem` dictionaries using `decode-builds-proto.py dictionary`
+
+4. **Join dimensions with dictionaries:**
+   - Item distribution: dimension with `dictionaryId == "item"` → sorted by count
+   - Gem distribution: dimension with `id == "allgems"`, `dictionaryId == "gem"` → sorted by count
+
+5. **Compare with user's build:**
+   - **Dead gem detection:** Flag user's gems that appear in <5% of ladder builds for this archetype
+   - **Missing essential gems:** Flag gems with >50% ladder usage that the user doesn't have
+   - **Item meta deviation:** Compare each slot's item type (unique vs rare, specific unique name) against ladder %
+   - Output a structured comparison for Phase 3 response
+
 ### Phase 2.5: Simulation (optional, when PoB input detected)
 
 Only executed when build code, character, or poe.ninja URL is provided.
@@ -135,7 +166,12 @@ Only executed when build code, character, or poe.ninja URL is provided.
    - Merge simulation results (offence/defence/resistances) into response context
    - If --skill target detected: note the target for Phase 2.7
 
-3. **Failure Handling:**
+3. **Gem Contribution Verification (when dead gems flagged in Phase 2.3):**
+   - For each flagged dead gem: run sim without it (disable or replace with a known-good gem)
+   - Compare DPS to confirm whether the gem actually contributes 0 DPS
+   - Only report "dead gem" if simulation confirms ΔDPS ≈ 0
+
+4. **Failure Handling:**
    - Simulation fails → "DB 기반으로 답변합니다" one-line notice + continue with DB-only
 
 ### Phase 2.7: Optimization (when damage/defense improvement requested)
@@ -153,9 +189,14 @@ Requires successful simulation from Phase 2.5.
    - Item optimization: Agent(pob-optimize, operation=items, build_xml, slot, league, [--skill])
    - Gem optimization: Agent(pob-optimize, operation=gems, build_xml, skill_name, league)
 
-3. **Result Collection:**
-   - Each slot: top 3 upgrades with ΔDPS + price
-   - Gem: top 3 replacements with ΔDPS + price
+3. **Result Collection — Unique vs Rare separation:**
+   - **Unique items:** show ΔDPS + price from ninja DB
+   - **Rare items:** DO NOT show prices. Instead, use Phase 2.3 ladder data to determine:
+     - What base item type is most popular for the slot (e.g., "Rare One Handed Mace 71.5%")
+     - Recommended base types with useful implicits (e.g., Void Sceptre: % Elemental Damage)
+     - Key mod priorities based on what the build scales (derived from gem tags and skill mechanics)
+   - For slots where >70% of ladder uses rare items, the rare mod guide is the PRIMARY recommendation
+   - Flag unique items that sacrifice survivability for DPS (e.g., losing max fire res from Rise of the Phoenix)
 
 ### Phase 3: Response
 
@@ -228,10 +269,27 @@ Adapt this template based on the question. Include only relevant sections.
 | Resistances | Fire/Cold/Light/Chaos | {n}%/{n}%/{n}%/{n}% |
 | Resources | Life Regen | {n}/s |
 
-### Item Upgrade Recommendations (PoB {skill} DPS basis)
-| Slot | Current | Recommended | Δ DPS | Price | Efficiency |
-|------|---------|-------------|-------|-------|------------|
-| Weapon | Rare Sceptre | The Searing Touch | +120,000 (+24%) | 21c | 5714/c |
+### Ladder Comparison (Class+Skill filtered, {N} builds)
+
+#### Gem Setup vs Meta
+| Gem | Ladder Usage | Status | Note |
+|-----|-------------|--------|------|
+| {gem} | {share}% | ✓ / ⚠ DEAD / ❌ MISSING | {sim-verified note} |
+
+#### Item Setup vs Meta
+| Slot | Ladder 1st (Usage) | Current | Status |
+|------|-------------------|---------|--------|
+| {slot} | {item} ({share}%) | {current} | ✓ / deviation |
+
+### Unique Item Upgrades (PoB {skill} DPS basis)
+| Slot | Current | Recommended | Δ DPS | Price |
+|------|---------|-------------|-------|-------|
+| Weapon | Rare Sceptre | The Searing Touch | +120,000 (+24%) | 21c |
+
+### Rare Item Mod Guide (for rare-dominant slots)
+| Slot | Recommended Base | Key Mods (priority order) |
+|------|-----------------|--------------------------|
+| {slot} | {base} ({implicit}) | 1. {mod} 2. {mod} 3. {mod} |
 
 ### Support Gem Upgrades
 | Replace | With | Δ DPS | Price |

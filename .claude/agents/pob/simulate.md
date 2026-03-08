@@ -45,14 +45,23 @@ bash vendor/pob/scripts/import-character.sh "$account" "$character" | bash vendo
 
 **Mode: `xml`** (direct XML simulation)
 
+IMPORTANT: XML mode reads from **stdin** (pipe), NOT a file path argument.
+
 ```bash
+# Correct: pipe XML via stdin
+cat "$xml_file" | bash vendor/pob/scripts/run-pob-sim.sh xml
+
+# Also correct: echo inline XML
 echo "$xml" | bash vendor/pob/scripts/run-pob-sim.sh xml
+
+# WRONG: passing file path as argument (produces "Empty XML input" error)
+# bash vendor/pob/scripts/run-pob-sim.sh xml /path/to/build.xml  ← DO NOT DO THIS
 ```
 
 **Mode: `xml` with `--skill`** (simulate specific skill)
 
 ```bash
-echo "$xml" | bash vendor/pob/scripts/run-pob-sim.sh xml --skill "$skill_name"
+cat "$xml_file" | bash vendor/pob/scripts/run-pob-sim.sh xml --skill "$skill_name"
 ```
 
 If exit code is non-zero, return error result immediately.
