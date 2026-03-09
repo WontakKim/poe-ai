@@ -288,6 +288,11 @@ elseif mode == "json" then
 		exitWithError("Failed to load build JSON: " .. tostring(err))
 	end
 
+	-- Trigger build recalculation after JSON import
+	-- loadBuildFromJSON imports items/passives AFTER the initial OnFrame,
+	-- so we must run OnFrame again to compute stats from the imported data
+	runCallback("OnFrame")
+
 	autoSelectMainSkill()
 
 	local result = extractOutput()

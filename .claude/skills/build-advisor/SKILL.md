@@ -61,42 +61,50 @@ Examples:
 
 ## Workflow
 
-### Phase 1: Context Loading
+### Phase 1: Context Loading + Early Kickoff
 
-1. **Check builds.md exists:**
-   - Glob for `vendor/ninja/references/builds.md`
-   - If missing: tell user "Builds reference not found. Please run `/sync-ninja-rag` first." and **STOP**
+**Parallelization rule:** When PoB input (character/build code) is detected, start the import/simulation as early as possible. Do NOT wait for all context to load first.
 
-2. **Read builds.md** as primary context.
+1. **First parallel batch** — run ALL of these simultaneously:
+   - Glob for `vendor/ninja/references/builds.md` (existence check)
+   - Glob `db/ninja/*/builds/source.json` (league discovery)
+   - PoB availability check: `test -f vendor/pob/lua_modules/lib/lua/5.1/lua-utf8.so && which luajit`
 
-3. **League discovery:**
-   - Glob `db/ninja/*/builds/source.json`
-   - Read each match and pick the one with the most recent `fetchedAt`
-   - Extract the league name from the directory path (e.g., `db/ninja/Keepers/builds/source.json` -> league is `Keepers`)
-   - Store the league name for Phase 2 path resolution
+2. **If builds.md missing → STOP** with "Builds reference not found. Please run `/sync-ninja-rag` first."
 
-4. **Data staleness check:**
-   - From the source.json selected above, parse `fetchedAt`
-   - If more than 14 days old: warn the user "Note: this data is from {fetchedAt}, which is {N} days ago. Run `/sync-ninja-rag` to refresh."
-   - Continue with the available data regardless
-
-5. **Analyze the user question** and extract keywords (class, skill, item, budget range) to determine what Phase 2 retrieval is needed.
-
-6. **PoB Input Detection:**
+3. **Detect PoB input from user question** (before reading builds.md):
    - poe.ninja URL pattern (`poe.ninja/poe1/builds/.../character/...`) → character import mode
    - Build code pattern (`eNrt...` base64 string) → simulation mode
    - `account/character` pattern → character import mode
-   - None of the above → DB-only mode (existing behavior)
+   - None of the above → DB-only mode
 
-7. **Skill Target Detection:**
+4. **Second parallel batch** — run ALL of these simultaneously:
+   - Read `builds.md`
+   - Read source.json files (for league discovery + staleness check)
+   - **If character import mode:** `bash vendor/pob/scripts/import-character.sh "<account>" "<character>"` (takes ~4s, runs in parallel with reads)
+   - **If build code mode:** decode + simulate via Bash
+
+5. **League discovery:**
+   - From source.json reads, pick the one with most recent `fetchedAt`
+   - Extract league name from path (e.g., `db/ninja/Keepers/builds/source.json` → `Keepers`)
+
+6. **Data staleness check:**
+   - If `fetchedAt` > 14 days old: warn user, continue with available data
+
+7. **Main Skill Detection (for imported characters):**
+   - Parse the exported XML from simulation result to find the `mainSocketGroup` index
+   - Identify the active (non-support) gem in that socket group → this is the build's main skill
+   - Cross-reference with builds.md Main Skills section to find the matching ladder archetype
+   - **Do NOT assume from item setup or secondary skills** — always use the PoB-selected main skill
+   - If the main skill is a DoT/aura (e.g., Righteous Fire), the build archetype is that skill, even if other active skills (Fire Trap) are also present
+   - For ladder comparison (Phase 2.3), use this detected main skill as the `skill` filter
+
+8. **Analyze the user question** and extract keywords (class, skill, item, budget range)
+
+9. **Skill Target Detection (for optimization):**
    - "Fire Trap damage" → target_skill = "Fire Trap"
    - "improve DPS" → target_skill = null (overall CombinedDPS)
    - Match skill names against builds.md Main Skills section
-
-8. **PoB Availability Check:**
-   - `vendor/pob/lua_modules/lib/lua/5.1/lua-utf8.so` exists?
-   - `luajit` command available?
-   - If unavailable → DB-only mode (silent fallback, no error)
 
 ### Phase 2: Targeted Retrieval
 
@@ -140,30 +148,41 @@ When analyzing a specific character with identifiable class+skill, fetch filtere
    ```
 
 3. **Decode dictionaries (item + gem):**
-   - Extract dictionary hashes from search.json
-   - Fetch and decode `item` and `gem` dictionaries using `decode-builds-proto.py dictionary`
+   - Filtered search uses **its own re-indexed dictionaries**, NOT the global builds.json dictionaries (indices differ!)
+   - Extract dictionary hashes from search.json: `jq '.dictionaries[] | select(.id == "item") | .hash'`
+   - Fetch dictionaries (NOTE: URL has NO version segment):
+     ```bash
+     curl -sL "https://poe.ninja/poe1/api/builds/dictionary/{hash}?overview={league_lower}" -o dict.pb
+     python3 vendor/ninja/scripts/decode-builds-proto.py dictionary < dict.pb > dict.json
+     ```
+   - Dictionary structure: `{"id": "item", "values": ["Name1", "Name2", ...]}` — index = dimension number
+   - Filtered search dimensions use the **`counts`** field (not `entries`): `{number, count}` pairs
+   - Item distribution: `jq '.dimensions[] | select(.id == "items") | .counts'` → join `.number` with `dict.values[number]`
+   - Gem distribution: `jq '.dimensions[] | select(.id == "allgems") | .counts'` → join with gem `dict.values[number]`
 
-4. **Join dimensions with dictionaries:**
-   - Item distribution: dimension with `dictionaryId == "item"` → sorted by count
-   - Gem distribution: dimension with `id == "allgems"`, `dictionaryId == "gem"` → sorted by count
-
-5. **Compare with user's build:**
+4. **Compare with user's build:**
    - **Dead gem detection:** Flag user's gems that appear in <5% of ladder builds for this archetype
    - **Missing essential gems:** Flag gems with >50% ladder usage that the user doesn't have
    - **Item meta deviation:** Compare each slot's item type (unique vs rare, specific unique name) against ladder %
    - Output a structured comparison for Phase 3 response
 
-### Phase 2.5: Simulation (optional, when PoB input detected)
+5. **Look up prices for recommended items:**
+   - When ladder comparison identifies missing meta items, also fetch their prices from `db/ninja/{league}/unique-*/*.json`
+   - Include these prices in the recommendation section (not just character's current items)
 
-Only executed when build code, character, or poe.ninja URL is provided.
+### Phase 2.5: Simulation Results (when PoB input detected)
 
-1. **Simulation:**
-   - Build code → Agent(pob-simulate, mode=code, data=code)
-   - Character → Agent(pob-simulate, mode=character, data=account+character)
-   - poe.ninja URL → Agent(pob-simulate, mode=character, data=parsed_account+character)
+Simulation is already running from Phase 1 step 4. Collect the results here.
+
+**IMPORTANT:** Always use Bash directly for simulation scripts. NEVER use Agent for import-character.sh or run-pob-sim.sh — they complete in ~4 seconds and Agent adds unnecessary overhead.
+
+1. **Collect simulation result** from the Bash call started in Phase 1:
+   - `import-character.sh` outputs JSON with `character`, `simulation`, and `build_code` fields
+   - Parse the simulation object for offence/defence/resistances
+   - Save `build_code` for Phase 2.7 optimization
 
 2. **Result Integration:**
-   - Merge simulation results (offence/defence/resistances) into response context
+   - Merge simulation results into response context
    - If --skill target detected: note the target for Phase 2.7
 
 3. **Gem Contribution Verification (when dead gems flagged in Phase 2.3):**
